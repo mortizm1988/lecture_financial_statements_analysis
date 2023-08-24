@@ -284,7 +284,8 @@ Some examples:
    -  the severance cost will reduce future operating expenses and increase future operating income... as any other capital investment:exclamation:
   
 ---
-<!-- todo  bring some examples of disclosures-->  
+Let's see the disclosure of Colgate-Palmolive Company (CL) in 2022:
+ Search for "Critical Accounting Policies and Use of Estimates" in the 10-K report.
 
 ---
 # 3. Deferred charges
