@@ -40,6 +40,7 @@ Marcelo Ortiz
 A. :moneybag: Financing liabilities: all forms of credit financing, such as bank loans, bonds, and leases.
 
 B. :page_with_curl: Operating liabilities: obligations that arise from normal business operations, such as accounts payable, accrued expenses, and taxes payable.
+
 For reporting purposes, liabilities are classified as current or noncurrent, based on whether the obligation is expected to be satisfied within one year or the operating cycle, whichever is longer.
 
 ---
@@ -60,9 +61,16 @@ For reporting purposes, liabilities are classified as current or noncurrent, bas
 ### Reporting
  - Interest rates, maturity dates, conversion privileges, call provisions, and other relevant information about noncurrent liabilities are disclosed in the notes to the financial statements.
 ---
-Example: [Colgate 2022](https://investor.colgatepalmolive.com/financial-information/annual-reports)
+:mag_right:  Example Apple 2022
 
-:mag_right: Search for "Description of Notes"; "Sustainability Bond"
+Search for "DESCRIPTION OF DEBT SECURITIES" and check:
+- type of instrument
+- maturities
+- interest rates
+- ranking/seniority
+- redemption
+- covenants 
+
 
 ---
 ## Credit Ratings
@@ -153,14 +161,33 @@ Total expense is identical for both cases, but the timing is different: capital 
 ## 2.5 Reporting
 -  Capital lease: the lessee recognizes an asset and a liability at the present value of the MLP.
 -  Furthermore, lessees have to report leased assets and lease liability for all leases (operating and capital) with a term of more than 12 months.
+-  We can find the information in two places:
+   -  "Significant/Selected Accounting Policies"->"Leases"
+   -  "Notes to the Financial Statements"->"Leases"
 
 ---
-:mag_right: Example: [Colgate-Palmolive 2022](https://investor.colgatepalmolive.com/financial-information/annual-reports). 
+:mag_right: Example: Colgate-Palmolive 2022 
 
 > ### 15.    Leases.
 > Substantially all of the Company’s leases are considered operating leases. Finance leases were not material as of December 31, 2022, and 2021.
 
-![](Slides/../topic_2_img/colgate_lease.png)
+![center](Slides/../topic_2_img/colgate_lease.png)
+
+---
+:mag_right: Example: Grifols 2022
+
+ ![bg right:50%](topic_2/../topic_2_img/grifols_lease.png)
+
+---
+:mag_right: Example: Inditex 2022
+
+ ![](topic_2/../topic_2_img/inditex_lease_1.png)
+
+
+---
+:mag_right: Example: Inditex 2022
+
+ ![](topic_2/../topic_2_img/inditex_lease_2.png)
 
 ---
 ## 2.6 Impact of Operating Leases on Financial Statements
@@ -211,10 +238,10 @@ Conclusion: No red flags.
 
 
 ---
-# 3. Contingent liabilities and commitments
+# 3. Commitments and contingent liabilities
 
 ---
-# 3. Contingent liabilities and commitments
+# 3. Commitments and contingent liabilities
 ## 3.1 Contingent liabilities
 
 A contingent loss is a potential loss that depends on some future event.
@@ -225,9 +252,10 @@ Conditions for recognizing a contingent loss:
    1. It is _probable_ that an asset will be impaired or a liability incurred (i.e., it is likely that an event will confirm the loss).
    2. A _reasonable estimate_ of the loss can be made.
 
-If one or both conditions are not met, then the company must disclose the contingency in the Notes when there is at least a _reasonable possibility_ that a loss will occur.
+
 
 ---
+If one or both conditions are not met, then the company must disclose the contingency in the Notes when there is at least a _reasonable possibility_ that a loss will occur.
 
 Reported contingent liabilities are based on the company's estimates.
  -  Prior experience or future expectations.
@@ -260,6 +288,11 @@ Frequent commitments:
 - Purchase commitments
 - Debt covenant restrictions
 - Licensing agreements
+
+---
+:mag_right: Example: Grifols 2022
+
+ ![](topic_2/../topic_2_img/grifols_commits.png)
 
 ---
 # 4. Off-balance-sheet financing
@@ -324,11 +357,15 @@ Why SPEs are so popular :question:
    - if structured properly, the SPE is not consolidated in the sponsoring company's financial statements.
 
 ---
-:mag_right:  Example: [Colgate-Palmolive 2022](https://investor.colgatepalmolive.com/financial-information/annual-reports).
+:mag_right:  Example: Colgate-Palmolive 2022
 
 > ### Off-Balance Sheet Arrangements
 > The Company does not have off-balance sheet financing or unconsolidated special purpose entities.
+---
+:mag_right:  Example: Inditex
 
+> ### Analysis of contractual obligations and off balance sheet transactions
+> The section "Information on the outlook for the Group" outlines the projected execution of investments, mainly in stores, for the next financial year. However, at year-end there were no firm investment commitments of a material amount.
 ---
 # 5. Equity financing
 
@@ -342,29 +379,16 @@ Typically, holders of equity securities are subordinate to creditors in the even
 
 ---
 
-:mag_right:  Example: [Colgate-Palmolive 2022](https://investor.colgatepalmolive.com/financial-information/annual-reports).
-
+:mag_right:  Example: Colgate-Palmolive 2022
 
 ![](Slides/../topic_2_img/colgate_equity.png) 
 
 ---
 ## 5.1 Capital stock
 The capital stock is also known as "share capital," "equity capital," or "paid-up capital."
+
 The capital stock is the total amount of equity capital that a company raises by issuing and selling its shares of common and preferred stock to investors
 
-Our focus: can we foresee capital stock dilution :question:
-
-Common variations in the capital stock:
--  issuance of new stocks
--  repurchase of stocks
--  conversion of debentures and preferred stocks
--  stock buybacks
--  reverse stock splits
-  
----
-Less common reasons to keep in mind:
--  Stock options with compensation and bonus plans calling for the issuance of capital stock over some time at fixed prices (i.e., employee stock ownership plan)
--  Commitments to issue capital stock in the future (i.e., stock warrants, or merger agreements) 
 ---
 ### Components of capital stock
 1. Contributed capital
@@ -385,14 +409,42 @@ Less common reasons to keep in mind:
    - voting rights
    - bear the residual risk and rewards of the company
 ---
-:mag_right: Example: [Colgate-Palmolive 2022](https://investor.colgatepalmolive.com/financial-information/annual-reports).
-> ### Description of Common Stock:
-> - Authorized Capital Stock:  250,000 shares of Preferred Stock without par value (“Preferred Stock”), 12,150 shares of $3.00 Convertible Second Preferred Stock without par value (“$3.00 Convertible Second Preferred Stock”), [...] and 2,000,000,000 shares of Common Stock.[...]
-> - Voting Rights: The holders of Common Stock are entitled to one vote per share on all matters voted on by the stockholders, including the election of directors. [...]
-> - Dividend Rights: [...]
-> - Board of Directors: [...]
->- Liquidation Rights: []
+:mag_right: Example: Apple 2022
 
+![](Slides/../topic_2_img/apple_equity.png)
+
+---
+:mag_right: Example: Inditex 2022
+
+![](Slides/../topic_2_img/inditex_equity.png)
+
+
+---
+:mag_right: Example: Grifols 2022
+
+![](topic_2_img/grifols_equity.png)
+
+---
+
+Our focus: can we foresee capital stock dilution :question:
+
+Common variations in the capital stock:
+-  issuance of new stocks
+-  repurchase of stocks
+-  conversion of debentures and preferred stocks
+-  stock buybacks
+-  reverse stock splits
+  
+---
+Less common reasons to keep in mind:
+-  Stock options with compensation and bonus plans calling for the issuance of capital stock over some time at fixed prices (i.e., employee stock ownership plan)
+-  Commitments to issue capital stock in the future (i.e., stock warrants, or merger agreements) 
+  
+---
+![](topic_2_img/reuters_buybacks.png)
+> - S&P 500 companies are expected to have completed $220 billion in buybacks during the fourth quarter of 2022, according to S&P Dow Jones Indices. [...]
+
+> - 2023 should be the first fiscal year with at least $1 trillion in completed S&P 500 company buybacks, according to Howard Silverblatt, senior index analyst at S&P Dow Jones Indices.
 
 ---
 ## 5.2 Retained earnings
@@ -403,8 +455,15 @@ Covenants can create restrictions on the use of retained earnings.
   - Bond indentures and Loan agreements
 
 ---
+# Based on:
+- Subramanyam, K. R. (2014). Financial statement analysis. McGraw-Hill Education. Chapter 3.
+- IFRS 16 Leases
+- IAS  37 Provisions (IFRS) Contingent Liabilities and Contingent Assets
+- IFRS 11 Joint Arrangements
+
+---
 # Questions :question:
-Check my website for updated versions of this presentation:
+Check my website for an updated version of this presentation:
 
 :point_right: [https://www.marceloortizm.com/](https://www.marceloortizm.com)
 # Thanks :clap:
