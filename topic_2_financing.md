@@ -9,8 +9,7 @@ _header: ""
 date: 2023-07-11
 math: mathjax
 theme: default
-class:
-  - invert
+
 
 ---
 
