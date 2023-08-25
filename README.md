@@ -1,4 +1,4 @@
-# Managerial and Financial Accounting
+# Financial and Managerial Accounting
 ## Course Description
 This course introduces the main concepts related to managerial and financial accounting. This will allow students to identify the impacts of accounting and other corporate decisions on firm's financial statements.
 
