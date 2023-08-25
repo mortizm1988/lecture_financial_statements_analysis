@@ -107,15 +107,28 @@ Components of comprehensive income:
 3. foreign currency translation gains and losses
 4. changes in the funded status of postretirement benefits not included in net income
 5. (IFRS) revaluations of operating assets to their fair values
----
 
-<!-- todo  bring some examples of disclosures-->   
+---
+ :mag_right:  Example Apple 2022
+ 
+ ![](topic_4_img/apple_is.png)
+
+---
+ :mag_right:  Example Apple 2022
+ 
+ ![](topic_4_img/apple_oci.png)
 
 ---
 ### Accounting of comprehensive income:
 - Included in shareholders' equity (balance sheet)
 - Not in retained earnings :exclamation:
   - reported in a separate component of shareholders’ equity called *accumulated other comprehensive income (AOCI)*
+
+---
+:mag_right: Example: Apple 2022
+![](topic_4_img/apple_equity.png)
+
+---
 - when the unrealized gain or loss is realized, it is reclassified from AOCI to net income
   - i.e., when the investment security is sold, two things are accounted:
   - 1. the unrealized gain or loss is reclassified from AOCI to net income
@@ -124,14 +137,13 @@ Components of comprehensive income:
 ---
 ### Analysis of accounting income:
 So, what is the correct way to analyze income:question:
+
 A huge debate about what lines should be included (excluded) when measureing income.
 - firm valuation? Some analysts prefer to use income from continuing operations because of its (pseudo) recurring nature. Others prefer net income plus some adjustments.
 - measure of net change in equity (or economic income)? Comprehensive income.
 
 Important: all these measures are subjects to accounting distortions and errors
 
----
-add images from vw and tesla
 
 ---
 
@@ -146,6 +158,7 @@ Extraordinary items are events and transactions that are both unusual in nature 
 - unusual in nature: high degree of abnormality and unrelated to the ordinary and typical activities of the company
 - infrequent ocurrence: not reasonably expected to recur in the foreseeable future
 Extraordinary items are reported net of tax after continuing income.
+
 ---
 ### Analysis of extraoriary items:
 - Extraordinary items are not expected to recur, so they are not relevant to the valuation of the company
@@ -180,8 +193,8 @@ Discontinued operations are separately reported on the income statement and the 
 - The adjustment is straightforward
   -  for the current and past two years because companies are required to restate their income statements, reporting the income of discontinued operations separately.
   -  Amounts for assets and liabilities are typically provided in footnote disclosures.
----
-<!-- todo  bring some examples of disclosures-->  
+  
+<!-- TODO  bring some examples of disclosures-->  
 
 ---
 # 2. Nonrecurring items
@@ -433,7 +446,10 @@ This topic can take a whole course, so we will just focus just in two core point
 *Level computation*: Deferred taxes are determined separately for each tax-paying component (an individual entity or group of entities consolidated for tax purposes) in each tax jurisdiction.
 
 ---
-<!-- todo  bring some examples of disclosures-->
+:mag_right: Example Apple and Grifols 2022
+
+Check Note 5.
+
 ---
 # 5. Earnings per share
 ---
@@ -483,7 +499,20 @@ $$\text{Basic EPS}= \frac{3,000,000 - 50,000}{1,000,000} = \$2.95$$
 $$ \text{Diluted EPS}= \frac{3,000,000 - 50,000 +[(5,000,000 \times 6\%)(1 - 0.35)]}{1,000,000 + 200,000 + 25,000}= $2.57$$
 
 ---
-<!-- todo  bring some examples of disclosures-->
+:mag_right: Example Apple  2022
+
+Compare with the Forecasts in  [Yahoo Finance](https://finance.yahoo.com/quote/AAPL/analysis?p=AAPL)
+
+---
+# Based on:
+- Subramanyam, K. R. (2014). Financial statement analysis. McGraw-Hill Education. Chapter 6.
+- Fridson, M. S., & Alvarez, F. (2022). Financial statement analysis: a practitioner's guide. John Wiley & Sons. Chapters 6-8.
+- Steven M. Bragg (2022). IFRS Guidebook. Accounting Tools. Chapters 20-23.
+- IFRS 15 Revenue from Contracts with Customers.
+- IFRS 2 Share-based Payment.
+- IFRS 5 Non-current Assets Held for Sale and Discontinued Operations.
+- IAS 12 Income Taxes.
+- IAS 38 Intangible Assets.
 ---
 # Questions :question:
 Check my website for an updated version of this presentation:

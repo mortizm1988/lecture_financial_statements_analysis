@@ -485,3 +485,8 @@ Check my website for an updated version of this presentation:
 
 :point_right: [https://www.marceloortizm.com/](https://www.marceloortizm.com)
 # Thanks :clap:
+
+<!--
+Pending for next year:
+TODO add slides about the reporting environment? Earnings annuncements, voluntary, mandatory, 
+--->

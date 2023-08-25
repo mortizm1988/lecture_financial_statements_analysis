@@ -9,8 +9,6 @@ _header: ""
 date: 2023-07-11
 math: mathjax
 theme: default
-class:
-  - invert
 
 ---
 
@@ -33,17 +31,6 @@ Marcelo Ortiz
 5. Intangible assets and goodwill
 6. Asset revaluations under IFRS
 
----
-:mag_right: Example: [Colgate-Palmolive 2022](https://investor.colgatepalmolive.com/financial-information/annual-reports).
-
-![](Slides/../topic_3_img/colgate_assets.png)
-
----
-
-:mag_right: Notes "2. Summary of Significant Accounting Policies"
-
-
-<img src="topic_3_img/colate_assets_notes.png" width="75%">
 
 ---
 # 1. Cash and cash equivalents
@@ -52,18 +39,18 @@ Marcelo Ortiz
 # 1. Cash and cash equivalents
 Basic definitions:
 - Cash: currency available and money in the bank.
-- Cash equivalents: short-term, highly liquid investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value.
+- Cash equivalents: short-term, highly liquid investments that are readily convertible to known amounts of cash and subject to an insignificant risk of changes in value.
 
 ---
 ## 1.1 Analyzing Cash and Cash Equivalents
-The focus is to determine whether the company has enough cash to meet its obligations and to take advantage of opportunities.
+The focus is determining whether the company has enough cash to meet its obligations and take advantage of opportunities.
 
 Efficient cash management balances multiple uses of cash:
   - Meet current obligations
   - Take advantage of opportunities
   - Invest excess cash
   - Pay dividends
-  - Hedge negative shocks (risk management)
+  - Hedge adverse shocks (risk management)
 
 ---
 How to identify lazy cash management?
@@ -72,7 +59,26 @@ How to identify lazy cash management?
 - Cash does not fluctuate symmetrically (it is never spent)
 
 Caution
-- Covenant restrictions: sometimes cash is restricted because it is used as collateral for debt (ej, Ebay needed to hold $126 million in cash as collateral for debt, out of $400 million in cash)
+- Covenant restrictions: Sometimes cash is restricted because it is used as collateral for debt (ej, Ebay needed to hold $126 million in cash as collateral for debt, out of $400 million in cash)
+  
+---
+:mag_right: Example Apple 2022
+
+![](Slides/../topic_3_img/apple_cash.png)
+
+---
+![](Slides/../topic_3_img/apple_cash2.png)
+
+<!--
+Notice how the 38K of cash is invested in securities. This is a common practice to earn some interest on the cash. However, the cash is still reported as cash in the balance sheet.
+
+Discuss also the distribution of 52K in marketable securities.
+-->
+
+---
+:mag_right: Example Inditex 2022
+
+![](Slides/../topic_3_img/inditex_cash.png)
 
 ---
 ## 1.2 Receivables and collection risk
@@ -86,7 +92,7 @@ Others: interest receivable, taxes receivable, receivables from affiliated compa
 
 ---
 ### Valuation of receivables
-- The valuation of receivables has 2 important inter-related impacts: assets and income
+- The valuation of receivables has two important inter-related impacts: assets and income
 - Companies do not collect 100% of their receivables:exclamation:
 - Thus, Receivables are recorded at their Net Realizable Value (NRV), which is the amount of cash the firm expects to collect
   - NRV: total receivables - allowance for uncollectable accounts
@@ -96,21 +102,29 @@ Others: interest receivable, taxes receivable, receivables from affiliated compa
   
  --- 
 ### Analyzing receivables
-- Is any error or arbitrariness in the estimation of the allowance for uncollectable accounts?
-- managers' incentives to overstate or understate the allowance for uncollectable accounts
-- bad news:  information to assess collection risk for receivables is not included in the financial statements. Thus, we need to look for other sources of information:
-  - peer's receivables as a percentage of sales
-  - customer concentration risk
-  - average collection period
+- Is there any error or arbitrariness in estimating the allowance for uncollectable accounts?
+- Managers' incentives to overstate or understate the allowance for uncollectable accounts
+- Bad news:  information to assess collection risk for receivables is not included in the financial statements. Thus, we need to look for other sources of information:
+  - Peer's receivables as a percentage of sales
+  - Customer concentration risk
+  - Average collection period
 
 ---
+:mag_right: Example Grifols 2022
+
+![](Slides/../topic_3_img/grifols_receivable.png)
+
+<!--
+Notice that most of the receivables are from its business group, not customers. This is a common practice in the pharmaceutical industry.
+-->
+---
 ### Securitization or Factoring of receivables
-- Receivables can be sold to a third party (bank, financial institution, etc) in exchange for cash
+- Receivables can be sold to a third party (bank, financial institution, etc.) in exchange for cash
 - The third party usually pays less than the face value of the receivables and finances the purchase by issuing debt to the capital markets.
 - The collection of those receivables provides the cash flow to pay the debt
-- Should the factored receivables be reported as assets:question:
+- Should the factored receivables be reported as assets :question:
   - Receivables can be kept off the balance sheet if the company surrenders all control over the receivables to an independent buyer.
-  - if the company has any degree of retained interest in the receivables, they should be reported as an asset
+  - If the company has any degree of retained interest in the receivables, they should be reported as an asset
   
 ---
 ### Example: Factoring of receivables
@@ -174,11 +188,11 @@ Case 2: Last-in, first-out (LIFO)
 
 In the balance sheet at the end of the period, the inventory is reported at $38.000 ($56.000-$18.000)
 
-Important: LIFO is not allowed in all countries:exclamation: why :question: mainly because it delays or reduces the payment of taxes Even it is not allowed in IFRS
+Important: LIFO is not allowed in all countries:exclamation: why :question: mainly because it delays or reduces the payment of taxes. Even it is not allowed in IFRS
 
 ---
 Case 3: Average cost
-- The weighted-average cost of all units is used to determine COGS
+- The weighted average cost of all units is used to determine COGS
 
 |Method| Average|
 |---|---|
@@ -193,13 +207,13 @@ Discussion
 - Profitability: FIFO results in higher gross profit than LIFO when input prices are rising
 - Balance sheet: FIFO results in higher inventory than LIFO when input prices are rising
 - Cash flows: liquidity squeeze under FIFO when input prices are rising.
-  - more profit implies more (cash) tax payments
-  - inventory needs to be replaced at replacement cost higher than original costs. This cab be a severe problem in high inflation environments such as Argentina in the 80s and 90s or the US in the 70s.
+  - More profit implies more (cash) tax payments
+  - Inventory needs to be replaced at a replacement cost higher than the original costs. This can be a severe problem in high inflation environments such as Argentina in the 80s and 90s or the US in the 70s.
 ---
 ## 3.2 Lower of cost or market (LCM)
 So far we have focused only on historical cost.
 
-However, the generally accepted principle of inventory valuation requires that inventory be reported at a lower: cost or market value.
+However, the generally accepted principle of inventory valuation requires that inventory be reported at the lower value between the cost and the market value.
 
 The LCM rule is applied when the market value of inventory is lower than its cost. 
 
@@ -212,13 +226,13 @@ Procedure:
 1. Determine the market value of the inventory
 2. Compare the market value with the cost in the Balance Sheet
 3. Write down the inventory to the lower of cost or market value
-4. This write down is charged against revenues in the period the loss ocurrs
+4. This write-down is charged against revenues in the period the loss occurs
 
-Write ups are not allowed under US GAAP and IFRS
+Write-ups are not allowed under US GAAP and IFRS
 
 ---
 ## 3.3 Inventory costing for Manufacturing companies
-- Manufacturing companies have 3 types of inventories:
+- Manufacturing companies have three types of inventories:
   - Raw materials: materials that will be used in the production process
   - Work-in-process: goods that are in the process of being manufactured
   - Finished goods: goods that are ready for sale
@@ -231,15 +245,21 @@ The main components of the cost of inventories are:
   - depreciation of manufacturing equipment, supervisory wages, utilities, etc
 
 ---
-- In a Cost Accounting course, you learn how to allocate overhead costs to the finished product: it is a complex process that requires a lot of assumptions and judgment.    
+- In a Cost Accounting course, you learn how to allocate overhead costs to the finished product: it is a complex process that requires a lot of assumptions and judgment.
 - Important for us: as the production level increases, more overhead cost is allocated to all units produced.  
 - Instead of expensing these costs as period expenses, they are included in the cost of inventories and remain on the balance sheet until the inventory is sold.
-- Takeaway: profitability is overstated when production increases because part of the cost of inventories is not expensed in the period in which it is incurred.
+
+Takeaway: Profitability is overstated when production increases because part of the cost of inventories is not expensed in the period in which it is incurred.
 
 ---
-:mag_right: Notes "17. Supplementary BS Information" in Colgate's 10-K
+:mag_right: Example Colgate 2022
 
 ![](Slides/../topic_3_img/colgate_inventory.png)
+
+---
+:mag_right: Example Grifols 2022
+
+![](Slides/../topic_3_img/grifols_inv.png)
 
 ---
 
@@ -248,12 +268,13 @@ The main components of the cost of inventories are:
 ---
 # 4. Long-term assets and capitalization
 ## 4.1 Capitalization and Allocation 
+
 Capitalization: the cost of an asset is recorded as an asset rather than an expense
 - Hard assets, such as PPE: assets recorded at cost (purchase price + all costs necessary to get the asset ready for use)
-- Soft assets, such as R&D, advertising, and wages. Here capitalization is more difficult.
-    -  they are investments that will likely generate future benefits, but
-    -  no clear useful life, nor clear future benefits
-    -  therefore, these costs are immediately expensed and are not recorded as an asset in the Balance Sheet
+- Soft assets, such as R&D, advertising, and wages. Here, the capitalization is more complicated.
+    -  They are investments that will likely generate future benefits, but
+    -  No clear useful life, nor clear future benefits
+    -  Therefore, these costs are immediately expensed and are not recorded as an asset in the Balance Sheet
 
 ---
 Allocation: is the assignment of the cost of an asset as an expense over its useful life
@@ -265,20 +286,20 @@ Allocation is not a valuation process. It is a way to match the cost of an asset
 ---
 ### Depreciation methods
 
--  useful life: physical deterioration, technological obsolescence, legal life
+-  Useful life: physical deterioration, technological obsolescence, legal life
 -  salvage value: expected value of the asset at the end of its useful life
--  and allocation method: straight-line, accelerated, units of production
-- managers decided which method to use at the time of acquisition
+-  Allocation method: straight-line, accelerated, or units of production
+-  Managers decide which method to use at the time of acquisition
   
 ---
 Example  
 The purchase of a new machine has the following characteristics:
--  purchase price: $800,000
--  estimated residual value: $50,000
-- expected useful life: 5 years
+-  Purchase price: $800,000
+-  Estimated residual value: $50,000
+- Expected useful life: 5 years
 - total production capacity: 100,000 units (15,000 units in year 1 and 23,000 units in year 2)
 
-What is the carrying amount of the machine after 2 years if the company uses the straight-line method?  
+What is the carrying amount of the machine after two years if the company uses the straight-line method?  
 How much depreciation expense is recorded in the income statement in year 2?
 
 ---
@@ -286,13 +307,13 @@ How much depreciation expense is recorded in the income statement in year 2?
 Solution:
 
 - Annual depreciation= (800,000-50,000)/5= $150,000  
-- Carrying amount after 2 years= 800,000-2*150,000= $500,000
+- Carrying amount after two years= 800,000-2*150,000= $500,000
 
-How the solution changes if the company uses the units of production method?
+How does the solution change if the company uses the units of production method?
 
-- depreciation per unit: 7.5 euros per unit
-- depreciation in year 1: 7.5*15,000= $112,500
-- depreciation in year 2: 7.5*23,000= $172,500
+- Depreciation per unit: 7.5 euros per unit
+- Depreciation in year 1: 7.5*15,000= $112,500
+- Depreciation in year 2: 7.5*23,000= $172,500
 - carrying amount after 2 years: 800,000-112,500-172,500= $515,000
 
 
@@ -304,20 +325,20 @@ How the solution changes if the company uses the units of production method?
 ---
 ### Impact on the financial statements
 - Capitalization: increases assets and equity
-- Income statement: capitalization leads to higher and stable net income in the short term.
+- Income statement: Capitalization leads to higher and stable net income in the short term.
   - Lumpy investments are smoothed out over time to match the cost of the asset with the revenues it generates
-- Operating Cash flows: when asset costs are capitalized, they are reported as investing cash outflows. When they are expensed, they are reported as operating cash outflows
-  - so expensing overstates operating cash outflows and understates investing cash outflows in the acquisition year in comparison with capitalization of costs.
+- Operating Cash flows: When asset costs are capitalized, they are reported as investing cash outflows. When they are expensed, they are reported as operating cash outflows
+  - So expensing overstates operating cash outflows and understates investing cash outflows in the acquisition year compared with capitalization of costs.
 
 
 ---
-:mag_right: Notes "17. Supplementary BS Information" in Colgate's 10-K
+:mag_right: Example Grifols 2022
 
-![](Slides/../topic_3_img/colgate_ppe.png)
+![](Slides/../topic_3_img/grifols_dep.png)
 
 ---
 ## 4.2 Impairments
-Impairment: is the write-down of an asset to its fair value when its carrying value exceeds its fair value . [IFRS IAS 36](https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/).
+Impairment: is the write-down of an asset to its fair value when its carrying value exceeds its fair value. [IFRS IAS 36](https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/).
 - Recoverable amount. The higher of:
   - Fair value less cost to sell
   - Value-in-use.
@@ -325,7 +346,7 @@ Impairment: is the write-down of an asset to its fair value when its carrying va
 
 ---
 Example (Under IFRS)
-Barceloneta Inc reports under IFRS and its manager has collected the following information about a set of assets tested for impairment:
+Barceloneta Inc. reports under IFRS, and its manager has collected the following information about a set of assets tested for impairment:
 - Carrying value: 35 million euros
 - Fair value: 28 million euros
 - Selling costs: 1.5 million euros
@@ -336,21 +357,21 @@ What is the amount of the impairment loss?
 
 ---
 Solution:
-- carrying value? 35 million euros
-- recoverable amount?
+- Carrying value? 35 million euros
+- Recoverable amount?
   - FV - selling costs = 28 - 1.5 = 26.5 million euros
   - Value-in-use = 33 million euros
 - 2 million euros (35 - 33) is the impairment loss
-  - the carrying value is reduced to 33 million euros (asset reduction)
+- The carrying value is reduced to 33 million euros (asset reduction)
   - 2 million euros is recognized as a loss in the income statement, which reduces net income and equity
-    - "Other Income Expenses" in "Operating profit".
+    - "Other Income Expenses" in "Operating profit."
 ---
 Example (Under US GAAP)
 
 Solution:
-US GAAP is a bit more tricky. The impairment loss is recognized if the carrying value is higher than the undiscounted expected future cash flows. 
+US GAAP is a bit more tricky. The impairment loss is recognized if the carrying value exceeds the undiscounted expected future cash flows.
 
-If that is the case, the impairment loss is the difference between the carrying value and the fair value of the asset.
+If that is the case, the impairment loss is the difference between the asset's carrying value and the fair value.
 
 - carrying value: 35 million euros
 - undiscounted cash flows: 35.5 million euros
@@ -369,8 +390,8 @@ In the period when the impairment loss is recognized:
 # 5. Intangible assets and goodwill
 ---
 # 5. Intangible assets and goodwill
-Definition:
-Intangible assets are long-term assets that do not have physical substance but have value based on the rights or privileges granted to the company using them. This value, however, is not easy to determine: too much uncertainty
+
+Definition: Intangible assets are long-term assets that have no physical substance but value based on the rights or privileges granted to the company using them. This value, however, is not easy to determine: too much uncertainty
 - Patents
 - Copyright
 - Trademarks
@@ -382,13 +403,13 @@ Intangible assets are long-term assets that do not have physical substance but h
 - Purchased intangible assets are recorded at historical cost
 - Internally generated intangible assets are expensed as incurred
   - R&D cost (at least in the US and R in most of Europe)
-  - why? Accounting conservatism: too much uncertainty about the future benefits of these assets
-- Exceptions: software development costs are capitalized, also some identifiable intangible assets such as patents, trademarks, etc.
-  - The capitalized costs of these cases may include legal fees, design and testing costs, registration fees, and other direct expenditure.
-  - Once the patent is granted and capitalized, it is then amortized over its useful/legal life.
+  - Why? Accounting conservatism: too much uncertainty about the future benefits of these assets
+- Exceptions: Software development costs are capitalized, also some identifiable intangible assets such as patents, trademarks, etc.
+  - The capitalized costs of these cases may include legal fees, design and testing costs, registration fees, and other direct expenditures.
+  - Once the patent is granted and capitalized, it is amortized over its helpful/legal life.
 
 ---
-:mag_right: Notes "5. Goodwill and other intangible" in Colgate's 10-K
+:mag_right: Example Colgate 2022
 
 ![](Slides/../topic_3_img/colgate_intangible.png)
 
@@ -416,7 +437,7 @@ Intangible assets are long-term assets that do not have physical substance but h
 --- 
 - Scenarios:
    B. creation of revaluation surplus [IFRS IAS 16](https://www.ifrs.org/issued-standards/list-of-standards/ias-16-property-plant-and-equipment/)
-       - in this case, the company decides to estimate the fair value for all the assets in a class periodically, and write up/down to reflect the current fair value
+       - in this case, the company decides to estimate the fair value for all the assets in a class periodically and write up/down to reflect the current fair value
        - if the fair value is above historical cost, the difference is recorded as a revaluation surplus in the equity section of the Balance Sheet (and not in the income statement:exclamation:)
        - depreciation: only the historical cost, not the revaluation surplus
        - the method stops when the fair value is equal to the historical cost
@@ -424,7 +445,7 @@ Intangible assets are long-term assets that do not have physical substance but h
 ---
 Example revaluation method (1):
 
-Millan Manufacturing is located in Spain and reports under IFRS. The company uses a revaluation model to account for its land and building.
+Millan Manufacturing is located in Spain and reports under IFRS. The company uses a revaluation model to account for its land and buildings.
 - January 1, 2020: Millan purchased a plot of land for €3,000,000. 
 - December 31, 2020: the fair value of the land is €3,500,000.
 - December 31, 2021: the fair value of the land is €2,800,000.
@@ -434,13 +455,21 @@ Evaluate how the revaluation model impacts the financial statements of Millan Ma
 ---
 Example revaluation method (2):
 
-Millan Manufacturing is located in Spain and reports under IFRS. The company uses a revaluation model to account for its land and building.
+Millan Manufacturing is located in Spain and reports under IFRS. The company uses a revaluation model to account for its land and buildings.
 - January 1, 2020: Millan purchased a plot of land for €3,000,000. 
 - December 31, 2020: the fair value of the land is €2,600,000.
 - December 31, 2021: the fair value of the land is €3,300,000.
 
 Evaluate how the revaluation model impacts the financial statements of Millan Manufacturing in 2020 and 2021.
 
+---
+# Based on:
+- Subramanyam, K. R. (2014). Financial statement analysis. McGraw-Hill Education. Chapter 4.
+- Steven M. Bragg (2022). IFRS Guidebook. Accounting Tools. Chapters 13-16.
+- IAS 2 Inventories.
+- IAS 16 Property, Plant and Equipment.
+- IAS 36 Impairment of Assets.
+- IAS 38 Intangible Assets.
 ---
 # Questions :question:
 Check my website for updated versions of this presentation:

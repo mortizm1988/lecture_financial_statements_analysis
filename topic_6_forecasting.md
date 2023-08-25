@@ -231,6 +231,11 @@ Now we bunch assumptios together to create specific scenarios and ask:
 We need to tailor or MS sheet  and bunch assumptions together to create each scenario.
 
 ---
+# Based on:
+- Subramanyam, K. R. (2014). Financial statement analysis. McGraw-Hill Education. Chapter 9.
+- Fridson, M. S., & Alvarez, F. (2022). Financial statement analysis: a practitioner's guide. John Wiley & Sons. Chapter 12.
+
+---
 # Questions :question:
 Check my website for an updated version of this presentation:
 

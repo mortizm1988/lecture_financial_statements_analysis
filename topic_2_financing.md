@@ -457,6 +457,7 @@ Covenants can create restrictions on the use of retained earnings.
 ---
 # Based on:
 - Subramanyam, K. R. (2014). Financial statement analysis. McGraw-Hill Education. Chapter 3.
+- Steven M. Bragg (2022). IFRS Guidebook. Accounting Tools. Chapters 19 and 29.
 - IFRS 16 Leases
 - IAS  37 Provisions (IFRS) Contingent Liabilities and Contingent Assets
 - IFRS 11 Joint Arrangements
