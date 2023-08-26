@@ -1,8 +1,11 @@
-# Financial and Managerial Accounting
+# Analysis of Financial Statements and Managerial Accounting
 ## Course Description
-This course introduces the main concepts related to managerial and financial accounting. This will allow students to identify the impacts of accounting and other corporate decisions on firm's financial statements.
 
-## Part 1: Financial Accounting
+This course introduces the main concepts related to financial statement analyses and managerial accounting. This will allow students to identify the impacts of accounting and other corporate decisions on firm's financial statements. Part 1 of the course develops key concepts and methods for analyzing financial statements from the perspective of an external user, such as investors, creditors, suppliers, etc. Part 2 of the course takes the perspective of an internal user, such as a manager, and focuses on the use of accounting information for decision making and control purposes. 
+
+The course is designed to be useful for students who plan to work in any area of business, including consulting, investment banking, general management, and entrepreneurship. It is not a bookkeeping course. Rather, it is a course on how to use accounting information to make business decisions. 
+
+## Part 1: Financial Statements Analysis
 
 | Topic                                     | Key Concepts and Readings                                                                                                                                              |
 |:-------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
