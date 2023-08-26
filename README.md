@@ -9,12 +9,12 @@ The course is designed to be useful for students who plan to work in any area of
 
 | Topic                                     | Key Concepts and Readings                                                                                                                                              |
 |:-------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Topic 1: [Foundations](https://htmlpreview.github.io/?topic_1_foundations.html)             | Fundamental Accounting equation. Valuation Methods. Earnings. Expenses. Accruals. Financial statements and their internal links.  |
-| Topic 2: [Financing Activities Analysis](/topic_2_financing.html)    | Liabilities Leases. Contingencies and Commitments. Off-Balance-Sheet Financing. Equity                                                |
-| Topic 3: [Investing Activities Analysis](/topic_3_investing.html)    | Cash and Equivalents. Inventory. Long-term Assets. Intangible Assets                                |
-| Topic 4: [Operating Activities Analysis](/topic_4_operating.html)    | Income Measurement. Nonrecurring Items. Deferred Charges. Interest Costs. Income Taxes                             |
-| Topic 5: [Cash Flow Analysis](/topic_5_cashflows.html)    | Measuring and Analyzing Cash Flows                             |
-| Topic 6: [Forecasting Financial Statements ](/topic_6_forecasting.html)| Projection Process. Trends in Value Drivers                                                                                       |
+| Topic 1: [Foundations](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_1_foundations.html)             | Fundamental Accounting equation. Valuation Methods. Earnings. Expenses. Accruals. Financial statements and their internal links.  |
+| Topic 2: [Financing Activities Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_2_financing.html)    | Liabilities Leases. Contingencies and Commitments. Off-Balance-Sheet Financing. Equity                                                |
+| Topic 3: [Investing Activities Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_3_investing.html)    | Cash and Equivalents. Inventory. Long-term Assets. Intangible Assets                                |
+| Topic 4: [Operating Activities Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_4_operating.html)    | Income Measurement. Nonrecurring Items. Deferred Charges. Interest Costs. Income Taxes                             |
+| Topic 5: [Cash Flow Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_5_cashflows.html)    | Measuring and Analyzing Cash Flows                             |
+| Topic 6: [Forecasting Financial Statements ](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_6_forecasting.html)| Projection Process. Trends in Value Drivers                                                                                       |
 
 ## Part 2: Managerial  Accounting
 
