@@ -64,9 +64,6 @@ Common misconceptions: a majority of operating income components tend to be recu
   - loss of inventory from fire --> nonrecurring operating loss
   - interest earned --> recurring and nonoperating income
   
----
-
-![left:70%](topic_4_img\ex_inc_statement.PNG)
 
 ---
 ## 1.2 Measuring accounting income
