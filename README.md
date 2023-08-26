@@ -6,12 +6,12 @@ This course introduces the main concepts related to managerial and financial acc
 
 | Topic                                     | Key Concepts and Readings                                                                                                                                              |
 |:-------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Topic 1: Financial Statements             | Fundamental Accounting equation. Valuation Methods. Earnings, Expenses, Accruals. Financial statements and their internal links.  |
-| Topic 2: Financing Activities Analysis    | Liabilities Leases Contingencies and Commitments Off-Balance-Sheet Financing Equity                                                |
-| Topic 3: Investing Activities Analysis    | Cash and Equivalents Inventory Long-term Assets Plan Assets and Natural Resources Intangible Assets                                |
-| Topic 4: Operating Activities Analysis    | Income Measurement Nonrecurring Items Revenue Recognition Deferred Charges Interest Costs Income Taxes                             |
-| Topic 5: Cash Flow Analysis    | Measuring and Analyzing Cash Flows                             |
-| Topic 6: Forecasting Financial Statements | Projection Process Trends in Value Drivers                                                                                       |
+| Topic 1: [Foundations](/topic_1_foundations.html)             | Fundamental Accounting equation. Valuation Methods. Earnings. Expenses. Accruals. Financial statements and their internal links.  |
+| Topic 2: [Financing Activities Analysis](/topic_2_financing.html)    | Liabilities Leases. Contingencies and Commitments. Off-Balance-Sheet Financing. Equity                                                |
+| Topic 3: [Investing Activities Analysis](/topic_3_investing.html)    | Cash and Equivalents. Inventory. Long-term Assets. Intangible Assets                                |
+| Topic 4: [Operating Activities Analysis](/topic_4_operating.html)    | Income Measurement. Nonrecurring Items. Deferred Charges. Interest Costs. Income Taxes                             |
+| Topic 5: [Cash Flow Analysis](/topic_5_cashflows.html)    | Measuring and Analyzing Cash Flows                             |
+| Topic 6: [Forecasting Financial Statements ](/topic_6_forecasting.html)| Projection Process. Trends in Value Drivers                                                                                       |
 
 ## Part 2: Managerial  Accounting
 
