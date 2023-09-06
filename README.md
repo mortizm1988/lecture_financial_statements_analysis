@@ -7,7 +7,7 @@ The course is designed to be useful for students who plan to work in any area of
 
 ## Part 1: Financial Statements Analysis
 
-| Topic                                     | Key Concepts and Readings                                                                                                                                              |
+| Topic                                     | Key Concepts                                                                                                                                              |
 |:-------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Topic 1: [Foundations](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_1_foundations.html)             | Fundamental Accounting equation. Valuation Methods. Earnings. Expenses. Accruals. Financial statements and their internal links.  |
 | Topic 2: [Financing Activities Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_2_financing.html)    | Liabilities Leases. Contingencies and Commitments. Off-Balance-Sheet Financing. Equity                                                |
@@ -18,7 +18,7 @@ The course is designed to be useful for students who plan to work in any area of
 
 ## Part 2: Analysis of Managerial Decisions
 
-| Topic                                     | Key Concepts and Readings                                                                                                                                              |
+| Topic                                     | Key Concepts                                                                                                                                              |
 |:-------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Topic 7:  Cost strategy from an accounting perspective            | Traditional and ABC costing     |
 | Topic 8:  Firm boundaries          |  Make-or-Buy decision. Closing part of a company    |
