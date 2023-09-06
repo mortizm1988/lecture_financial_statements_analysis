@@ -9,10 +9,10 @@ The course is designed to be useful for students who plan to work in any area of
 
 | Topic                                     | Key Concepts                                                                                                                                              |
 |:-------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Topic 1: [Foundations](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_1_foundations.html)             | Fundamental Accounting equation. Valuation Methods. Earnings. Expenses. Accruals. Financial statements and their internal links.  |
-| Topic 2: [Financing Activities Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_2_financing.html)    | Liabilities Leases. Contingencies and Commitments. Off-Balance-Sheet Financing. Equity                                                |
-| Topic 3: [Investing Activities Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_3_investing.html)    | Cash and Equivalents. Inventory. Long-term Assets. Intangible Assets                                |
-| Topic 4: [Operating Activities Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_4_operating.html)    | Income Measurement. Nonrecurring Items. Deferred Charges. Interest Costs. Income Taxes                             |
+| Topic 1: [Foundations](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_1_foundations.html)             | Accounting equation. Matching Principle. Valuation Methods. Earnings. Expenses. Accruals. Financial statements and their internal links.  |
+| Topic 2: [Financing Activities Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_2_financing.html)    | Leases. Contingencies and Commitments. Off-Balance-Sheet Financing. Equity. Reserves.                                                |
+| Topic 3: [Investing Activities Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_3_investing.html)    | Cash and Equivalents. Inventory. Long-term Assets. Intangible Assets. Deferred Assets.                                |
+| Topic 4: [Operating Activities Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_4_operating.html)    | Income Measurement. Nonrecurring Items. Deferred Charges. Interest Costs. Income Taxes.                             |
 | Topic 5: [Cash Flow Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_5_cashflows.html)    | Measuring and Analyzing Cash Flows                             |
 | Topic 6: [Forecasting Financial Statements ](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_6_forecasting.html)| Projection Process. Trends in Value Drivers                                                                                       |
 
@@ -20,7 +20,7 @@ The course is designed to be useful for students who plan to work in any area of
 
 | Topic                                     | Key Concepts                                                                                                                                              |
 |:-------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Topic 7:  Cost strategy from an accounting perspective            | Traditional and ABC costing     |
-| Topic 8:  Firm boundaries          |  Make-or-Buy decision. Closing part of a company    |
-| Topic 9:  Budgeting       |  Budgeting Process. Budget control. Budgeting for entrepreneurs             |
-| Topic 10: Accounting Manipulation         | Earnings Management. Red Flags. Cases             |
+| Topic 7:  Cost strategy from an accounting perspective            | Traditional and ABC costing. Product Profitability Analyises.     |
+| Topic 8:  Firm boundaries          |  Make-or-Buy decision. Closing part of a company.    |
+| Topic 9:  Budgeting       |  Budgeting Process. Budget control. Budgeting for entrepreneurs.             |
+| Topic 10: Accounting Manipulation         | Earnings Management. Restatements. Fraud. Red Flags.             |
