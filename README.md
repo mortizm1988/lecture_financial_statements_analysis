@@ -20,7 +20,7 @@ The course is designed to be useful for students who plan to work in any area of
 
 | Topic                                     | Key Concepts                                                                                                                                              |
 |:-------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Topic 7:  Cost strategy from an accounting perspective            | Traditional and ABC costing. Product Profitability Analyises.     |
+| Topic 7:  Cost strategy from an accounting perspective            | Traditional and ABC costing. Product Profitability Analysis.     |
 | Topic 8:  Firm boundaries          |  Make-or-Buy decision. Closing part of a company.    |
 | Topic 9:  Budgeting       |  Budgeting Process. Budget control. Budgeting for entrepreneurs.             |
 | Topic 10: Accounting Manipulation         | Earnings Management. Restatements. Fraud. Red Flags.             |
