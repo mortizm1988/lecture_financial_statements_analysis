@@ -1,0 +1,21 @@
+/* custom-default.css */
+/* @theme custom-default */
+
+@import 'default';
+
+
+:root {
+  --color-background: #fff;
+  --color-foreground: #333;
+  --color-highlight: #800000;
+}
+
+
+section {
+  justify-content: start;
+}
+
+section::after {
+font-weight: 700;
+content: attr(data-marpit-pagination) '/' attr(data-marpit-pagination-total);
+}

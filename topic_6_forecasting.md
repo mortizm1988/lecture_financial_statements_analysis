@@ -8,7 +8,7 @@ header: 2023 | M. Ortiz  | Forecasting Analysis
 _header: ""
 date: 2023-07-11
 math: mathjax
-theme: default
+theme: custom-default
 ---
 ![bg left:60%](Slides/../topic_2_img/bg_1.png)
 # Forecasting Analysis
