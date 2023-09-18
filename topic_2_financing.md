@@ -1,5 +1,5 @@
 ---
-marp: false
+marp: true
 author: Marcelo Ortiz 
 title: "Financing Activities"
 paginate: true
@@ -23,7 +23,7 @@ Marcelo Ortiz
 
 
 ---
-#  How do financing decisions affect the financial statements :question:
+#  How do financing decisions affect the financial statements:question:
 
 1. Liabilities
 2. Leases
@@ -31,6 +31,12 @@ Marcelo Ortiz
 4. Off-balance-sheet financing
 5. Equity financing
 
+<!--
+consider to add
+- trade payables
+- accrued expenses
+- unearned revenues
+-->
 ---
 # 1. Liabilities
 
@@ -70,7 +76,6 @@ Search for "DESCRIPTION OF DEBT SECURITIES" and check:
 - ranking/seniority
 - redemption
 - covenants 
-
 
 ---
 ## Credit Ratings
@@ -236,7 +241,6 @@ Conclusion: No red flags.
 -  Total assets = $15,731,  adj lease asset ($505): 3.2% of total assets.
 -  Total liabilities = $14,925, adj lease liability ($505): 3.4% of total liabilities. 		
 
-
 ---
 # 3. Commitments and contingent liabilities
 
@@ -389,25 +393,58 @@ The capital stock is also known as "share capital," "equity capital," or "paid-u
 
 The capital stock is the total amount of equity capital that a company raises by issuing and selling its shares of common and preferred stock to investors
 
+
+
 ---
 ### Components of capital stock
 1. Contributed capital
    -  One part is assigned to the par or stated value of capital shares: Common and/or Preferred stock
    -  The remainder is reported as additional paid-in capital (APIC)
+   -  e.g., 1 million common shares, par value $1, means that the company has raised $1 million in capital stock.
+   -  at closing date: share price=$1.5 => APIC=$500,000
+
+---  
 2. Treasury stock (buybacks)
-    -  The amount of capital stock repurchased by the company.
+    -  The amount of capital stock repurchased by the company and kept in their own treasury. Why? as an attempt to increase the share price or limiting dilution
     -  It reduces both contributed assets and total equity (_contra-equity account_).
     -  Recorded at cost value
+---
+3. Retained earnings: accumulated earnings of the company that have not been distributed to shareholders as dividends.
+4. Other comprehensive income (OCI): unrealized gain and losses not recognized in the income statement.
+5. Noncontrolling interest (NCI): equity interest in a subsidiary not attributable to the parent company.
 ---
 ### Classification of capital stock
 1. Preferred stock
    - dividend distribution preferences (usually fixed)
    - liquidation priority
    - convertibility into common stock
-   - nonvoting rights
+   - non or limited voting rights
 2. Common stock
    - voting rights
    - bear the residual risk and rewards of the company
+---
+Example:
+First year of operations:
+|  | Total equity | 
+| --- | --- |
+| **Common shares** |  |
+|# shares outstanding = 100,000||
+|Par value = $5|Common share capital (at par)=$500,000|
+|Issuance price = $8.5|APIC: $350,000|
+| **Preferred shares** |  |
+|# shares outstanding = 20,000||
+|Par value = $10|Preferred share capital (at par)=$200,000|
+|||
+|**Net income** = $1,150,000|Net income = $1,150,000|
+|**OCI**: $300,000|OCI: $300,000|
+|**Dividends** = $450,000|Dividends = -$450,000|
+|**Treasury stock** = $50,000|Treasury stock = -$50,000|
+|**Total**| $2,000,000|
+
+<!--
+internal financing: 1 million (net income+oci-dividends)
+external financing: 1 million
+-->
 ---
 :mag_right: Example: Apple 2022
 

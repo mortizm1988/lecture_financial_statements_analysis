@@ -10,7 +10,6 @@ date: 2023-07-11
 math: mathjax
 theme: custom-default
 
-
 ---
 
 ![bg left:60%](Slides/../topic_2_img/bg_1.png)
@@ -57,7 +56,7 @@ c) value irrelevant component: irrelevant to the value of the company
 
 When analyzing financial statements, we should try to identify the recurring income component.
 
-Accounting standars provide some guidance on how to identify recurring income:
+Accounting standards provide some guidance on how to identify recurring income:
 - the line items on the income statement are arranged in a manner that allows an analyst to identify recurring and nonrecurring components of income
   
 Common misconceptions: a majority of operating income components tend to be recurring, but not always:
@@ -92,19 +91,28 @@ Common misconceptions: a majority of operating income components tend to be recu
 
 ---
 ### Comprehensive income
-- Reflects nearly all changes to in the value of equity
+- Reflects nearly all changes in the value of equity
   - excluding changes driven by dividends and share issuances
 - Comprehensive income is the bottom-line measure of income: best proxy for economic income
 - It is most commonly found in the statement of changes in equity, and not as a part of the income statement
 
 ---
 Components of comprehensive income:
-1. unrealized gains or losses that result from changes in the fair value available-for-sale investment securities
-2. unrealized gains or losses arising from the effective portion of cash flow hedges (derivatives); 
-3. foreign currency translation gains and losses
-4. changes in the funded status of postretirement benefits not included in net income
-5. (IFRS) revaluations of operating assets to their fair values
+1. Net income
+1. Other comprehensive income:
+   1. Unrealized gains or losses that result from changes in the fair value available-for-sale investment securities
+   2. Unrealized gains or losses arising from the effective portion of cash flow hedges (derivatives); 
+   3. Foreign currency translation gains and losses
+   4. Changes in the funded status of postretirement benefits not included in net income
+   5. (IFRS) revaluations of operating assets to their fair values
 
+<!--
+Statement of Changes in equity is linked to the statement of comprehensive income
+1) issued shared capital
+2) dividend payment
+3) net income
+4) other comprehensive income
+-->
 ---
  :mag_right:  Example Apple 2022
  
@@ -146,16 +154,23 @@ Important: all these measures are subjects to accounting distortions and errors
 
 # 2. Nonrecurring items
 
+<!--
+eg, disctontinued operations, extraordinary items, accounting changes, special items, etc.
+-->
+
 ---
 
 # 2. Nonrecurring items
 
 ## 2.1 Extraordinary items
-Extraordinary items are events and transactions that are both unusual in nature and infrequent in occurrence: loss of inventory from fire
+Extraordinary items are events and transactions that are both unusual in nature and infrequent in occurrence: loss of inventory from fire, restructuring costs, litigation charges
 - unusual in nature: high degree of abnormality and unrelated to the ordinary and typical activities of the company
 - infrequent ocurrence: not reasonably expected to recur in the foreseeable future
 Extraordinary items are reported net of tax after continuing income.
-
+<!--
+Before 2015: extraordinary items were reported net of tax after continuing income.
+After 2018: extraordinary items are not reported in the income statement, but in the footnotes and MDA.
+--->
 ---
 ### Analysis of extraoriary items:
 - Extraordinary items are not expected to recur, so they are not relevant to the valuation of the company
@@ -202,31 +217,37 @@ Managers may change accounting methods or estimates for a variety of reasons, in
 - to better reflect changing in business conditions
 
 Of course, accounting regulations discourage managers from applying unjustified changes in accounting methods or estimates 
-
+<!--
+Discuss: Falabella case
+--->
 ---
 ###  Types of accounting changes
 1. Change in accounting principle
 e.g., change from LIFO to FIFO in inventory accounting, or from straight-line to accelerated depreciation
 
-The change should be reflected in the financial statements through retrospective application of the changed principle to the current and all prior periods to the extent that it is practicable
+Importantly, application of the changed principle should be reported retrospectively
 
 This means that all current and prior period information in the income statement and balance sheet will reflect the effects of the new principle
+
+
 
 ---
 ###  Types of accounting changes
 2. Change in accounting estimate
-e.g., change in the estimated useful life of a depreciable asset, inventory obsolescence, uncollectible accounts receivable
+e.g., change in the estimated useful life of a depreciable asset, inventory obsolescence, uncollectible accounts receivable, warranty obligations, etc.
+- If managers update their beliefs about the future, they should update their estimates: economic crisis and allowance of doubtful accounts
 
+<!-- 
 By their very nature, the estimates are approximations of unknown future conditions, so it is not surprising that they are subject to change
-
-The change should be reflected in the financial statements prospectively, in the current and future periods affected by the change. So no restatement of prior periods is required.
+-->
+The change should be reflected in the financial statements prospectively (so no restatement of prior periods is required)
 
 However, the effects should be disclosed in the footnotes to the financial statements
 
 ---
 ### Analysis of accounting changes:
 
-In both cases, the analyst must consider that the accounting changes yield no cash flow consequences either present or future. 
+In both cases (principle and estimate), the analyst must consider that the accounting changes yield no cash flow consequences either present or future. 
 
 But this does not mean that the changes are irrelevant or mere cosmetics: sometimes they are used to manage earnings or can reflect new economic reality
 
@@ -461,6 +482,27 @@ So it is important to understand how EPS is calculated and how it can be manipul
 
 The computation and reporting requirements for earnings per share under US GAAP (ASC 260) and IFRS (IAS 33) are consistent
 
+:mag_right: Example Apple 2022
+
+---
+Before understanding the computation of EPS, we need to understand the concept of *capital structure* and *dilution*.
+
+Imagine a compamy with 100 common shares outstanding. Each share is worth $10, so the company is worth $1,000.
+- 1 share= 1% of the company
+- company issue 60 new shares, so common shares outstanding= 160 shares.
+- 1 share = 0.625% of the company. Ownership dilution:exclamation::exclamation:
+
+Current investors  are alert for newly issued shares or convertible securities because they dilute their ownership investment.
+
+---
+
+| Simple Capital Structure | Complex Capital Structure |
+|---|---|
+|Common shares||
+|Preferred shares||
+||+ Convertible debt|
+||+ Convertible preferred shares|
+||+ Warrants|
 ---
 ## 5.1 Basic EPS
 Computed considering only simple capital structures with only common stock and neither dilutive nor convertible securities.
@@ -469,31 +511,108 @@ $$ \text{Basic earnings per share}= \frac{\text{Net income - Preferred dividends
 where $\text{weighted-average number of common shares}$ is the sum of shares outstanding each day, divided by the number of days in the period
 
 ---
+How to calculate the **Weighted-average number of common shares**:interrobang:
+
+Example:
+
+| |Commom Shares |Shares oustanding|  Time weight |Weighted Av. C. Shares |
+|---|---:|---:|---:|---:|
+| 1st Jan | | 2,000,000 | 2/12 |333,333 |
+| 1st Mar| 100,000 | 2,100,000 | 4/12 | 700,000 |
+| 1st Jul| 150,000| 2,250,000 | 5/12 |937,500 |
+| 1st Dec|-200,000 | 2,050,000| 1/12| 170,833 |
+| Total| | | 12 m |  2,141,667|
+
+---
+### Changes in the number of shares outstanding
+- Stock dividends: company pays a dividend in the form of additional shares of stock (instead of as cash payment).
+  - e.g., 50% stock dividend: 1 new share for every 2 shares owned.
+  - initial number of shares outstanding is increased by 50%.
+- Stock split: company increases the number of shares outstanding by a specified ratio.
+  - e.g., 3-for-2 stock split:  for every 2 shares owned, the investor receives 3 additional shares.
+
+- Importantly: shareholders % of ownership does not change with stock dividends or splits. No dilution:exclamation:
+
+---
 ## 5.2 Diluted EPS
 For cases where the company has securities that are potentially dilutive, such as convertible bonds, convertible preferred stock, stock options, and warrants.
+
+- Convertible preferred stock: preferred stock that can be converted into  a fixed number of common stock at the option of the holder.
+- Convertible bond: debt securities that can be converted into a fixed number of common stock at the option of the holder.
+- Options: the right to purchase a fixed number of shares of common stock at a specified price (exercise price) for a specified period of time.
+- Warrants: similar to options, but they are issued by the company itself.
+
+If exercised => increase number of common shares outstanding => dilution:exclamation:
+<!-- 
+if the company does not have any, then diluted EPS = basic EPS and it should report just basic EPS
+-->
+---
 
 Above 25% of publicly-traded companies in the U.S. have potentially dilutive securities.
 
 Diluted EPS is computed assuming that all convertible securities are converted and options exercised at the earliest possible opportunity (full dilution)
 
-$$ \text{Diluted EPS}= \frac{\text{Net income to common shares adjusted for interest (net of tax) and preferred dividends on dilutive securitiess}}{\text{Weighted-average number of common shares outstanding (including dilutive securities)}} $$
+$$ \text{Diluted EPS}= \frac{ 
+  \text{Net income - Pref. dividends}+\text{Convertible pref. dividends}+\text{Convertible debt interest}*(1-t)}
+  {\text{Weighted-average number of common shares outstanding (including dilutive securities)}} $$
+
+--- 
+## Example 1: Convertible preferred share
+
+At the end of the year, Maule Limited have a net income = $ 1,450,000. Common Shares = 400,000 and preferred convertible shares = 25,000. Preferred dividend is $11 per share. Each convertible preferred share can be converted into 6 common shares. The tax rate is 25%.
+
+- Net income - Pref. dividends = $1,450,000 - $11x25,000 = $1,175,000
+  - if-converted: $1,450,000 
+- Weighted-average # common shares outstanding = 400,000
+  - if-converted: # shares = 400,000 + 25,000x6 = 650,000
+- Basic EPS = $1,175,000/400,000 = $2.94
+- Diluted EPS = $1,450,000/550,000 = $2.64 < Basic EPS. Dilution!
 
 ---
-## Example: computing basic and diluted EPS
+## Example 2: Convertible bond
+Same company, same net income, but instead of convertible preferred shares, the company has convertible bonds: 5% convertible bonds= $60.000 convertible into #10.000 common shares.
+
+- Net income - Pref. dividends = $1,450,000 - 0 = $1,450,000
+  - if-converted: no interest expense, meaning more net income : 5% x $60,000 x (1-0.25) = $2,250
+- Weighted-average # common shares outstanding = 400,000
+  - if-converted: # shares = 400,000 + 10.000 = 410,000
+- Basic EPS = $1,450,000/400,000 = $3.63
+- Diluted EPS = ($1,450,000 + $2,250)/(410,000) = $3.54 < Basic EPS. Dilution!
+
+---
+## Example 3: Stock options
+Same company, same net income, same taxes. Company has # 30,000 stock options to buy common shares at exercise price = $30. The current market price of the company’s common stock is $50.
+
+- Net income - Pref. dividends = $1,450,000 - 0 = $1,450,000
+  - if-converted: no change.
+- Weighted-average # common shares outstanding = 400,000
+  - if-converted: # 30.000 newly issued shares. Proceeds from issuance = $30 x 30,000 = $900,000. With this inflow of funds, the company can buy back 18,000 shares. So, # shares = 400,000 + 30,000 - 18,000 = 412,000
+- Basic EPS = $1,450,000/400,000 = $3.63
+- Diluted EPS = ($1,450,000)/(412,000) )= $3.52 < Basic EPS. Dilution!
+
+---
+Try at home:
+1) Current market price= exercise price= $ 30
+  - EPS=DEPS=3.625.
+2) Current market price= $ 20
+  - EPS=3.625, DEPS=3.767. Anti-dilution:exclamation:
+ 
+---
+## Example 4: All together
 Common stock: 1,000,000 shares outstanding for the entire year. Preferred stock: 500,000 shares outstanding for the entire year. 
 
 Convertible bonds: $5,000,000 6% bonds, sold at par, convertible into 200,000 shares of common stock.
 
 Employee stock options: options to purchase 100,000 shares at $30 have been outstanding for the entire year. 
 
-The average market price of the company’s common stock during the year is $40.
+The  market price of the company’s common stock  is $40.
 
 Net income: $3,000,000; Preferred dividends: $50,000; Marginal tax rate: 35%
 
 ---
-$$\text{Basic EPS}= \frac{3,000,000 - 50,000}{1,000,000} = \$2.95$$
+$$\text{Basic EPS} = \frac{3,000,000 - 50,000}{1,000,000} = \$2.95$$
 
-$$ \text{Diluted EPS}= \frac{3,000,000 - 50,000 +[(5,000,000 \times 6\%)(1 - 0.35)]}{1,000,000 + 200,000 + 25,000}= $2.57$$
+$$ \text{Diluted EPS} = \frac{3,000,000 - 50,000 +[(5,000,000 \times 6\%)(1 - 0.35)]}{1,000,000 + 200,000 + 25,000}= $2.57$$
 
 ---
 :mag_right: Example Apple  2022

@@ -29,8 +29,8 @@ Marcelo Ortiz
 3) Basic concepts
 4) Accounting equation 
 5) Revenue recognition
-6) The Basics of Financial Statements
-7) Accounting/financial Metrics
+6) Financial Statements
+7) FSA framework
 8) Data sources
 ---
 # 1. What is accounting?
@@ -87,11 +87,16 @@ Non-current Assets
 ## 3.2 Liabilities: Classification
 Current Liabilities
  1. Accounts payable
- 2. Current portion of Long-term debt
- 3. Accrued liabilities
- 4. Deferred revenues
- 5. Other current liabilities
+ 3. Accrued expeses
+ 4. Deferred/unearned revenues
+ 5. Current portion of Long-term debt
+ 6. Taxes payable
+ 7. Other current liabilities
 
+
+<!--
+tax: income, value-added, estate tax, capital gains tax, property tax, etc. all of them due at different times
+--->
 ---
 Non-current liabilities
  1. Long-term debt
@@ -144,6 +149,29 @@ It is the second pillar in accounting. It is the process of recording revenue in
 
 1. Recognizing revenue when earned, regardless of when payment is received.
 2. Expenses should be matched with revenues they helped to generate in the same period, even if payment occurs later.
+
+---
+Therefore it is important to when companies can recognize revenues
+ - in 2018, the FASB (ASC 606) and IFRS (IFRS 15) converged into a standard for revenue recognition.
+ - The standard is based on the principle that revenue is recognized when the risk and rewards of the goods or services are transferred to the customer.
+
+---
+5 steps revenue recognition model:
+
+1. Identify the contract with the customer.
+   - clear allocation of rights, obligations and payment terms.
+2. Identify the performance obligations in the contract. 
+   - distinct goods or services.
+3. Determine the transaction price.
+   - Long-term contracts: expected value or most likely amount.
+   - vs. One-off contracts: fixed amount.  
+   - Only if the payment is highly likely to materialize, can the company recognize revenue.
+4. Allocate the transaction price to the performance obligations in the contract.
+   - Proportional to the stand-alone selling price of each performance obligation.
+   - Upfront fees: activation fee, joining fee.
+5. Recognize revenue when (or as) the entity satisfies a performance obligation.
+   - Over time vs at a point in time.
+   - Customer controls the good or already used the service.
 
 ---
 Example: 
@@ -211,10 +239,10 @@ Silvana borrows $5.000 using a bank credit. The first year will pay $35 on inter
 
 
 ---
-# 6. The Basics of Financial Statements
+# 6. Financial Statements
 
 ---
-# 6. The Basics of Financial Statements
+# 6. Financial Statements
 ## 6.1 Aggregations
 
 Each transaction or economic event requires determining an amount affecting the basic accounting elements.
@@ -232,7 +260,8 @@ Consistency across time and transactions is Key!
 1. **Historical Cost**: Assets are valued at their original cost.
    1. Acquisition cost
    2. Production cost
-2. **Fair Value**: Assets are valued at their current fair value.
+2. **Amortized cost**: Assets are valued at their original cost minus accumulated depreciation.
+3. **Fair Value**: Assets are valued at their current fair value.
    1. Market value
    2. Net realizable value
 
@@ -262,18 +291,68 @@ Users of financial statements:
 ... but why do they need financial statements? What are they looking for?
 
 ---
-## 6.3 Balance sheet
-The balance sheet is a statement that lists what the organization owns (assets), what it owes (liabilities), and what it is worth (equity) on a specific date.
+
+1. Growth: is the company growing? How?
+2. Profitability: is the company's profit satisfactory?
+3. Liquidity: can the company pay its short-term obligations?
+4. Solvency: can the company handle its long-term obligations?
+
+---
+
+ Users find the information to answers to these questions in the company's fillings.
+- Annual report (**10-K** )
+- Quarterly report (**10-Q**)
+- Acquisition and disposal of financial assets, changes in company management or corporate governance (**8-K**).
+- Information for shareholders to vote on issues related to the company's management (**DEF-14A: Proxy Statement**)
+---
+
+Core financial statements:
+1. Statement of Financial Position (Balance Sheet)
+2. Statement of Comprehensive Income (Income Statement)
+3. Cash Flow Statement
+4. Statement of Changes in Equity
+   
+Other sources of information:
+1. Notes to the Financial Statements
+2. Management's Discussion and Analysis (MD&A)
+​
+---
+## 6.3 Statement of Financial Position 
+The balance sheet is a statement that lists what the organization owns (assets), what it owes (liabilities), and what it is worth (equity) on a _specific date_.
 
 ![65% bg right:60%](topic_1_img/img_4.png)
 
 ---
-## 6.3 Income Statement
-The Income Statements show the organization’s financial performance for a given period.​
+Some obvious limitations.
+- it does not reflect the value of the intangible assets such as human capital, or reputation.​
+- information is based on an specific date
+- it incorporate various measurement bases: fair value, historical cost, amortized cost, etc.
+---
+Benefits:
 
-​Its main components are:
+It provides insights about company situation in terms of:
+- liquidity
+- solvency
+- ability to make distributions to shareholders
 
-![90% bg right:60%](topic_1_img/img_3.png)
+---
+## 6.3 Statement of Comprehensive Income
+It has two main components:
+- The Income Statements show the financial performance for a _given period_ arising​ from normal business activities.​
+- The Other Comprehensive Income (OCI) shows the changes in equity that are not included in the Income Statement but impact owners' equity (e.g., unrealized gains/losses on investments).​
+
+
+
+![90% bg right:50%](topic_1_img/img_3.png)
+
+<!--
+here explain:
+1) difference between revenue and sales
+2) difference between revenues and net revenues
+3) SGA expenses are not driven by production
+4) provision tax= tax expenses
+5) Alternative presentations for operating expenses: by function (Apple) by nature (Grifols).
+-->
 
 ---
 ![70% bg ](topic_1_img/img_5.png)
@@ -291,9 +370,8 @@ Components:
 3. Cash flows from financing activities: issuance and repayment of debt and equity.
 
 ---
-## 6.3 Owners' Equity Statement
+## 6.3 Statement of Changes in Equity
 How the _Equity_ of an organization has changed over a specified period.​
-
 In general, the focus is on what elements affected the two main components of _Equity_ during the period: _Common Stock_ and _Retained Earnings_.​
 
 Why could other stakeholders be interested in this?​
@@ -308,9 +386,42 @@ Components:
 4. Ending balance of equity accounts
 
 ---
-# 7. Accounting/Financial Metrics
+## 6.4 Dependencies in Financial Statements
+1. Cash payments to reduce Trade payables will be reflected in the Balance sheet and Cash Flow Statement.​
+2.  Recognizing non-current assets depreciation will be reflected in the Balance sheet and Income Statement.​
+3.  Profits of the year will be reflected in the Balance Sheet, Income Statement, and Statement of Changes in Equity.​
+4.  Shared capital issued will be reflected in ....
+
 ---
-# 7. Accounting/Financial Metrics
+## 6.5 Notes to the Financial Statements
+ It is the the larges component of the financial report.
+
+ They reveal important information about the company's financial position and performance that would be difficult to discern from the financial statements alone.​
+
+Important Elements:
+  1. Basis of preparation: IFRS, US GAAP, etc.
+  2. Summary of significant accounting policies: valuation, depreciation, etc.
+  3. Management' assumptions and estimates: useful life, etc.
+  4. Risk characteristics: credit, liquidity, market, etc.
+  5. Contingent liabilities: legal disputes, etc.
+  6. Related party transactions: transactions with owners, managers, etc.
+
+---
+## 6.6 Management's Discussion and Analysis (MD&A)
+It is a section of the annual report that provides management's interpretation of the company's recent performance.​
+
+- Issues related tu current and future operations/performance
+- Favorable/unfavorable trends
+- Important events and uncertainties
+- Explanations of unusual or infrequent events
+- Price changes
+
+It is mainly forward-looking information.​
+
+---
+# 7. FSA framework
+---
+# 7.  FSA framework
 
 ## 7.1 Context and Process
 
@@ -396,9 +507,18 @@ After analyzing the context, we can analyze the company's financial statements.�
 | Times Interest Earned | EBIT / Interest Expense       |
 
 ---
+
+| Profitability Ratios| Formula                                                                 |
+|:--------------------|:------------------------------------------------------------------------|
+| Gross Profit Margin | Gross Profit / Sales                                                     |
+| Operating Margin    | Operating Income / Sales                                                 |
+| Net Profit Margin (return on sales)   | Net Income / Sales                                                       |
+
+
+
 | Return on Investment Ratios | Formula                                                   |
 |:----------------------------|:----------------------------------------------------------|
-| Return on Assets            | Net Income + interest expense (1-tax rate) / Total Assets |
+| Return on Assets            | [Net Income + interest expense (1-tax rate)] / Total Assets |
 | Return on Equity            | Net Income / Total Equity                                 |
 
 ---

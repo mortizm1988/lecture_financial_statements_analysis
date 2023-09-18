@@ -22,7 +22,7 @@ Marcelo Ortiz
 
 
 ---
-#  How do Investing decisions affect the financial statements :question:
+#  How do investing decisions affect the financial statements:question:
 
 1. Cash and cash equivalents
 2. Receivables and collection risk
@@ -31,7 +31,11 @@ Marcelo Ortiz
 5. Intangible assets and goodwill
 6. Asset revaluations under IFRS
 
-
+<!--
+consider to include
+- prepaid expenses
+- deferred taxes
+-->
 ---
 # 1. Cash and cash equivalents
 
@@ -188,7 +192,7 @@ Case 2: Last-in, first-out (LIFO)
 
 In the balance sheet at the end of the period, the inventory is reported at $38.000 ($56.000-$18.000)
 
-Important: LIFO is not allowed in all countries:exclamation: why :question: mainly because it delays or reduces the payment of taxes. Even it is not allowed in IFRS
+Important: LIFO is not allowed in IFRS:exclamation: why :question: mainly because it delays or reduces the payment of taxes. Even it is not allowed in IFRS
 
 ---
 Case 3: Average cost
@@ -400,13 +404,56 @@ Definition: Intangible assets are long-term assets that have no physical substan
 - Goodwill
 ---
 ## 5.1 Accounting for intangible assets
+
+Incorporation/Generation of intangible assets
 - Purchased intangible assets are recorded at historical cost
 - Internally generated intangible assets are expensed as incurred
   - R&D cost (at least in the US and R in most of Europe)
   - Why? Accounting conservatism: too much uncertainty about the future benefits of these assets
 - Exceptions: Software development costs are capitalized, also some identifiable intangible assets such as patents, trademarks, etc.
   - The capitalized costs of these cases may include legal fees, design and testing costs, registration fees, and other direct expenditures.
-  - Once the patent is granted and capitalized, it is amortized over its helpful/legal life.
+
+
+---
+Carrying value of intangible assets:
+
+a) Finite useful life: amortization
+
+  - Amortization: the allocation of the cost of an intangible asset over its useful life
+
+b) Indefinite useful life: no amortization 
+  - Impairment test at least annually
+  - min{Carrying value, PV of expected future cash flows}
+
+---
+Example
+
+This year our company registered a Trademark with a cost $1,000,000 and it has an indefinite useful life. 
+
+What is the carrying value of the Trademark in the balance sheet at the end of the year?
+
+
+Scenario|Carrying Value|Fair value|Impairment Loss|
+|---|---|---|---|
+|A|100,000,000|1,200,000|-|
+|B|100,000,000|800,000|200,000|
+
+Therefore, in scenario B the carrying value of the Trademark is 800,000.
+
+---
+## 5.2 Goodwill
+Definition: Goodwill is the excess of the purchase price over the fair value of the net assets acquired in a business combination. [IFRS IFRS 3](https://www.ifrs.org/issued-standards/list-of-standards/ifrs-3-business-combinations/)
+
+- Goodwill is an intangible asset with an indefinite useful life
+- Goodwill is not amortized but tested for impairment at least annually
+  
+Example: your company purchases at $7 million a company with assets fair value of $6 million. The excess of $1 million is recorded as goodwill.
+
+ Why to pay more?
+- assets such as reputation, know-how, customer relationships, etc. are not recorded in the balance sheet
+- synergies: the value of the combined company is higher than the sum of the parts
+
+
 
 ---
 :mag_right: Example Colgate 2022
