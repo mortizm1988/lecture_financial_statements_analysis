@@ -151,12 +151,12 @@ It is the second pillar in accounting. It is the process of recording revenue in
 2. Expenses should be matched with revenues they helped to generate in the same period, even if payment occurs later.
 
 ---
-Therefore it is important to when companies can recognize revenues
- - in 2018, the FASB (ASC 606) and IFRS (IFRS 15) converged into a standard for revenue recognition.
+Therefore it is important know to when companies can recognize revenues
+ - In 2018, the FASB (ASC 606) and IFRS (IFRS 15) converged into a standard for revenue recognition.
  - The standard is based on the principle that revenue is recognized when the risk and rewards of the goods or services are transferred to the customer.
 
 ---
-5 steps revenue recognition model:
+ The 5-steps revenue-recognition model:
 
 1. Identify the contract with the customer.
    - clear allocation of rights, obligations and payment terms.
@@ -166,6 +166,9 @@ Therefore it is important to when companies can recognize revenues
    - Long-term contracts: expected value or most likely amount.
    - vs. One-off contracts: fixed amount.  
    - Only if the payment is highly likely to materialize, can the company recognize revenue.
+
+---
+
 4. Allocate the transaction price to the performance obligations in the contract.
    - Proportional to the stand-alone selling price of each performance obligation.
    - Upfront fees: activation fee, joining fee.
@@ -253,10 +256,10 @@ Some rules help us to define these amounts​.
  - **US GAAP**: Generally Accepted Accounting Principles
 
 
-Consistency across time and transactions is Key!
+Consistency across time and transactions is key!
 
 ---
-### Asset valuation
+### Asset valuation basis
 1. **Historical Cost**: Assets are valued at their original cost.
    1. Acquisition cost
    2. Production cost
@@ -270,7 +273,7 @@ Consistency across time and transactions is Key!
 1. **PVFP**: Present value of future payments.
 2. **Expected PVFP**
 3. **Fair Value**: Liabilities are measured at their current fair value.
-4. 
+ 
 ### Equity Valuation
 1. **Historical Cost**: Retained earnings at original cost.
 2. **Revaluation Reserves**: Equity can be revalued to fair value through reserves.

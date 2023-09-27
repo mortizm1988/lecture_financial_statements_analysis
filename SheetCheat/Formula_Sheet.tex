@@ -1,0 +1,162 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+\usepackage{tabularx}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt} % Optional: removes the horizontal line
+\fancyfoot[R]{Marcelo Ortiz. UPF-BSM}
+\title{Accountings: Definitions and  Formulas}
+\author{Marcelo Ortiz}
+\date{28 Sept 2023}
+\begin{document}
+\makeatletter  
+\begin{center}
+	\includegraphics[width=0.3\textwidth]{logo.png}\\[1em]  % Logo
+	{\LARGE \textbf{\@title}}\\[1em]  % Title
+	{\large \@author}\\[1em]  % Author
+	{\@date}  % Date
+\end{center}
+\makeatother  % Reverts the change
+
+\section{Accounting Basics}
+	\begin{tcolorbox}
+	\begin{align*}
+		\text{Basic Accounting Equation:} \quad & \text{Assets} = \text{Liabilities} + \text{Equity} \\
+		\text{Extended Accounting Equation:} \quad & \text{Assets} = \text{Liabilities} + \text{Revenue}- \text{Expenses} \\
+		\text{Gross Profit:} \quad & \text{Gross Profit} = \text{Revenue} - \text{Cost of Goods Sold} \\
+		\text{Operating Profit:} \quad & \text{Op. Profit} = \text{Gross Profit} - \text{Op. Expenses} \\
+		\text{Profit Before Tax:} \quad & \text{PBT} = \text{Operating Profit} - \text{Tax Expense} \\
+		\text{Net Profit:} \quad & \text{Net Profit} = \text{PBT} - \text{Tax Expense}
+	\end{align*}
+	\end{tcolorbox}
+
+\section{Accounting Measurements}
+\subsection{Measurement Bases}
+\begin{tcolorbox}
+	\begin{align*}
+	\text{Historical Cost:}\quad & \text{The value at which assets and liabilities} \\
+	\quad & \text{are initially acquired or produced} \\
+	\text{Amortized Cost:} \quad & \text{Initial cost less depreciation, amortization,} \\
+	\quad & \text{or impairment} \\
+	\text{Net Realizable Value (NRV):} \quad & \text{Estimated selling price less selling } \\
+	\quad & \text{costs or allowances} \\
+	\text{Present value of future payments (PVFP):} \quad & \text{The discounted value of future cash flows} \\
+	\text{Fair value (FV):} \quad & \text{The price in an orderly transaction between} \\
+	\quad & \text{ market participants at the measurement date}
+\end{align*}
+\end{tcolorbox}
+
+\subsection{Applications}
+\begin{tcolorbox}
+\begin{tabularx}{\textwidth}{|l|X|}
+	\hline
+	\textbf{Element} & \textbf{Measurement Base} \\
+	\hline
+	\textit{Assets}: & \\
+	Inventory & Lower: Historical cost or NRV \\
+	Receivables &  NRV: Total receivables- allowance for bad debt\\
+	PPE & Cost model (Amortized Cost) or Revaluation model (FV- depreciation) \\
+	Investment property & Cost model or FV \\
+	Financial instruments & Historical cost, Amortized cost, or FV, depending on guidelines \\
+	\hline
+	\textit{Liabilities}: & \\
+	Accounts Payable & Amortized cost \\	
+	Borrowings & Amortized cost \\
+	Provisions & Present value of estimated future outflows \\
+	\hline
+	\textit{Equity}: & \\
+	Common stocks & Issue price, less issuance costs \\
+	Retained earnings & Accumulated earnings, less dividends [historical]\\
+	\hline
+\end{tabularx}
+\end{tcolorbox}	
+
+
+\section{Accounting Ratios}
+	\subsection{Liquidity}
+	\begin{tcolorbox}
+	\begin{align*}
+		\text{Current Ratio:} \quad & \frac{\text{Current Assets}}{\text{Current Liabilities}} \\
+		\text{Quick Ratio:} \quad & \frac{\text{Cash} + \text{Marketable Securities} + \text{Receivables}}{\text{Current Liabilities}} \\
+		\text{Cash Ratio:} \quad & \frac{\text{Cash} + \text{Marketable Securities}}{\text{Current Liabilities}}  \\
+		\text{Collection Period:} \quad & \frac{\text{Accounts Receivable}}{\text{Average Daily Sales}} \\
+		\text{Working Capital:} \quad & \text{Current Assets} - \text{Current Liabilities} \\
+	\end{align*}
+	\end{tcolorbox}
+	\subsection{Solvency Ratios}
+	\begin{tcolorbox}
+	\begin{align*}
+		\text{Debt-to-Equity:} \quad & \frac{\text{Total Debt}}{\text{Total Shareholder's Equity}} \\
+		\text{Debt-to-Assets:} \quad & \frac{\text{Total Debt}}{\text{Total Assets}} \\
+		\text{Financial Leverage:} \quad & \frac{\text{Total Liabilities}}{\text{Total Assets}} \\
+		\text{Interest Coverage:} \quad & \frac{\text{Earnings Before Interest and Taxes}}{\text{Interest Payments}}
+	\end{align*}
+	\end{tcolorbox}
+	\subsection{Profitability Ratios}
+	\begin{tcolorbox}
+	\begin{align*}
+		\text{Gross Profit Margin:} \quad & \frac{\text{Gross Profit}}{\text{Revenue}} \\
+		\text{Operating Profit Margin:} \quad & \frac{\text{Operating Income (EBIT)}}{\text{Revenue}} \\
+		\text{Net Profit Margin:} \quad & \frac{\text{Net Income}}{\text{Revenue}} \\
+		\text{Return on Assets (RoA):} \quad & \frac{\text{Net Income}}{\text{Average Total Assets}} \\
+		\text{Return on Equity (RoE):} \quad & \frac{\text{Net Income}}{\text{Average Equity}} \\
+		\text{Basics EPS:} \quad & \frac{\text{Net Income} - \text{Preferred Dividends}}{\text{Weighted Av. Nº. of Common Shares Outstanding}} \\
+		\text{Diluted EPS:} \quad & \tiny{\frac{ \text{Net income - Pref. Div. + Convertible Pref. Div.+Convertible Debt Int. (1-t)}}
+			{\text{Weighted Av. Nº.of common shares outstanding (including dilutive securities)}}}		
+	\end{align*}
+	\end{tcolorbox}
+	\subsection{Market Price Ratios}
+	\begin{tcolorbox}
+	\begin{align*}
+		\text{Price Earnings (P/E) Ratio:} \quad & \frac{\text{Share Price}}{\text{Earnings per Share (EPS)}} \\
+		\text{Dividend Yield:} \quad & \frac{\text{Dividend per Share}}{\text{Current Share Price}} \\
+		\text{Retention Rate (RR):} \quad & \frac{\text{Net Income} - \text{Dividends Declared}}{\text{Net Income}} \\
+		\text{Dividend Payout:} \quad & \frac{\text{Dividends Declared}}{\text{Net Income}}
+	\end{align*}
+	\end{tcolorbox}
+\subsection{Cash Flow Ratios}
+\begin{tcolorbox}
+\begin{align*}
+	\text{FCFF:} \quad & \text{CFO} + [\text{Int} \times (1 - \text{Tax Rate})] - \text{FCInv} \\
+	\text{FCFE:} \quad & \text{CFO} - \text{FCInv} + \text{Net Borrowing} \\
+	\text{Cash Flow-to-Revenue:} \quad & \frac{\text{Cash Flow from Operations}}{\text{Revenue}} \\
+	\text{Cash Return-on-Assets:} \quad & \frac{\text{Cash Flow from Operations}}{\text{Average Total Assets}} \\
+	\text{Cash Return-on-Equity:} \quad & \frac{\text{Cash Flow from Operations}}{\text{Average Total Equity}}
+\end{align*}
+\end{tcolorbox}
+\subsection{Activity Ratios}
+\begin{tcolorbox}
+\begin{align*}
+	\text{Receivables Turnover:} \quad & \frac{\text{Annual Sales}}{\text{Average Receivables}} \\
+	\text{Inventory Turnover:} \quad & \frac{\text{Cost of Goods Sold}}{\text{Average Inventory}} \\
+	\text{Payables Turnover:} \quad & \frac{\text{Purchases}}{\text{Average Trade Payables}}
+\end{align*}
+\end{tcolorbox}
+
+\subsection{Inventories Ratios}
+\begin{tcolorbox}	
+	\begin{align*}
+		\text{Ending Inventory:} \quad & \text{Beginning Inventory} + \text{Purchases} - \text{COGS} \\
+		\text{Cost of Goods Sold (COGS):} \quad & \text{Beginning Inv.} + \text{Purchases} - \text{Ending Inv.} \\
+		\text{FIFO Inventory:} \quad & \text{LIFO Inventory} + \text{LIFO Reserve} 
+	\end{align*}
+\end{tcolorbox}	
+
+\section{Further Definitions}
+	\subsection{Depreciation Methods}
+\begin{tcolorbox}	
+	\begin{align*}
+		\text{Straight-line Depreciation Expense:} \quad & \frac{\text{Cost} - \text{Salvage Value}}{\text{Useful Life}} \\
+		\text{Ending PPE Net Book Value:} \quad & \text{Original Cost} - \text{Accumulated Depreciation} \\
+		\text{Average Age:} \quad & \frac{\text{Accumulated Depreciation}}{\text{Annual Depreciation Expense}} \\
+		\text{Total Useful Life:} \quad & \frac{\text{Historical Cost}}{\text{Annual Depreciation Expense}} \\
+		\text{Remaining Useful Life:} \quad & \frac{\text{Ending PPE Net Book Value}}{\text{Annual Depreciation Expense}}
+	\end{align*}
+\end{tcolorbox}	
+\end{document}
