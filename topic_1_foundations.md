@@ -25,13 +25,12 @@ Marcelo Ortiz
 # Accounting Foundations
 
 1) What is accounting?
-2) Transactions as accounting events
-3) Basic concepts
-4) Accounting equation 
-5) Revenue recognition
-6) Financial Statements
-7) FSA framework
-8) Data sources
+2) Basic concepts
+3) Accounting equation 
+4) Revenue recognition
+5) Financial Statements
+6) FSA framework
+7) Data sources
 ---
 # 1. What is accounting?
 
@@ -41,53 +40,53 @@ Marcelo Ortiz
 ![60%](topic_1_img/img_1.png)
 
 ---
-# 2. Transactions as accounting events
+# 2. Basic concepts
 
 ---
-# 2. Transactions as accounting events
+## 2.1. Transactions as accounting events
 
 What information is important to capture, process, aggregate, and report?
- 1. Purchasing merchandize or raw materials
- 2. Hiring employees
- 3. Contracting a loan
- 4. Selling goods or services
- 5. Returning goods to suppliers
-1. Paying employees
+
+1. Purchasing merchandize or raw materials
+2. Hiring employees
+3. Contracting a loan
+4. Selling goods or services
+5. Returning goods to suppliers
+6. Paying employees
+
+
 
 ---
-# 3. Basic concepts
-
----
-# 3. Basic concepts
 
 Transactions modify specific economic components of the company.
 
 ![35%](topic_1_img/img_2.png)
 
 ---
-# 3. Basic concepts
-## 3.1 Assets: Classification
+## 2.2 Assets: Classification
 Current Assets
- 1. Cash and cash equivalents
- 2. Accounts receivable
- 3. Inventory
- 4. Prepaid expenses
- 5. Other current assets
+
+1. Cash and cash equivalents
+2. Accounts receivable
+3. Inventory
+4. Prepaid expenses
+5. Other current assets
 
 ---
 Non-current Assets
- 1. Long-term investments
- 2. Property, plant, and equipment
- 3. Intangible assets
- 4. Other non-current assets
+
+1. Long-term investments
+2. Property, plant, and equipment
+3. Intangible assets
+4. Other non-current assets
 
 
 
 ---
-## 3.2 Liabilities: Classification
+## 2.3 Liabilities: Classification
 Current Liabilities
  1. Accounts payable
- 3. Accrued expeses
+ 3. Accrued expenses
  4. Deferred/unearned revenues
  5. Current portion of Long-term debt
  6. Taxes payable
@@ -108,7 +107,7 @@ Non-current liabilities
 
 
 ---
-## 3.3 Equity: Classification
+## 2.4 Equity: Classification
 - Share capital
   - Common stock
   - Preferred stock
@@ -131,19 +130,24 @@ Accumulated Other Comprehensive Income: The total unrealized gains and losses on
 -->
 
 ---
-# 4. Accounting Equation
+# 3. Accounting Equation
 ---
-# 4. Accounting Equation
+# 3. Accounting Equation
 $$Assets=Liability+Equity$$
 - Transactions (or economic events)  modify assets, liabilities, and equity.
 - However, always the **accounting equation holds**.
 - This equation is the basis of **double-entry accounting.**
 
-
 ---
-# 5. Revenue recognition
+$$Assets=Liability+ Opening Equity + Net Income- Withdrawals $$
+- Net Income: Revenues - Expenses
+- Revenues increase Owner's Equity, whereas Expenses decrease it. 
+- Owner's Equity is not static
+- This nuanced view captures how the dynamics of business operations impact the company's financial position.
 ---
-# 5. Revenue recognition
+# 4. Revenue recognition
+---
+# 4. Revenue recognition
 
 It is the second pillar in accounting. It is the process of recording revenue in the financial statements. When a company records revenues, it must also record expenses. This is the **matching principle**:
 
@@ -177,7 +181,7 @@ Therefore it is important know to when companies can recognize revenues
    - Customer controls the good or already used the service.
 
 ---
-Example: 
+# Example: 
 
 Silvana eTravel SA
 Let's apply the accounting equation and matching principle to the following transactions:
@@ -242,11 +246,11 @@ Silvana borrows $5.000 using a bank credit. The first year will pay $35 on inter
 
 
 ---
-# 6. Financial Statements
+# 5. Financial Statements
 
 ---
-# 6. Financial Statements
-## 6.1 Aggregations
+# 5. Financial Statements
+## 5.1 Aggregations
 
 Each transaction or economic event requires determining an amount affecting the basic accounting elements.
 
@@ -269,18 +273,18 @@ Consistency across time and transactions is key!
    2. Net realizable value
 
 ---
-### Liabilities Valuation
-1. **PVFP**: Present value of future payments.
-2. **Expected PVFP**
+### Liabilities valuation
+1. **PV**: Present value of future payments.
+2. **Expected PV**
 3. **Fair Value**: Liabilities are measured at their current fair value.
  
-### Equity Valuation
-1. **Historical Cost**: Retained earnings at original cost.
+### Equity valuation
+1. **Historical Cost**: Retained earnings at original value.
 2. **Revaluation Reserves**: Equity can be revalued to fair value through reserves.
 3. **Fair Value through OCI**: Some equity instruments can be valued at fair value through other comprehensive income.
 
 ---
-## 6.2 Financial Statements: Why?
+## 5.2 Financial Statements: Why?
 Once we have **recorded all the transactions using the same rules**, we need to aggregate them to provide helpful information to the users of the financial statements.
 
 Users of financial statements:
@@ -320,7 +324,7 @@ Other sources of information:
 2. Management's Discussion and Analysis (MD&A)
 ​
 ---
-## 6.3 Statement of Financial Position 
+## 5.3 Statement of Financial Position 
 The balance sheet is a statement that lists what the organization owns (assets), what it owes (liabilities), and what it is worth (equity) on a _specific date_.
 
 ![65% bg right:60%](topic_1_img/img_4.png)
@@ -339,9 +343,9 @@ It provides insights about company situation in terms of:
 - ability to make distributions to shareholders
 
 ---
-## 6.3 Statement of Comprehensive Income
+## 5.4 Statement of Comprehensive Income
 It has two main components:
-- The Income Statements (IS) show the financial performance for a _given period_ arising​ from normal business activities.​
+- The Income Statements (IS) describe profit/loss generation for a _given period_ arising​ from normal business activities.​
 - The Other Comprehensive Income (OCI) shows the changes in equity that are not included in the IS  but impact equity (e.g., unrealized gains/losses on investments).​
 
 
@@ -361,7 +365,7 @@ here explain:
 ![70% bg ](topic_1_img/img_5.png)
 
 ---
-## 6.3 Cash Flow Statement
+## 5.6 Cash Flow Statement
 
 The matching principle implies that cash inflows and outflows differ from revenues and expenses.​
 
@@ -373,8 +377,9 @@ Components:
 3. Cash flows from financing activities: issuance and repayment of debt and equity.
 
 ---
-## 6.3 Statement of Changes in Equity
-How the _Equity_ of an organization has changed over a specified period.​
+## 5.7 Statement of Changes in Equity
+How the _Equity_ of an organization has changed over a specified period.​ 
+
 In general, the focus is on what elements affected the two main components of _Equity_ during the period: _Common Stock_ and _Retained Earnings_.​
 
 Why could other stakeholders be interested in this?​
@@ -389,17 +394,17 @@ Components:
 4. Ending balance of equity accounts
 
 ---
-## 6.4 Dependencies in Financial Statements
+## 5.8 Dependencies in Financial Statements
 1. Cash payments to reduce Trade payables will be reflected in the Balance sheet and Cash Flow Statement.​
 2.  Recognizing non-current assets depreciation will be reflected in the Balance sheet and Income Statement.​
 3.  Profits of the year will be reflected in the Balance Sheet, Income Statement, and Statement of Changes in Equity.​
 4.  Shared capital issued will be reflected in ....
 
 ---
-## 6.5 Notes to the Financial Statements
- It is the the larges component of the financial report.
+## 5.9 Notes to the Financial Statements
+ It is the largest component of the financial report.
 
- They reveal important information about the company's financial position and performance that would be difficult to discern from the financial statements alone.​
+ They reveal important information about the company's financial position and performance that would be difficult to discern from the financial statements.​
 
 Important Elements:
   1. Basis of preparation: IFRS, US GAAP, etc.
@@ -410,7 +415,7 @@ Important Elements:
   6. Related party transactions: transactions with owners, managers, etc.
 
 ---
-## 6.6 Management's Discussion and Analysis (MD&A)
+## 5.10 Management's Discussion and Analysis (MD&A)
 It is a section of the annual report that provides management's interpretation of the company's recent performance.​
 
 - Issues related tu current and future operations/performance
@@ -422,11 +427,11 @@ It is a section of the annual report that provides management's interpretation o
 It is mainly forward-looking information.​
 
 ---
-# 7. FSA framework
+# 6. FSA framework
 ---
-# 7.  FSA framework
+# 6.  FSA framework
 
-## 7.1 Context and Process
+## 6.1 Context and Process
 
 Financial statements help to evaluate the financial performance and efficiency of the overall company and its different business segments
 
@@ -438,6 +443,7 @@ Now, we will study a general framework for financial analysis (meaning using the
 - Do we need to change our liquidity/solvency policy?​
 - Are we using our assets efficiently?​
 - What is driving our profits/losses?​
+  
 It is not only helpful in evaluating our company (or business unit) but also competitors, suppliers, and customers.
 
 ---
@@ -456,7 +462,7 @@ It is not only helpful in evaluating our company (or business unit) but also com
    3) Who?
 
 ---
-## 7.2 Analysis and Metrics
+## 6.2 Analysis and Metrics
 
 After analyzing the context, we can analyze the company's financial statements.​
 
@@ -473,13 +479,13 @@ After analyzing the context, we can analyze the company's financial statements.�
 ---
 ## Areas of Financial Statement Analysis:
 ###  1. Credit (Risk) Analysis:
-   1.  Liquidity. To evaluate the ability to meet short-term obligations. 
-   2.  Capital structure and solvency. To assess the ability to meet long-term obligations. 
+   1.  Liquidity: To evaluate the ability to meet short-term obligations. 
+   2.  Solvency: To assess the ability to meet long-term obligations. 
 
 ### 2. Profitability Analysis: 
-   1. Return on investment. To assess financial rewards to the suppliers of equity and debt financing. 
-   2. Operating performance. To evaluate profit margins from operating activities. 
-   3. Asset utilization. To assess the effectiveness and intensity of assets in generating sales, also called turnover. 
+   1. Return on investment: To assess financial rewards to the suppliers of equity and debt financing. 
+   2. Operating performance: To evaluate profit margins from operating activities. 
+   3. Asset utilization: To assess the effectiveness and intensity of assets in generating sales, also called turnover. 
 
 ---
 ###  3. Valuation 
@@ -496,7 +502,7 @@ Check the Formula Sheet for the most common ratios.
 
 - For an analysis of a company's financial statements, see the appendix of the slides.
   - It compares Volkswagen and Mercedez-Benz.
-  - As many analysts do, they use accounting items "as they are" in the financial statements without adjusting them.
+  - As many analysts do, they use accounting items "as they are reported" in the financial statements without adjusting them.
 - However, in the first part of this course, we will dig deep and learn how to measure them correctly:
   - Topic 2: Adjustments to represent real financing activity
   - Topic 3: Adjustments to represent real investing activity
@@ -504,10 +510,10 @@ Check the Formula Sheet for the most common ratios.
 
 
 ---
-# 8. Data sources
+# 7. Data sources
 ---
-# 8. Data sources
-## 8.1 This course
+# 7. Data sources
+## 7.1 This course
 :mag_right: Let's have a first glance at the financial statements of the companies we will use as examples throughout the course.
 
 |Country|Company|Standard|
@@ -537,7 +543,7 @@ Check the Formula Sheet for the most common ratios.
 ***Inditex***: search for "Sheet" in the 2022 Annual Accounts.
 
 ---
-## 8.2 Other sources
+## 7.2 Other sources
 
 ### Detailed financial statements from regulators
 - [SEC](https://www.sec.gov/edgar/searchedgar/companysearch.html): Search for the company name and look for the 10-K form.
