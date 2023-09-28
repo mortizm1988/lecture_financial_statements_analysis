@@ -52,12 +52,15 @@ For reporting purposes, liabilities are classified as current or noncurrent, bas
 ---
 # 1.2 Liabilities: Current
   ### Valuation
-- Current liabilities are reported at their maturity value, which is the amount that will be paid to satisfy the obligation.
- 
+- Current liabilities are reported at their amortized cost. Amortized cost would include not only the principal amount but also the accrued interest expenses, transaction costs, and any discount or premium on issuance that are spread out over the life of the loan.
+  - such as: accounting payables and short-term loans etc.
+
+ <!--
  ### Coventants
  - Debt covenants are restrictions imposed by creditors on borrowers to protect the creditors' interests.
  - **Acceleration clause**: in the case of a breach of a debt covenant, the creditor may demand immediate repayment of the debt (reclassification of debt). 
  - Debt/equity ratio, interest coverage ratio, and current ratio are examples of debt covenants.
+-->
 ---
 # 1.3 Liabilities: Noncurrent
 ### Valuation

@@ -13,7 +13,7 @@
 \fancyfoot[R]{Marcelo Ortiz. UPF-BSM}
 \title{Accountings: Definitions and  Formulas}
 \author{Marcelo Ortiz}
-\date{28 Sept 2023}
+\date{This version: 28 Sept 2023}
 \begin{document}
 \makeatletter  
 \begin{center}
@@ -46,7 +46,7 @@
 	\quad & \text{or impairment} \\
 	\text{Net Realizable Value (NRV):} \quad & \text{Estimated selling price less selling } \\
 	\quad & \text{costs or allowances} \\
-	\text{Present value of future payments (PVFP):} \quad & \text{The discounted value of future cash flows} \\
+	\text{PV of future payments (PVFP):} \quad & \text{The discounted value of future cash flows} \\
 	\text{Fair value (FV):} \quad & \text{The price in an orderly transaction between} \\
 	\quad & \text{ market participants at the measurement date}
 \end{align*}
@@ -60,7 +60,7 @@
 	\hline
 	\textit{Assets}: & \\
 	Inventory & Lower: Historical cost or NRV \\
-	Receivables &  NRV: Total receivables- allowance for bad debt\\
+	Receivables &  NRV: Total receivables less allowance for bad debt\\
 	PPE & Cost model (Amortized Cost) or Revaluation model (FV- depreciation) \\
 	Investment property & Cost model or FV \\
 	Financial instruments & Historical cost, Amortized cost, or FV, depending on guidelines \\
@@ -71,7 +71,7 @@
 	Provisions & Present value of estimated future outflows \\
 	\hline
 	\textit{Equity}: & \\
-	Common stocks & Issue price, less issuance costs \\
+	Common stocks & Issue price less issuance costs \\
 	Retained earnings & Accumulated earnings, less dividends [historical]\\
 	\hline
 \end{tabularx}
@@ -85,11 +85,14 @@
 		\text{Current Ratio:} \quad & \frac{\text{Current Assets}}{\text{Current Liabilities}} \\
 		\text{Quick Ratio:} \quad & \frac{\text{Cash} + \text{Marketable Securities} + \text{Receivables}}{\text{Current Liabilities}} \\
 		\text{Cash Ratio:} \quad & \frac{\text{Cash} + \text{Marketable Securities}}{\text{Current Liabilities}}  \\
-		\text{Collection Period:} \quad & \frac{\text{Accounts Receivable}}{\text{Average Daily Sales}} \\
+		\text{Collection Period (1):} \quad & \frac{\text{Accounts Receivable}}{\text{Average Daily Sales}} \\
+		\text{Days Payable (2):} \quad & \frac{\text{Accounts Payable}}{\text{Average Daily Cost of Goods Sold}} \\
+		\text{Day Stocks (3):} \quad & \frac{\text{Average Inventory}}{\text{Average Daily Cost of Goods Sold}} \\
+		\text{Cash cycle:} \quad & \text{(1) + (2) + (3) } \\
 		\text{Working Capital:} \quad & \text{Current Assets} - \text{Current Liabilities} \\
 	\end{align*}
 	\end{tcolorbox}
-	\subsection{Solvency Ratios}
+	\subsection{Solvency}
 	\begin{tcolorbox}
 	\begin{align*}
 		\text{Debt-to-Equity:} \quad & \frac{\text{Total Debt}}{\text{Total Shareholder's Equity}} \\
@@ -98,20 +101,20 @@
 		\text{Interest Coverage:} \quad & \frac{\text{Earnings Before Interest and Taxes}}{\text{Interest Payments}}
 	\end{align*}
 	\end{tcolorbox}
-	\subsection{Profitability Ratios}
+	\subsection{Profitability}
 	\begin{tcolorbox}
 	\begin{align*}
 		\text{Gross Profit Margin:} \quad & \frac{\text{Gross Profit}}{\text{Revenue}} \\
 		\text{Operating Profit Margin:} \quad & \frac{\text{Operating Income (EBIT)}}{\text{Revenue}} \\
 		\text{Net Profit Margin:} \quad & \frac{\text{Net Income}}{\text{Revenue}} \\
-		\text{Return on Assets (RoA):} \quad & \frac{\text{Net Income}}{\text{Average Total Assets}} \\
+		\text{Return on Assets (RoA):} \quad & \frac{\text{EBIT}}{\text{Average Total Assets}} \\
 		\text{Return on Equity (RoE):} \quad & \frac{\text{Net Income}}{\text{Average Equity}} \\
 		\text{Basics EPS:} \quad & \frac{\text{Net Income} - \text{Preferred Dividends}}{\text{Weighted Av. Nº. of Common Shares Outstanding}} \\
 		\text{Diluted EPS:} \quad & \tiny{\frac{ \text{Net income - Pref. Div. + Convertible Pref. Div.+Convertible Debt Int. (1-t)}}
 			{\text{Weighted Av. Nº.of common shares outstanding (including dilutive securities)}}}		
 	\end{align*}
 	\end{tcolorbox}
-	\subsection{Market Price Ratios}
+	\subsection{Market Price}
 	\begin{tcolorbox}
 	\begin{align*}
 		\text{Price Earnings (P/E) Ratio:} \quad & \frac{\text{Share Price}}{\text{Earnings per Share (EPS)}} \\
@@ -120,7 +123,7 @@
 		\text{Dividend Payout:} \quad & \frac{\text{Dividends Declared}}{\text{Net Income}}
 	\end{align*}
 	\end{tcolorbox}
-\subsection{Cash Flow Ratios}
+\subsection{Cash Flow}
 \begin{tcolorbox}
 \begin{align*}
 	\text{FCFF:} \quad & \text{CFO} + [\text{Int} \times (1 - \text{Tax Rate})] - \text{FCInv} \\
@@ -130,7 +133,7 @@
 	\text{Cash Return-on-Equity:} \quad & \frac{\text{Cash Flow from Operations}}{\text{Average Total Equity}}
 \end{align*}
 \end{tcolorbox}
-\subsection{Activity Ratios}
+\subsection{Activity}
 \begin{tcolorbox}
 \begin{align*}
 	\text{Receivables Turnover:} \quad & \frac{\text{Annual Sales}}{\text{Average Receivables}} \\
@@ -139,7 +142,8 @@
 \end{align*}
 \end{tcolorbox}
 
-\subsection{Inventories Ratios}
+\section{Further Definitions}
+\subsection{Inventories}
 \begin{tcolorbox}	
 	\begin{align*}
 		\text{Ending Inventory:} \quad & \text{Beginning Inventory} + \text{Purchases} - \text{COGS} \\
@@ -148,15 +152,24 @@
 	\end{align*}
 \end{tcolorbox}	
 
-\section{Further Definitions}
-	\subsection{Depreciation Methods}
+
+	\subsection{Depreciation}
 \begin{tcolorbox}	
 	\begin{align*}
 		\text{Straight-line Depreciation Expense:} \quad & \frac{\text{Cost} - \text{Salvage Value}}{\text{Useful Life}} \\
 		\text{Ending PPE Net Book Value:} \quad & \text{Original Cost} - \text{Accumulated Depreciation} \\
 		\text{Average Age:} \quad & \frac{\text{Accumulated Depreciation}}{\text{Annual Depreciation Expense}} \\
-		\text{Total Useful Life:} \quad & \frac{\text{Historical Cost}}{\text{Annual Depreciation Expense}} \\
-		\text{Remaining Useful Life:} \quad & \frac{\text{Ending PPE Net Book Value}}{\text{Annual Depreciation Expense}}
+		\text{Remaining Useful Life:} \quad & \frac{\text{Ending PPE Net Book Value} - \text{Salvage Value}}{\text{Annual Depreciation Expense}}
 	\end{align*}
-\end{tcolorbox}	
+\end{tcolorbox}
+	\subsection{Basic Mathematical Formulas}
+\begin{tcolorbox}
+	\begin{align*}
+		\text{Time Value of Money (PV):} & \quad PV = \frac{\text{Payment}}{(1 + r)^n} \\
+		\text{Compound Interest:} &  \quad \text{Payment} = P \left(1 + \frac{r}{n}\right)^{nt} \\
+		\text{Simple Interest:} & \quad \text{Payment} = P \times (1 + rt) \\
+		\text{Annuity:} \quad &  PV=\frac{1-1/(1+r)^n}{i} \\
+		\text{Perpetuity:} \quad & PV=\frac{1}{r} \\
+	\end{align*}
+\end{tcolorbox}
 \end{document}

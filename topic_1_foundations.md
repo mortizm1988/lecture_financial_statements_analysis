@@ -341,8 +341,8 @@ It provides insights about company situation in terms of:
 ---
 ## 6.3 Statement of Comprehensive Income
 It has two main components:
-- The Income Statements show the financial performance for a _given period_ arising​ from normal business activities.​
-- The Other Comprehensive Income (OCI) shows the changes in equity that are not included in the Income Statement but impact owners' equity (e.g., unrealized gains/losses on investments).​
+- The Income Statements (IS) show the financial performance for a _given period_ arising​ from normal business activities.​
+- The Other Comprehensive Income (OCI) shows the changes in equity that are not included in the IS  but impact equity (e.g., unrealized gains/losses on investments).​
 
 
 
@@ -490,57 +490,7 @@ After analyzing the context, we can analyze the company's financial statements.�
 - Income statement items: Ratios are calculated using year-end values.​
 - Cash flow statement items: Ratios are calculated using year-end values.​
 
----
-
-| Liquidty Ratios        | Formula                                                                     |
-|:-----------------------|:----------------------------------------------------------------------------|
-| Current Ratio          | Current Assets / Current Liabilities                                        |
-| Liquidity Ratio        | (Current Assets - Inventories) / Current Liabilities                        |
-| Acid Test              | (Cash + Accounts Receivable + Short-Term Investments) / Current Liabilities |
-| Working Capital        | Current Assets - Current Liabilities                                        |
-| Collection Period      | Accounts Receivable / (Sales / 365)                                         |
-| Days to sell inventory | Inventory / (Cost of Goods Sold / 365)                                      |
-
----
-
-| Solvency Ratios       | Formula                       |
-|:----------------------|:------------------------------|
-| Financial Leverage    | Liabilities / Total Assets    |
-| Long-Term Debt Ratio  | Long-Term Debt / Total Assets |
-| Times Interest Earned | EBIT / Interest Expense       |
-
----
-
-| Profitability Ratios| Formula                                                                 |
-|:--------------------|:------------------------------------------------------------------------|
-| Gross Profit Margin | Gross Profit / Sales                                                     |
-| Operating Margin    | Operating Income / Sales                                                 |
-| Net Profit Margin (return on sales)   | Net Income / Sales                                                       |
-
-
-
-| Return on Investment Ratios | Formula                                                   |
-|:----------------------------|:----------------------------------------------------------|
-| Return on Assets            | [Net Income + interest expense (1-tax rate)] / Total Assets |
-| Return on Equity            | Net Income / Total Equity                                 |
-
----
-| Efficiency Ratio    | Formula                                        |
-|:--------------------|:-----------------------------------------------|
-| PPE Turnover        | Sales / PPE                                    |
-| Inventory Turnover  | Cost of Goods Sold / Average Inventory         |
-| (1) Days Receivable | (Accounts Receivable / Net Credit Sales) × 365 |
-| (2) Days Payable    | (Accounts Payable / Cost of Goods Sold) × 365  |
-| (3) Day Stocks      | (Average Inventory / Cost of Goods Sold) × 365 |
-| Cash Cycle          | (1)+(2)+(3)                                    |
-
----
-| Valuation             | Formula                                       |
-|:----------------------|:----------------------------------------------|
-| Price-Earnings Ratio  | Market Price per Share / Earnings per Share   |
-| Price-to-Book Ratio   | Market Price per Share / Book Value per Share |
-| Dividend Yield        | Dividends per Share / Market Price per Share  |
-| Dividend Payout Ratio | Dividends per Share / Earnings per Share      |
+Check the Formula Sheet for the most common ratios.
 
 ---
 
