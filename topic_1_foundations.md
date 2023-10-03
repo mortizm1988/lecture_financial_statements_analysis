@@ -61,6 +61,9 @@ What information is important to capture, process, aggregate, and report?
 Transactions modify specific economic components of the company.
 
 ![35%](topic_1_img/img_2.png)
+<!--
+Assets: ownership or control rights that are expected to produce future economic benefits. Location does not matter.
+-->
 
 ---
 ## 2.2 Assets: Classification
@@ -70,17 +73,25 @@ Current Assets
 2. Accounts receivable
 3. Inventory
 4. Prepaid expenses
-5. Other current assets
 
+<!--
+Transactions will regularly affect the same type of assets, thus it is practical to group them into accounts.
+- accounts receivable: money owed by customers
+- prepaid expenses: insurance, rent, etc.
+-->
 ---
 Non-current Assets
 
 1. Long-term investments
 2. Property, plant, and equipment
 3. Intangible assets
-4. Other non-current assets
 
 
+<!--
+- long-term investments: investments in other companies, bonds, etc.
+- property, plant, and equipment: land, buildings, machinery, etc.
+- intangible assets: patents, trademarks, goodwill, etc.
+-->
 
 ---
 ## 2.3 Liabilities: Classification
@@ -90,10 +101,11 @@ Current Liabilities
  4. Deferred/unearned revenues
  5. Current portion of Long-term debt
  6. Taxes payable
- 7. Other current liabilities
-
 
 <!--
+payable: money owed to suppliers
+accrued expenses: wages, interest, etc.
+deferred/unearned revenues: money received in advance from customers
 tax: income, value-added, estate tax, capital gains tax, property tax, etc. all of them due at different times
 --->
 ---
@@ -138,10 +150,16 @@ $$Assets=Liability+Equity$$
 - However, always the **accounting equation holds**.
 - This equation is the basis of **double-entry accounting.**
 
+<!--
+interpretations:
+1) assets are financed by liabilities and equity
+2) equity is the owners' residual claim on assets
+-->
+
 ---
 $$Assets=Liability+ Opening Equity + Net Income- Withdrawals $$
 - Net Income: Revenues - Expenses
-- Revenues increase Owner's Equity, whereas Expenses decrease it. 
+  - Revenues increase Owner's Equity, whereas Expenses decrease it. 
 - Owner's Equity is not static
 - This nuanced view captures how the dynamics of business operations impact the company's financial position.
 ---
@@ -149,7 +167,7 @@ $$Assets=Liability+ Opening Equity + Net Income- Withdrawals $$
 ---
 # 4. Revenue recognition
 
-It is the second pillar in accounting. It is the process of recording revenue in the financial statements. When a company records revenues, it must also record expenses. This is the **matching principle**:
+It is the second pillar in accounting. It is the process of recording revenue in the financial statements. When a company records revenues, it must also record related expenses. This is the **matching principle**:
 
 1. Recognizing revenue when earned, regardless of when payment is received.
 2. Expenses should be matched with revenues they helped to generate in the same period, even if payment occurs later.
@@ -196,15 +214,14 @@ She deposits $30,000 in a "Silvana eTravel SA" bank account.
 ### Transaction 2: Buying an office
 Silvana purchases an office, paying $20,000 in cash. ​
 
-Depreciation: $200​
+Montly Depreciation: $200​
 
 
 ---
 ### Transaction 3: Buying an office supplies
 Silvana buys office supplies, agreeing to pay $500 within 30 days.​
 
-These supplies will last until the end of the year
-
+These supplies will last until the end of the month
 
 ---
 ### Transaction 4: Earnings of Service Revenue
@@ -231,18 +248,17 @@ The labor cost of the service was $200.​
 
 Silvana eTravel during the month pays with cash:​
 
-Office rent, $1,100.​
+Wharehouse rent, $1,100.​
 
-Web Hosting, $1,200.​
 
-Utilities, $400.​
+Utilities, $1600.​
 
 
 ---
 
 ### Transaction 7: Long-term debt
 
-Silvana borrows $5.000 using a bank credit. The first year will pay $35 on interest expenses.
+Silvana borrows $5.000 using a bank credit. The first month generates $35 on interest expenses.
 
 
 ---
@@ -389,7 +405,7 @@ Why could other stakeholders be interested in this?​
 ---
 Components:
 1. Beginning balance of equity accounts
-2. **Common Stock**/**Subscribed Capital**: + capital increase; - Capital decrease
+2. **Common Stock**/**Subscribed Capital**: + capital increase; - capital decrease
 3. **Retained Earnings**: + net income; - net loss; - dividends
 4. Ending balance of equity accounts
 
@@ -418,7 +434,7 @@ Important Elements:
 ## 5.10 Management's Discussion and Analysis (MD&A)
 It is a section of the annual report that provides management's interpretation of the company's recent performance.​
 
-- Issues related tu current and future operations/performance
+- Issues related to current and future operations/performance
 - Favorable/unfavorable trends
 - Important events and uncertainties
 - Explanations of unusual or infrequent events
@@ -433,7 +449,7 @@ It is mainly forward-looking information.​
 
 ## 6.1 Context and Process
 
-Financial statements help to evaluate the financial performance and efficiency of the overall company and its different business segments
+Financial statements help to evaluate the financial performance and efficiency of the overall company and its different business segments.
 
 Managers have an advantage relative to external investors: they can rely on more data and request reports tailored to specific managerial questions. That will be the focus of the Managerial Accounting Sections.​
 
