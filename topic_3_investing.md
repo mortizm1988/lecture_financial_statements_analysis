@@ -62,27 +62,43 @@ How to identify lazy cash management?
 - More cash equivalents than cash without further explanation
 - Cash does not fluctuate symmetrically (it is never spent)
 
-Caution
-- Covenant restrictions: Sometimes cash is restricted because it is used as collateral for debt (ej, Ebay needed to hold $126 million in cash as collateral for debt, out of $400 million in cash)
+Caution: companies might have more cash in other parts of the balance sheet: **Restricted cash** (cash that is not available for general use)
+- Covenant restrictions: Sometimes cash is restricted because it is used as collateral for debt (e.g., Ebay needed to hold $126 million in cash as collateral for debt, out of $400 million in cash)
   
 ---
-:mag_right: Example Apple 2022
+:mag_right: Example Apple 2022 [5 min]
+1) Search: Balance sheet: cash and cash equivalents
+2) Search: Note 3 - Financial Instruments
 
+- How much cash does Apple have?
+- How is it invested?
+- How much is restricted?
+
+---
 ![](Slides/../topic_3_img/apple_cash.png)
 
 ---
 ![](Slides/../topic_3_img/apple_cash2.png)
 
 <!--
-Notice how the 38K of cash is invested in securities. This is a common practice to earn some interest on the cash. However, the cash is still reported as cash in the balance sheet.
+Notice how the 38K of cash (column 5) is invested in securities. This is a common practice to earn some interest on the cash. However, the cash is still reported as cash in the balance sheet.
 
-Discuss also the distribution of 52K in marketable securities.
+Discuss also the distribution of 52K in current marketable securities.
+-->
+---
+
+![](Slides/../topic_3_img/apple_cash3.png)
+
+<!--
+just a really small amount of cash is restricted
 -->
 
+<!--
 ---
 :mag_right: Example Inditex 2022
 
 ![](Slides/../topic_3_img/inditex_cash.png)
+-->
 
 ---
 ## 1.2 Receivables and collection risk
@@ -90,7 +106,7 @@ Basic definitions:
 
 Accounts receivable: amounts owed by customers for goods or services sold on credit
 
-Note receivable:  a formal written promise to receive a specific amount of money at a future date
+Note receivable: a formal written promise to receive a specific amount of money at a future date
 
 Others: interest receivable, taxes receivable, receivables from affiliated companies
 
@@ -98,9 +114,9 @@ Others: interest receivable, taxes receivable, receivables from affiliated compa
 ### Valuation of receivables
 - The valuation of receivables has two important inter-related impacts: assets and income
 - Companies do not collect 100% of their receivables:exclamation:
-- Thus, Receivables are recorded at their Net Realizable Value (NRV), which is the amount of cash the firm expects to collect
+- Thus, Receivables are recorded at their _Net Realizable Value_ (NRV), which is the amount of cash the firm expects to collect
   - NRV: total receivables - allowance for uncollectable accounts
-  - Uncollectable accounts are reported as a deduction of ( or writing off against)  receivables
+  - Uncollectable accounts are reported as a deduction of (or writing off against) receivables
   - Uncollectable accounts are estimated based on historical data and other factors
   - The expected loss is reported as Bad Debt Expense (operating expense)
   
@@ -108,13 +124,21 @@ Others: interest receivable, taxes receivable, receivables from affiliated compa
 ### Analyzing receivables
 - Is there any error or arbitrariness in estimating the allowance for uncollectable accounts?
 - Managers' incentives to overstate or understate the allowance for uncollectable accounts
-- Bad news:  information to assess collection risk for receivables is not included in the financial statements. Thus, we need to look for other sources of information:
+- Bad news: information to assess collection risk for receivables is not included in the financial statements. Thus, we need to look for other sources of information:
   - Peer's receivables as a percentage of sales
   - Customer concentration risk
   - Average collection period
 
 ---
-:mag_right: Example Grifols 2022
+:mag_right: Example Apple 2022 [5 min]
+1) Search: Balance sheet: accounts receivable, net
+2) Search: Note 3 - Financial Instruments
+
+- How much are the receivables?
+- What type of receivables are reported?
+- How much is the allowance for doubtful accounts?
+---
+:mag_right: Example Grifols 2022 (Note 14)
 
 ![](Slides/../topic_3_img/grifols_receivable.png)
 
@@ -137,6 +161,7 @@ Syntex 	Co. securitizes its entire receivables of $400 million with no recourse 
 2. After securitization with off-balance financing (as reported under US GAAP and IFRS)
 3. After securitization but reflecting the securitization as a borrowing (analyst’s adjustment)
 
+<!--
 ---
 ### Consolidation rules
 The consolidation rules regarding SPEs (Special Purpose Entities) are complex and are out of the scope of the course. The following normative are currently in place:
@@ -144,7 +169,7 @@ The consolidation rules regarding SPEs (Special Purpose Entities) are complex an
 [SFAS 104](https://fasb.org/Page/ShowPdf?path=fas140.pdf&title=FAS+140+%28AS+ISSUED%29&acceptedDisclaimer=true&Submit=)
 
 [FIN 46R](https://fasb.org/Page/ShowPdf?path=fin+46R.pdf&title=FIN+46%28R%29+%28AS+ISSUED%29&acceptedDisclaimer=true&Submit=)
-
+-->
 ---
 # 3. Inventory methods and inflation
 
@@ -153,12 +178,12 @@ The consolidation rules regarding SPEs (Special Purpose Entities) are complex an
 Basic definition:
 - Inventory: goods held for sale in the ordinary course of business or goods that will be used in the production of goods to be sold
 - Valuation of inventories affects both current assets and cost of goods sold (COGS)
-  1. First it affects current assets: inventory is reported at its cost
+  1. First it affects current assets: inventory is reported at its historical acquisition cost
   2. Then, as the inventory is sold, these costs are removed from the balance sheet and flow to the income statement as COGS 
 
 ---
 ## 3.1 Inventory methods
-- Assume that the following reflects the inventory records of a company:
+Assume that the following reflects the inventory records of a company:
  
 |Date|Units|Unit Cost|Total Cost|
 |---|---|---|---|
@@ -192,7 +217,7 @@ Case 2: Last-in, first-out (LIFO)
 
 In the balance sheet at the end of the period, the inventory is reported at $38.000 ($56.000-$18.000)
 
-Important: LIFO is not allowed in IFRS:exclamation: why :question: mainly because it delays or reduces the payment of taxes. Even it is not allowed in IFRS
+Important: LIFO is not allowed in IFRS:exclamation: why:question: mainly because it delays or reduces the payment of taxes. 
 
 ---
 Case 3: Average cost
@@ -244,16 +269,32 @@ Write-ups are not allowed under US GAAP and IFRS
 ---
 The main components of the cost of inventories are:
 - Direct materials: materials that are an integral part of the finished product and whose costs can be traced to the finished product
-- Labor: labor costs that can be traced to the finished product
+- Direct Labor: labor costs that can be traced to the finished product
 - Overhead: indirect costs that cannot be traced to the finished product
   - depreciation of manufacturing equipment, supervisory wages, utilities, etc
 
 ---
-- In a Cost Accounting course, you learn how to allocate overhead costs to the finished product: it is a complex process that requires a lot of assumptions and judgment.
-- Important for us: as the production level increases, more overhead cost is allocated to all units produced.  
-- Instead of expensing these costs as period expenses, they are included in the cost of inventories and remain on the balance sheet until the inventory is sold.
+In a Cost Accounting course, you learn how to allocate overhead costs to the finished product: it is a complex process that requires a lot of assumptions and judgment.
+
+Important for us: as the production level increases, more overhead cost is allocated to all units produced.  
+
+Instead of expensing these costs as period expenses, they are included in the cost of inventories and remain on the balance sheet until the inventory is sold.
 
 Takeaway: Profitability is overstated when production increases because part of the cost of inventories is not expensed in the period in which it is incurred.
+
+<!--
+develop this takeaway intuitively: 
+- what happen with the production costs when production increases?
+- where is the increased cost being hidden?
+- what happens with the income statement?
+-->
+
+---
+:mag_right: Example Apple 2010 [5 min]
+ 1) check the balance sheet: inventory
+ 2) Search "Note 1: Summary of Significant Accounting Policies" and go to inventory
+
+- How much is the inventory? What method is used?
 
 ---
 :mag_right: Example Colgate 2022
@@ -285,21 +326,21 @@ Allocation: is the assignment of the cost of an asset as an expense over its use
 - Depreciation: tangible asset
 - Amortization: intangible asset
 
-Allocation is not a valuation process. It is a way to match the cost of an asset with the revenues it generates :exclamation:
+Allocation is not a valuation process. It is a way to match the cost of an asset with the revenues it generates:exclamation:
 
 ---
 ### Depreciation methods
 
 -  Useful life: physical deterioration, technological obsolescence, legal life
--  salvage value: expected value of the asset at the end of its useful life
+-  Salvage value: expected value of the asset at the end of its useful life
 -  Allocation method: straight-line, accelerated, or units of production
 -  Managers decide which method to use at the time of acquisition
   
 ---
 Example  
 The purchase of a new machine has the following characteristics:
--  Purchase price: $800,000
--  Estimated residual value: $50,000
+- Purchase price: $800,000
+- Estimated residual value: $50,000
 - Expected useful life: 5 years
 - total production capacity: 100,000 units (15,000 units in year 1 and 23,000 units in year 2)
 
@@ -320,21 +361,29 @@ How does the solution change if the company uses the units of production method?
 - Depreciation in year 2: 7.5*23,000= $172,500
 - carrying amount after 2 years: 800,000-112,500-172,500= $515,000
 
-
-
+<!--
 ---
 ### Depletion
 - Depletion is the allocation of the cost of natural resources based on the unit exploitation of natural resources like coal, oil, gas, etc.
 - Thus, depletion depends on the production level
+---> 
 ---
 ### Impact on the financial statements
-- Capitalization: increases assets and equity
-- Income statement: Capitalization leads to higher and stable net income in the short term.
-  - Lumpy investments are smoothed out over time to match the cost of the asset with the revenues it generates
-- Operating Cash flows: When asset costs are capitalized, they are reported as investing cash outflows. When they are expensed, they are reported as operating cash outflows
-  - So expensing overstates operating cash outflows and understates investing cash outflows in the acquisition year compared with capitalization of costs.
+In sum, investing will have three impacts on the financial statements:
+1) Capitalization: increases assets and equity
+2) Income statement: Capitalization leads to higher and stable net income in the short term.
+     - Lumpy investments are smoothed out over time to match the cost of the asset with the revenues it generates
+3) Operating Cash flows: When asset costs are capitalized, they are reported as _investing cash outflows_. (In contrast, if they were expensed, they are reported as _operating cash outflows_)
 
+---
+:mag_right: Example Apple 2010 [5 min]
+ 1) Check the balance sheet: Property, plant and equipment, Net
+ 2) Search "Note 1: Summary of Significant Accounting Policies" and go to "Property, Plant and Equipment"
+ 3) Search "Note 4 – Consolidated Financial Statement Details" and go to "Property, Plant and Equipment, Net"
 
+- How much PPE? How it is distributed among assets?
+- What method is used to depreciate PPE? Expected useful life?
+- How much have already being depreciated? Average residual life?
 ---
 :mag_right: Example Grifols 2022
 
@@ -346,7 +395,7 @@ Impairment: is the write-down of an asset to its fair value when its carrying va
 - Recoverable amount. The higher of:
   - Fair value less cost to sell
   - Value-in-use.
-- carrying value: cost of the asset less accumulated depreciation
+- Carrying value: cost of the asset less accumulated depreciation
 
 ---
 Example (Under IFRS)
@@ -355,7 +404,7 @@ Barceloneta Inc. reports under IFRS, and its manager has collected the following
 - Fair value: 28 million euros
 - Selling costs: 1.5 million euros
 - PV of expected future cash flows (disc.): 33 million euros
-- Total value of expected future cash flows (undisc.) 35.5 million euros
+- Total value of expected future cash flows (no disc.) 35.5 million euros
 
 What is the amount of the impairment loss?
 
@@ -386,16 +435,16 @@ Therefore, no impairment loss is recognized under US GAAP
 ---
 ### Impact on the financial statements
 In the period when the impairment loss is recognized:
-- Impairments reduce the carrying value of the asset 
-- Impairments reduce equity (retained earnings)
-- Impairments are charged against revenues
+1) Impairments reduce the carrying value of the asset 
+2) Impairments reduce equity (retained earnings)
+3) Impairments are charged against revenues
   
 ---
 # 5. Intangible assets and goodwill
 ---
 # 5. Intangible assets and goodwill
 
-Definition: Intangible assets are long-term assets that have no physical substance but value based on the rights or privileges granted to the company using them. This value, however, is not easy to determine: too much uncertainty
+Definition: Intangible assets are long-term assets that have no physical substance but are valued based on the rights or privileges granted to the company using them. This value, however, is not easy to determine: too much uncertainty
 - Patents
 - Copyright
 - Trademarks
@@ -411,7 +460,7 @@ Incorporation/Generation of intangible assets
   - R&D cost (at least in the US and R in most of Europe)
   - Why? Accounting conservatism: too much uncertainty about the future benefits of these assets
 - Exceptions: Software development costs are capitalized, also some identifiable intangible assets such as patents, trademarks, etc.
-  - The capitalized costs of these cases may include legal fees, design and testing costs, registration fees, and other direct expenditures.
+  - The capitalized costs of these cases may include legal fees, design and testing costs, registration fees, and other direct expenditures
 
 
 ---
@@ -450,13 +499,15 @@ Definition: Goodwill is the excess of the purchase price over the fair value of 
 Example: your company purchases at $7 million a company with assets fair value of $6 million. The excess of $1 million is recorded as goodwill.
 
  Why to pay more?
-- assets such as reputation, know-how, customer relationships, etc. are not recorded in the balance sheet
-- synergies: the value of the combined company is higher than the sum of the parts
-
+- Assets such as reputation, know-how, customer relationships, etc. are not recorded in the balance sheet
+- Synergies: the value of the combined company is higher than the sum of the parts
 
 
 ---
-:mag_right: Example Colgate 2022
+<!--
+Explain that we dont do Apple because this company does not report intangible
+-->
+:mag_right: Example Colgate 2022 (Note 5)
 
 ![](Slides/../topic_3_img/colgate_intangible.png)
 
@@ -474,20 +525,26 @@ Example: your company purchases at $7 million a company with assets fair value o
 # 6. Asset revaluations under IFRS
 ---
 # 6. Asset revaluations under IFRS
-- Under IFRS, companies can write up their assets to fair value
+Under IFRS, companies can write up their assets to fair value
   - This departs from a long-held tradition of LCM
-- Scenarios:
-   A. reversal of prior impairment as long as the write-up does not exceed the depreciated historical cost of the asset. [IFRS IAS 36](https://www.grantthornton.global/en/insights/articles/IFRS-ias-36/ifrs-Reversing-impairment-losses/)
-      - E.g., markets could reverse earlier declines in the value of the asset
-      - this increases gains in the period' Income Statement and the net value of the asset and retained earnings in the Balance Sheet
+
+Scenarios:
+
+- A. reversal of prior impairment as long as the write-up does not exceed the depreciated historical cost of the asset. [IFRS IAS 36](https://www.grantthornton.global/en/insights/articles/IFRS-ias-36/ifrs-Reversing-impairment-losses/)
+      
+    - E.g., markets could reverse earlier declines in the value of the asset
+    
+    - this increases gains in the Income Statement and the net value of the asset and retained earnings in the Balance Sheet
 
 --- 
-- Scenarios:
-   B. creation of revaluation surplus [IFRS IAS 16](https://www.ifrs.org/issued-standards/list-of-standards/ias-16-property-plant-and-equipment/)
-       - in this case, the company decides to estimate the fair value for all the assets in a class periodically and write up/down to reflect the current fair value
-       - if the fair value is above historical cost, the difference is recorded as a revaluation surplus in the equity section of the Balance Sheet (and not in the income statement:exclamation:)
-       - depreciation: only the historical cost, not the revaluation surplus
-       - the method stops when the fair value is equal to the historical cost
+Scenarios:
+ 
+ - B. creation of revaluation surplus [IFRS IAS 16](https://www.ifrs.org/issued-standards/list-of-standards/ias-16-property-plant-and-equipment/)
+    
+    - in this case, the company decides to estimate the fair value for all the assets in a class periodically and write up/down to reflect the current fair value
+    - if the fair value is above historical cost, the difference is recorded as a revaluation surplus in the equity section of the Balance Sheet (and not in the income statement:exclamation:)
+    - depreciation: only the historical cost, not the revaluation surplus
+    - the method stops when the fair value is equal to the historical cost
 
 ---
 Example revaluation method (1):

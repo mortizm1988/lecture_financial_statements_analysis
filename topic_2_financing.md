@@ -25,7 +25,7 @@ Marcelo Ortiz
 ---
 #  How do financing decisions affect the financial statements:question:
 
-1. Liabilities
+1. Financing liabilities
 2. Leases
 3. Contingent liabilities and commitments
 4. Off-balance-sheet financing
@@ -38,10 +38,10 @@ consider to add
 - unearned revenues
 -->
 ---
-# 1. Liabilities
+# 1. Financing liabilities
 
 ---
-# 1. Liabilities
+# 1. Financing liabilities
 ## 1.1 Types of Liabilities 
 Our analysis starts distinguishing between two types of liabilities:
 
@@ -51,7 +51,7 @@ B. :page_with_curl: Operating liabilities: obligations that arise from normal bu
 
 Of course, by traditional reporting purposes, liabilities are also classified as current or noncurrent, based on whether the obligation is expected to be satisfied within one year or the operating cycle, whichever is longer.
 
----
+
 <!--
 # 1.2 Liabilities: Current
   ### Valuation
@@ -70,19 +70,56 @@ Of course, by traditional reporting purposes, liabilities are also classified as
 - Noncurrent liabilities are reported at their present value, which is the amount that will be paid to satisfy the obligation, or at fair value.
 - Bond issuance costs are amortized over the life of the bond using the effective interest method: legal fees, underwriting fees, and discounted value (sell price - face or par value).
 -->
+---
 Let's start by focusing on financing liabilities.
 
 One could take the numbers from the financial statements and compute solvency ratios.
 Or consider key information from:
 
 **The Notes:**
- - Interest rates, maturity dates, conversion privileges, and call provisions.
+ - Interest rates, maturity dates, conversion privileges, and redemption clauses.
 
-**The Managerial report**
- - Expectation of refinancing, debt covenants, and other restrictions.
+**The Managerial report:**
+ - Expectation of refinancing, debt covenants getting tight, and future financing needs.
+<!--
+"conversion privileges" refer to an option embedded within a convertible bond that allows the bondholder to convert the bond into a predetermined number of shares of the issuer's common stock. Here are some key aspects:
 
+- Conversion Ratio: This specifies the number of shares each bond can be converted into. The ratio is fixed at the time of issuance.
+
+- Conversion Price: This is the predetermined price at which the bondholder can convert each bond into shares. It is often set at a premium to the current stock price at the time of issuance.
+
+- Conversion Period: There is usually a defined time frame during which the bondholder can exercise the conversion option.
+
+- Forced Conversion: Some bonds come with a clause that allows the issuer to force conversion once certain conditions, like the stock price reaching a certain level, are met.
+
+Redemption" refers to the act of repaying the principal amount of a debt instrument, such as a bond, at or before its maturity date. This is often done along with any unpaid interest accrued up to the redemption date. Here are some key points to consider:
+
+- Redemption at Maturity: The most straightforward form of redemption occurs when the issuer repays the principal when the bond reaches its maturity date.
+
+- Call Provision: Some debt instruments have "callable" features that allow the issuer to redeem the bond before its maturity at a specified "call price."
+
+- Sinking Fund: In some cases, an issuer is required to periodically set aside money in a sinking fund, which is then used to redeem bonds either at maturity or before.
+
+- Make-Whole Provision: This allows the issuer to redeem the bond before maturity but requires them to make a lump-sum payment calculated to compensate investors for the interest payments they'll miss out on.
+
+- Redemption Premium: Sometimes, a premium is paid by the issuer for the privilege of redeeming a bond early, providing additional compensation to the bondholders.
+
+Covenants are contractual clauses in loan agreements or bond indentures that stipulate certain conditions the borrower must meet, either to protect the lender's interests or ensure the borrower maintains a certain level of financial health. Here are some types of covenants commonly seen:
+
+- Affirmative Covenants: These require the borrower to meet certain conditions, like maintaining a minimum level of working capital, providing periodic financial statements, or ensuring proper insurance.
+
+- Negative Covenants: These restrict what the borrower can do. For example, they may prohibit the borrower from incurring additional debt, paying dividends, or selling major assets without the lender's consent.
+
+Financial Covenants: These covenants may stipulate financial ratios that the borrower must maintain, such as debt-to-equity, interest coverage, or liquidity ratios.
+
+Incurrence Covenants: These covenants only take effect when the borrower takes a specific action, like taking on more debt or engaging in an acquisition.
+
+Maintenance Covenants: Unlike incurrence covenants, these require the borrower to meet certain conditions throughout the life of the loan, often tested at regular intervals.
+
+Violating a covenant can result in penalties, or in severe cases, trigger a default,
+-->
 ---
-- **The business press**
+ **The business press:**
  
 ![Alt text](Slides/../topic_2_img/apple_news.png)
 
@@ -100,17 +137,22 @@ Once we have a better picture of how the debt structure would look in the near f
 ---
 :mag_right: **Example Apple 2020 [10 min]**
 
+(Remember: class participation: 20% final grade :wink:)
+
 
 1) Search liabilities in the balance sheet. 
    - Here we just have very aggregated values.
 2) Search: "Note 6-Debt" and "DESCRIPTION OF DEBT SECURITIES":
 
-Identify the location of the following information: type of instruments, maturities, interest rates, ranking/seniority, redemption, and covenants.
+Get the following information: type of instruments, maturities, interest rates, ranking/seniority, redemption, and covenants.
   - How is the debt distributed (maturity, type of instrument)?
   - What are the interest rates in these debt contracts? [How is the market now?](https://markets.businessinsider.com/bonds) 
   - Is any big maturity coming up soon? News from rolling over?
+   
 <!--
 focus: "The 2024 Notes: 1.375%, 1 billion. Now will be above 4-5%"
+
+Mention that if we wants to know more about the covenants, we need to go to the bond indenture.
 -->
 
 ---
@@ -129,7 +171,7 @@ Therefore, it is not surprising that the credit rating of a bond is a major dete
 1) the interest rate that the issuer must pay to sell the bond.
 2) the fair value of the issued bonds in the market.
   
----
+
 <!--
 ## Bond valuation and credit ratings
 
@@ -142,6 +184,7 @@ This problem is more severe when the company has a large amount of debt and a sm
 
 ---
 -->
+---
 # 2. Leases
 
 ---
@@ -150,7 +193,7 @@ This problem is more severe when the company has a large amount of debt and a sm
 Now we move into operating liabilities ground.
 
 ## 2.1 Definitions and key elements
-- It is a contractual agreement between a **lessor** (owner) and a **lessee** (user) that gives the lessee the right to use an asset owned by the lessor for a specified period of time in exchange for periodic rental payments.
+- It is a contractual agreement between a **lessor** (owner) and a **lessee** (user) that gives the lessee the right to use an asset owned by the lessor for a specified period of time in exchange for periodic payments.
 
 ---
 Contracting terms: 
@@ -161,30 +204,41 @@ Contracting terms:
 
 ----
 ## 2.2 Capital vs. Operating Leases
-- Capital lease: a lease that transfers substantially all the benefits and risks of ownership to the lessee: new assets and liability
-- Operating lease: all other leases: no new assets nor liability, just rental expenses.
-
+- Capital lease: substantial transference of all the benefits and risks of ownership to the lessee.
+  - Recognition of a new asset (_right-of-use asset_) and liability.
+- Operating lease: all other leases.
+  - Recognizing just rental expenses.
+ 
 Strong incentive to structure leases as operating leases even when they are economically equivalent to capital leases.
 - Operating leases are not reported on the balance sheet.
 - Off-balance-sheet financing.
 - Tax considerations.
+
+<!--
+New  IFRS 16 LEASES: the lesse does not  use this classification anymore. Starting from 2019, all leases are capital leases. 
+-->
 ---
 ## An illustrative example
 - A company leases an asset on January 1, 2005.
 - The company has no other assets or liabilities.
 - The estimated economic life of the leased asset is 5 years and no residual value is expected.
+- The lease has a fixed noncancelable term of 5 years with MLP of $2,505 per year, payable at the end of each year. The interest rate on the lease is 8% per year.
 - Depreciation is computed using the straight-line method.
-- The lease has a fixed noncancelable term of 5 years with MLP of $2,505 per year, payable at the end of each year.
-The interest rate on the lease is 8% per year.
+
 ---
 First, let's compute the present value of the MLP.
 Remember that the PV of an annuity is given by $P_0=\frac{1-1/(1+i)^n}{i}$. In this case, $i=8\%$ and $n=5$.
 - $P_0=\frac{1-1/(1.08)^5}{0.08}=3.9927$
-- Leased asset value = $2.505\times 3.9927=10.000$
+- Leased asset value = $\$2.505\times 3.9927=10.000$
 
 Second, compute the interest expense and depreciation expense for each year.
 
 ---
+<style scoped>
+table {
+  font-size: 15px;
+}
+</style>
 
 | Year  | Op. Lease (Rental exp.) | Interest exp. | Dep. exp. | Cap. Lease |
 | ----- | ----------------------: | ------------: | --------: | ---------: |
@@ -197,10 +251,11 @@ Second, compute the interest expense and depreciation expense for each year.
 
 Total expense is identical for both cases, but the timing is different: capital lease reports more expenses earlier :chart_with_upwards_trend: :vs::chart_with_downwards_trend:
 
+But more importantly: the operating lease does not report any liability (nor asset) in the balance sheet.
+
+<!--
 ---
 - Operating lease are very common.
-
-- What if we consider the lease as a capital lease? How big is the off-balance-sheet financing?
 
 **Some famous cases**
 
@@ -208,7 +263,7 @@ Tesco, a UK-based supermarket giant, had significant real estate obligations tha
 
 ---
 IBM often used operating leases to acquire computer equipment and data centers. This provided them flexibility and enabled them to keep pace with rapidly evolving technology. By using operating leases, IBM managed to keep large liabilities off its balance sheet, thus affecting important financial ratios like the debt-to-equity ratio.
-
+-->
 ---
 ## 2.4 Capital lease criteria
 A lease is classified as a capital lease if any of the following conditions are met:
@@ -233,7 +288,7 @@ A lease is classified as a capital lease if any of the following conditions are 
 Search: "Note 12- Leases"
 1) Identify the type of assets being leased.
 2) Identify where the lease asset and the lease liability are reported.
-3) What fraction of lease agreements are capital/finance leases?
+3) What fraction of lease agreements are capital/finance vs operating leases?
 4) Identify the lease maturity schedule.
 
 
@@ -254,13 +309,17 @@ Search: "Note 12- Leases"
 
 ---
 ## 2.6 Impact of Operating Leases on Financial Statements
-1. Understate liabilities by keeping lease obligations off the balance sheet. Impact solvency ratios.
+1. Understate liabilities by keeping lease obligations out of the balance sheet. Impact solvency ratios.
 1. Understate assets, inflating return on investment and assets turnover ratios.
 2. Delay the recognition of expenses, inflating net income and EPS.
 
 Now it should be clear why operating leases are so popular: it positively affects key ratios that are used by investors and creditors to assess the financial health of the company.
 
 ---
+<!-- 
+So, if we suspect that a company is using operating leases to keep liabilities out of the balance sheet, we should try to quantify the impact of the operating leases on the financial statements.
+-->
+
 ## 2.7 Converting Operating Leases to Capital Leases
 Many analysts and investors try to convert operating leases to capital leases to assess the impact of operating leases on financial statements.
 
@@ -273,9 +332,8 @@ Data from the 2022 annual report of Colgate-Palmolive.
 
 Estimate the length of the remaining period beyond the 5 years disclose in the Notes: $\$201/50=4.02$ years.
 
-Add this length to the 5 years of the 2003-leases: 9.02 years.
+Add this length to the 5 years of the 2023-leases: 9.02 years.
 
----
 Many would argue that a 9-year commitment for operating leases is too long to ignore.
 
 So, we need to evaluate how much the financial statements would change if we capitalize on the operating leases.
@@ -309,16 +367,24 @@ Conclusion: No red flags.
 # 3. Commitments and contingent liabilities
 ## 3.1 Contingent liabilities
 
-A contingent liability is a potential loss that depends on some future event.
+A contingent liability is a potential loss that depends on some future event such as litigation, threats of expropriation, product warranties, etc.
 
-They arise from litigation, threats of expropriation, product warranties, tax assessments, catastrophic losses of properties, etc.
+Conditions for recognizing a contingent loss in the balance sheet:
+1) Probable Occurrence: The future event that would trigger the loss is more likely than not to occur. 
 
-Conditions for recognizing a contingent loss:
-   1. It is _probable_ that an asset will be impaired, or a liability incurred (i.e., it is likely that an event will confirm the loss).
-   2. A _reasonable estimate_ of the loss can be made.
+2) Reasonable Estimation: The amount of the loss can be reasonably estimated. 
+   
+In other cases the disclosure without recognition may be required.
 
+<!--
+In U.S. GAAP, "probable" is often interpreted as a likelihood of more than 50%.
+Under IFRS, the terminology is slightly different but the essence is similar:
+- Present Obligation: A present obligation must exist as a result of past events.
+- Outflow of Resources: It is probable that an outflow of resources embodying economic benefits will be required to settle the obligation.
+- Reliable Estimate: A reliable estimate can be made of the amount of the obligation.
+-->
 ---
-If one or both conditions are not met, then the company must disclose the contingency in the Notes when there is at least a _reasonable possibility_ that a loss will occur.
+The company must disclose the contingency in the Notes when there is at least a _reasonable possibility_ that a loss will occur.
 
 Reported contingent liabilities are based on the company's estimates.
  -  Prior experience or future expectations.
@@ -330,12 +396,15 @@ Note disclosure should include the following information about contingencies:
 1. Nature of the contingency.
 2. Degree of uncertainty about the outcome.
 3. The possible range of loss.
+   
 Of course, it is reasonable to assume that companies will disclose only the information that is favorable to them.
 
 Typical examples of contingent liabilities:
 -  Litigation: lawsuits, claims, and assessments.
 
-
+<!--
+discuss: litigation and telling the plantiff how much money you are expecting to pay will impact how much he will demand.
+-->
 ---
 ## 3.2 Commitments
 A commitment is a potential claim against a company's resources that depends on some future event under contract.
@@ -347,10 +416,13 @@ Frequent commitments:
 ---
 :mag_right: **Example Apple 2020 [5 min]**
 
-Search: "Note 10 – Commitments and Contingencies"
+Search: Balance sheet "Commitments and Contingencies."
+
+Search: "Note 10 – Commitments and Contingencies."
 
 1) Identify the type of commitments.
-   - How much is the total amount of Unconditional Purchase Obligation? Compare to debt or total liability.
+   - How much are the accrued warranties? Iphone upgrade program as a guarantee liability.
+   - What are the Unconditional Purchase Obligations? Compare the amount to debt or total liability.
 2) What is the most common type of contingent liabilities?  Is any of them material?
 
 ---
@@ -371,15 +443,12 @@ It refers to the non-recognition of financing activities in the financial statem
 ## 4.1 Joint ventures
 A joint venture is a business entity created by two or more parties, generally characterized by shared ownership, shared returns and risks, and shared governance.
 
-Steps
-1. The company creates a separate entity and provides financing not exceeding 50% of the total capital.
+Steps for hiding debt (don't do it!)
+1. The company creates a separate entity and provides financing _not exceeding 50%_ of the total capital.
    - The company does not consolidate the joint venture: it is treated as an investment. 
 2. The separate entity borrows money from a bank and uses the money to purchase assets.
 3. The separate entity leases the assets to the company.
----
-Examples:
--  Avis Rent-A-Car.
--  Oil companies: joint ventures to building and operating pipelines.
+
 ---
 ## 4.2 Special purpose entities (SPEs)
 A special purpose entity (SPE) is a legal entity created to fulfill narrow, specific or temporary objectives.
@@ -387,7 +456,7 @@ A special purpose entity (SPE) is a legal entity created to fulfill narrow, spec
 - And for accounting fraud :bomb:
  
 ---
-Steps
+Steps for hiding debt (don't do it!)
 1. The company, called the _sponsor_, forms a separate entity and capitalizes it with equity investment, some of which must be from independent third parties.
 2. The SPE issues debt and uses the proceeds to purchase earnings assets from or for the sponsoring company.
 3. The cash flow from the earnings assets is used to pay the debt and provide a return to the equity investors.
@@ -398,8 +467,8 @@ Example 1 Securitization of receivables:
 Steps:
 1. Companies sell their receivables to SPEs, which issue debt to finance the purchase.
    - :arrow_double_down: Receivables and :arrow_double_up: Cash
-2. SPE collateralizes bonds with receivables.
-3. SPE sells the bonds to investors, the proceeds are used to purchase more receivables on an ongoing basis.
+2. SPE issues collateralized bonds with the receivables.
+3. SPE sells the bonds to investors; the proceeds are used to purchase more receivables on an ongoing basis.
 
 ---
 Example 2 Commitments to purchase assets:
@@ -409,7 +478,7 @@ Steps:
 1. Companies execute a contract with the SPE to purchase the output of a plant.
 2. The SPE issues debt to finance the construction of the plant
    - collateral: contract and the property 
-3. SPE fund the construction of the plant with the debt proceeds.
+3. SPE funds the construction of the plant with the debt proceeds.
 
 The company obtains the benefit of the plant without recording the debt on its balance sheet.
 
@@ -418,8 +487,14 @@ Why SPEs are so popular :question:
 1.  They allow companies to obtain lower-cost financing.
    -  As SPEs are restricted to a single purpose, they are less risky than the sponsoring company.
 2.  They allow companies to avoid violating debt covenants.
-   - if structured properly, the SPE is not consolidated in the sponsoring company's financial statements.
-
+   - If structured properly, the SPE is not consolidated in the sponsoring company's financial statements.
+---
+Reporting of Joint Ventures and SPEs:
+- Very limited information in the annual reports:
+  - Check Apple 2020: "Exhibit 21.1"
+  - Check Inditex 2022: "Appendix 1: Composition of the Inditex Group".
+  - Check Grifols 2022: "Appendix II: Classification of financial assets by category".
+- In practice, it is more common to rely on specialized business databases like [Orbis](https://www.bvdinfo.com/en-gb/) or [Capital IQ](https://www.spglobal.com/marketintelligence/en/solutions/sp-capital-iq-pro). 
 ---
 :mag_right:  Example: Colgate-Palmolive 2022
 
@@ -525,8 +600,7 @@ Common variations in the capital stock:
 -  issuance of new stocks
 -  repurchase of stocks
 -  conversion of debentures and preferred stocks
--  stock buybacks
--  reverse stock splits
+
   
 ---
 Less common reasons to keep in mind:
@@ -573,7 +647,7 @@ At the moment of getting the loan:
 | 1) Balance Sheet | Cash: +10,000 |
 |  | Bank Loan:  +10,000 |
 | 2) Income Statement | No Impact |
-| 3) CF Statement | Financing Act: +10,000 |
+| 3) CF Statement | Financing act: +10,000 |
 
 ---
 At the end of the year (*ceteris paribus*):
@@ -584,7 +658,7 @@ At the end of the year (*ceteris paribus*):
 |  | Bank Loan: no changes (10,000)|
 | | Interest payable: +923.08 (=1,000 x (12/13) |
 | 2) Income Statement | Interest exp: +923.08 |
-| 3) CF Statement | Financing Act: no changes (10,000) |
+| 3) CF Statement | Financing act: no changes (10,000) |
 
 ---
 After paying the loan (*ceteris paribus*):
@@ -595,4 +669,15 @@ After paying the loan (*ceteris paribus*):
 |  | Bank Loan: -10,000 |
 | | Interest payable: -1,000 |
 | 2) Income Statement | Interest exp: +76,92 |
-| 3) CF Statement | Financing Act: -11,000 |
+| 3) CF Statement | Financing act: -11,000 |
+---
+IFRS vs. US GAAP: classification of interest and dividends in the CF statement
+
+|  |US GAAP | IFRS | 
+| --- | --- | --- |
+| interest paid | Operating | Operating or Financing |
+| dividend paid | Financing | Operating or Financing |
+| interest received | Operating | Operating or Financing |
+|  dividend received | Operating | Operating or Financing |
+
+
