@@ -35,9 +35,16 @@ Marcelo Ortiz
 consider to include
 - prepaid expenses
 - deferred taxes
+- inventories: from fifo to lifo
 -->
 ---
 # 1. Cash and cash equivalents
+
+<!--
+focus here: 
+- is the company managing its cash efficiently?
+- does the company hold more lazy cash than what the balance sheet reports?
+-->
 
 ---
 # 1. Cash and cash equivalents
@@ -47,12 +54,11 @@ Basic definitions:
 
 ---
 ## 1.1 Analyzing Cash and Cash Equivalents
-The focus is determining whether the company has enough cash to meet its obligations and take advantage of opportunities.
+The focus is determining whether the company has enough cash to meet its obligations and take advantage of opportunities, but it is not sitting on too much cash that could be distributed to shareholders or invested in other projects.
 
-Efficient cash management balances multiple uses of cash:
+An efficient cash management balances multiple uses of cash:
   - Meet current obligations
-  - Take advantage of opportunities
-  - Invest excess cash
+  - Take advantage of investment opportunities
   - Pay dividends
   - Hedge adverse shocks (risk management)
 
@@ -62,8 +68,10 @@ How to identify lazy cash management?
 - More cash equivalents than cash without further explanation
 - Cash does not fluctuate symmetrically (it is never spent)
 
-Caution: companies might have more cash in other parts of the balance sheet: **Restricted cash** (cash that is not available for general use)
-- Covenant restrictions: Sometimes cash is restricted because it is used as collateral for debt (e.g., Ebay needed to hold $126 million in cash as collateral for debt, out of $400 million in cash)
+---
+## 1.2 Restricted cash
+Caution: companies might have more cash than the amount reported in the balance sheet: **Restricted cash** (cash that is not available for general use).
+- Covenant restrictions: Sometimes cash is restricted because it is used as collateral for debt (e.g., Ebay needed to hold $126 million in cash as collateral for debt, out of $400 million in cash).
   
 ---
 :mag_right: Example Apple 2022 [5 min]
@@ -72,56 +80,65 @@ Caution: companies might have more cash in other parts of the balance sheet: **R
 
 - How much cash does Apple have?
 - How is it invested?
-- How much is restricted?
+- How much is restricted? What is the reason/nature of restrictions?
 
 ---
-![](Slides/../topic_3_img/apple_cash.png)
-
----
-![](Slides/../topic_3_img/apple_cash2.png)
 
 <!--
+![](Slides/../topic_3_img/apple_cash.png)
+
+![](Slides/../topic_3_img/apple_cash2.png)
+
 Notice how the 38K of cash (column 5) is invested in securities. This is a common practice to earn some interest on the cash. However, the cash is still reported as cash in the balance sheet.
 
 Discuss also the distribution of 52K in current marketable securities.
--->
----
 
 ![](Slides/../topic_3_img/apple_cash3.png)
 
-<!--
 just a really small amount of cash is restricted
--->
 
-<!--
 ---
+-->
 :mag_right: Example Inditex 2022
 
 ![](Slides/../topic_3_img/inditex_cash.png)
--->
+
 
 ---
-## 1.2 Receivables and collection risk
+# 2 Receivables and collection risk
+
+<!--
+focus here:
+- the risk on growing sales based on a rise of credit sales
+- 2009 housing bubble and the risk of credit sales
+- very difficult to assess the risk of credit sales
+--->
+---
+# 2 Receivables and collection risk
 Basic definitions:
 
-Accounts receivable: amounts owed by customers for goods or services sold on credit
+- Accounts receivable: amounts owed by customers for goods or services sold on credit
 
-Note receivable: a formal written promise to receive a specific amount of money at a future date
+- Note receivable: a formal written promise to receive a specific amount of money at a future date
 
-Others: interest receivable, taxes receivable, receivables from affiliated companies
+- Others: interest receivable, taxes receivable, receivables from affiliated companies
+
+[Appendix: How do new credit sales impact the financial statements?](./topic_3_investing.html#62)
 
 ---
-### Valuation of receivables
-- The valuation of receivables has two important inter-related impacts: assets and income
-- Companies do not collect 100% of their receivables:exclamation:
+### 2.1 Valuation of receivables
+The valuation of receivables has two impacts on financial statements:       
+  1) Current assets: net receivables 
+  2) Operating expenses: bad debt expense
+
+Companies do not collect 100% of their receivables:exclamation:
 - Thus, Receivables are recorded at their _Net Realizable Value_ (NRV), which is the amount of cash the firm expects to collect
   - NRV: total receivables - allowance for uncollectable accounts
-  - Uncollectable accounts are reported as a deduction of (or writing off against) receivables
-  - Uncollectable accounts are estimated based on historical data and other factors
-  - The expected loss is reported as Bad Debt Expense (operating expense)
+    - Uncollectable accounts are estimated and reported as a deduction of receivables
+    - The expected loss is reported as _Bad Debt Expense_ (operating expense)
   
  --- 
-### Analyzing receivables
+### 2.2 Analyzing receivables
 - Is there any error or arbitrariness in estimating the allowance for uncollectable accounts?
 - Managers' incentives to overstate or understate the allowance for uncollectable accounts
 - Bad news: information to assess collection risk for receivables is not included in the financial statements. Thus, we need to look for other sources of information:
@@ -146,13 +163,13 @@ Others: interest receivable, taxes receivable, receivables from affiliated compa
 Notice that most of the receivables are from its business group, not customers. This is a common practice in the pharmaceutical industry.
 -->
 ---
-### Securitization or Factoring of receivables
+### 2.3 Securitization or Factoring of receivables
 - Receivables can be sold to a third party (bank, financial institution, etc.) in exchange for cash
 - The third party usually pays less than the face value of the receivables and finances the purchase by issuing debt to the capital markets.
 - The collection of those receivables provides the cash flow to pay the debt
 - Should the factored receivables be reported as assets :question:
   - Receivables can be kept off the balance sheet if the company surrenders all control over the receivables to an independent buyer.
-  - If the company has any degree of retained interest in the receivables, they should be reported as an asset
+  - If the company has any degree of retained interest in the receivables, they should be reported as an asset.
   
 ---
 ### Example: Factoring of receivables
@@ -173,13 +190,20 @@ The consolidation rules regarding SPEs (Special Purpose Entities) are complex an
 ---
 # 3. Inventory methods and inflation
 
+<!--
+the focus here
+1) accounting inventory methods have a clear impact on profitabity
+2)  People tend to think that operating expenses increased when production increases. However, this is not the case. The costs are hidden in the inventory.
+-->
+
 ---   
 # 3. Inventory methods and inflation
 Basic definition:
-- Inventory: goods held for sale in the ordinary course of business or goods that will be used in the production of goods to be sold
-- Valuation of inventories affects both current assets and cost of goods sold (COGS)
-  1. First it affects current assets: inventory is reported at its historical acquisition cost
-  2. Then, as the inventory is sold, these costs are removed from the balance sheet and flow to the income statement as COGS 
+- Inventory: goods held for sale in the ordinary course of business or goods that will be used in the production of goods to be sold.
+  
+The valuation of inventories has two impacts on financial statements:  
+  1. Current assets: inventory (historical acquisition cost).
+  2. Then, as the inventory is sold, these costs are removed from the balance sheet and flow to the income statement as _Cost Of Good Sold_ (COGS).
 
 ---
 ## 3.1 Inventory methods
@@ -194,8 +218,8 @@ Assume that the following reflects the inventory records of a company:
 Now assume that 30 units are sold at $800 each. What is the gross profit under each method?
 
 ---
-Case 1: First-in, first-out (FIFO)
-- The first units purchased are the first units sold
+Case 1: First-in, first-out (FIFO).
+- The first units purchased are the first units sold.
 
 |Method| FIFO|
 |---|---|
@@ -203,11 +227,11 @@ Case 1: First-in, first-out (FIFO)
 |COGS (30 @ 500)| $15.000|
 |Gross Profit| $9.000|
 
-In the balance sheet at the end of the period, the inventory is reported at $41.000 ($56.000-$15.000)
+In the balance sheet at the end of the period, the inventory is reported at $41.000 ($56.000-$15.000).
 
 --- 
-Case 2: Last-in, first-out (LIFO)
-- The last units purchased are the first units sold
+Case 2: Last-in, first-out (LIFO).
+- The last units purchased are the first units sold.
   
 |Method| LIFO|
 |---|---|
@@ -215,13 +239,13 @@ Case 2: Last-in, first-out (LIFO)
 |COGS (30 @ 600)| $18.000|
 |Gross Profit| $6.000|
 
-In the balance sheet at the end of the period, the inventory is reported at $38.000 ($56.000-$18.000)
+In the balance sheet at the end of the period, the inventory is reported at $38.000 ($56.000-$18.000).
 
 Important: LIFO is not allowed in IFRS:exclamation: why:question: mainly because it delays or reduces the payment of taxes. 
 
 ---
 Case 3: Average cost
-- The weighted average cost of all units is used to determine COGS
+- The weighted average cost of all units is used to determine COGS.
 
 |Method| Average|
 |---|---|
@@ -232,11 +256,11 @@ Case 3: Average cost
 In the balance sheet at the end of the period, the inventory is reported at $39.200 (70 units @ $560)
 
 ---
-Discussion
-- Profitability: FIFO results in higher gross profit than LIFO when input prices are rising
+The impact of inflation on financial statements via inventory methods:
+- Profitability: FIFO results in higher gross profit than LIFO when input prices are rising.
 - Balance sheet: FIFO results in higher inventory than LIFO when input prices are rising
 - Cash flows: liquidity squeeze under FIFO when input prices are rising.
-  - More profit implies more (cash) tax payments
+  - More profit implies more (cash) tax payments.
   - Inventory needs to be replaced at a replacement cost higher than the original costs. This can be a severe problem in high inflation environments such as Argentina in the 80s and 90s or the US in the 70s.
 ---
 ## 3.2 Lower of cost or market (LCM)
@@ -252,35 +276,35 @@ Reasons:
 - price changes
 ---
 Procedure:
-1. Determine the market value of the inventory
-2. Compare the market value with the cost in the Balance Sheet
-3. Write down the inventory to the lower of cost or market value
-4. This write-down is charged against revenues in the period the loss occurs
+1. Determine the market value of the inventory.
+2. Compare the market value with the cost in the Balance Sheet.
+3. Write down the inventory to the lower of cost or market value.
+4. This write-down is charged against revenues in the period the loss occurs.
 
-Write-ups are not allowed under US GAAP and IFRS
+Write-ups are not allowed under US GAAP and IFRS.
 
 ---
 ## 3.3 Inventory costing for Manufacturing companies
 - Manufacturing companies have three types of inventories:
-  - Raw materials: materials that will be used in the production process
+  - Raw materials: materials that will be used in the production process.
   - Work-in-process: goods that are in the process of being manufactured
-  - Finished goods: goods that are ready for sale
+  - Finished goods: goods that are ready for sale.
 
 ---
 The main components of the cost of inventories are:
-- Direct materials: materials that are an integral part of the finished product and whose costs can be traced to the finished product
-- Direct Labor: labor costs that can be traced to the finished product
-- Overhead: indirect costs that cannot be traced to the finished product
-  - depreciation of manufacturing equipment, supervisory wages, utilities, etc
+- Direct materials: materials that are an integral part of the finished product and whose costs can be traced to the finished product.
+- Direct Labor: labor costs that can be traced to the finished product.
+- Overhead: indirect costs that cannot be traced to the finished product.
+  - depreciation of manufacturing equipment, supervisory wages, utilities, etc.
+
+The distribution of these costs brings some information about what management is forecasting about the future demand for the product.
 
 ---
-In a Cost Accounting course, you learn how to allocate overhead costs to the finished product: it is a complex process that requires a lot of assumptions and judgment.
+As the production level increases, more overhead cost is allocated to all units produced.  
 
-Important for us: as the production level increases, more overhead cost is allocated to all units produced.  
+Instead of expensing these costs as period expenses, they are included in the cost of inventories and remain on the balance sheet until the inventory is sold:exclamation:
 
-Instead of expensing these costs as period expenses, they are included in the cost of inventories and remain on the balance sheet until the inventory is sold.
-
-Takeaway: Profitability is overstated when production increases because part of the cost of inventories is not expensed in the period in which it is incurred.
+**Takeaway: Profitability is overstated when production increases because part of the cost of inventories is not expensed in the period in which it is incurred.**
 
 <!--
 develop this takeaway intuitively: 
@@ -309,6 +333,13 @@ develop this takeaway intuitively:
 ---
 
 # 4. Long-term assets and capitalization
+![bg right](Slides/../topic_3_img/apple_news.png)
+
+<!--
+focus:
+- what is the impact of investing in long-term assets?
+- what happen when the assets valuation changes?
+--->
 
 ---
 # 4. Long-term assets and capitalization
@@ -356,7 +387,7 @@ Solution:
 
 How does the solution change if the company uses the units of production method?
 
-- Depreciation per unit: 7.5 euros per unit
+- Depreciation per unit: 7.5 euros per unit.
 - Depreciation in year 1: 7.5*15,000= $112,500
 - Depreciation in year 2: 7.5*23,000= $172,500
 - carrying amount after 2 years: 800,000-112,500-172,500= $515,000
@@ -370,10 +401,11 @@ How does the solution change if the company uses the units of production method?
 ---
 ### Impact on the financial statements
 In sum, investing will have three impacts on the financial statements:
-1) Capitalization: increases assets and equity
-2) Income statement: Capitalization leads to higher and stable net income in the short term.
-     - Lumpy investments are smoothed out over time to match the cost of the asset with the revenues it generates
-3) Operating Cash flows: When asset costs are capitalized, they are reported as _investing cash outflows_. (In contrast, if they were expensed, they are reported as _operating cash outflows_)
+1) Balance sheet: + long-term assets and funding (+ debt or - cash).
+2) Income statement: + depreciation expense.
+   - Capitalization leads to higher and stable net income in the short term.
+   - Lumpy investments are smoothed out over time to match the cost of the asset with the revenues it generates.
+3) Operating Cash flows: When asset costs are capitalized, they are reported as _investing cash outflows_. (In contrast, if they were expensed, they are reported as _operating cash outflows_).
 
 ---
 :mag_right: Example Apple 2010 [5 min]
@@ -395,7 +427,7 @@ Impairment: is the write-down of an asset to its fair value when its carrying va
 - Recoverable amount. The higher of:
   - Fair value less cost to sell
   - Value-in-use.
-- Carrying value: cost of the asset less accumulated depreciation
+- Carrying value: cost of the asset less accumulated depreciation.
 
 ---
 Example (Under IFRS)
@@ -410,13 +442,15 @@ What is the amount of the impairment loss?
 
 ---
 Solution:
-- Carrying value? 35 million euros
+- Carrying value? 35 million euros.
 - Recoverable amount?
-  - FV - selling costs = 28 - 1.5 = 26.5 million euros
-  - Value-in-use = 33 million euros
-- 2 million euros (35 - 33) is the impairment loss
-- The carrying value is reduced to 33 million euros (asset reduction)
-  - 2 million euros is recognized as a loss in the income statement, which reduces net income and equity
+  - FV - selling costs = 28 - 1.5 = 26.5 million euros.
+  - Value-in-use = 33 million euros.
+- 2 million euros (35 - 33) is the impairment loss.
+ 
+Impacts on financial statements:  
+1) The carrying value of the asset is reduced to 33 million euros (- 2 million assets).
+2) 2 million euros is recognized as a loss in the income statement.
     - "Other Income Expenses" in "Operating profit."
 ---
 Example (Under US GAAP)
@@ -430,14 +464,6 @@ If that is the case, the impairment loss is the difference between the asset's c
 - undiscounted cash flows: 35.5 million euros
 
 Therefore, no impairment loss is recognized under US GAAP
-
-
----
-### Impact on the financial statements
-In the period when the impairment loss is recognized:
-1) Impairments reduce the carrying value of the asset 
-2) Impairments reduce equity (retained earnings)
-3) Impairments are charged against revenues
   
 ---
 # 5. Intangible assets and goodwill
@@ -521,6 +547,7 @@ Explain that we dont do Apple because this company does not report intangible
 
 > In the fourth quarter of 2022, the Company made revisions to the internal forecasts relating to its Filorga reporting unit due primarily to the continued impact of the COVID-19 pandemic [...]. The Company concluded that the changes in circumstances in this reporting unit [...] triggered the need for an interim **impairment review of its indefinite-lived trademark, goodwill and long-lived assets** which consists primarily of customer relationships. As a result of (...) the Company concluded that the carrying value of the trademark and customer relationships exceeded their estimated fair value and recorded impairment charges of $300 and $89, respectively, reducing their carrying values to $257 and $118, respectively, as of December 31, 2022. 
 
+
 ---
 # 6. Asset revaluations under IFRS
 ---
@@ -580,3 +607,56 @@ Check my website for updated versions of this presentation:
 
 :point_right: [https://www.marceloortizm.com/](https://www.marceloortizm.com)
 # Thanks :clap:
+
+---
+# Appendix
+### Receivables: accounting and reporting
+
+Nov 1. Company A sells goods worth $1,000 on credit to customers. The company expects to collect the money in 90 days but estimates that 5% of the credit sales will be uncollectible. What is the impact on the financial statements in that year?
+
+<style scoped>
+table {
+  font-size: 15px;
+}
+</style>
+
+|  | Effect |
+| --- | --- |
+| 1) Balance Sheet | Receivables: +1,000 |
+|  | Allowance for doubtful accounts:  +50 |
+| 2) Income Statement | Sales revenue: +1,000 |
+| | Bad debt expense: +50 |
+| 3) CF Statement | No impact|
+---
+Scenario 1) Customers end up not paying back 20% of the credit sales. What is the impact on the financial statements of Company A for the next year? (ignore the impact of the fraction of the credit sales that are paid back)
+
+|  | Effect |
+| --- | --- |
+| 1) Balance Sheet | Receivables: |
+|  | Allowance for doubtful accounts:  +150 |
+| 2) Income Statement | Sales revenue:  |
+| | Bad debt expense: +150 |
+| 3) CF Statement | No impact|
+
+<!--
+this scenario could happen at least in two ways:
+1) manager overestimated the fraction of credit sales that will be paid back
+2) the economy is in a recession and customers are not able to pay back
+-->
+---
+Scenario 2) Customers end up paying 100% of the credit sales. What is the impact on the financial statements of Company A for the next year?
+
+<style scoped>
+table {
+  font-size: 15px;
+}
+</style>
+
+|  | Effect |
+| --- | --- |
+| 1) Balance Sheet | Receivables: -1,000 |
+| | Cash: +1,000 |
+|  | Allowance for doubtful accounts: -50 |
+| 2) Income Statement | Sales revenue:  |
+| | Bad debt expense: -50 |
+| 3) CF Statement | CFO: +1,000|
