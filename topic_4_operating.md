@@ -19,7 +19,7 @@ Marcelo Ortiz
 (UPF, BSE, BSM)
 
 ---
-#  How do operating decisions affect the financial statements:question:
+#  How to measure economic performance from the financial statements:question:
 
 1. Income measurement
 2. Nonrecurring items
@@ -193,26 +193,8 @@ eg, disctontinued operations, extraordinary items, accounting changes, special i
 ---
 
 # 2. Nonrecurring items
-
-## 2.1 Extraordinary items
-Extraordinary items are events and transactions that are **both unusual in nature and infrequent in occurrence***: loss of inventory from fire, restructuring costs,and litigation charges.
-- Unusual in nature: high degree of abnormality and unrelated to the ordinary and typical activities of the company.
-- Infrequent occurrence: not reasonably expected to recur in the foreseeable future.
- 
-Before 2015, Extraordinary items were reported in the Income Statement. Now this information can be found in the footnotes and MDA. [ASU 2015-01](https://fasb.org/page/document?pdf=ASU+2015-01.pdf&title=UPDATE%20NO.%202015-01%E2%80%94INCOME%20STATEMENT%E2%80%94EXTRAORDINARY%20AND%20UNUSUAL%20ITEMS%20(SUBTOPIC%20225-20):%20SIMPLIFYING%20INCOME%20STATEMENT%20PRESENTATION%20BY%20ELIMINATING%20THE%20CONCEPT%20OF%20EXTRAORDINARY%20ITEMS).
-<!--
-Before 2015: extraordinary items were reported net of tax after continuing income.
-After 2015: extraordinary items are not reported in the income statement, but in the footnotes and MDA.
---->
 ---
-### Analysis of extraordinary items:
-- Extraordinary items are not expected to recur, so they are not relevant to the valuation of the company.
-- but they are fully accounted when computing economic income.
-- typically they are excluded from income when comparing firms or analyzing trends.
-
----
-# 2. Nonrecurring items
-## 2.2 Discontinued operations
+## 2.1 Discontinued operations
 Companies sometimes dispose of entire divisions or product lines. 
 
 When these dispositions pertain to separately identifiable business components, they are called discontinued operations. 
@@ -240,8 +222,7 @@ Discontinued operations are separately reported on the income statement and the 
   -  Amounts for assets and liabilities are typically provided in footnote disclosures.
   
 ---
-# 2. Nonrecurring items
-## 2.3 Accounting changes
+## 2.2 Accounting changes
 Managers may change accounting methods or estimates for a variety of reasons, including:
 - To manage earnings.
 - Adopt new accounting standards.
@@ -254,19 +235,20 @@ Discuss: Falabella case
 ---
 ###  Types of accounting changes
 1. Change in accounting principle
+   
 e.g., change from LIFO to FIFO in inventory accounting, or from straight-line to accelerated depreciation.
 
 Importantly, the application of the changed principle should be reported retrospectively.
 
 This means that all current and prior period information in the income statement and balance sheet will reflect the effects of the new principle.
 
-
-
 ---
 ###  Types of accounting changes
 2. Change in accounting estimate
+
 e.g., change in the estimated useful life of a depreciable asset, inventory obsolescence, uncollectible accounts receivable, warranty obligations, etc.
-- If managers update their beliefs about the future, they should update their estimates: economic crisis and allowance of doubtful accounts.
+
+If managers update their beliefs about the future, they should update their estimates: economic crisis and allowance of doubtful accounts.
 
 <!-- 
 By their very nature, the estimates are approximations of unknown future conditions, so it is not surprising that they are subject to change
@@ -285,13 +267,36 @@ But this does not mean that the changes are irrelevant or mere cosmetics: someti
 Furthermore, the changes can affect the comparability of financial statements across periods, even within the same company.
 
 ---
-# 2. Nonrecurring items
+## 2.3 Extraordinary items
+Extraordinary items are events and transactions that are **both unusual in nature and infrequent in occurrence**: loss of inventory from fire, restructuring costs, and litigation charges.
+- Unusual in nature: high degree of abnormality and unrelated to the ordinary and typical activities of the company.
+- Infrequent occurrence: not reasonably expected to recur in the foreseeable future.
+ 
+Before 2015, Extraordinary items were reported in the Income Statement. Now this information can be found in the footnotes and MDA. ([ASU 2015-01](https://fasb.org/page/document?pdf=ASU+2015-01.pdf&title=UPDATE%20NO.%202015-01%E2%80%94INCOME%20STATEMENT%E2%80%94EXTRAORDINARY%20AND%20UNUSUAL%20ITEMS%20(SUBTOPIC%20225-20):%20SIMPLIFYING%20INCOME%20STATEMENT%20PRESENTATION%20BY%20ELIMINATING%20THE%20CONCEPT%20OF%20EXTRAORDINARY%20ITEMS)).
+<!--
+Before 2015: extraordinary items were reported net of tax after continuing income.
+After 2015: extraordinary items are not reported in the income statement, but in the footnotes and MDA.
+--->
+---
+### Analysis of extraordinary items:
+- Extraordinary items are not expected to recur, so they are not relevant to the valuation of the company.
+- but they are fully accounted when computing economic income.
+- typically they are excluded from income when comparing firms or analyzing trends.
+--- 
+
 ## 2.4 Special items
 Transactions and events that are **unusual or infrequent but not both.**
-  - (a) Restructuring charges,(b) write-offs (goodwill, inventory, and PP&E),  (c) gains or losses from the sale of assets or investments, and (d) legal settlements
+
+a) Restructuring charges.
+
+b) write-offs (goodwill, inventory, and PP&E).
+
+c) gains or losses from the sale of assets or investments.
+
+d) legal settlements.
 
 Reported in a separate line item in the income statement.
-- Objective: clearer picture of their recurring business performance
+- Objective: clearer picture of their recurring business performance.
 
 ---
 By large, they are the most common and important class of nonrecurring items.
@@ -299,12 +304,11 @@ By large, they are the most common and important class of nonrecurring items.
   - today: nearly 50% of the companies report special items.
   - 2% of total revenues.
 
----
 Special items are a cumbersome topic among analyst.
 
- First, the economic implications of special items, such as restructuring charges, are complex. 
+ - First, the economic implications of special items, such as restructuring charges, are complex. 
  
- Second, many special items are discretionary and, hence, serve earnings management aims.
+ - Second, many special items are discretionary and, hence, serve earnings management aims.
 
 ---
 ### Example: earnings management with special items.
@@ -312,8 +316,14 @@ Consider a firm with a cost of capital of 10%.
 
 *Real scenario*: a company earns $2 per share in perpetuity. Then, the company's value is $20 (=$2/0.1).
 
----
 *Manipulated scenario*: the company overstates earnings by $1 per share for four consecutive periods and then reverses them with a single charge in the final year as follows
+
+---
+<style scoped>
+table {
+  font-size: 20px;
+}
+</style>
 
 |$ per share  | 2018 | 2019 | 2020 | 2021|
 |---|---:|---:|---:|---:|
@@ -323,14 +333,11 @@ Consider a firm with a cost of capital of 10%.
 
 In this reporting pattern: permanent income is $3 and a transitory component of -$4 in just one year.
 
----
-A naive analyst would consider the -$4 as a transitory shock and value the stock at $26  (=$3/0.1 - $4).
+- A naive analyst would consider the -$4 as a transitory shock and value the stock at $26  (=$3/0.1 - $4).
 
-A naive and less prepared analyst would even remove the special item from the income statement and value the stock at $30 (=$3/0.1).
+- An even less prepared analyst would remove the special item from the income statement and value the stock at $30 (=$3/0.1).
 
-These amounts are substantially different than the correct value of $20.
 
-Our main goal is to identify the special items and their economic implications.
 
 ---
 
