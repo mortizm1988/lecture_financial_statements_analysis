@@ -74,7 +74,7 @@ Caution: companies might have more cash than the amount reported in the balance 
 - Covenant restrictions: Sometimes cash is restricted because it is used as collateral for debt (e.g., Ebay needed to hold $126 million in cash as collateral for debt, out of $400 million in cash).
   
 ---
-:mag_right: Example Apple 2022 [5 min]
+:mag_right: Example Apple 20220 [10 min]
 1) Search: Balance sheet: cash and cash equivalents
 2) Search: Note 3 - Financial Instruments
 
