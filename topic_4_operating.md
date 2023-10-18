@@ -30,6 +30,7 @@ Marcelo Ortiz
 # 1. Income measurement
 ---
 # 1. Income measurement
+## 1.1 Basics concepts behind accounting income
 Two main concepts behind income measurement:
 1) **Economic income** measures the _net change in shareholders’ wealth_ during a period. Theoretically, it is equal to a period’s cash flows plus the change in the present value of expected future cash flows.
 2) **Recurrent income** is an estimate of the _stable average income that a business is expected to earn_ over its lifetime, given the current state of its business.
@@ -41,26 +42,28 @@ Two main concepts behind income measurement:
 - Accounting income has measurement errors.
 
 ---
-## 1.1 Elements of accounting income
 
-a) recurring income: each :euro: is equal to $1/r$ euros of company value, with $r$ is the cost of capital.
 
-b) transitory income: each :euro: is equal to one dollar of company value.
-  - notice that this is less than the permanent income.
+a) Recurring income: each euro of this income is equal to $1/r$ euros of company value, with $r$ is the cost of capital.
+  - If recurring income is $100, then company value is $1,000 (=$100/0.1) when the cost of capital is 10%.
+
+b) Transitory income: each euro of this income is equal to one euro of company value.
+  - If the company receives $10 from a lawsuit, then company value is $1.000+$10= $1,010.
+  - Important: assuming that company value is $110/0.1 = $1,100 is a big mistake because the $10 is a one-time event, cannot be part of the annuity of future cash flows.
+
+<!--
+if market price is $1,020, then people making the error will be very interesting in buying. Who will sell? the people who know that the $10 is a one-time event.
+-->
   
-c) value irrelevant component: irrelevant to the value of the company.
-
 ---
 
-When analyzing financial statements, we should identify the recurring income component.
-
-Accounting standards provide some guidance on how to identify recurring income:
-- the line items on the income statement are arranged to allow analysts to identify recurring and nonrecurring income components.
+When analyzing financial statements, we should identify the recurring income component of the accounting income.
   
-Common misconceptions: a majority of operating income components tend to be recurring, but not always:
+Common misconceptions: a majority of _operating income_ components tend to be recurring, but not always:
   - Loss of inventory from fire :arrow_right: nonrecurring operating loss.
   - Interest earned :arrow_right: recurring and nonoperating income.
-  
+
+This means we need to dig deeper into the financial statements to identify the recurring income components.  
 
 ---
 ## 1.2 Measuring accounting income
@@ -76,19 +79,19 @@ Fortunately, IFRS 8 and ASC Topic 280 ("Operating segments" and "Reporting segme
 ---
 ### Cost of sales and other operating expenses
 **Cost of sales:** 
-- check "inventory accounting" section in the previous topic: cost of good sold (COGS).
-- it also may include labor and other direct costs associated with providing a service.
+- Check "inventory accounting" section in the previous topic: cost of good sold (COGS).
+- It also may include labor and other direct costs associated with providing a service.
  
 **R&D:**
-- check "long-term investment" in the previous topic: intangible assets.
+- Check "long-term investment" in the previous topic: intangible assets.
  
 **Selling, general and administrative expenses (SG&A):**
-- costs related to the promotion and sales (advertising, sales commissions, etc.), overhead costs (rent, utilities, etc.), and administrative costs (executive salaries, legal fees, cost of compliance with regulations).
+- Costs related to the promotion and sales (advertising, sales commissions, etc.), general costs (rent, utilities, etc.), and administrative costs (executive salaries, legal fees, cost of compliance with regulations).
 
 ---
 :mag_right: Example Apple 2020 [20 min]
 1) Search: Consolidated Statements of Operations.
-2) Search: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+2) Search: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations :arrow_right: "Products and Services Performance" and the later subsections.
 
 - [IS] How much were the net sales of Apple that year?
 - [Item 7] Which product/service represented the largest share of sales?
@@ -100,15 +103,16 @@ Fortunately, IFRS 8 and ASC Topic 280 ("Operating segments" and "Reporting segme
 ---
 ### Income from continuing operations
 - It is a common intermediate measure of income.
-- it excludes certain nonrecurring items, such as *extraordinary items*, and the effects of discontinued operations, from net income.
-- Also called *income before extraordinary items*, or *income before discontinued operations*.
+- it excludes certain nonrecurring items, such as *special items* and *discontinued operations*, from net income.
+- Also called *income before special items*, or *income before discontinued operations*.
 - **Companies without nonrecurring components will not report income from continuing operations** because it is equal to net income.
 
 ---
 ### Net income
 - Net income is the sum of income from continuing operations and nonrecurring items.
 - Net income is the most widely reported measure of income.
-- But it **excludes unrealized (holding) gains and losses** e.g.: unrealized gains or losses on available-for-sale securities and foreign currency translation adjustments.
+- But it **excludes unrealized (holding) gains and losses** 
+  - e.g.: unrealized gains or losses on available-for-sale securities and foreign currency translation adjustments.
 
 ---
 ### Comprehensive income
@@ -181,7 +185,9 @@ b) Measure of net change in equity (or economic income)? Comprehensive income.
 
 Important: all these measures are subject to accounting distortions and errors.
 
-
+<!--
+some adjustments= special and discontinued operations, etc.
+-->
 ---
 
 # 2. Nonrecurring items
@@ -208,15 +214,15 @@ Discontinued operations are separately reported on the income statement and the 
 
  - Req: the operations and cash-flows of the divested business component must be distinguished from those of the continuing operations.
 
-- First: restating past 2 years of income statement excluding the discontinued operations.
+1. **Restating past 2 years** of income statement excluding the discontinued operations.
 
-- Second: effects of the discontinued operations are reported separately, net of tax, below income from continuing operations.
-  - (US GAAP) (1) income or loss from discontinued operations, (2) gain or loss on disposal.
+2. In the **current year** income statement the discontinued operations are reported separately, net of tax, below income from continuing operations.
 
-- Balance sheet: assets (liab.) that relate to discontinued operations are segregated and shown separately as assets (liab.) held for disposal.
+3. In the **current year** Balance sheet: assets (liab.) that relate to discontinued operations are segregated and shown separately as _assets (liab.) held for disposal_.
+
 ---
 ### Analysis of discontinued operations:
-- Discontinued operations are not expected to recur, so they are irrelevant for determining economic or permanent income or operating or nonoperating income.
+- Discontinued operations are not expected to recur, so they are irrelevant for determining the permanent income.
 - The adjustment is straightforward.
   -  For the current and past two years because companies must restate their income statements, reporting the income of discontinued operations separately.
   -  Amounts for assets and liabilities are typically provided in footnote disclosures.
@@ -238,7 +244,7 @@ Discuss: Falabella case
    
 e.g., change from LIFO to FIFO in inventory accounting, or from straight-line to accelerated depreciation.
 
-Importantly, the application of the changed principle should be reported retrospectively.
+Importantly, the application of the changed principle should be **reported retrospectively**.
 
 This means that all current and prior period information in the income statement and balance sheet will reflect the effects of the new principle.
 
@@ -246,16 +252,14 @@ This means that all current and prior period information in the income statement
 ###  Types of accounting changes
 2. Change in accounting estimate
 
-e.g., change in the estimated useful life of a depreciable asset, inventory obsolescence, uncollectible accounts receivable, warranty obligations, etc.
+e.g., change in the estimated useful life of a depreciable asset, uncollectible receivable, warranty obligations, etc.
 
 If managers update their beliefs about the future, they should update their estimates: economic crisis and allowance of doubtful accounts.
 
 <!-- 
 By their very nature, the estimates are approximations of unknown future conditions, so it is not surprising that they are subject to change
 -->
-The change should be reflected in the financial statements prospectively (so no restatement of prior periods is required).
-
-However, the effects should be disclosed in the footnotes of the financial statements.
+The change should be reflected in the financial statements **prospectively** (so no restatement of prior periods is required).
 
 ---
 ### Analysis of accounting changes:
@@ -266,26 +270,25 @@ But this does not mean that the changes are irrelevant or mere cosmetics: someti
 
 Furthermore, the changes can affect the comparability of financial statements across periods, even within the same company.
 
+<!--
 ---
 ## 2.3 Extraordinary items
 Extraordinary items are events and transactions that are **both unusual in nature and infrequent in occurrence**: loss of inventory from fire, restructuring costs, and litigation charges.
 - Unusual in nature: high degree of abnormality and unrelated to the ordinary and typical activities of the company.
 - Infrequent occurrence: not reasonably expected to recur in the foreseeable future.
  
-Before 2015, Extraordinary items were reported in the Income Statement. Now this information can be found in the footnotes and MDA. ([ASU 2015-01](https://fasb.org/page/document?pdf=ASU+2015-01.pdf&title=UPDATE%20NO.%202015-01%E2%80%94INCOME%20STATEMENT%E2%80%94EXTRAORDINARY%20AND%20UNUSUAL%20ITEMS%20(SUBTOPIC%20225-20):%20SIMPLIFYING%20INCOME%20STATEMENT%20PRESENTATION%20BY%20ELIMINATING%20THE%20CONCEPT%20OF%20EXTRAORDINARY%20ITEMS)).
-<!--
-Before 2015: extraordinary items were reported net of tax after continuing income.
-After 2015: extraordinary items are not reported in the income statement, but in the footnotes and MDA.
---->
+Before 2015, Extraordinary items were reported in the Income Statement. Now this information can be found in the footnotes and MDA ([ASU 2015-01](https://fasb.org/page/document?pdf=ASU+2015-01.pdf&title=UPDATE%20NO.%202015-01%E2%80%94INCOME%20STATEMENT%E2%80%94EXTRAORDINARY%20AND%20UNUSUAL%20ITEMS%20(SUBTOPIC%20225-20):%20SIMPLIFYING%20INCOME%20STATEMENT%20PRESENTATION%20BY%20ELIMINATING%20THE%20CONCEPT%20OF%20EXTRAORDINARY%20ITEMS)).
+
 ---
 ### Analysis of extraordinary items:
 - Extraordinary items are not expected to recur, so they are not relevant to the valuation of the company.
-- but they are fully accounted when computing economic income.
-- typically they are excluded from income when comparing firms or analyzing trends.
+- But they are fully accounted when computing economic income.
+- Typically, they are excluded from income when comparing firms or analyzing trends.
+-->
 --- 
 
-## 2.4 Special items
-Transactions and events that are **unusual or infrequent but not both.**
+## 2.3 Special items
+Transactions and events that are **unusual or infrequent.**
 
 a) Restructuring charges.
 
@@ -294,9 +297,6 @@ b) write-offs (goodwill, inventory, and PP&E).
 c) gains or losses from the sale of assets or investments.
 
 d) legal settlements.
-
-Reported in a separate line item in the income statement.
-- Objective: clearer picture of their recurring business performance.
 
 ---
 By large, they are the most common and important class of nonrecurring items.
@@ -333,7 +333,7 @@ table {
 
 In this reporting pattern: permanent income is $3 and a transitory component of -$4 in just one year.
 
-- A naive analyst would consider the -$4 as a transitory shock and value the stock at $26  (=$3/0.1 - $4).
+- A naive analyst would consider the -$4 as a transitory shock and value the stock at $26 (=$3/0.1 - $4).
 
 - An even less prepared analyst would remove the special item from the income statement and value the stock at $30 (=$3/0.1).
 
@@ -342,8 +342,8 @@ In this reporting pattern: permanent income is $3 and a transitory component of 
 ---
 
 Example: Ford 2019 and special items reporting.
-![Alt text](/topic_4_img/ford.png)
 
+![](topic_4_img/ford.png)
 <!--
 ### Analysis of special items
 The core question: is the special charge properly categorized? if not, how their financials statemtents would look like if the special charge were properly categorized?
@@ -574,7 +574,18 @@ Example:
 | 1st Dec|-200,000 | 2,050,000| 1/12| 170,833 |
 | Total| | | 12 m |  2,141,667|
 
-Apple 2020. Check in the MD&A section (Item 7) the "Capital Return Program."
+Apple 2020. Check in the MD&A section (Item 7) the "Fiscal 2020 Highlights" and "Capital Return Program." about check repurchases during the year.
+
+<!--
+RSU=restricted stock unit: a form of equity compensation that companies issue to employees.
+
+Share Repurchase Program: When a company like Apple buys back its own shares, it reduces the number of shares outstanding, thereby increasing earnings per share (EPS) and often boosting the stock price. It's a way to return excess cash to shareholders and is often perceived as a signal that the company believes its shares are undervalued.
+
+Four-for-One Stock Split: A stock split increases the number of shares while proportionally reducing the price per share. For instance, in a four-for-one split, each share would be divided into four shares, each worth one-fourth of the original share price. This can make the stock more accessible to individual investors and could increase trading liquidity.
+
+Apple may choose to do both for different strategic reasons. A share repurchase can serve to optimize the capital structure, return cash to shareholders, and potentially boost the stock price. Meanwhile, a stock split can make the shares more accessible, thereby broadening the investor base. The split may increase retail participation and liquidity, while the buyback can enhance shareholder value.
+
+-->
 
 ---
 ### Changes in the number of shares outstanding
@@ -583,6 +594,7 @@ Apple 2020. Check in the MD&A section (Item 7) the "Capital Return Program."
   - the initial number of shares outstanding is increased by 50%.
 - Stock split: the company increases the number of shares outstanding by a specified ratio.
   - e.g., 3-for-2 stock split: for every 2 shares owned, the investor receives 3 additional shares.
+  - Apple: four-for-one stock split ("Fiscal 2020 Highlights"). 
 
 - Importantly, shareholders' % of ownership does not change with stock dividends or splits. No dilution:exclamation:
 
