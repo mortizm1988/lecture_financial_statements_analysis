@@ -190,6 +190,9 @@ Step 2.17, estimated expected _cash_:
 - Crucial step: is further financing needed? can the company invest more in PP&E? Can the company pay more dividends?
 ---
 # 4. Sensitivity Analysis
+<!--
+examples: https://www.youtube.com/watch?v=oBs4GoubFcY
+-->
 ---
 # 4. Sensitivity Analysis
 - We are assuming that many dimensions of the financialsstatements will change.
@@ -202,7 +205,7 @@ Step 2.17, estimated expected _cash_:
 ---
 ##  4.1 Univariate optimization
 How much does the company need to increase sales to meet EPS target?
-  - is it feasible? If not, what else can be done?
+  - is it feasible? If not, what else can be done?q
 
 Find the solution: MS Excel: Data>What-if-Analysis>Goal Seeker.
 
