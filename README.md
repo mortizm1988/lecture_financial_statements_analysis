@@ -1,11 +1,11 @@
-# Analysis of Financial Statements and Managerial Decisions
+# Financial Statements Analysis
+
 ## Course Description
 
-This course introduces the main concepts related to financial statement analyses and managerial accounting. This will allow students to identify the impacts of accounting and other corporate decisions on firm's financial statements. Part 1 of the course develops key concepts and methods for analyzing financial statements from the perspective of an external user, such as investors, creditors, suppliers, etc. Part 2 of the course takes the perspective of an internal user, such as a manager, and focuses on the use of accounting information for decision making and control purposes. 
+This course covers the key concepts of financial statement analysis. Each topic explores different corporate policies, such as financing and investing. We will begin by discussing typical accounting events and their impact on financial statements. Then, we will learn how to interpret financial statements from the perspective of an external user in order to understand the impact of these policies.
 
-The course is designed to be useful for students who plan to work in any area of business, including consulting, investment banking, general management, and entrepreneurship. It is not a bookkeeping course. Rather, it is a course on how to use accounting information to make business decisions. 
+The course is designed for students interested in various business areas, including consulting, investment banking, general management, and entrepreneurship. It is not a bookkeeping course, but rather focuses on how corporate decisions are reflected in financial statements and how to analyze them.
 
-## Part 1: Financial Statements Analysis
 
 | Topic                                     | Key Concepts                                                                                                                                              |
 |:-------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,12 +15,3 @@ The course is designed to be useful for students who plan to work in any area of
 | Topic 4: [Operating Activities Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_4_operating.html)    | Income Measurement. Nonrecurring Items. Deferred Charges. Interest Costs. Income Taxes.                             |
 | Topic 5: [Cash Flow Analysis](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_5_cashflows.html)    | Measuring and Analyzing Cash Flows                             |
 | Topic 6: [Forecasting Financial Statements ](https://htmlpreview.github.io/?https://github.com/mortizm1988/slides-financial-statement-analysis/blob/main/topic_6_forecasting.html)| Projection Process. Trends in Value Drivers                                                                                       |
-
-## Part 2: Analysis of Managerial Decisions
-
-| Topic                                     | Key Concepts                                                                                                                                              |
-|:-------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Topic 7:  Cost Analysis            | Traditional and ABC costing. Product Profitability Analysis.     |
-| Topic 8: Differential Analysis         |  Make-or-Buy decision. Closing part of a company.    |
-| Topic 9:  Budgeting       |  Budgeting Process. Budget control. Budgeting for entrepreneurs.             |
-| Topic 10: Accounting Manipulation         | Earnings Management. Restatements. Fraud. Red Flags.             |
