@@ -1,0 +1,60 @@
+/*-- scss:defaults --*/
+
+$body-bg: #FFFFFF;
+$body-color: #fff;
+$link-color: #0509f7;
+
+/*-- scss:rules --*/
+
+.reveal .slide blockquote {
+    border-left: 3px solid $text-muted;
+    padding-left: 0.5em;
+}
+
+/* For changing the font size and color globally */
+.reveal section {
+    font-size: 30px;
+    /* Adjust size as needed */
+    color: #333333;
+    /* Replace with your desired color */
+}
+
+/* Specific heading styles */
+.reveal h1 {
+    font-size: 38px;
+    color: #f70000;
+}
+
+.reveal h2 {
+    font-size: 34px;
+    background-color: red;
+    /* Set background to red */
+    color: white;
+    /* Set text color to white */
+    padding: 10px;
+    /* Add some padding to make the background visible */
+    border-radius: 5px;
+    /* Optional: adds rounded corners */
+}
+
+.reveal h3 {
+    font-size: 30px;
+    color: red;
+}
+
+.reveal .slide-number {
+    display: block;
+    /* Ensure the element is displayed */
+    color: #333333;
+    /* Set a visible color */
+    font-size: 16px;
+    /* Adjust font size as needed */
+    position: fixed;
+    /* Fix the position */
+    bottom: 10px;
+    /* Position at the bottom */
+    right: 10px;
+    /* Position at the right */
+    z-index: 1000;
+    /* Ensure it is on top of other elements */
+}
