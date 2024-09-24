@@ -11,33 +11,33 @@ format:
     toc: false
     slide-number: true
     incremental: false
-
 ---
 
 Topics
 
 1)  The relevance of accounting
 2)  Basic concepts
-3)  Accounting equation
-4)  Revenue recognition
-5)  Financial Statements
-6)  FSA framework
+    1)  Accounting events
+    2)  Accounting equation
+    3)  Revenue recognition
+3)  Financial Statements
+4)  FSA framework
 
-## The relevance of accounting
+## 1. The relevance of accounting
 
 The objective of this course: understand how economic events **impact** and and are **reflected** in the financial statements.
 
-::: {.r-stack}
-![](topic_1_img/news_3.png){.fragment }
+::: r-stack
+![](topic_1_img/news_3.png){.fragment}
 
-![](topic_1_img/news_1.png){.fragment }
+![](topic_1_img/news_1.png){.fragment}
 
-![](topic_1_img/news_2.png){.fragment }
+![](topic_1_img/news_2.png){.fragment}
 :::
 
-## Basic concepts
+## 2. Basic concepts
 
-### Transactions as accounting events
+### Accounting events
 
 What information is important to capture, process, aggregate, and report?
 
@@ -50,97 +50,7 @@ What information is important to capture, process, aggregate, and report?
 
 ------------------------------------------------------------------------
 
-### Assets: Classification
-
-Current Assets
-
-1.  Cash and cash equivalents
-2.  Accounts receivable
-3.  Inventory
-4.  Prepaid expenses
-
-```{=html}
-<!--
-Transactions will regularly affect the same type of assets, thus it is practical to group them into accounts.
-- accounts receivable: money owed by customers
-- prepaid expenses: insurance, rent, etc.
--->
-```
-
-------------------------------------------------------------------------
-
-Non-current Assets
-
-1.  Long-term investments
-2.  Property, plant, and equipment
-3.  Intangible assets
-
-```{=html}
-<!--
-- long-term investments: investments in other companies, bonds, etc.
-- property, plant, and equipment: land, buildings, machinery, etc.
-- intangible assets: patents, trademarks, goodwill, etc.
--->
-```
-
-------------------------------------------------------------------------
-
-### Liabilities: Classification
-
-Current Liabilities
-
-1.  Accounts payable
-2.  Accrued expenses
-3.  Deferred/unearned revenues
-4.  Current portion of Long-term debt
-5.  Taxes payable
-
-```{=html}
-<!--
-payable: money owed to suppliers
-accrued expenses: wages, interest, etc.
-deferred/unearned revenues: money received in advance from customers
-tax: income, value-added, estate tax, capital gains tax, property tax, etc. all of them due at different times
---->
-```
-
-------------------------------------------------------------------------
-
-Non-current liabilities
-
-1.  Long-term debt
-2.  Deferred income tax
-3.  Pension liabilities
-4.  Other long-term liabilities
-5.  Commitments and contingent liabilities
-
-------------------------------------------------------------------------
-
-### Equity: Classification
-
--   Share capital
-    -   Common stock
-    -   Preferred stock
-    -   Additional paid-in capital
--   Retained earnings
--   Treasury stock
--   Accumulated other comprehensive income
-
-```{=html}
-<!--
-Share Capital: The total value of the company's shares that have been issued.
-1.1 Common Stock: Equity ownership in a corporation entitles shareholders to vote and potentially receive dividends.
-1.2 Preferred Stock: Shares with a higher claim on dividends and assets than common stock but typically no voting rights.
-1.3 Additional Paid-in Capital: The excess over par value shareholders have paid for the company's stock.
-
-Retained Earnings: Cumulative net income retained in the business after the distribution of dividends.
-
-Treasury Stock: Shares that a company has repurchased from shareholders and are held in the company's treasury.
-
-Accumulated Other Comprehensive Income: The total unrealized gains and losses on investments and certain foreign currency transactions are not included in net income.
--->
-```
-## Accounting Equation
+### Accounting Equation
 
 $$Assets=Liability+Equity$$
 
@@ -158,102 +68,74 @@ interpretations:
 
 ------------------------------------------------------------------------
 
-**Extended Accounting Equation** 
+**Extended Accounting Equation**
 
 $$Assets=Liability+ E_0+ Net Income- Withdrawals $$
 
 -   Net Income: Revenues - Expenses
     -   Revenues increase Owner's Equity, whereas Expenses decrease it.
--   Owner's Equity is not static
+-   Owner's Equity is not static.
 -   This nuanced view captures how the dynamics of business operations impact the company's financial position.
 
-## Revenue recognition
+------------------------------------------------------------------------
+
+### Revenue recognition
 
 It is the second pillar in accounting. It is the process of recording revenue in the financial statements. When a company records revenues, it must also record related expenses. This is the **matching principle**:
 
 1.  Recognizing revenue when earned, regardless of when payment is received.
 2.  Expenses should be matched with revenues they helped to generate in the same period, even if payment occurs later.
 
-------------------------------------------------------------------------
-
-Therefore it is important know to when companies can recognize revenues
-
--   In 2018, the FASB (ASC 606) and IFRS (IFRS 15) converged into a standard for revenue recognition.
--   The standard is based on the principle that revenue is recognized when the risk and rewards of the goods or services are transferred to the customer.
+::: callout-note
+In 2018, the FASB (ASC 606) and IFRS (IFRS 15) converged into a standard for revenue recognition. The standard is based on the principle that revenue is recognized when the risk and rewards of the goods or services are transferred to the customer.
+:::
 
 ------------------------------------------------------------------------
 
-The 5-steps revenue-recognition model:
+### Example Silvana eTravel SA
 
-1.  Identify the contract with the customer: clear allocation of rights, obligations and payment terms.
-2.  Identify the performance obligations in the contract: distinct goods or services.
-3.  Determine the transaction price:
-    -   Long-term contracts: expected value or most likely amount.
-    -   vs. One-off contracts: fixed amount.\
-    -   the company recognize revenue can recognize only highly likely payments.
+Let's apply the accounting equation and matching principle to the following transactions:
 
-------------------------------------------------------------------------
+**Transaction 1: Starting the business.**
 
-4.  Allocate the transaction price to the performance obligations in the contract.
-    -   Proportional to the stand-alone selling price of each performance obligation.
-    -   Upfront fees: activation fee, joining fee.
-5.  Recognize revenue when (or as) the entity satisfies a performance obligation.
-    -   Over time vs at a point in time.
-    -   Customer controls the good or already used the service.
+Silvana invested \$30,000 of her own money to start the business. ​ She deposits \$30,000 in a "Silvana eTravel SA" bank account.
+
+::: callout-note
+Exercice in MS Excel.
+:::
 
 ------------------------------------------------------------------------
 
-### Example:
+**Transaction 2: Buying an office.**
 
-Silvana eTravel SA Let's apply the accounting equation and matching principle to the following transactions:
-
-------------------------------------------------------------------------
-
-**Transaction 1: Starting the business** Silvana invested \$30,000 of her own money to start the business. ​
-
-She deposits \$30,000 in a "Silvana eTravel SA" bank account.
+Silvana purchases an office, paying \$20,000 in cash. ​ Montly Depreciation: \$200​
 
 ------------------------------------------------------------------------
 
-**Transaction 2: Buying an office** Silvana purchases an office, paying \$20,000 in cash. ​
+**Transaction 3: Buying an office supplies.**
 
-Montly Depreciation: \$200​
-
-------------------------------------------------------------------------
-
-**Transaction 3: Buying an office supplies** Silvana buys office supplies, agreeing to pay \$500 within 30 days.​
-
-These supplies will last until the end of the month
+Silvana buys office supplies, agreeing to pay \$500 within 30 days.​ These supplies will last until the end of the month.
 
 ------------------------------------------------------------------------
 
 **Transaction 4: Earnings of Service Revenue**
 
-Silvana eTravel earns service revenue by providing travel services for clients. ​
-
-She earns \$5,500 in revenue and collects this amount in cash.​
-
-The labor cost of providing the service was \$600.​
+Silvana eTravel earns service revenue by providing travel services for clients. ​ She earns \$5,500 in revenues and collects this amount in cash.​ The labor cost of providing the service was \$600 and will be paid the first day of the next month.
 
 ------------------------------------------------------------------------
 
 **Transaction 5: Revenue on account**
 
-Silvana eTravel performs services for clients who do not pay immediately. ​
-
-Silvana receives clients’ promises to pay \$3,000 within one month in return for her travel services. ​
-
-The labor cost of the service was \$200.​
+Silvana eTravel performs services for clients who do not pay immediately. ​ Silvana receives clients’ promises to pay \$3,000 within one month in return for her travel services. ​ The labor cost of the service was \$200.​
 
 ------------------------------------------------------------------------
 
 **Transaction 6: Paying expenses**
 
-Silvana eTravel during the month pays with cash:​
+During the same month, Silvana eTravel pays with cash:​
 
-Wharehouse rent, \$1,100.​
-
-Utilities, \$1600.​
+-   Wharehouse rent, \$1,100.​
+-   Utilities, \$1600.​
 
 ------------------------------------------------------------------------
 
@@ -261,11 +143,81 @@ Utilities, \$1600.​
 
 Silvana borrows \$5.000 using a bank credit. The first month generates \$35 on interest expenses.
 
-## Financial Statements
+------------------------------------------------------------------------
+
+### Accounts classification
+
+**Assets**
+
+| **Current Assets**            | **Non-current Assets**             |
+|-------------------------------|------------------------------------|
+| 1\. Cash and cash equivalents | 1\. Long-term investments          |
+| 2\. Accounts receivable       | 2\. Property, plant, and equipment |
+| 3\. Inventory                 | 3\. Intangible assets              |
+| 4\. Prepaid expenses          |                                    |
+
+```{=html}
+<!--
+Transactions will regularly affect the same type of assets, thus it is practical to group them into accounts.
+- accounts receivable: money owed by customers
+- prepaid expenses: insurance, rent, etc.
+- inventory: goods available for sale
+- long-term investments: investments in other companies, bonds, etc.
+- property, plant, and equipment: land, buildings, machinery, etc.
+- intangible assets: patents, trademarks, goodwill, etc.
+-->
+```
+
+------------------------------------------------------------------------
+
+**Liabilities**
+
+| **Current Liabilities**               | **Non-current Liabilities**                |
+|------------------------------------|------------------------------------|
+| 1\. Accounts payable                  | 1\. Long-term debt                         |
+| 2\. Accrued expenses                  | 2\. Deferred income tax                    |
+| 3\. Deferred/unearned revenues        | 3\. Pension liabilities                    |
+| 4\. Current portion of Long-term debt | 4\. Other long-term liabilities            |
+| 5\. Taxes payable                     | 5\. Commitments and contingent liabilities |
+
+```{=html}
+<!--
+payable: money owed to suppliers
+accrued expenses: wages, interest, etc.
+deferred/unearned revenues: money received in advance from customers
+tax: income, value-added, estate tax, capital gains tax, property tax, etc. all of them due at different times
+--->
+```
+
+------------------------------------------------------------------------
+
+**Equity**
+
+| **Share capital**              | **Other**                                  |
+|---------------------|--------------------------------------------------|
+| 1\. Common stock               | 1\. Retained earnings                      |
+| 2\. Preferred stock            | 2\. Treasury stock                         |
+| 3\. Additional paid-in capital | 3\. Accumulated other comprehensive income |
+
+```{=html}
+<!--
+Share Capital: The total value of the company's shares that have been issued.
+1.1 Common Stock: Equity ownership in a corporation entitles shareholders to vote and potentially receive dividends.
+1.2 Preferred Stock: Shares with a higher claim on dividends and assets than common stock but typically no voting rights.
+1.3 Additional Paid-in Capital: The excess over par value shareholders have paid for the company's stock.
+
+Retained Earnings: Cumulative net income retained in the business after the distribution of dividends.
+
+Treasury Stock: Shares that a company has repurchased from shareholders and are held in the company's treasury.
+
+Accumulated Other Comprehensive Income: The total unrealized gains and losses on investments and certain foreign currency transactions are not included in net income.
+-->
+```
+## 3. Financial Statements
 
 ### Aggregations
 
-Each transaction or economic event requires determining an amount affecting the basic accounting elements.
+Each accounting event requires determining an amount affecting the respective accounts.
 
 Some rules help us to define these amounts​.
 
@@ -285,6 +237,11 @@ Asset valuation basis
 3.  **Fair Value**: Assets are valued at their current fair value.
     1.  Market value
     2.  Net realizable value
+
+::: callout-tip
+The same asset (e.g., an office) can be valued using different methods.
+What are the managerial incentives for using one method or another?
+:::
 
 ------------------------------------------------------------------------
 
@@ -349,7 +306,7 @@ Other sources of information:
 
 ------------------------------------------------------------------------
 
-## Statement of Financial Position
+### Statement of Financial Position
 
 The balance sheet is a statement that lists what the organization owns (assets), what it owes (liabilities), and what it is worth (equity) on a *specific date*.
 
@@ -357,27 +314,38 @@ The balance sheet is a statement that lists what the organization owns (assets),
 
 ------------------------------------------------------------------------
 
-Some obvious limitations.
-
--   it does not reflect the value of the intangible assets such as human capital, or reputation.​
-
--   information is based on an specific date
-
--   it incorporate various measurement bases: fair value, historical cost, amortized cost, etc.
-
-------------------------------------------------------------------------
-
 Benefits:
 
-It provides insights about company situation in terms of: - liquidity - solvency - ability to make distributions to shareholders
+- It provides insights about company situation in terms of: 
+    - liquidity 
+    - solvency 
+    - ability to make distributions to shareholders
+
+::: callout-warning
+
+## Limitations
+
+-   it does not reflect the value of the intangible assets such as human capital, or reputation.​
+-   information is based on an specific date.
+-   it incorporate various measurement bases: fair value, historical cost, amortized cost, etc.
+:::
+
 
 ------------------------------------------------------------------------
 
-## Statement of Comprehensive Income
+### Statement of Comprehensive Income
 
-![](topic_1_img/img_5.png)
+![](topic_1_img/img_3.png)
 
-## Cash Flow Statement
+------------------------------------------------------------------------
+
+::: callout-note
+Exercice in MS Excel.
+::: 
+
+------------------------------------------------------------------------
+
+### Cash Flow Statement
 
 The matching principle implies that cash inflows and outflows differ from revenues and expenses.​
 
@@ -385,20 +353,15 @@ Components:
 
 1.  Cash flows from operating activities: main business activities.
 2.  Cash flows from investing activities: purchase and sale of assets.
-3.  Cash flows from financing activities: issuance and repayment of debt and equity.
-
-## Statement of Changes in Equity
-
-Changes in *Equity* over a specified period.​
-
-In general, the focus is on what elements affected the two main components of *Equity* during the period: *Common Stock* and *Retained Earnings*.​
-
-Why could other stakeholders be interested in this?​
-
--   Creditors check if the company is reinvesting enough. Each dollar paid as a dividend is a dollar that cannot be paid later on to credits.​
--   External investors also see if the company is increasing its capital base. It indicates that current shareholders see growth opportunities that need to be financed.​
+3. Cash flows from financing activities: issuance and repayment of debt and equity.
 
 ------------------------------------------------------------------------
+
+### Statement of Changes in Equity 
+
+- Changes in *Equity* over a specified period.
+- In general, the focus is on what elements affected the two main components of *Equity* during the period: *Common Stock* and *Retained Earnings*.
+
 
 Components:
 
@@ -409,13 +372,25 @@ Components:
 
 ------------------------------------------------------------------------
 
-### Dependencies in Financial Statements
+Why could other stakeholders be interested in this?
+
+- Creditors check if the company is reinvesting enough. Each dollar paid as a dividend is a dollar that cannot be paid later on to credits.​ 
+
+- External investors also see if the company is increasing its capital base. It indicates that current shareholders see growth opportunities that need to be financed.​
+
+------------------------------------------------------------------------
+
+### Dependencies across Financial reports
+
+Some examples
 
 1.  Cash payments to reduce Trade payables will be reflected in the Balance sheet and Cash Flow Statement.​
 2.  Recognizing non-current assets depreciation will be reflected in the Balance sheet and Income Statement.​
 3.  Profits of the year will be reflected in the Balance Sheet, Income Statement, and Statement of Changes in Equity.​
 
-## Notes to the Financial Statements
+------------------------------------------------------------------------
+
+### Notes to the Financial Statements
 
 They reveal important information about the company's financial position and performance that would be difficult to discern from the financial statements.
 
@@ -428,40 +403,28 @@ Elements:
 5.  Contingent liabilities: legal disputes, etc.
 6.  Related party transactions: transactions with owners, managers, etc.
 
-## Management's Discussion and Analysis (MD&A)
+------------------------------------------------------------------------
+
+### Management's Discussion and Analysis (MD&A)
 
 It is a section of the annual report that provides management's interpretation of the company's recent performance.​
 
 -   Issues related to current and future operations/performance
-
 -   Favorable/unfavorable trends
-
 -   Important events and uncertainties
-
 -   Explanations of unusual or infrequent events
-
 -   Price changes
 
 It is mainly forward-looking information.​
 
-## FSA framework
+## 4. FSA framework
 
-### Context and Process
+Let's study a general framework for financial statement analysis (FSA).
 
-Financial statements help to evaluate the financial performance and efficiency of the overall company and its different business segments.
-
-Managers have an advantage relative to external investors: they can rely on more data and request reports tailored to specific managerial questions. That will be the focus of the Managerial Accounting Sections.​
-
-------------------------------------------------------------------------
-
-Now, we will study a general framework for financial analysis (meaning using the same data that an external investor would have)
-
--   How is our company growing? Type of assets, funding.​
--   Do we need to change our liquidity/solvency policy?​
--   Are we using our assets efficiently?​
+-   How is the company growing? Type of assets, funding.​
+-   Do the company needs to change our liquidity/solvency policy?​
+-   Are the managers using our assets efficiently?​
 -   What is driving our profits/losses?​
-
-It is not only helpful in evaluating our company (or business unit) but also competitors, suppliers, and customers.
 
 ------------------------------------------------------------------------
 
@@ -481,14 +444,14 @@ It is not only helpful in evaluating our company (or business unit) but also com
 
 ### Analysis and Metrics
 
-After analyzing the context, we can analyze the company's financial statements.​
+After analyzing the previous steps, we can analyze the company's financial statements.​
 
 1)  Comparison across time:​
     -   How is the company doing relative to previous years?​
     -   What has internally and externally changed?​
 2)  Comparison within industry peers:​
     -   What explains cross-sectional differences?​
-    -   Different shocks​, efficiencies, innovation, or new products
+    -   Different shocks​, efficiencies, innovation, or new products.
 
 ```{=html}
 <!---
@@ -515,6 +478,7 @@ After analyzing the context, we can analyze the company's financial statements.�
     1.  Return on investment
     2.  Operating performance
     3.  Asset utilization
+3.  Valuation: estimate the intrinsic value of a company (stock).
 
 ```{=html}
 <!--
@@ -531,8 +495,7 @@ After analyzing the context, we can analyze the company's financial statements.�
 
 ------------------------------------------------------------------------
 
-3.  Valuation
-    1.  To estimate the intrinsic value of a company (stock).
+
 
 **Common rules**
 
@@ -542,15 +505,19 @@ After analyzing the context, we can analyze the company's financial statements.�
 
 Check the Formula Sheet for the most common ratios.
 
+::: callout-note
+Exercice in MS Excel.
+::: 
+
 ------------------------------------------------------------------------
 
--   For an analysis of a company's financial statements, see the appendix of the slides.
-    -   It compares Volkswagen and Mercedez-Benz.
-    -   As many analysts do, they use accounting items "as they are reported" in the financial statements without adjusting them.
--   However, in the first part of this course, we will dig deep and learn how to measure them correctly:
-    -   Topic 2: Adjustments to represent real financing activity
-    -   Topic 3: Adjustments to represent real investing activity
-    -   Topic 4: Adjustments to represent real operating activity
+A very naive approach is to analyze the statement "as they are reported"  without adjusting them.
+
+However, in this course, we will dig deep and learn how to measure them correctly:
+
+-   Topic 2: Adjustments to represent real financing activity
+-   Topic 3: Adjustments to represent real investing activity
+-   Topic 4: Adjustments to represent real operating activity
 
 ## Questions
 
@@ -558,7 +525,7 @@ Check my website for an updated version of this presentation:
 
 [https://www.marceloortizm.com/](https://www.marceloortizm.com)
 
-**Thanks**
+
 
 ```{=html}
 <!--
