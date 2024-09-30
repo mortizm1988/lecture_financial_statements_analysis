@@ -1,0 +1,590 @@
+---
+title: "Analysis of Financing Decisions"
+author: "Marcelo Ortiz"
+affiliation: "Universitat Pompeu Fabra"
+date: "September 2024"
+format: 
+  revealjs:
+    theme: [default,upf.scss]
+    embed-resources: true
+    paginate: true
+    toc: false
+    slide-number: true
+    incremental: false
+---
+
+##  Contents
+
+1. Financing liabilities
+2. Leases
+3. Contingent liabilities and commitments
+4. Off-balance-sheet financing
+5. Equity financing
+
+<!--
+consider to add
+- trade payables
+- accrued expenses
+- unearned revenues
+-->
+
+
+## 1. Financing liabilities
+
+### Types of Liabilities 
+Our analysis starts distinguishing between two types of liabilities:
+
+1. Financing liabilities: all forms of credit financing, such as bank loans, bonds, and leases.
+
+2. Operating liabilities: obligations that arise from normal business operations, such as accounts payable, accrued expenses, and taxes payable.
+
+Of course, by traditional reporting purposes, liabilities are also classified as current or noncurrent, based on whether the obligation is expected to be satisfied within one year or the operating cycle, whichever is longer.
+
+-------------------------------------------------------------------------------
+
+Let's start by focusing on financing liabilities.
+
+::: r-stack
+![](topic_2_img/news_1.png){.fragment width="70%"}
+
+![](topic_2_img/apple_news.png){.fragment width="70%"}
+
+![](topic_2_img/news_2.png){.fragment width="70%"}
+:::
+
+-------------------------------------------------------------------------------
+
+### The impact of liabilities decisions
+
+::: callout-note
+Exercice in MS Excel.
+:::
+
+What is the impact on the financial statments of the following financing decisions? Consider that the decision is executed the first day of the fiscal year.
+
+1. Borrowing $1,000,000 from a bank at 5% interest rate. Interest payments are due annually, and the principal is due in 5 years.
+2. Renovating the previous loan but with a 10% interest rate.
+3. Paying off the original loan in the 5th year.
+
+
+
+-------------------------------------------------------------------------------
+
+One could take the numbers from the financial statements and compute solvency ratios.
+
+But a less naive approach should consider key information from:
+
+**The Notes:**
+
+ - Interest rates, maturity dates, conversion privileges, and redemption clauses.
+
+**The Managerial report:**
+
+ - Expectation of refinancing, debt covenants getting tight, and future financing needs.
+
+-------------------------------------------------------------------------------
+
+**With this additional information we can work on different scenarios:**
+
+- Refinancing: what is the current cost of refinancing? Worse? Better? How much?
+- Debt reduction: does the firm have enough cash? Issuing new shares? Selling assets?
+
+Once we have a better picture of how the debt structure would look in the near future, we can include the respective adjustments in the financial statements before jumping into the ratios.
+
+- This is especially true when the last report available is from many months ago. 
+
+-------------------------------------------------------------------------------
+
+**Example Apple 2022 [10 min]**
+
+1) Search liabilities in the balance sheet. 
+   - Here we just have very aggregated values.
+2) Search: "Note 7 – Debt" and "DESCRIPTION OF DEBT SECURITIES":
+
+Get the following information: type of instruments, maturities, interest rates, ranking/seniority, redemption, and covenants.
+
+  - How is the debt distributed (maturity, type of instrument)?
+  - What are the interest rates in these debt contracts? [How is the market now?](https://markets.businessinsider.com/bonds) 
+  - Is any big maturity coming up soon? News from rolling over?
+   
+<!--
+focus: "The 2024 Notes: 1.375%, 1 billion. Now will be above 4-5%"
+
+Mention that if we wants to know more about the covenants, we need to go to the bond indenture.
+-->
+
+-------------------------------------------------------------------------------
+
+### Credit Ratings
+
+The credit rating of a bond is an assessment of the issuer's ability to make timely payments of interest and principal.
+
+[S&P Website](https://www.spglobal.com/ratings/en/about/understanding-credit-ratings)
+
+![](Slides/../topic_2_img/credit_ratings.png){width="70%"}
+
+-------------------------------------------------------------------------------
+
+**Bond valuation and credit ratings**
+
+Therefore, it is not surprising that the credit rating of a bond is a major determinant of 
+
+1) the interest rate that the issuer must pay to sell the bond.
+2) the fair value of the issued bonds in the market.
+  
+
+<!--
+## Bond valuation and credit ratings
+
+When credit ratings worsen, it creates income for the company:heavy_exclamation_mark:
+
+1. Worse credit rating, lower bond price, lower liability valuation, assets stable at historical cost, higher income.
+2. Assets - liabilities = equity, higher equity value, higher income.
+
+This problem is more severe when the company has a large amount of debt and a small fraction of assets valued at fair value.
+
+---
+-->
+
+## 2. Leases
+Now we move into operating liabilities ground.
+
+**Definitions and key elements**
+
+- It is a contractual agreement between a **lessor** (owner) and a **lessee** (user) that gives the lessee the right to use an asset owned by the lessor for a specified period of time in exchange for periodic payments.
+
+-------------------------------------------------------------------------------
+
+### Contracting terms: 
+
+- Minimum lease payments (MLP), or Based Rent, are the fixed payments that the lessee is obligated to make over the lease term.
+- Contingent rentals are payments that depend on the future performance of the leased asset.
+- Mileage for a car lease, sales performance for a retail store lease, etc.
+- Residual value guarantees are guarantees that the lessee will pay the lessor a specified amount at the end of the lease term if the residual value of the leased asset is less than the guaranteed amount.
+
+-------------------------------------------------------------------------------
+
+### Capital vs. Operating Leases:
+
+- Capital lease: substantial transference of all the benefits and risks of ownership to the lessee.
+  - Recognition of a new asset (_right-of-use asset_) and liability.
+- Operating lease: all other leases.
+  - Recognizing just rental expenses.
+ 
+Strong incentive to structure leases as operating leases even when they are economically equivalent to capital leases.
+
+- Operating leases are not reported on the balance sheet.
+- Off-balance-sheet financing.
+- Tax considerations.
+
+<!--
+New  IFRS 16 LEASES: the lesse does not  use this classification anymore. Starting from 2019, all leases are capital leases. 
+-->
+-------------------------------------------------------------------------------
+
+An illustrative example
+
+- A company leases an asset on January 1, 2005.
+- The company has no other assets or liabilities.
+- The estimated economic life of the leased asset is 5 years and no residual value is expected.
+- The lease has a fixed noncancelable term of 5 years with MLP of $2,505 per year, payable at the end of each year. The interest rate on the lease is 8% per year.
+- Depreciation is computed using the straight-line method.
+
+-------------------------------------------------------------------------------
+
+First, let's compute the present value of the MLP.
+
+Remember that the PV of an annuity is given by $P_0=\frac{1-1/(1+i)^n}{i}$. In this case, $i=8\%$ and $n=5$.
+
+- $P_0=\frac{1-1/(1.08)^5}{0.08}=3.9927$
+- Leased asset value = $\$2.505\times 3.9927=10.000$
+
+Second, compute the interest expense and depreciation expense for each year.
+
+-------------------------------------------------------------------------------
+
+
+| Year  | Op. Lease (Rental exp.) | Interest exp. | Dep. exp. | Cap. Lease |
+| ----- | ----------------------: | ------------: | --------: | ---------: |
+| 2005  |                  $2,505 |          $800 |    $2,000 |     $2,800 |
+| 2006  |                   2,505 |           664 |     2,000 |      2,664 |
+| 2007  |                   2,505 |           517 |     2,000 |      2,517 |
+| 2008  |                   2,505 |           358 |     2,000 |      2,358 |
+| 2009  |                   2,505 |           186 |     2,000 |      2,186 |
+| Total |                  12,525 |         2,525 |    10,000 |     12,525 |
+
+Total expense is identical for both cases, but the timing is different: capital lease reports more expenses earlier.
+
+But more importantly: the operating lease does not report any liability (nor asset) in the balance sheet.
+
+<!--
+- Operating lease are very common.
+
+**Some famous cases**
+
+Tesco, a UK-based supermarket giant, had significant real estate obligations that were kept off its balance sheet before accounting rules mandated a change. The company utilized sale-and-leaseback arrangements for many of its properties. While this practice allowed Tesco to free up capital and maintain operational control of the stores, it also led to large, off-balance-sheet leasing obligations.
+
+IBM often used operating leases to acquire computer equipment and data centers. This provided them flexibility and enabled them to keep pace with rapidly evolving technology. By using operating leases, IBM managed to keep large liabilities off its balance sheet, thus affecting important financial ratios like the debt-to-equity ratio.
+-->
+
+-------------------------------------------------------------------------------
+
+A lease is classified as a capital lease if any of the following conditions are met:
+
+1. Ownership of the asset is transferred to the lessee at the end of the lease term.
+2. The lease contains a bargain purchase option.
+3. The lease term is equal to 75% or more of the estimated economic life of the leased asset.
+4. The present value of the minimum lease payments is equal to 90% or more of the fair value of the leased asset.
+
+-------------------------------------------------------------------------------
+
+### Reporting:
+
+-  Capital lease: the lessee recognizes an asset and a liability at the present value of the MLP.
+-  Furthermore, lessees have to report leased assets and lease liability for all leases (operating and capital) with a term of more than 12 months.
+
+We can find the information in two places:
+-  "Significant/Selected Accounting Policies"->"Leases"
+-  "Notes to the Financial Statements"->"Leases"
+
+-------------------------------------------------------------------------------
+
+**Example Apple [5 min]**
+
+Search: "Note 6 - Leases"
+
+1) Identify the type of assets being leased.
+2) Identify where the lease asset and the lease liability are reported.
+3) What fraction of lease agreements are capital/finance vs operating leases?
+4) Identify the lease maturity schedule.
+
+-------------------------------------------------------------------------------
+
+### Impact of Operating Leases on Financial Statements
+
+1. Understate liabilities by keeping lease obligations out of the balance sheet. Impact solvency ratios.
+1. Understate assets, inflating return on investment and assets turnover ratios.
+2. Delay the recognition of expenses, inflating net income and EPS.
+
+Now it should be clear why operating leases are so popular: it positively affects key ratios that are used by investors and creditors to assess the financial health of the company.
+
+<!-- 
+So, if we suspect that a company is using operating leases to keep liabilities out of the balance sheet, we should try to quantify the impact of the operating leases on the financial statements.
+-->
+
+-------------------------------------------------------------------------------
+
+
+### Converting Operating Leases to Capital Leases
+
+Many analysts and investors try to convert operating leases to capital leases to assess the impact of operating leases on financial statements.
+
+Suggestions: classify only when the lessee's classification appears inconsistent with the economic characteristics of the lease.
+
+-------------------------------------------------------------------------------
+
+The following method provides reasonable estimates of the impact of operating leases on the financial statements, but it does not precisely quantify all the effects of the lease reclassification.
+
+Data from the 2022 annual report of Colgate-Palmolive.
+
+Estimate the length of the remaining period beyond the 5 years disclose in the Notes: $\$201/50=4.02$ years.
+
+Add this length to the 5 years of the 2023-leases: 9.02 years.
+
+Many would argue that a 9-year commitment for operating leases is too long to ignore.
+
+So, we need to evaluate how much the financial statements would change if we capitalize on the operating leases.
+
+
+
+## 3. Commitments and contingent liabilities
+
+### Contingent liabilities
+
+A contingent liability is a potential loss that depends on some future event such as litigation, threats of expropriation, product warranties, etc.
+
+Conditions for recognizing a contingent loss in the balance sheet:
+
+1) Probable Occurrence: The future event that would trigger the loss is more likely than not to occur. 
+
+2) Reasonable Estimation: The amount of the loss can be reasonably estimated. 
+   
+In other cases the disclosure without recognition may be required.
+
+<!--
+In U.S. GAAP, "probable" is often interpreted as a likelihood of more than 50%.
+Under IFRS, the terminology is slightly different but the essence is similar:
+- Present Obligation: A present obligation must exist as a result of past events.
+- Outflow of Resources: It is probable that an outflow of resources embodying economic benefits will be required to settle the obligation.
+- Reliable Estimate: A reliable estimate can be made of the amount of the obligation.
+-->
+
+-------------------------------------------------------------------------------
+
+The company must disclose the contingency in the Notes when there is at least a _reasonable possibility_ that a loss will occur.
+
+Reported contingent liabilities are based on the company's estimates.
+
+    -  Prior experience or future expectations.
+  
+Our analysis, then, is limited by the quality of these estimates.
+
+-------------------------------------------------------------------------------
+
+Note disclosure should include the following information about contingencies:
+
+1. Nature of the contingency.
+2. Degree of uncertainty about the outcome.
+3. The possible range of loss.
+   
+Of course, it is reasonable to assume that companies will disclose only the information that is favorable to them.
+
+Typical examples of contingent liabilities:
+
+    -  Litigation: lawsuits, claims, and assessments.
+
+<!--
+discuss: litigation and telling the plantiff how much money you are expecting to pay will impact how much he will demand.
+-->
+-------------------------------------------------------------------------------
+
+### Commitments
+A commitment is a potential claim against a company's resources that depends on some future event under contract.
+
+Frequent commitments: 
+
+    - Purchase commitments
+    - Debt covenant restrictions
+    - Licensing agreements
+
+-------------------------------------------------------------------------------
+
+**Example Apple [5 min]**
+
+Search: Balance sheet "Commitments and Contingencies."
+
+Search: "Note 10 – Commitments and Contingencies."
+
+1) Identify the type of commitments.
+   - How much are the accrued warranties? Iphone upgrade program as a guarantee liability.
+   - What are the Unconditional Purchase Obligations? Compare the amount to debt or total liability.
+2) What is the most common type of contingent liabilities?  Is any of them material?
+
+
+
+## 4. Off-balance-sheet financing
+
+It refers to the non-recognition of financing activities in the financial statements.
+
+- Operating leases are the most common example.
+- Other examples: special purpose entities, joint ventures, limited partnerships, etc.
+
+-------------------------------------------------------------------------------
+
+### a. Joint ventures
+
+A joint venture is a business entity created by two or more parties, generally characterized by shared ownership, shared returns and risks, and shared governance.
+
+Steps for hiding debt (don't do it!)
+
+1. The company creates a separate entity and provides financing _not exceeding 50%_ of the total capital.
+   - The company does not consolidate the joint venture: it is treated as an investment. 
+2. The separate entity borrows money from a bank and uses the money to purchase assets.
+3. The separate entity leases the assets to the company.
+
+-------------------------------------------------------------------------------
+
+### b. Special purpose entities (SPEs)
+
+A special purpose entity (SPE) is a legal entity created to fulfill narrow, specific or temporary objectives.
+
+- Typically used by companies to isolate the firm from financial risk.
+- And for accounting fraud :bomb:
+ 
+-------------------------------------------------------------------------------
+
+Steps for hiding debt (don't do it!)
+
+1. The company, called the _sponsor_, forms a separate entity and capitalizes it with equity investment, some of which must be from independent third parties.
+2. The SPE issues debt and uses the proceeds to purchase earnings assets from or for the sponsoring company.
+3. The cash flow from the earnings assets is used to pay the debt and provide a return to the equity investors.
+
+-------------------------------------------------------------------------------
+
+Example 1 Securitization of receivables:
+
+Steps:
+
+1. Companies sell their receivables to SPEs, which issue debt to finance the purchase.
+   - (-)Receivables and (+) Cash.
+2. SPE issues collateralized bonds with the receivables.
+3. SPE sells the bonds to investors; the proceeds are used to purchase more receivables on an ongoing basis.
+
+-------------------------------------------------------------------------------
+
+Example 2 Commitments to purchase assets:
+
+A company needs to fund the construction of a manufacturing plant.
+
+Steps:
+
+1. Companies execute a contract with the SPE to purchase the output of a plant.
+2. The SPE issues debt to finance the construction of the plant
+   - collateral: contract and the property 
+3. SPE funds the construction of the plant with the debt proceeds.
+
+The company obtains the benefit of the plant without recording the debt on its balance sheet.
+
+-------------------------------------------------------------------------------
+
+Why SPEs are so popular?
+
+1.  They allow companies to obtain lower-cost financing.
+   -  As SPEs are restricted to a single purpose, they are less risky than the sponsoring company.
+2.  They allow companies to avoid violating debt covenants.
+   - If structured properly, the SPE is not consolidated in the sponsoring company's financial statements.
+
+-------------------------------------------------------------------------------
+
+Reporting of Joint Ventures and SPEs:
+
+- Very limited information in the annual reports:
+  - Check Apple: "Exhibit 21.1"
+
+- In practice, it is more common to rely on specialized business databases like [Orbis](https://www.bvdinfo.com/en-gb/) or [Capital IQ](https://www.spglobal.com/marketintelligence/en/solutions/sp-capital-iq-pro). 
+
+## 5. Equity financing
+
+Equity refers to the owners' (shareholders') financing of a company.
+
+Commonly viewed as reflecting the claims of owners against the assets of the company.
+
+Typically, holders of equity securities are subordinate to creditors in the event of liquidation.
+
+-------------------------------------------------------------------------------
+
+### Components of capital stock
+
+1. Contributed capital:
+   -  One part is assigned to the par or stated value of capital shares: Common and/or Preferred stock
+   -  The remainder is reported as additional paid-in capital (APIC)
+      -  e.g., company issues 1 million common shares, par value $1, means that the company has raised $1 million in capital stock.
+      -  at closing date: share price=$1.5 => APIC=$500,000
+
+-------------------------------------------------------------------------------
+
+2. Treasury stock (buybacks)
+    -  The amount of capital stock repurchased by the company and kept in their own treasury. Why? as an attempt to increase the share price or limiting dilution.
+    -  It reduces both contributed assets and total equity (_contra-equity account_).
+    -  Recorded at cost value.
+
+-------------------------------------------------------------------------------
+
+3. Retained earnings: accumulated earnings of the company that have not been distributed to shareholders as dividends.
+   - Covenants can create restrictions on the use of retained earnings (check Bond indentures and Loan agreements).
+4. Other comprehensive income (OCI): unrealized gain and losses not recognized in the income statement.
+5. Noncontrolling interest (NCI): equity interest in a subsidiary not attributable to the parent company.
+
+-------------------------------------------------------------------------------
+
+Typical equity events:
+
+::: r-stack
+![](topic_2_img/news_3.png){.fragment width="70%"}
+
+![](topic_2_img/news_4.png){.fragment width="70%"}
+
+![](topic_2_img/news_5.png){.fragment width="70%"}
+:::
+
+-------------------------------------------------------------------------------
+
+### The impact of equity decisions
+
+::: callout-note
+Exercice in MS Excel.
+:::
+
+What is the impact on the financial statments of the following financing decisions? Consider that the decision is executed the last day of the fiscal year.
+
+1. Recognizing annual profits of \$1,000,000.
+2. Paying \$300.000 in dividends. 
+
+
+-------------------------------------------------------------------------------
+
+### Classification of capital stock
+1. Preferred stock
+   - dividend distribution preferences (usually fixed)
+   - liquidation priority
+   - convertibility into common stock
+   - non or limited voting rights
+2. Common stock
+   - voting rights
+   - bear the residual risk and rewards of the company
+
+-------------------------------------------------------------------------------
+
+<style scoped>
+table {
+  font-size: 15px;
+}
+</style>
+
+Example:
+
+First year of operations: What is the total equity of the company?
+
+|  | Total equity | 
+| --- | --- |
+| **Common shares** |  |
+|# shares outstanding = 100,000||
+|Par value = $5|Common share capital (at par)=$500,000|
+|Issuance price = $8.5|APIC: $350,000|
+| **Preferred shares** |  |
+|# shares outstanding = 20,000||
+|Par value = $10|Preferred share capital (at par)=$200,000|
+|||
+|**Net income** = $1,150,000|Ret. earnings = $1,150,000|
+|**OCI**: $300,000|OCI: $300,000|
+|**Dividends** = $450,000|Dividends = -$450,000|
+|**Treasury stock** = $50,000|Treasury stock = -$50,000|
+|**Total**| $2,000,000|
+
+<!--
+internal financing: 1 million (net income+oci-dividends)
+external financing: 1 million
+-->
+
+
+-------------------------------------------------------------------------------
+
+Our focus: **capital stock dilution**
+
+Common variations in the capital stock:
+
+-  issuance of new stocks
+-  repurchase of stocks
+-  conversion of debentures and preferred stocks
+
+Less common reasons to keep in mind:
+
+-  Stock options with compensation and bonus plans calling for the issuance of capital stock over some time at fixed prices (i.e., employee stock ownership plan)
+-  Commitments to issue capital stock in the future (i.e., stock warrants, or merger agreements) 
+  
+
+-------------------------------------------------------------------------------
+
+**Questions?**
+
+Check my website for an updated version of this presentation:
+
+[https://www.marceloortizm.com/](https://www.marceloortizm.com)
+
+**Based on:**
+
+- Subramanyam, K. R. (2014). Financial statement analysis. McGraw-Hill Education. Chapter 3.
+- Steven M. Bragg (2022). IFRS Guidebook. Accounting Tools. Chapters 19 and 29.
+- IFRS 16 Leases
+- IAS 37 Provisions (IFRS) Contingent Liabilities and Contingent Assets
+- IFRS 11 Joint Arrangements
