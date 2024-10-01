@@ -22,12 +22,12 @@ $link-color: #0509f7;
 /* Specific heading styles */
 .reveal h1 {
     font-size: 38px;
-    color: #f70000;
+    color: #c8102e;
 }
 
 .reveal h2 {
     font-size: 34px;
-    background-color: red;
+    background-color: #c8102e;
     /* Set background to red */
     color: white;
     /* Set text color to white */
@@ -39,7 +39,12 @@ $link-color: #0509f7;
 
 .reveal h3 {
     font-size: 30px;
-    color: red;
+    background-color: #d33f55;
+    color: white;
+    padding: 5px;
+    /* Add some padding to make the background visible */
+    border-radius: 5px;
+    /* Optional: adds rounded corners */
 }
 
 .reveal .slide-number {

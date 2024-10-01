@@ -1,16 +1,14 @@
 ---
 title: "Analysis of Operating Decisions"
+title-slide-attributes:
+  data-background-image: logo_upf_bsm.png
+  data-background-size: 30%
+  data-background-repeat: no-repeat
+  data-background-position: top 10px left 10px
+  data-background-opacity: "0.5"
 author: "Marcelo Ortiz"
 affiliation: "Universitat Pompeu Fabra"
 date: "September 2024"
-format: 
-  revealjs:
-    theme: [default,upf.scss]
-    embed-resources: true
-    paginate: true
-    toc: false
-    slide-number: true
-    incremental: false
 ---
 
 Topics

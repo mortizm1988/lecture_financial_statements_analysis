@@ -8,3 +8,12 @@ project:
     - topic_4_operating.qmd
     - topic_5_cashflows.qmd
     - topic_6_forecasting.qmd
+
+format: 
+  revealjs:
+    theme: [default,upf.scss]
+    embed-resources: true
+    paginate: true
+    toc: false
+    slide-number: true
+    incremental: false  
