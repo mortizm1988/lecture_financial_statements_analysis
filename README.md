@@ -9,9 +9,9 @@ The course is designed for students interested in various business areas, includ
 
 | Topic                                     | Key Concepts                                                                                                                                              |
 |:-------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Topic 1: [Foundations](topic_1_foundations.pdf)             | Accounting equation. Matching Principle. Valuation Methods. Financial statements and their internal links.  |
-| Topic 2: [Financing Activities Analysis](topic_2_financing.pdf)    | Leases. Contingencies and Commitments. Off-Balance-Sheet Financing. Equity. Reserves.                                                |
-| Topic 3: [Investing Activities Analysis](topic_3_investing.pdf)    | Cash and Equivalents. Inventory. Long-term Assets. Intangible Assets. Deferred Assets.                                |
-| Topic 4: [Operating Activities Analysis](topic_4_operating.pdf)    | Income Measurement. Nonrecurring Items. Deferred Charges. Interest Costs. Income Taxes.                             |
-| Topic 5: [Cash Flow Analysis](topic_5_cashflows.pdf)    | Measuring and Analyzing Cash Flows                             |
-| Topic 6: [Forecasting Financial Statements ](topic_6_forecasting.pdf)| Projection Process. Trends in Value Drivers                                                                                       |
+| Topic 1: [Foundations](https://marceloortizm.com/lecture_financial_statements_analysis/topic_1_foundations.html)             | Accounting equation. Matching Principle. Valuation Methods. Financial statements and their internal links.  |
+| Topic 2: [Financing Activities Analysis](https://marceloortizm.com/lecture_financial_statements_analysis/topic_2_financing.html)    | Leases. Contingencies and Commitments. Off-Balance-Sheet Financing. Equity. Reserves.                                                |
+| Topic 3: [Investing Activities Analysis](https://marceloortizm.com/lecture_financial_statements_analysis/topic_3_investing.html)    | Cash and Equivalents. Inventory. Long-term Assets. Intangible Assets. Deferred Assets.                                |
+| Topic 4: [Operating Activities Analysis](https://marceloortizm.com/lecture_financial_statements_analysis/topic_4_operating.html)    | Income Measurement. Nonrecurring Items. Deferred Charges. Interest Costs. Income Taxes.                             |
+| Topic 5: [Cash Flow Analysis](https://marceloortizm.com/lecture_financial_statements_analysis/topic_5_cashflows.html)    | Measuring and Analyzing Cash Flows                             |
+| Topic 6: [Forecasting Financial Statements ](https://marceloortizm.com/lecture_financial_statements_analysis/topic_6_forecasting.html)| Projection Process. Trends in Value Drivers                                                                                       |
