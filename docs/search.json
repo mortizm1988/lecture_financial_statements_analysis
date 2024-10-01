@@ -1,30 +1,23 @@
 [
   {
-    "objectID": "topic_4_operating.html#income-measurement",
-    "href": "topic_4_operating.html#income-measurement",
-    "title": "Analysis of Operating Decisions",
-    "section": "1. Income measurement",
-    "text": "1. Income measurement\n1.1 Basics concepts behind accounting income\nTwo main concepts behind income measurement:\n\nEconomic income measures the net change in shareholders’ wealth during a period. Theoretically, it is equal to a period’s cash flows plus the change in the present value of expected future cash flows.\nRecurrent income is an estimate of the stable average income that a business is expected to earn over its lifetime, given the current state of its business.\n\nAlso called sustainable income or permanent income."
+    "objectID": "topic_5_cashflows.html#cash-flow-statement",
+    "href": "topic_5_cashflows.html#cash-flow-statement",
+    "title": "Analysis of Cash Flows",
+    "section": "1. Cash Flow Statement",
+    "text": "1. Cash Flow Statement\nIf we forget about the accruals and the matching principle, we can say that the cash flow statement is equal to the income statement.\nHowever, as this is not the case for the vast majority of firms, we need a report informing about cash inflows and outflows.\nWhy? Because cash is king!\n\nfinancial flexibility\nsolvency"
   },
   {
-    "objectID": "topic_4_operating.html#nonrecurring-items",
-    "href": "topic_4_operating.html#nonrecurring-items",
-    "title": "Analysis of Operating Decisions",
-    "section": "2. Nonrecurring items",
-    "text": "2. Nonrecurring items\n2.1 Discontinued operations\nCompanies sometimes dispose of entire divisions or product lines.\nWhen these dispositions pertain to separately identifiable business components, they are called discontinued operations.\nDiscontinued operations are separately reported on the income statement and the balance sheet."
+    "objectID": "topic_5_cashflows.html#interpretation-of-cash-flow-statements",
+    "href": "topic_5_cashflows.html#interpretation-of-cash-flow-statements",
+    "title": "Analysis of Cash Flows",
+    "section": "2. Interpretation of cash flow statements",
+    "text": "2. Interpretation of cash flow statements\n2.1 Limitations\n\nLack of Extraordinary Item Disclosure: No mandate to separately reveal cash flows related to extraordinary events or terminated operations.\nInterest and Dividends Classification: Both interest and dividends received, as well as interest paid, are categorized as operating cash flows. This is at odds with views that consider interest paid as financing outflows and interest and dividends received as investment inflows.\nTax Expense Handling: Taxes are treated as operating cash flows, potentially skewing the understanding of each activity if notable tax implications are unevenly allocated. Example: a company that has a large tax refund in a given year will report a large operating cash inflow; similarly, tax from asset sales is reported as an operating cash outflow even they are part of an investing activity."
   },
   {
-    "objectID": "topic_4_operating.html#deferred-charges",
-    "href": "topic_4_operating.html#deferred-charges",
-    "title": "Analysis of Operating Decisions",
-    "section": "3. Deferred charges",
-    "text": "3. Deferred charges\nDeferred charges are costs incurred that are deferred because they are expected to benefit future periods.\nThe motivation for deferral of costs is to match costs with expected benefits better.\nThis motivation underlies the capitalization of all long-term assets and their depreciation, as discussed in the previous topic."
-  },
-  {
-    "objectID": "topic_4_operating.html#earnings-per-share",
-    "href": "topic_4_operating.html#earnings-per-share",
-    "title": "Analysis of Operating Decisions",
-    "section": "4. Earnings per share",
-    "text": "4. Earnings per share\nEarnings per share (EPS) data are widely used in evaluating a company’s operating performance and profitability.\nAnalysts use this core metric to value a company and for the business press when reporting earnings announcements.\nGiven the importance of EPS, it is unsurprising that companies are motivated to manage earnings to meet or beat analysts’ EPS forecasts.\nSo, it is important to understand how EPS is calculated and how it can be manipulated.\nThe computation and reporting requirements for earnings per share under US GAAP (ASC 260) and IFRS (IAS 33) are consistent."
+    "objectID": "topic_5_cashflows.html#alternative-measures-of-cash-flows",
+    "href": "topic_5_cashflows.html#alternative-measures-of-cash-flows",
+    "title": "Analysis of Cash Flows",
+    "section": "3. Alternative measures of cash flows",
+    "text": "3. Alternative measures of cash flows\n3.1 Net Income Plus Depreciation and EBITDA\n\nCommon Proxy: Net income plus depreciation often serves as a basic approximation for operating cash flow.\nPitfall:\n\nOverlooks Working Capital: Fails to account for changes in working capital, a key part of operating cash flows."
   }
 ]
