@@ -33,5 +33,75 @@
     "title": "Accounting Foundations",
     "section": "Questions",
     "text": "Questions\nCheck my website for an updated version of this presentation:\nhttps://www.marceloortizm.com/"
+  },
+  {
+    "objectID": "topic_2_financing.html#contents",
+    "href": "topic_2_financing.html#contents",
+    "title": "Analysis of Financing Decisions",
+    "section": "Contents",
+    "text": "Contents\n\nFinancing liabilities\nLeases\nContingent liabilities and commitments\nOff-balance-sheet financing\nEquity financing"
+  },
+  {
+    "objectID": "topic_2_financing.html#financing-liabilities",
+    "href": "topic_2_financing.html#financing-liabilities",
+    "title": "Analysis of Financing Decisions",
+    "section": "1. Financing liabilities",
+    "text": "1. Financing liabilities\nTypes of Liabilities\nOur analysis starts distinguishing between two types of liabilities:\n\nFinancing liabilities: all forms of credit financing, such as bank loans, bonds, and leases.\nOperating liabilities: obligations that arise from normal business operations, such as accounts payable, accrued expenses, and taxes payable.\n\nOf course, by traditional reporting purposes, liabilities are also classified as current or noncurrent, based on whether the obligation is expected to be satisfied within one year or the operating cycle, whichever is longer."
+  },
+  {
+    "objectID": "topic_2_financing.html#leases",
+    "href": "topic_2_financing.html#leases",
+    "title": "Analysis of Financing Decisions",
+    "section": "2. Leases",
+    "text": "2. Leases\nNow we move into operating liabilities ground.\nDefinitions and key elements\n\nIt is a contractual agreement between a lessor (owner) and a lessee (user) that gives the lessee the right to use an asset owned by the lessor for a specified period of time in exchange for periodic payments."
+  },
+  {
+    "objectID": "topic_2_financing.html#commitments-and-contingent-liabilities",
+    "href": "topic_2_financing.html#commitments-and-contingent-liabilities",
+    "title": "Analysis of Financing Decisions",
+    "section": "3. Commitments and contingent liabilities",
+    "text": "3. Commitments and contingent liabilities\nContingent liabilities\nA contingent liability is a potential loss that depends on some future event such as litigation, threats of expropriation, product warranties, etc.\nConditions for recognizing a contingent loss in the balance sheet:\n\nProbable Occurrence: The future event that would trigger the loss is more likely than not to occur.\nReasonable Estimation: The amount of the loss can be reasonably estimated.\n\nIn other cases the disclosure without recognition may be required."
+  },
+  {
+    "objectID": "topic_2_financing.html#off-balance-sheet-financing",
+    "href": "topic_2_financing.html#off-balance-sheet-financing",
+    "title": "Analysis of Financing Decisions",
+    "section": "4. Off-balance-sheet financing",
+    "text": "4. Off-balance-sheet financing\nIt refers to the non-recognition of financing activities in the financial statements.\n\nOperating leases are the most common example.\nOther examples: special purpose entities, joint ventures, limited partnerships, etc."
+  },
+  {
+    "objectID": "topic_2_financing.html#equity-financing",
+    "href": "topic_2_financing.html#equity-financing",
+    "title": "Analysis of Financing Decisions",
+    "section": "5. Equity financing",
+    "text": "5. Equity financing\nEquity refers to the owners’ (shareholders’) financing of a company.\nCommonly viewed as reflecting the claims of owners against the assets of the company.\nTypically, holders of equity securities are subordinate to creditors in the event of liquidation."
+  },
+  {
+    "objectID": "topic_6_forecasting.html#why-do-we-need-to-forecast-financial-statements",
+    "href": "topic_6_forecasting.html#why-do-we-need-to-forecast-financial-statements",
+    "title": "Forecasting",
+    "section": "1. Why do we need to forecast financial statements?",
+    "text": "1. Why do we need to forecast financial statements?\nProspective analysis is the process of forecasting the future performance of a company.\nManagers use prospective analysis to:\n\nEvaluate the impact of strategies, financing, and investment decisions on the company’s future performance.\nBy doing so, they can foresee how investors and creditors will react to these decisions."
+  },
+  {
+    "objectID": "topic_6_forecasting.html#step-1-projected-income-statement",
+    "href": "topic_6_forecasting.html#step-1-projected-income-statement",
+    "title": "Forecasting",
+    "section": "2. Step 1 Projected Income Statement",
+    "text": "2. Step 1 Projected Income Statement\nThe projected income statement is the starting point of the prospective analysis.\nStep 1.1 we need an estimation of the company’s expected sales growth rate:\n\nEasy approach: use the historical trend in sales growth rate.\nMore sophisticated approaches:\n\nexpected level of macroeconomic activity: using econometrics to link sales growth to GDP growth. If the economy is in a cyclical upturn, sales growth is expected to be higher than the historical average.\nProduct market competition: if the company is in a highly competitive industry, the company has no price-setting power, and sales growth can quickly decline.\nMultiproduct/multiservice companies."
+  },
+  {
+    "objectID": "topic_6_forecasting.html#step-2-projected-balance-sheet",
+    "href": "topic_6_forecasting.html#step-2-projected-balance-sheet",
+    "title": "Forecasting",
+    "section": "3. Step 2 Projected Balance Sheet",
+    "text": "3. Step 2 Projected Balance Sheet\nStep 2.1, estimate the company’s expected accounts receivable:\n\\[\\text{Accounts receivable turnover rate}=\\frac{\\text{Sales}}{\\text{Accounts receivable balance}} \\]\nThe forecast: \\[\\text{Forcasted accounts receivable} =\\frac{\\text{Forecasted Sales}}{\\text{Accounts receivable turnover rate}} \\]"
+  },
+  {
+    "objectID": "topic_6_forecasting.html#sensitivity-analysis",
+    "href": "topic_6_forecasting.html#sensitivity-analysis",
+    "title": "Forecasting",
+    "section": "4. Sensitivity Analysis",
+    "text": "4. Sensitivity Analysis\n\nWe are assuming that many dimensions of the financialsstatements will change.\nOur approach is a good starting point:\n\nto test the sheet and formula: there should not be drastic changes in the company’s financial structure\nto foresee how the company’s financial structure will look if no significant changes happen in the future\n\nvalid for mature companies,\nless for young or highly disruptive/distressed companies."
   }
 ]

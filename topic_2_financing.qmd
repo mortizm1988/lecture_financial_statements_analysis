@@ -11,6 +11,7 @@ format:
     toc: false
     slide-number: true
     incremental: false
+    
 ---
 
 ##  Contents
@@ -120,8 +121,6 @@ Mention that if we wants to know more about the covenants, we need to go to the 
 The credit rating of a bond is an assessment of the issuer's ability to make timely payments of interest and principal.
 
 [S&P Website](https://www.spglobal.com/ratings/en/about/understanding-credit-ratings)
-
-![](Slides/../topic_2_img/credit_ratings.png){width="70%"}
 
 -------------------------------------------------------------------------------
 
