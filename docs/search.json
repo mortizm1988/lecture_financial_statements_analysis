@@ -26,5 +26,173 @@
     "title": "Forecasting",
     "section": "4. Sensitivity Analysis",
     "text": "4. Sensitivity Analysis\n\nWe are assuming that many dimensions of the financialsstatements will change.\nOur approach is a good starting point:\n\nto test the sheet and formula: there should not be drastic changes in the company’s financial structure\nto foresee how the company’s financial structure will look if no significant changes happen in the future\n\nvalid for mature companies,\nless for young or highly disruptive/distressed companies."
+  },
+  {
+    "objectID": "topic_4_operating.html#income-measurement",
+    "href": "topic_4_operating.html#income-measurement",
+    "title": "Analysis of Operating Decisions",
+    "section": "1. Income measurement",
+    "text": "1. Income measurement\n1.1 Basics concepts behind accounting income\nTwo main concepts behind income measurement:\n\nEconomic income measures the net change in shareholders’ wealth during a period. Theoretically, it is equal to a period’s cash flows plus the change in the present value of expected future cash flows.\nRecurrent income is an estimate of the stable average income that a business is expected to earn over its lifetime, given the current state of its business.\n\nAlso called sustainable income or permanent income."
+  },
+  {
+    "objectID": "topic_4_operating.html#nonrecurring-items",
+    "href": "topic_4_operating.html#nonrecurring-items",
+    "title": "Analysis of Operating Decisions",
+    "section": "2. Nonrecurring items",
+    "text": "2. Nonrecurring items\n2.1 Discontinued operations\nCompanies sometimes dispose of entire divisions or product lines.\nWhen these dispositions pertain to separately identifiable business components, they are called discontinued operations.\nDiscontinued operations are separately reported on the income statement and the balance sheet."
+  },
+  {
+    "objectID": "topic_4_operating.html#deferred-charges",
+    "href": "topic_4_operating.html#deferred-charges",
+    "title": "Analysis of Operating Decisions",
+    "section": "3. Deferred charges",
+    "text": "3. Deferred charges\nDeferred charges are costs incurred that are deferred because they are expected to benefit future periods.\nThe motivation for deferral of costs is to match costs with expected benefits better.\nThis motivation underlies the capitalization of all long-term assets and their depreciation, as discussed in the previous topic."
+  },
+  {
+    "objectID": "topic_4_operating.html#earnings-per-share",
+    "href": "topic_4_operating.html#earnings-per-share",
+    "title": "Analysis of Operating Decisions",
+    "section": "4. Earnings per share",
+    "text": "4. Earnings per share\nEarnings per share (EPS) data are widely used in evaluating a company’s operating performance and profitability.\nAnalysts use this core metric to value a company and for the business press when reporting earnings announcements.\nGiven the importance of EPS, it is unsurprising that companies are motivated to manage earnings to meet or beat analysts’ EPS forecasts.\nSo, it is important to understand how EPS is calculated and how it can be manipulated.\nThe computation and reporting requirements for earnings per share under US GAAP (ASC 260) and IFRS (IAS 33) are consistent."
+  },
+  {
+    "objectID": "topic_2_financing.html#contents",
+    "href": "topic_2_financing.html#contents",
+    "title": "Analysis of Financing Decisions",
+    "section": "Contents",
+    "text": "Contents\n\nFinancing liabilities\nLeases\nContingent liabilities and commitments\nOff-balance-sheet financing\nEquity financing"
+  },
+  {
+    "objectID": "topic_2_financing.html#financing-liabilities",
+    "href": "topic_2_financing.html#financing-liabilities",
+    "title": "Analysis of Financing Decisions",
+    "section": "1. Financing liabilities",
+    "text": "1. Financing liabilities\nTypes of Liabilities\nOur analysis starts distinguishing between two types of liabilities:\n\nFinancing liabilities: all forms of credit financing, such as bank loans, bonds, and leases.\nOperating liabilities: obligations that arise from normal business operations, such as accounts payable, accrued expenses, and taxes payable.\n\nOf course, by traditional reporting purposes, liabilities are also classified as current or noncurrent, based on whether the obligation is expected to be satisfied within one year or the operating cycle, whichever is longer."
+  },
+  {
+    "objectID": "topic_2_financing.html#leases",
+    "href": "topic_2_financing.html#leases",
+    "title": "Analysis of Financing Decisions",
+    "section": "2. Leases",
+    "text": "2. Leases\nNow we move into operating liabilities ground.\nDefinitions and key elements\n\nIt is a contractual agreement between a lessor (owner) and a lessee (user) that gives the lessee the right to use an asset owned by the lessor for a specified period of time in exchange for periodic payments."
+  },
+  {
+    "objectID": "topic_2_financing.html#commitments-and-contingent-liabilities",
+    "href": "topic_2_financing.html#commitments-and-contingent-liabilities",
+    "title": "Analysis of Financing Decisions",
+    "section": "3. Commitments and contingent liabilities",
+    "text": "3. Commitments and contingent liabilities\nContingent liabilities\nA contingent liability is a potential loss that depends on some future event such as litigation, threats of expropriation, product warranties, etc.\nConditions for recognizing a contingent loss in the balance sheet:\n\nProbable Occurrence: The future event that would trigger the loss is more likely than not to occur.\nReasonable Estimation: The amount of the loss can be reasonably estimated.\n\nIn other cases the disclosure without recognition may be required."
+  },
+  {
+    "objectID": "topic_2_financing.html#off-balance-sheet-financing",
+    "href": "topic_2_financing.html#off-balance-sheet-financing",
+    "title": "Analysis of Financing Decisions",
+    "section": "4. Off-balance-sheet financing",
+    "text": "4. Off-balance-sheet financing\nIt refers to the non-recognition of financing activities in the financial statements.\n\nOperating leases are the most common example.\nOther examples: special purpose entities, joint ventures, limited partnerships, etc."
+  },
+  {
+    "objectID": "topic_2_financing.html#equity-financing",
+    "href": "topic_2_financing.html#equity-financing",
+    "title": "Analysis of Financing Decisions",
+    "section": "5. Equity financing",
+    "text": "5. Equity financing\nEquity refers to the owners’ (shareholders’) financing of a company.\nCommonly viewed as reflecting the claims of owners against the assets of the company.\nTypically, holders of equity securities are subordinate to creditors in the event of liquidation."
+  },
+  {
+    "objectID": "topic_1_foundations.html#the-relevance-of-accounting",
+    "href": "topic_1_foundations.html#the-relevance-of-accounting",
+    "title": "Accounting Foundations",
+    "section": "1. The relevance of accounting",
+    "text": "1. The relevance of accounting\nThe objective of this course: understand how economic events impact and and are reflected in the financial statements."
+  },
+  {
+    "objectID": "topic_1_foundations.html#basic-concepts",
+    "href": "topic_1_foundations.html#basic-concepts",
+    "title": "Accounting Foundations",
+    "section": "2. Basic concepts",
+    "text": "2. Basic concepts\nAccounting events\nWhat information is important to capture, process, aggregate, and report?\n\nPurchasing merchandize or raw materials\nHiring employees\nContracting a loan\nSelling goods or services\nReturning goods to suppliers\nPaying employees"
+  },
+  {
+    "objectID": "topic_1_foundations.html#financial-statements",
+    "href": "topic_1_foundations.html#financial-statements",
+    "title": "Accounting Foundations",
+    "section": "3. Financial Statements",
+    "text": "3. Financial Statements\nAggregations\nEach accounting event requires determining an amount affecting the respective accounts.\nSome rules help us to define these amounts​.\n\nIFRS: International Financial Reporting Standards\nUS GAAP: Generally Accepted Accounting Principles\n\nConsistency across time and transactions is key!"
+  },
+  {
+    "objectID": "topic_1_foundations.html#fsa-framework",
+    "href": "topic_1_foundations.html#fsa-framework",
+    "title": "Accounting Foundations",
+    "section": "4. FSA framework",
+    "text": "4. FSA framework\nLet’s study a general framework for financial statement analysis (FSA).\n\nHow is the company growing? Type of assets, funding.​\nDo the company needs to change our liquidity/solvency policy?​\nAre the managers using our assets efficiently?​\nWhat is driving our profits/losses?​"
+  },
+  {
+    "objectID": "topic_1_foundations.html#questions",
+    "href": "topic_1_foundations.html#questions",
+    "title": "Accounting Foundations",
+    "section": "Questions",
+    "text": "Questions\nCheck my website for an updated version of this presentation:\nhttps://www.marceloortizm.com/"
+  },
+  {
+    "objectID": "topic_3_investing.html#cash-and-cash-equivalents",
+    "href": "topic_3_investing.html#cash-and-cash-equivalents",
+    "title": "Analysis of Investing Decisions",
+    "section": "1. Cash and cash equivalents",
+    "text": "1. Cash and cash equivalents\nBasic definitions:\n\nCash: currency available and money in the bank.\nCash equivalents: short-term, highly liquid investments that are readily convertible to known amounts of cash and subject to an insignificant risk of changes in value."
+  },
+  {
+    "objectID": "topic_3_investing.html#receivables-and-collection-risk",
+    "href": "topic_3_investing.html#receivables-and-collection-risk",
+    "title": "Analysis of Investing Decisions",
+    "section": "2. Receivables and collection risk",
+    "text": "2. Receivables and collection risk\n\nBasic definitions:\n\nAccounts receivable: amounts owed by customers for goods or services sold on credit\nNote receivable: a formal written promise to receive a specific amount of money at a future date\nOthers: interest receivable, taxes receivable, receivables from affiliated companies"
+  },
+  {
+    "objectID": "topic_3_investing.html#inventory-methods-and-inflation",
+    "href": "topic_3_investing.html#inventory-methods-and-inflation",
+    "title": "Analysis of Investing Decisions",
+    "section": "3. Inventory methods and inflation",
+    "text": "3. Inventory methods and inflation\n\nBasic definition:\n\nInventory: goods held for sale in the ordinary course of business or goods that will be used in the production of goods to be sold.\n\nThe valuation of inventories has two impacts on financial statements:\n\nCurrent assets: inventory (historical acquisition cost).\nThen, as the inventory is sold, these costs are removed from the balance sheet and flow to the income statement as Cost Of Good Sold (COGS)."
+  },
+  {
+    "objectID": "topic_3_investing.html#long-term-assets-and-capitalization",
+    "href": "topic_3_investing.html#long-term-assets-and-capitalization",
+    "title": "Analysis of Investing Decisions",
+    "section": "4. Long-term assets and capitalization",
+    "text": "4. Long-term assets and capitalization\n\n\nbg right"
+  },
+  {
+    "objectID": "topic_3_investing.html#intangible-assets-and-goodwill",
+    "href": "topic_3_investing.html#intangible-assets-and-goodwill",
+    "title": "Analysis of Investing Decisions",
+    "section": "5. Intangible assets and goodwill",
+    "text": "5. Intangible assets and goodwill\nDefinition: Intangible assets are long-term assets that have no physical substance but are valued based on the rights or privileges granted to the company using them. This value, however, is not easy to determine: too much uncertainty\n\nPatents\nCopyright\nTrademarks\nExploration rights\nLicenses and franchises\nGoodwill"
+  },
+  {
+    "objectID": "topic_3_investing.html#asset-revaluations-under-ifrs",
+    "href": "topic_3_investing.html#asset-revaluations-under-ifrs",
+    "title": "Analysis of Investing Decisions",
+    "section": "6. Asset revaluations under IFRS",
+    "text": "6. Asset revaluations under IFRS\nUnder IFRS, companies can write up their assets to fair value - This departs from a long-held tradition of LCM\nScenarios:\n\nA. reversal of prior impairment as long as the write-up does not exceed the depreciated historical cost of the asset. IFRS IAS 36\n\nE.g., markets could reverse earlier declines in the value of the asset\nthis increases gains in the Income Statement and the net value of the asset and retained earnings in the Balance Sheet"
+  },
+  {
+    "objectID": "topic_5_cashflows.html#cash-flow-statement",
+    "href": "topic_5_cashflows.html#cash-flow-statement",
+    "title": "Analysis of Cash Flows",
+    "section": "1. Cash Flow Statement",
+    "text": "1. Cash Flow Statement\nIf we forget about the accruals and the matching principle, we can say that the cash flow statement is equal to the income statement.\nHowever, as this is not the case for the vast majority of firms, we need a report informing about cash inflows and outflows.\nWhy? Because cash is king!\n\nfinancial flexibility\nsolvency"
+  },
+  {
+    "objectID": "topic_5_cashflows.html#interpretation-of-cash-flow-statements",
+    "href": "topic_5_cashflows.html#interpretation-of-cash-flow-statements",
+    "title": "Analysis of Cash Flows",
+    "section": "2. Interpretation of cash flow statements",
+    "text": "2. Interpretation of cash flow statements\n2.1 Limitations\n\nLack of Extraordinary Item Disclosure: No mandate to separately reveal cash flows related to extraordinary events or terminated operations.\nInterest and Dividends Classification: Both interest and dividends received, as well as interest paid, are categorized as operating cash flows. This is at odds with views that consider interest paid as financing outflows and interest and dividends received as investment inflows.\nTax Expense Handling: Taxes are treated as operating cash flows, potentially skewing the understanding of each activity if notable tax implications are unevenly allocated. Example: a company that has a large tax refund in a given year will report a large operating cash inflow; similarly, tax from asset sales is reported as an operating cash outflow even they are part of an investing activity."
+  },
+  {
+    "objectID": "topic_5_cashflows.html#alternative-measures-of-cash-flows",
+    "href": "topic_5_cashflows.html#alternative-measures-of-cash-flows",
+    "title": "Analysis of Cash Flows",
+    "section": "3. Alternative measures of cash flows",
+    "text": "3. Alternative measures of cash flows\n3.1 Net Income Plus Depreciation and EBITDA\n\nCommon Proxy: Net income plus depreciation often serves as a basic approximation for operating cash flow.\nPitfall:\n\nOverlooks Working Capital: Fails to account for changes in working capital, a key part of operating cash flows."
   }
 ]

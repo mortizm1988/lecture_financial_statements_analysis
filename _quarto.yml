@@ -2,4 +2,9 @@ project:
   type: website
   output-dir: docs
   render:
+    - topic_1_foundations.qmd
+    - topic_2_financing.qmd
+    - topic_3_investing.qmd
+    - topic_4_operating.qmd
+    - topic_5_cashflows.qmd
     - topic_6_forecasting.qmd
