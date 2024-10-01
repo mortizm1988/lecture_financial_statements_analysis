@@ -1,36 +1,26 @@
 ---
-marp: true
-author: Marcelo Ortiz 
-title: "Cash Flows"
-paginate: true
-_paginate: false
-header: 2023 | M. Ortiz  | Cash Flow analysis 
-_header: ""
-date: 2023-07-11
-math: mathjax
-theme: custom-default
-
-
+title: "Analysis of Cash Flows"
+author: "Marcelo Ortiz"
+affiliation: "Universitat Pompeu Fabra"
+date: "September 2024"
+format: 
+  revealjs:
+    theme: [default,upf.scss]
+    embed-resources: true
+    paginate: true
+    toc: false
+    slide-number: true
+    incremental: false
 ---
 
-![bg left:60%](Slides/../topic_2_img/bg_1.png)
-# Analyzing Cash Flows
+Topics
 
-Marcelo Ortiz
-
-(UPF, BSE, BSM)
-
----
-#  How to measure and interpret cash flows?
 1. Cash Flow Statement
 2. Interpretation of Cash Flow Statement
 3. Alternative measures of cash flows
 
----
-# 1. Cash Flow Statement
 
----
-# 1. Cash Flow Statement
+##  1. Cash Flow Statement
 
 If we forget about the accruals and the matching principle, we can say that the cash flow statement is equal to the income statement.
 
@@ -42,7 +32,9 @@ Why? Because cash is king!
  - solvency
 
 ---
+
 What we want to know:
+
 - How much cash is generated from or used in operations? 
 - What expenditures are made with cash from operations? 
 - How are dividends paid when confronting an operating loss? 
@@ -50,7 +42,8 @@ What we want to know:
 -  Why is cash lower when income increased? 
 
 ---
-## 1.1 Reporting by activity
+
+### 1.1 Reporting by activity
 
 1. Operating activities: cash flows from the main business of the firm
 
@@ -59,20 +52,26 @@ What we want to know:
 3. Financing activities: borrowing and repaying funds with bonds and other loans, issuing and repurchasing shares, paying dividends
 
 ---
+
 ### 1.2 Constructing the Cash Flow Statement
 
 There are two methods to construct the cash flows from operating activities:
+
 1. **Direct method**: cash flows from operating activities are reported directly
-  - more difficult to prepare
-  - more useful to investors/creditors
+    - more difficult to prepare
+    - more useful to investors/creditors
+
 2. **Indirect method**: net income is adjusted for noncash income (expense) items and accruals to yield cash flows from operations
+
   - easier to prepare
   - enable a reconciliation of net income and cash flows from operations
 
 The process for capturing cash flows of the investing and financing activities is the same in both methods
 
 ---
+
 ### 1.3 Indirect method
+
 The statement of cash flows incorporates elements from the  income statement and the balance sheet.
 
 | Steps                             | 
@@ -95,7 +94,8 @@ Lastly, we recognize that  when a receivable is collected in cash, its value dec
 --->
 
 ---
-#### Example:  ABC Corp 20x2
+
+Example:  ABC Corp 20x2
 
 Income Statement for the Year 20X2
 
@@ -107,6 +107,7 @@ Income Statement for the Year 20X2
 | Net Income                  | 25,000       |
 
 ---
+
 Elements of the Balance Sheet for Year-End 20X1 and 20X2
 
 | Item                | 2021 (USD) | 2022 (USD) |
@@ -119,10 +120,13 @@ Elements of the Balance Sheet for Year-End 20X1 and 20X2
 ---
 
 **Information in Footnotes**:
+
 1. The company purchased a truck during the year at a cost of $30,000 that was financed in full by the manufacturer. 
 2. A truck with a cost of $10,000 and a net book value of $2,000 was sold during the year for $7,000. There were no other sales of depreciable assets. 
 3. Dividends paid during Year 2 are $51,000.
+
 ---  
+
 **Steps to Calculate Cash Flow from Operating Activities**
 
 **Step 1:** Start with Net Income: **25,000**
@@ -133,19 +137,23 @@ Elements of the Balance Sheet for Year-End 20X1 and 20X2
 **Step 3:** Remove Gains (Losses) on Sales of Assets 
 
 Using the Accounting Equation: 
+
 - (+) Cash: 7,000
 - (-) Asset (Truck): 10,000
 - (+) Accumulated Dep: 8.000
 - (+) Gain on sale: 5.000. This gain should be zeroed out, as it is not an operating cash flow, it is an investing cash flow
 
 ---
+
 **Step 3:** Add Cash Generated (Used) by Current Assets and Liabilities
+
 - Increase in Accounts Receivable: **-2,000** (7,000 - 5,000)
 - Increase in Accounts Payable: **+1,000** (3,000 - 2,000)
 
 **Step 4:** Cash Flow from Operating Activities = **24,000**
 
 ---
+
 **Steps to Calculate Cash Flow from Investing Activities**
 
 **Step 1:** Identify purchase price ($p$) of plant assets and investments in securities
@@ -159,6 +167,7 @@ Therefore, purchases of PPE are $p=100,000$. But, remember in the footnotes it s
 Therefore, the cash outflow of Investing Activities  is $p=70,000$.
 
 ---
+
 **Step 2.** Identify sales ($s$) of plant assets and investments in securities
 
 In our case, the cash inflow from the sale of the truck is $s=7,000$.
@@ -166,6 +175,7 @@ In our case, the cash inflow from the sale of the truck is $s=7,000$.
 **Step 3:** Calculate Net Cash Flows from Investing Activities = **(63,000)**
 
 ---
+
 **Steps to Calculate Cash Flow from Financing Activities**
 
 **Step 1:** Identify inflows from Financing Activities
@@ -177,7 +187,9 @@ Dividend payments: **(51,000)**
 **Step 3:** Calculate Net Cash Flows from Financing Activities = **(51,000)**
 
 ---
+
 Cash Flow Statement of ABC Corp for the Year 20X2
+
 | Item                        | Amount (USD) |
 |-----------------------------|--------------:|
 | Net Cash Flows from Operating Activities | 24,000      |
@@ -188,7 +200,9 @@ Cash Flow Statement of ABC Corp for the Year 20X2
 | Cash at End of Year | 10,000      |
 
 ---
-:mag_right: Example
+
+Example
+
 - Check the cash flow statement of the Apple (US GAAP) and Inditex (IFRS) for the year 2022
 - Notice
   - Types of adjustments for operating activities
@@ -201,7 +215,8 @@ IFRS starts with earnings before taxes!
 -->
 
 ---
-#### Analyzing firms using the indirect method
+
+Analyzing firms using the indirect method
 
 **Equity Method Investments**
 
@@ -216,6 +231,7 @@ TODO: check this, and learn where in the income statement is the income from the
 -->
 
 ---
+
 **Acquisition of companies with stocks**
 
 When a company purchases another with stocks, then the consolidated balance sheet will show the assets and liabilities of the acquired company at their fair market value
@@ -223,6 +239,7 @@ When a company purchases another with stocks, then the consolidated balance shee
 - The indirect method, based on variations in balance sheet accounts, will not capture the operating cash flows.
 
 ---
+
 **Securitization of Accounts Receivable**
 
 Similar idea to the previous one
@@ -232,20 +249,17 @@ If Receivables are sold to a trust, then the company will report an increase in 
 But, we alredy know that is not because the company is collecting receivables more efficiently, but because it is selling/borrowing them.
 
 ---
+
 ### 1.4 Direct method
+
 This method reports gross cash payments and collections related to operations adjusting each income statement item from **accrual to cash basis**
 
 This offers most analysts a better format to readily assess the amount of cash inflows and outflows for which management has discretion.
 
-
 However,  companies claimed this method imposes excessive implementation costs, and therefore, regulators decided to only encourage the direct method and to permit the indirect method.
 
----
-# 2. Interpretation of cash flow statements
-
----
-# 2. Interpretation of cash flow statements
-## 2.1 Limitations
+## 2. Interpretation of cash flow statements
+### 2.1 Limitations
 
 - **Lack of Extraordinary Item Disclosure**: No mandate to separately reveal cash flows related to extraordinary events or terminated operations.
 
@@ -255,7 +269,8 @@ However,  companies claimed this method imposes excessive implementation costs, 
 
 
 ---
-## 2.1 Relation with Net Income
+
+### 2.2 Relation with Net Income
 
 - **Confusion on Terminology**: There's often ambiguity about what 'operations' mean and how cash flows and accrual-based net income offer different perspectives on it.
 
@@ -264,14 +279,18 @@ However,  companies claimed this method imposes excessive implementation costs, 
 - **Limitations of Net Measures**: Both net income and cash flows from operations offer limited insights by themselves. The essence lies in their components for effective past or future performance analysis.
 
 ---
+
 - **Accrual Accounting Nuances**: Net income involves estimates and valuations that can introduce subjectivity, unlike the more straightforward cash flows.
 
 - **Quality of Earnings**: Cash flows can validate the quality of net income. Higher-quality earnings often have a higher ratio of cash flows to net income. This addresses concerns about high net income figures that don't translate to cash.
 
 - **Cash Flows as a Check, Not a Substitute**: Cash flows from operations act as a reality check on net income but are not an alternative to it.
+
 ---
-## 2.3 Inferences from the cash flow statement
-## Insights from Analyzing the Statement of Cash Flows
+
+### 2.3 Inferences from the cash flow statement
+
+Insights from Analyzing the Statement of Cash Flows
 
 - **Inferences on Strategic Choices**: The statement sheds light on where management has invested, divested, generated extra cash, or relieved financial obligations.
 
@@ -280,24 +299,24 @@ However,  companies claimed this method imposes excessive implementation costs, 
 - **Profit vs. Loss Impact**: Profitable activities boost cash inflows; losses do the opposite.
 
 ---
+
 - **Caution on Components**: Not all increases in operating cash flows are sustainable or reliable. Examples include securitization of receivables and inventory reduction.
 
 - **Liabilities and Cash Flow**: Relying on increasing liabilities like trade payables can temporarily boost cash flow but are not sustainable. Accruals like unpaid wages or rent are also temporary measures to defer cash outflows.
 
 - **Supplier Relations**: Leaning too heavily on trade payables can backfire, leading to higher costs or even halted supplies.
 
-
----
-# 3. Alternative measures of cash flows
----
-# 3. Alternative measures of cash flows
+## 3. Alternative measures of cash flows
 
 ### 3.1 Net Income Plus Depreciation and EBITDA
 - **Common Proxy**: Net income plus depreciation often serves as a basic approximation for operating cash flow.
 - **Pitfall**:
   1. **Overlooks Working Capital**: Fails to account for changes in working capital, a key part of operating cash flows.
+
 ---
+
 ### Free Cash Flow (FCF)
+
 - **Analytical Utility**: FCF is a derived metric from the statement of cash flows, useful for understanding discretionary cash.
 - **Components Matter**: Be wary of how components are reported, as it can affect the measure's validity.
 - **Definitions**:
@@ -307,6 +326,7 @@ However,  companies claimed this method imposes excessive implementation costs, 
   1. **Capital Expenditure Ambiguity**: Disclosure usually doesn't distinguish between maintenance and expansion-related capital expenditures.
 
 ---
+
 
 **Questions?**
 
