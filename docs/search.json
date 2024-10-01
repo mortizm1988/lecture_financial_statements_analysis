@@ -1,23 +1,30 @@
 [
   {
-    "objectID": "topic_5_cashflows.html#cash-flow-statement",
-    "href": "topic_5_cashflows.html#cash-flow-statement",
-    "title": "Analysis of Cash Flows",
-    "section": "1. Cash Flow Statement",
-    "text": "1. Cash Flow Statement\nIf we forget about the accruals and the matching principle, we can say that the cash flow statement is equal to the income statement.\nHowever, as this is not the case for the vast majority of firms, we need a report informing about cash inflows and outflows.\nWhy? Because cash is king!\n\nfinancial flexibility\nsolvency"
+    "objectID": "topic_6_forecasting.html#why-do-we-need-to-forecast-financial-statements",
+    "href": "topic_6_forecasting.html#why-do-we-need-to-forecast-financial-statements",
+    "title": "Forecasting",
+    "section": "1. Why do we need to forecast financial statements?",
+    "text": "1. Why do we need to forecast financial statements?\nProspective analysis is the process of forecasting the future performance of a company.\nManagers use prospective analysis to:\n\nEvaluate the impact of strategies, financing, and investment decisions on the company’s future performance.\nBy doing so, they can foresee how investors and creditors will react to these decisions."
   },
   {
-    "objectID": "topic_5_cashflows.html#interpretation-of-cash-flow-statements",
-    "href": "topic_5_cashflows.html#interpretation-of-cash-flow-statements",
-    "title": "Analysis of Cash Flows",
-    "section": "2. Interpretation of cash flow statements",
-    "text": "2. Interpretation of cash flow statements\n2.1 Limitations\n\nLack of Extraordinary Item Disclosure: No mandate to separately reveal cash flows related to extraordinary events or terminated operations.\nInterest and Dividends Classification: Both interest and dividends received, as well as interest paid, are categorized as operating cash flows. This is at odds with views that consider interest paid as financing outflows and interest and dividends received as investment inflows.\nTax Expense Handling: Taxes are treated as operating cash flows, potentially skewing the understanding of each activity if notable tax implications are unevenly allocated. Example: a company that has a large tax refund in a given year will report a large operating cash inflow; similarly, tax from asset sales is reported as an operating cash outflow even they are part of an investing activity."
+    "objectID": "topic_6_forecasting.html#step-1-projected-income-statement",
+    "href": "topic_6_forecasting.html#step-1-projected-income-statement",
+    "title": "Forecasting",
+    "section": "2. Step 1 Projected Income Statement",
+    "text": "2. Step 1 Projected Income Statement\nThe projected income statement is the starting point of the prospective analysis.\nStep 1.1 we need an estimation of the company’s expected sales growth rate:\n\nEasy approach: use the historical trend in sales growth rate.\nMore sophisticated approaches:\n\nexpected level of macroeconomic activity: using econometrics to link sales growth to GDP growth. If the economy is in a cyclical upturn, sales growth is expected to be higher than the historical average.\nProduct market competition: if the company is in a highly competitive industry, the company has no price-setting power, and sales growth can quickly decline.\nMultiproduct/multiservice companies."
   },
   {
-    "objectID": "topic_5_cashflows.html#alternative-measures-of-cash-flows",
-    "href": "topic_5_cashflows.html#alternative-measures-of-cash-flows",
-    "title": "Analysis of Cash Flows",
-    "section": "3. Alternative measures of cash flows",
-    "text": "3. Alternative measures of cash flows\n3.1 Net Income Plus Depreciation and EBITDA\n\nCommon Proxy: Net income plus depreciation often serves as a basic approximation for operating cash flow.\nPitfall:\n\nOverlooks Working Capital: Fails to account for changes in working capital, a key part of operating cash flows."
+    "objectID": "topic_6_forecasting.html#step-2-projected-balance-sheet",
+    "href": "topic_6_forecasting.html#step-2-projected-balance-sheet",
+    "title": "Forecasting",
+    "section": "3. Step 2 Projected Balance Sheet",
+    "text": "3. Step 2 Projected Balance Sheet\nStep 2.1, estimate the company’s expected accounts receivable:\n\\[\\text{Accounts receivable turnover rate}=\\frac{\\text{Sales}}{\\text{Accounts receivable balance}} \\]\nThe forecast: \\[\\text{Forcasted accounts receivable} =\\frac{\\text{Forecasted Sales}}{\\text{Accounts receivable turnover rate}} \\]"
+  },
+  {
+    "objectID": "topic_6_forecasting.html#sensitivity-analysis",
+    "href": "topic_6_forecasting.html#sensitivity-analysis",
+    "title": "Forecasting",
+    "section": "4. Sensitivity Analysis",
+    "text": "4. Sensitivity Analysis\n\nWe are assuming that many dimensions of the financialsstatements will change.\nOur approach is a good starting point:\n\nto test the sheet and formula: there should not be drastic changes in the company’s financial structure\nto foresee how the company’s financial structure will look if no significant changes happen in the future\n\nvalid for mature companies,\nless for young or highly disruptive/distressed companies."
   }
 ]

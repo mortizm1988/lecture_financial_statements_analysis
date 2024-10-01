@@ -2,4 +2,4 @@ project:
   type: website
   output-dir: docs
   render:
-    - topic_5_cashflows.qmd
+    - topic_6_forecasting.qmd
