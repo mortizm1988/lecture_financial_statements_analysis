@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1728401511.00239 "/home/miortiz/Documents/GitHub/slides-financial-statement-analysis/SheetCheat/Formula_Sheet.tex" "Formula_Sheet.pdf" "Formula_Sheet" 1728401511.62067 0
+["pdflatex"] 1728402916.50754 "/home/miortiz/Documents/GitHub/slides-financial-statement-analysis/SheetCheat/Formula_Sheet.tex" "Formula_Sheet.pdf" "Formula_Sheet" 1728402917.0577 0
   "/etc/texmf/web2c/texmf.cnf" 1727076010.09908 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/miortiz/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0600.600pk" 1728400271.4131 7260 25eaf860617720084bf023c22d3a94af ""
   "/home/miortiz/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk" 1728400271.79711 14040 29866ebb58bfcccbbb324beaaa9dcf25 ""
-  "/home/miortiz/Documents/GitHub/slides-financial-statement-analysis/SheetCheat/Formula_Sheet.tex" 1728401510.77344 8168 7935c5977d8ee42b69d88769e3f6fcc8 ""
+  "/home/miortiz/Documents/GitHub/slides-financial-statement-analysis/SheetCheat/Formula_Sheet.tex" 1728402916.28173 8168 7935c5977d8ee42b69d88769e3f6fcc8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1136768653 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0800.tfm" 1136768653 1536 05df9db6aeccc4eea94fec15c9024f79 ""
@@ -131,8 +131,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1727076302.48553 165012 f177baa1c39a3ebd62c3096a43521a0d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1727076346 6830943 1bc3f63ddd8bfb80891072b445f8b4f6 ""
-  "Formula_Sheet.aux" 1728401511.56152 1621 ef6f69ea6b9c1775bd577dbc245bfee4 "pdflatex"
-  "Formula_Sheet.tex" 1728401510.77344 8168 7935c5977d8ee42b69d88769e3f6fcc8 ""
+  "Formula_Sheet.aux" 1728402917.0017 1621 ef6f69ea6b9c1775bd577dbc245bfee4 "pdflatex"
+  "Formula_Sheet.tex" 1728402916.28173 8168 7935c5977d8ee42b69d88769e3f6fcc8 ""
   "logo.png" 1706283594.48819 15017 bee50c03f6d4cc9d9fdfbfd77b2acdee ""
   (generated)
   "Formula_Sheet.aux"
