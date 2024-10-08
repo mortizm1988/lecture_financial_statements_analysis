@@ -93,7 +93,7 @@ $$Assets=Liability+ E_0+ Net Income- Withdrawals $$
 
 ------------------------------------------------------------------------
 
-### 2.2 Revenue recognition
+### 2.3 Revenue recognition
 
 It is the second pillar in accounting. It is the process of recording revenue in the financial statements. When a company records revenues, it must also record related expenses. This is the **matching principle**:
 
