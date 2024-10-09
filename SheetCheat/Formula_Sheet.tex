@@ -28,7 +28,7 @@
 	\begin{tcolorbox}
 	\begin{align*}
 		\text{Accounting Equation:} \quad & \text{Assets} = \text{Liabilities} + \text{Equity} \\
-		\text{Ext. Accounting Equation:} \quad & \text{Assets}_{t} = \text{Liabilities}_{t} + \text{Revenue}_{t}- \text{Expenses}_t+E_{t-1} \\
+		\text{Ext. Accounting Equation:} \quad & \text{Assets}_{t} = \text{Liabilities}_{t} + \text{Revenue}_{t}- \text{Expenses}_t+Eq_{t-1} \\
 		\text{Gross Profit:} \quad & \text{Gross Profit} = \text{Revenue} - \text{Cost of Goods Sold} \\
 		\text{Operating Profit:} \quad & \text{Op. Profit} = \text{Gross Profit} - \text{Op. Expenses} \\
 		\text{Profit Before Tax:} \quad & \text{PBT} = \text{Operating Profit} - \text{Tax Expense} \\
@@ -60,10 +60,10 @@
 	\hline
 	\textit{Assets}: & \\
 	Inventory & Lower: Historical cost or NRV \\
-	Trade &  NRV: Total receivables less allowance for bad debt\\
-	PPE &  Amortized Cost or Revaluation model (FV- depreciation) \\
-	Investment property & Amortized Cost or FV \\
-	Financial instruments & Historical cost, Amortized cost, or FV, depending on guidelines \\
+	Trade & Amortized cost less Expected Credit Losses (ECL)\\
+	PPE &  Amortized cost or Revaluation model (FV- depreciation) \\
+	Investment property & Amortized cost or FV \\
+	Financial instruments & Amortized cost or FV, depending on guidelines \\
 	\hline
 	\textit{Liabilities}: & \\
 	Trade & Amortized cost \\	
@@ -72,7 +72,7 @@
 	\hline
 	\textit{Equity}: & \\
 	Common stocks & Issue price less issuance costs \\
-	Retained earnings & Accumulated earnings, less dividends [historical]\\
+	Retained earnings & historical earnings net of distributions [historical]\\
 	\hline
 \end{tabularx}
 \end{tcolorbox}	

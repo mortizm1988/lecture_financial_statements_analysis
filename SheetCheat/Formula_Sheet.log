@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.9.23)  8 OCT 2024 17:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.9.23)  9 OCT 2024 09:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -433,7 +433,12 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+Overfull \hbox (5.37636pt too wide) detected at line 36
+[]
+ []
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.png>] [2]
 
@@ -462,7 +467,7 @@ Here is how much of TeX's memory you used:
  59 hyphenation exceptions out of 8191
  101i,14n,107p,525b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/miortiz/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0600.600pk> </home/miortiz/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Formula_Sheet.pdf (5 pages, 132524 bytes).
+Output written on Formula_Sheet.pdf (5 pages, 132704 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
