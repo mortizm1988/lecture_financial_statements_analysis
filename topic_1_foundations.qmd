@@ -37,6 +37,8 @@ The objective of this course: understand how economic events **impact** and and 
 
 ### 2.1 Accounting events
 
+Economic events and Accounting events.
+
 What information is important to capture, process, aggregate, and report?
 
 1.  Purchasing merchandize or raw materials
@@ -116,10 +118,6 @@ Silvana invested \$30,000 of her own money to start the business.
 
  She deposits \$30,000 in a "Silvana eTravel SA" bank account.
 
-::: callout-note
-Exercice in MS Excel.
-:::
-
 ------------------------------------------------------------------------
 
 **Transaction 2: Buying an office.**
@@ -128,7 +126,6 @@ Silvana purchases an office, paying \$20,000 in cash. ​
 
 Monthly Depreciation: \$200​
 
-------------------------------------------------------------------------
 
 **Transaction 3: Buying an office supplies.**
 
@@ -146,7 +143,6 @@ She earns \$5,500 in revenues and collects this amount in cash.​
 
 The labor cost of providing the service was \$600 and will be paid the first day of the next month.
 
-------------------------------------------------------------------------
 
 **Transaction 5: Revenue on account**
 
@@ -154,7 +150,7 @@ Silvana eTravel performs services for clients who do not pay immediately. ​
 
 Silvana receives clients’ promises to pay \$3,000 within one month in return for her travel services. 
 
- The labor cost of the service was \$200.​
+ The labor cost of the service was \$200 and will be paid the first day of the next month.
 
 ------------------------------------------------------------------------
 
@@ -165,11 +161,9 @@ During the same month, Silvana eTravel pays with cash:​
 -   Wharehouse rent, \$1,100.​
 -   Utilities, \$1600.​
 
-------------------------------------------------------------------------
-
 **Transaction 7: Long-term debt**
 
-Silvana borrows \$5.000 using a Long term bank credit (3 years). The first month generates \$35 on interest expenses.
+Silvana borrows \$5.000 using a Long term bank credit (3 years). The first month generates \$35 on interest expenses, payable at the end of the year.
 
 ------------------------------------------------------------------------
 
@@ -179,7 +173,7 @@ Silvana borrows \$5.000 using a Long term bank credit (3 years). The first month
 
 | **Current Assets**                | **Non-current Assets**                         |
 |-----------------------------------|------------------------------------------------|
-| 1\. Cash and cash equivalents     | 1\. Financial assets at amortized cost / FVOCI / FVTPL |
+| 1\. Cash and cash equivalents     | 1\. Financial assets |
 | 2\. Trade and other receivables   | 2\. Property, plant, and equipment             |
 | 3\. Inventories                   | 3\. Intangible assets                          |
 | 4\. Prepayments                   | 4\. Investment property                        |
@@ -264,38 +258,28 @@ Consistency across time and transactions is key!
 
 ------------------------------------------------------------------------
 
-Asset valuation basis
+### 3.2 Asset valuation basis
 
-1.  **Historical Cost**: Assets are valued at their original cost.
-    1.  Acquisition cost
-    2.  Production cost
-2.  **Amortized cost**: Assets are valued at their original cost minus accumulated depreciation.
-3.  **Fair Value**: Assets are valued at their current fair value.
-    1.  Market value
-    2.  Net realizable value
+1.  **Historical Cost** 
+2.  **Amortized cost**
+3. **Net Realizable Value**
+4. **Present Value of future payments**
+3.  **Fair Value**
 
-::: callout-tip
-The same asset (e.g., an office) can be valued using different methods.
-What are the managerial incentives for using one method or another?
+::: callout-note
+Check out the Formula Sheet for the most common valuation methods [here](https://github.com/mortizm1988/lecture_financial_statements_analysis/blob/main/SheetCheat/Formula_Sheet.pdf)
 :::
 
-------------------------------------------------------------------------
+::: callout-tip
+The same asset can be valued using different methods.
+What are the managerial incentives for using one method or another?
+What are the incentives for changing the valuation method?
+:::
 
-Liabilities valuation
-
-1.  **Present value (PV) of future payments**: loans, bonds, and lease obligations are valued at the present value of future payments. This valuation takes into account the time value of money.
-2.  **Expected PV**: uncertainty of provisions and contingent liabilities.
-3.  **Fair Value**: financial liabilities like derivative contracts or financial instruments are measured at fair value. 
-
-Equity valuation
-
-1.  **Historical Cost**: Share capital and retained earnings based on their historical value at origination.
-2.  **Revaluation Reserves**: Equity is adjusted to reflect fair value adjustment in non-financial assets.
-3.  **Fair Value through OCI**: Some equity instruments not held for trading can be valued at fair value through other comprehensive income.
 
 ------------------------------------------------------------------------
 
-### 3.2 Financial Statements: Why?
+**Financial Statements: Why?**
 
 After recording all transactions consistently according to established accounting rules, the next crucial step is to aggregate this data into a **form that is useful for decision-making**. This aggregation results in the creation of **financial statements**, which serve as a primary tool for conveying a company’s financial health and performance to various stakeholders.
 
@@ -372,14 +356,14 @@ Shows changes in *Equity* over a specific period, focusing on the main component
 **Components:**
 
 1. **Beginning balance** of equity accounts
-2. **Common Stock**: + capital increase; - capital decrease
+2. **Share Capital**: + capital increase; - capital decrease
 3. **Retained Earnings**: + net income; - net loss; - dividends
 4. **Ending balance** of equity accounts
 
 
 ------------------------------------------------------------------------
 
-Why could other stakeholders be interested in this?
+Why could other stakeholders be interested in this statement?
 
 - Creditors check if the company is reinvesting enough. Each dollar paid as a dividend is a dollar that cannot be paid later on to credits.​ 
 
@@ -394,6 +378,10 @@ Some examples
 1.  Cash payments to reduce Trade payables will be reflected in the Balance sheet and Cash Flow Statement.​
 2.  Recognizing non-current assets depreciation will be reflected in the Balance sheet and Income Statement.​
 3.  Profits of the year will be reflected in the Balance Sheet, Income Statement, and Statement of Changes in Equity.​
+
+::: callout-note
+How does the transactions of Silva eTravel SA affected the financial statements?
+:::
 
 ------------------------------------------------------------------------
 
