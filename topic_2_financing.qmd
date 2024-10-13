@@ -58,13 +58,13 @@ Let's start by focusing on financing liabilities.
 Exercice in MS Excel.
 :::
 
-What is the impact on the financial statments of the following financing decisions? Consider that the decision is executed the first day of the fiscal year.
+What is the impact on the financial statments of the following decisions? Consider that each decision is executed in January 1st.
 
-1. Borrowing $1,000,000 from a bank at 5% interest rate. Interest payments are due annually, and the principal is due in 5 years.
-2. Renovating the previous loan but with a 10% interest rate.
-3. Paying off the original loan in the 5th year.
+1. Borrowing $1,000,000 from a bank at 5% interest rate. Interest payments are due annually at January 1st, and the principal is due in 5 years.
+2. Paying off the original loan in the 5th year.
+3. Refinancing the previous loan but with a 10% interest rate (principal is not paid, debt restructure)
 
-
+Compare 2 and 3 regarding their impact on liquidity (current and cash ratio), solvency (debt to assets), profitability (net profit ratio) during the transition from year 4 to year 5. 
 
 -------------------------------------------------------------------------------
 
