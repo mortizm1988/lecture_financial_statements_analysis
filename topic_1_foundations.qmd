@@ -258,7 +258,7 @@ Consistency across time and transactions is key!
 
 ------------------------------------------------------------------------
 
-### 3.2 Asset valuation basis
+### 3.2 Valuation basis
 
 1.  **Historical Cost** 
 2.  **Amortized cost**
