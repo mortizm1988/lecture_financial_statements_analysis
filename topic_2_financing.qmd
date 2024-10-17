@@ -19,17 +19,12 @@ date: "September 2024"
 4. Off-balance-sheet financing
 5. Equity financing
 
-<!--
-consider to add
-- trade payables
-- accrued expenses
-- unearned revenues
--->
 
 
 ## 1. Financing liabilities
 
 ### Types of Liabilities 
+
 Our analysis starts distinguishing between two types of liabilities:
 
 1. Financing liabilities: all forms of credit financing, such as bank loans, bonds, and leases.
@@ -84,8 +79,8 @@ But a less naive approach should consider key information from:
 
 **With this additional information we can work on different scenarios:**
 
-- Refinancing: what is the current cost of refinancing? Worse? Better? How much?
-- Debt reduction: does the firm have enough cash? Issuing new shares? Selling assets?
+- Refinancing:  What would the current cost of refinancing be? Worse? Better? How much?
+- Debt reduction: Does the firm have enough cash? Issuing new shares? Selling assets?
 
 Once we have a better picture of how the debt structure would look in the near future, we can include the respective adjustments in the financial statements before jumping into the ratios.
 
@@ -108,27 +103,13 @@ Therefore, it is not surprising that the credit rate is a major determinant of
 1) the interest rate that the issuer must pay for selling  more bonds.
 2) the fair value of the issued bonds in the market.
   
-
-<!--
-## Bond valuation and credit ratings
-
-When credit ratings worsen, it creates income for the company:heavy_exclamation_mark:
-
-1. Worse credit rating, lower bond price, lower liability valuation, assets stable at historical cost, higher income.
-2. Assets - liabilities = equity, higher equity value, higher income.
-
-This problem is more severe when the company has a large amount of debt and a small fraction of assets valued at fair value.
-
----
--->
-
 ---
 
 **Let's look at the financial obligations of Apple and Mercedez [10 min]**
 
 Links for the annual reports of [Apple](https://investor.apple.com/investor-relations/sec-filings/) and [Mercedez](https://group.mercedes-benz.com/investors/reports-news/annual-reports/2023/).
 
-From the Balance Sheet, check total amount on financial liabilities.
+From the Balance Sheet, check the total amount on financial liabilities.
 
 More advance: From the footnotes, collect the following information: type of instruments, maturities, interest rates, ranking/seniority, redemption, and covenants.
 
@@ -142,17 +123,8 @@ To Discuss:
 - Is any big maturity coming up soon? News from rolling over?
 
 
-
-
-<!--
-focus: "The 2024 Notes: 1.375%, 1 billion. Now will be above 4-5%"
-
-Mention that if we wants to know more about the covenants, we need to go to the bond indenture.
--->
-
-
-
 ## 2. Leases
+
 Now we move into operating liabilities ground.
 
 **Definitions and key elements**
@@ -172,41 +144,47 @@ Now we move into operating liabilities ground.
 
 ### Capital vs. Operating Leases:
 
-- Capital lease: substantial transference of all the benefits and risks of ownership to the lessee.
-  - Recognition of a new asset (_right-of-use asset_) and lease liability.
-- Operating lease: all other leases.
-  - Recognizing just rental expenses.
- 
-Until 2019, firms reporting using IFRS have a strong incentive to structure leases as operating leases even when they are economically equivalent to capital leases.
+Finance Lease (formerly "Capital Lease"): A lease in which all risks and rewards of ownership are substantially transferred to the lessee.
 
-- Operating leases were not reported on the balance sheet.
-- Off-balance-sheet financing.
+ - Recognition: Lessee records a right-of-use asset and a lease liability on the balance sheet, representing the leased asset and corresponding obligation to make lease payments.
+
+Operating Lease: Prior to 2019, these leases were treated differently, as they didn’t meet the criteria for capital leases.
+
+- Recognition under old standards: Only rental expenses were recognized, with no impact on the balance sheet.
+- IFRS 16 update: Operating leases are now also recognized on the balance sheet as right-of-use assets and lease liabilities, eliminating off-balance-sheet treatment for most leases.
 
 :::{.notes}
 Structuring Contracts to Keep Leases Off the Balance Sheet:
 
 Companies could structure leases to fall short of the capital lease criteria and keep them classified as operating leases. Here’s how they did it:
 
-    Shorter Lease Terms: By keeping the lease term just under the "major part" of the asset's useful life (e.g., under 75%), companies could classify the lease as operating.
-    Avoiding Transfer of Ownership or Purchase Options: By avoiding terms that transferred ownership or included bargain purchase options, the lease could remain off the balance sheet.
-    Lower Present Value of Lease Payments: Companies could structure payments so that the present value of the minimum lease payments was below the threshold (e.g., 90% of the asset’s value), thus classifying it as an operating lease.
+Shorter Lease Terms: By keeping the lease term just under the "major part" of the asset's useful life (e.g., under 75%), companies could classify the lease as operating.
+Avoiding Transfer of Ownership or Purchase Options: By avoiding terms that transferred ownership or included bargain purchase options, the lease could remain off the balance sheet.
+Lower Present Value of Lease Payments: Companies could structure payments so that the present value of the minimum lease payments was below the threshold (e.g., 90% of the asset’s value), thus classifying it as an operating lease.
 
 Example:
 
-    A company leases a fleet of vehicles for 5 years, but the useful life of the vehicles is 8 years. The lease payments do not amount to 90% of the vehicle's fair value, and there is no option to purchase the vehicles at a bargain price. The company classifies this as an operating lease, keeping the assets and liabilities off the balance sheet.
+A company leases a fleet of vehicles for 5 years, but the useful life of the vehicles is 8 years. The lease payments do not amount to 90% of the vehicle's fair value, and there is no option to purchase the vehicles at a bargain price. The company classifies this as an operating lease, keeping the assets and liabilities off the balance sheet.
+
 :::
 
 ---
 
-An illustrative example
+An illustrative example of the impact on the financial statements of capital vs. operating leases:
 
 - A company leases an asset on January 1, 2005.
 - The company has no other assets or liabilities.
 - The estimated economic life of the leased asset is 5 years and no residual value is expected.
-- The lease has a fixed noncancelable term of 5 years with MLP of $2,505 per year, payable at the end of each year. The interest rate on the lease is 8% per year.
+- The lease has a fixed noncancelable term of 5 years with MLP of $2,505 per year, payable at the end of each year.
+
+Capital lease scenario:
+
+- The interest rate on the lease is 8% per year.
 - Depreciation is computed using the straight-line method.
 
 ---
+
+**Capital lease treatment**:
 
 First, let's compute the present value of the MLP.
 
@@ -233,19 +211,9 @@ Total expense is identical for both cases, but the timing is different: capital 
 
 But more importantly: the operating lease does not report any liability (nor asset) in the balance sheet.
 
-<!--
-- Operating lease are very common.
-
-**Some famous cases**
-
-Tesco, a UK-based supermarket giant, had significant real estate obligations that were kept off its balance sheet before accounting rules mandated a change. The company utilized sale-and-leaseback arrangements for many of its properties. While this practice allowed Tesco to free up capital and maintain operational control of the stores, it also led to large, off-balance-sheet leasing obligations.
-
-IBM often used operating leases to acquire computer equipment and data centers. This provided them flexibility and enabled them to keep pace with rapidly evolving technology. By using operating leases, IBM managed to keep large liabilities off its balance sheet, thus affecting important financial ratios like the debt-to-equity ratio.
--->
-
 ---
 
-However, lesses that already adopted IFRS 16 (2019) must capitalize all leases.
+However, lesses that already adopted IFRS 16 (2019) must capitalize most of the leases.
 
 - recognition of the _right-of-use asset_ and  lease liability.
 - leases that were previously classified as operating leases must be brought on the balance sheet.
@@ -308,13 +276,13 @@ The company must disclose the contingency in the Notes when there is at least a 
 
 Reported contingent liabilities are based on the company's estimates.
 
- -  Prior experience or future expectations.
+-  Prior experience or future expectations.
   
 Our analysis, then, is limited by the quality of these estimates.
 
 ---
 
-Note disclosure should include the following information about contingencies:
+Notes' disclosure should include the following information about contingencies:
 
 1. Nature of the contingency.
 2. Degree of uncertainty about the outcome.
@@ -324,15 +292,17 @@ Of course, it is reasonable to assume that companies will disclose only the info
 
 Typical examples of contingent liabilities:
 
--  Litigation: lawsuits, claims, and assessments.
+-  Litigation: lawsuits, claims, and managerial assessments.
 
 <!--
 discuss: litigation and telling the plantiff how much money you are expecting to pay will impact how much he will demand.
 -->
+
 ---
 
 ### Commitments
-A commitment is a potential claim against a company's resources that depends on some future event under contract.
+
+A commitment is a potential claim against a company's resources based on past contractual agreements that depends on some future event.
 
 Frequent commitments: 
 
@@ -368,7 +338,7 @@ It refers to the non-recognition of financing activities in the financial statem
 
 A joint venture is a business entity created by two or more parties, characterized by shared ownership, returns, risks, and governance.
 
-Steps for hiding debt (don't do it!)
+Typical strategy:
 
 1. The company creates a separate entity and provides financing _not exceeding 50%_ of the total capital.
    - Under **IFRS 11**, joint ventures are typically accounted for using the **equity method** and **not consolidated**, unless the company has control (per **IFRS 10**).
@@ -391,7 +361,9 @@ A special purpose entity (SPE) is a legal entity created to fulfill narrow, spec
    - If control exists, the SPE must be consolidated, even if ownership is less than 50%.
    - but if SPE is not controlled by the company, then there is no obligtion to consolidate.
 
-How companies could use SPE to hide debt (don't do it!)
+---
+
+The typical structure of an SPE:
 
 1. The company, called the _sponsor_, forms a separate entity and capitalizes it with equity investment, some of which must be from independent third parties.
    1.1 legally, the sponsor must not control the SPE.
@@ -455,18 +427,24 @@ Typically, holders of equity securities are subordinate to creditors in the even
 
 ### 5.1 Components of capital stock
 
-1. Contributed capital:
+1. Contributed Capital:
 
-   -  One part is assigned to the par or stated value of capital shares: Common and/or Preferred stock
-   -  The remainder is reported as additional paid-in capital (APIC)
-      -  e.g., company issues 1 million common shares, par value $1, means that the company has raised $1 million in capital stock.
-      -  at closing date: share price=$1.5 => APIC=$500,000
+   -  One part is assigned to the par or stated value of capital shares (Common and/or Preferred Stock).
+   - The remainder is reported as Additional Paid-In Capital (APIC).
+   
+   Example: 
+   
+   - Company issues 1 million common shares at a par value of $1 each, with an issuance price of $1.5 per share.
+   - Total capital raised: $1.5 million, where $1 million goes to the common stock account and $500,000 to APIC.
 
 ---
 
 2. Treasury stock (buybacks)
 
-    -  The amount of capital stock repurchased by the company and kept in their own treasury. Why? as an attempt to increase the share price or limiting dilution.
+    -  The amount of capital stock repurchased by the company and kept in their own treasury. 
+    
+    - Why? as an attempt to increase the share price or limiting dilution.
+    
     -  It reduces both contributed assets and total equity (_contra-equity account_).
     -  Recorded at cost value.
 
@@ -475,7 +453,7 @@ Typically, holders of equity securities are subordinate to creditors in the even
 3. Retained earnings: accumulated earnings of the company that have not been distributed to shareholders as dividends.
    - Covenants can create restrictions on the use of retained earnings (check Bond indentures and Loan agreements).
 4. Other comprehensive income (OCI): unrealized gain and losses not recognized in the income statement.
-5. Noncontrolling interest (NCI): equity interest in a subsidiary not attributable to the parent company.
+5. Noncontrolling interest (NCI) or minority interest: equity interest in a subsidiary not attributable to the parent company.
 
 ---
 
@@ -499,7 +477,7 @@ Exercice in MS Excel.
 
 What is the impact on the financial statments of the following financing decisions? Consider that the decision is executed the last day of the fiscal year.
 
-1. Recognizing annual profits of \$1,000,000.
+1. Capital Increase of \$1,000,000.
 2. Paying \$300.000 in dividends. 
 
 
