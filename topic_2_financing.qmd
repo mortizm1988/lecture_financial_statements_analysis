@@ -105,16 +105,16 @@ Therefore, it is not surprising that the credit rate is a major determinant of
   
 ---
 
-**Let's look at the financial obligations of Apple and Mercedez [10 min]**
+**Let's look at the financial obligations of Apple and Mercedes [10 min]**
 
-Links for the annual reports of [Apple](https://investor.apple.com/investor-relations/sec-filings/) and [Mercedez](https://group.mercedes-benz.com/investors/reports-news/annual-reports/2023/).
+Links for the annual reports of [Apple](https://investor.apple.com/investor-relations/sec-filings/) and [Mercedes](https://group.mercedes-benz.com/investors/reports-news/annual-reports/2023/).
 
 From the Balance Sheet, check the total amount on financial liabilities.
 
 More advance: From the footnotes, collect the following information: type of instruments, maturities, interest rates, ranking/seniority, redemption, and covenants.
 
 - Apple: Check Note 9 - Debt.
-- Mercedez: Check Note 24 - Financing liabilities.
+- Mercedes: Check "Combined Management Report>Refinancing" (p. 63), and Note 24 - Financing liabilities.
 
 To Discuss:
 
@@ -194,6 +194,7 @@ Remember that the PV of an annuity is given by $P_0=\frac{1-1/(1+i)^n}{i}$. In t
 - Leased asset value = $\$2.505\times 3.9927=10.000$
 
 Second, compute the interest expense and depreciation expense for each year.
+- notice that the interest expense is computed on the lease liability, which is updated yearly after the payment of the MLP.
 
 ---
 
@@ -223,10 +224,11 @@ The lessor’s accounting remains largely unchanged
 
 ---
 
-**Example Apple and Mercedez [10 min]**
+**Example Apple and Mercedes [10 min]**
+
 Apple: Note 8 - Leases.
 
-Mercedez: Note 12 - Equipment in operating leases
+Mercedes: Note 12 - Equipment in operating leases
 
 
 1) Identify the type of assets being leased.
@@ -312,13 +314,13 @@ Frequent commitments:
 
 ---
 
-**Example Apple and Mercedez [15 min]**
+**Example Apple and Mercedes [15 min]**
 
 Search: Balance sheet "Commitments and Contingencies."
 
 Apple: "Note 12 " and "Item 3: legal proceedings".
 
-Mercedez: "Note 23 Provisions for other risks", "Note 30 Legal proceedings", and "Note 31 – Contingent liabilities ..." 
+Mercedes: "Note 23 Provisions for other risks", "Note 30 Legal proceedings", and "Note 31 – Contingent liabilities ..." 
 
 1) What type of commitments the company has? (Apple: UPO!!)
 2) What is the most important type of contingent liabilities?  
@@ -352,21 +354,16 @@ The focus is on substance over form.
 
 ---
 
-### b. Special Purpose Entities (SPEs)
+### 4.2 Special Purpose Entities (SPEs)
 
 A special purpose entity (SPE) is a legal entity created to fulfill narrow, specific, or temporary objectives.
 
 - Typically used by companies to isolate the firm from financial risk.
-- **Under IFRS 10**, control over the SPE is assessed. 
-   - If control exists, the SPE must be consolidated, even if ownership is less than 50%.
-   - but if SPE is not controlled by the company, then there is no obligtion to consolidate.
-
----
 
 The typical structure of an SPE:
 
 1. The company, called the _sponsor_, forms a separate entity and capitalizes it with equity investment, some of which must be from independent third parties.
-   1.1 legally, the sponsor must not control the SPE.
+   -   the sponsor do not control the SPE to avoid consolidation.
 2. The SPE issues debt and uses the proceeds to purchase earnings assets from or for the sponsoring company.
 3. The cash flow from the earnings assets is used to pay the debt and provide a return to the equity investors.
 
@@ -411,7 +408,7 @@ Reporting of Joint Ventures and SPEs:
 
 - Very limited information in the annual reports:
   - Check Apple: "Exhibit 21.1"
-  - Mercedez: "Note 13"
+  - Mercedes: "Note 13"
 
 - In practice, it is more common to rely on specialized business databases like [Orbis](https://www.bvdinfo.com/en-gb/) or [Capital IQ](https://www.spglobal.com/marketintelligence/en/solutions/sp-capital-iq-pro). 
 
@@ -477,7 +474,8 @@ Exercice in MS Excel.
 
 What is the impact on the financial statments of the following financing decisions? Consider that the decision is executed the last day of the fiscal year.
 
-1. Capital Increase of \$1,000,000.
+1. Capital Increase of \$1,000,000 from the same investors base.
+   -  no new shares (no dilution)
 2. Paying \$300.000 in dividends. 
 
 
@@ -529,7 +527,7 @@ external financing: 1 million
 
 ---
 
-Our focus: **capital stock dilution**
+Pay special attention to  **capital stock dilution**
 
 Common variations in the capital stock:
 
