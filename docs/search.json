@@ -81,7 +81,7 @@
     "href": "topic_2_financing.html#commitments-and-contingent-liabilities",
     "title": "Analysis of Financing Decisions",
     "section": "3. Commitments and contingent liabilities",
-    "text": "3. Commitments and contingent liabilities\nContingent liabilities\nA contingent liability is a potential loss that depends on some future event such as litigation, threats of expropriation, product warranties, etc.\nConditions for recognizing a contingent loss in the balance sheet:\n\nProbable Occurrence: The future event that would trigger the loss is more likely than not to occur.\nReasonable Estimation: The amount of the loss can be reasonably estimated.\n\nIn other cases the disclosure without recognition may be required."
+    "text": "3. Commitments and contingent liabilities\nContingent liabilities\nA contingent liabilityis a potential obligation that depends on the occurrence of a future uncertain event (e.g., legal disputes or warranties).\nConditions for recognizing a contingent loss in the balance sheet:\n\nProbable Occurrence: The future event that would trigger the loss is more likely than not to occur.\nReasonable Estimation: The amount of the loss can be reasonably estimated.\n\nIn other cases the disclosure without recognition may be required."
   },
   {
     "objectID": "topic_2_financing.html#off-balance-sheet-financing",
@@ -194,5 +194,12 @@
     "title": "Analysis of Cash Flows",
     "section": "3. Alternative measures of cash flows",
     "text": "3. Alternative measures of cash flows\n3.1 Net Income Plus Depreciation and EBITDA\n\nCommon Proxy: Net income plus depreciation often serves as a basic approximation for operating cash flow.\nPitfall:\n\nOverlooks Working Capital: Fails to account for changes in working capital, a key part of operating cash flows."
+  },
+  {
+    "objectID": "topic_2_financing.html#other-off-balance-sheet-financing",
+    "href": "topic_2_financing.html#other-off-balance-sheet-financing",
+    "title": "Analysis of Financing Decisions",
+    "section": "4. Other Off-balance-sheet financing",
+    "text": "4. Other Off-balance-sheet financing\nIt refers to the non-recognition of financing activities in the financial statements.\n\nOperating leases were the most common example before IFRS 16\nOther cases: special purpose entities, joint ventures, limited partnerships, etc."
   }
 ]

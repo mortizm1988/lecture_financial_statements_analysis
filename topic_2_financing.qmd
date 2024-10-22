@@ -255,7 +255,7 @@ So, if we suspect that a company is using operating leases to keep liabilities o
 
 ### Contingent liabilities
 
-A contingent liability is a potential loss that depends on some future event such as litigation, threats of expropriation, product warranties, etc.
+A contingent liabilityis a potential obligation that depends on the occurrence of a future uncertain event (e.g., legal disputes or warranties).
 
 Conditions for recognizing a contingent loss in the balance sheet:
 
@@ -274,27 +274,23 @@ Under IFRS, the terminology is slightly different but the essence is similar:
 
 ---
 
-The company must disclose the contingency in the Notes when there is at least a _reasonable possibility_ that a loss will occur.
+**Example:**
 
-Reported contingent liabilities are based on the company's estimates.
+A company is being sued for damages amounting to $5 million.
 
--  Prior experience or future expectations.
-  
-Our analysis, then, is limited by the quality of these estimates.
+The company believes it is likely (but not certain) that it will lose the lawsuit.
 
----
+- It estimates the damages at $2 million (based on available evidence or legal counsel's advice).
+ 
+Under IFRS, the company will recognize a provision (i.e., a liability) of $2 million on the balance sheet and an expense in the income statement.
 
-Notes' disclosure should include the following information about contingencies:
+:::  callout-note
 
-1. Nature of the contingency.
-2. Degree of uncertainty about the outcome.
-3. The possible range of loss.
-   
-Of course, it is reasonable to assume that companies will disclose only the information that is favorable to them.
+What are the managerial incentives to disclose this provision? 
 
-Typical examples of contingent liabilities:
+ Why can be detrimental for shareholders to disclose  of this provision?
 
--  Litigation: lawsuits, claims, and managerial assessments.
+:::
 
 <!--
 discuss: litigation and telling the plantiff how much money you are expecting to pay will impact how much he will demand.
@@ -304,13 +300,14 @@ discuss: litigation and telling the plantiff how much money you are expecting to
 
 ### Commitments
 
-A commitment is a potential claim against a company's resources based on past contractual agreements that depends on some future event.
+A commitment is  a firm agreement or contractual obligation to undertake a future action
 
 Frequent commitments: 
 
-- Purchase commitments
-- Debt covenant restrictions
-- Licensing agreements
+- Purchase equipment before the reception
+- Licensing agreements before the licensing period
+
+They are generally **off-balance-sheet** items and disclosed in the notes, explaining potential future obligations.
 
 ---
 
@@ -320,14 +317,14 @@ Search: Balance sheet "Commitments and Contingencies."
 
 Apple: "Note 12 " and "Item 3: legal proceedings".
 
-Mercedes: "Note 23 Provisions for other risks", "Note 30 Legal proceedings", and "Note 31 – Contingent liabilities ..." 
+Mercedes: "Note 23 Provisions for other risks", Notes 30  and 31. 
 
 1) What type of commitments the company has? (Apple: UPO!!)
 2) What is the most important type of contingent liabilities?  
    2.1) What do they report about legal contingencies (litigation)? cases? amounts? provisions?
 
 
-## 4. Off-balance-sheet financing
+## 4. Other Off-balance-sheet financing
 
 It refers to the non-recognition of financing activities in the financial statements.
 
@@ -338,19 +335,26 @@ It refers to the non-recognition of financing activities in the financial statem
 
 ### 4.1 Joint Ventures
 
-A joint venture is a business entity created by two or more parties, characterized by shared ownership, returns, risks, and governance.
+A joint venture is a business entity created by two or more parties that pool resources shared ownership.
+Shared ownership, risks, and return.
 
-Typical strategy:
+Objectives:
 
-1. The company creates a separate entity and provides financing _not exceeding 50%_ of the total capital.
-   - Under **IFRS 11**, joint ventures are typically accounted for using the **equity method** and **not consolidated**, unless the company has control (per **IFRS 10**).
-2. The separate entity borrows money from a bank and uses the money to purchase assets.
-3. The separate entity rents the assets to the company.
+- Resource Sharing
+- Market Entry and Expansion
+- Risk Mitigation
+- Access to New Technologies
+-**financing structuring**
 
-:::{.notes}
-Control is determined based on the ability to direct relevant activities and exposure to variable returns.
-The focus is on substance over form.
-:::
+---
+
+Typical financing strategy:
+
+JVs are also used strategically for financial structuring, especially to avoid recognizing liabilities on the parent company's balance sheet. In this context:
+
+- Non-consolidation: When the parent company holds less than 50% of the JV (or lacks control per IFRS 10), the JV’s assets and liabilities are not consolidated into the parent company’s financial statements. This keeps debt associated with the JV off the balance sheet of the parent company.
+
+- Leaseback arrangements: A common tactic is for the JV to purchase assets financed by its own debt and lease/rent them back to the parent company. The parent gets to use the assets while keeping the debt off its balance sheet.
 
 ---
 
@@ -358,40 +362,14 @@ The focus is on substance over form.
 
 A special purpose entity (SPE) is a legal entity created to fulfill narrow, specific, or temporary objectives.
 
-- Typically used by companies to isolate the firm from financial risk.
+- Typically used by companies to isolate the firm from a specific financial risk. Example, securitization of receivables and trade-credit risk.
 
 The typical structure of an SPE:
 
 1. The company, called the _sponsor_, forms a separate entity and capitalizes it with equity investment, some of which must be from independent third parties.
    -   the sponsor do not control the SPE to avoid consolidation.
 2. The SPE issues debt and uses the proceeds to purchase earnings assets from or for the sponsoring company.
-3. The cash flow from the earnings assets is used to pay the debt and provide a return to the equity investors.
-
----
-
-Example 1 Securitization of receivables:
-
-Steps:
-
-1. Company sells their receivables to SPE, which issues debt to finance the purchase.
-   - (-)Receivables and (+) Cash.
-2. The SPE issues bonds collateralized by the receivables it holds.
-3. SPE sells the bonds to investors; the proceeds are used to purchase more receivables on an ongoing basis.
-
----
-
-Example 2 Commitments to purchase assets:
-
-A company needs to fund the construction of a manufacturing plant.
-
-Steps:
-
-1. Companies execute a contract with an SPE to purchase the output of a plant.
-2. The SPE issues debt to finance the construction of the plant
-   - collateral: contract and the property 
-3. SPE funds the construction of the plant with the debt proceeds.
-
-The company obtains the benefit of the plant without recording the debt on its balance sheet.
+3. the sponsoring company receives the cash from the transaction and removes the earnings assets from its balance sheet.
 
 ---
 
@@ -424,12 +402,12 @@ Typically, holders of equity securities are subordinate to creditors in the even
 
 ### 5.1 Components of capital stock
 
-1. Contributed Capital:
+1. Contributed/Share Capital:
 
    -  One part is assigned to the par or stated value of capital shares (Common and/or Preferred Stock).
    - The remainder is reported as Additional Paid-In Capital (APIC).
    
-   Example: 
+Example: 
    
    - Company issues 1 million common shares at a par value of $1 each, with an issuance price of $1.5 per share.
    - Total capital raised: $1.5 million, where $1 million goes to the common stock account and $500,000 to APIC.
