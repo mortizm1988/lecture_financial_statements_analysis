@@ -118,41 +118,22 @@ Companies do not collect 100% of their receivables.
   
 --- 
 
-Example:
+::: callout-note
+Exercise in MS Excel.
+:::
 
-Nov 1. Company A sells goods worth $1,000 on credit to customers.
+Nov 1: "Silvana eTravel" provides services worth $1,000 on credit to customers.
 
 The company expects to collect the money in 90 days but estimates that 5% of the credit sales will be uncollectible. 
 
-What is the impact on the financial statements in that year?
+1) What is the impact on the financial statements of the sale and collection risk for this year?
 
-<style scoped>
-table {
-  font-size: 20px;
-}
-</style>
+2) Scenarios: 
 
-|  | Effect |
-| --- | --- |
-| 1) Balance Sheet | Receivables: +1,000 |
-|  | Allowance for doubtful accounts:  +50 |
-| 2) Income Statement | Sales revenue: +1,000 |
-| | Bad debt expense: +50 |
-| 3) CF Statement | No impact|
+  a) Customers end up not paying back 20% of the credit sales. 
+  b) Customers end up paying 100% of the credit sales. 
 
----
-
-Scenario 1) Customers end up not paying back 20% of the credit sales. 
-
-What is the impact on the financial statements of Company A for the next year? (ignore the impact of the fraction of the credit sales that are paid back)
-
-|  | Effect |
-| --- | --- |
-| 1) Balance Sheet | Receivables: |
-|  | Allowance for doubtful accounts:  +150 |
-| 2) Income Statement | Sales revenue:  |
-| | Bad debt expense: +150 |
-| 3) CF Statement | No impact|
+Notice the capacity of receivables to distort the earnings across periods. Too optimistic vs pessimistic estimates.
 
 <!--
 this scenario could happen at least in two ways:
@@ -160,26 +141,7 @@ this scenario could happen at least in two ways:
 2) the economy is in a recession and customers are not able to pay back
 -->
 
----
 
-Scenario 2) Customers end up paying 100% of the credit sales. 
-
-What is the impact on the financial statements of Company A for the next year?
-
-<style scoped>
-table {
-  font-size: 20px;
-}
-</style>
-
-|  | Effect |
-| --- | --- |
-| 1) Balance Sheet | Receivables: -1,000 |
-| | Cash: +1,000 |
-|  | Allowance for doubtful accounts: -50 |
-| 2) Income Statement | Sales revenue:  |
-| | Bad debt expense: -50 |
-| 3) CF Statement | CFO: +1,000|
 
 ---
 
@@ -194,36 +156,10 @@ table {
 
 ---
 
-Example Apple  [5 min]
-
-1) Search: Balance sheet: accounts receivable, net
-2) Search: Note 3 - Financial Instruments
-
-- How much are the receivables?
-- What type of receivables are reported?
-- How much is the allowance for doubtful accounts?
-
-
----
-
 ### 2.3 Securitization or Factoring of receivables
 
 - Receivables can be sold to a third party (bank, financial institution, etc.) in exchange for cash
 - The third party usually pays less than the face value of the receivables and finances the purchase by issuing debt to the capital markets.
-- The collection of those receivables provides the cash flow to pay the debt
-- Should the factored receivables be reported as assets :question:
-  - Receivables can be kept off the balance sheet if the company surrenders all control over the receivables to an independent buyer.
-  - If the company has any degree of retained interest in the receivables, they should be reported as an asset.
-  
----
-
-### Example: Factoring of receivables
-
-Syntex 	Co. securitizes its entire receivables of $400 million with no recourse by selling the portfolio to a trust that finances the purchase by selling bonds. Evaluate three scenarios:
-
-1. Before securitization
-2. After securitization with off-balance financing (as reported under US GAAP and IFRS)
-3. After securitization but reflecting the securitization as a borrowing (analyst’s adjustment)
 
 <!--
 ---
@@ -235,6 +171,16 @@ The consolidation rules regarding SPEs (Special Purpose Entities) are complex an
 [FIN 46R](https://fasb.org/Page/ShowPdf?path=fin+46R.pdf&title=FIN+46%28R%29+%28AS+ISSUED%29&acceptedDisclaimer=true&Submit=)
 -->
 
+---
+
+Example Apple  [5 min]
+
+1) Search: Balance sheet: accounts receivable, net
+2) Search: Note 3 - Financial Instruments
+
+- How much are the receivables?
+- What type of receivables are reported?
+- How much is the allowance for doubtful accounts?
   
 ## 3. Inventory methods and inflation
 
@@ -258,13 +204,13 @@ The valuation of inventories has two impacts on financial statements:
 ---
 
 ### 3.1 Inventory methods
-Assume that the following reflects the inventory records of a company:
+Assume that the following table reflects the inventory records of a company:
  
 |Date|Units|Unit Cost|Total Cost|
 |---|---|---|---|
 |Jan 1|40|$500|$20,000|
 |Purchase during year|60|$600|$36,000|
-|Total COGS|100||$56,000|
+|Total inventory|100||$56,000|
 
 Now assume that 30 units are sold at $800 each. What is the gross profit under each method?
 
@@ -296,7 +242,7 @@ Case 2: Last-in, first-out (LIFO).
 
 In the balance sheet at the end of the period, the inventory is reported at $38.000 ($56.000-$18.000).
 
-Important: LIFO is not allowed in IFRS:exclamation: why:question: mainly because it delays or reduces the payment of taxes. 
+Important: LIFO is not allowed in IFRS! Why? Mainly because it delays or reduces the payment of taxes. 
 
 ---
 
@@ -396,7 +342,7 @@ Example Apple  [5 min]
 
 ## 4. Long-term assets and capitalization
 
-![bg right](Slides/../topic_3_img/apple_news.png)
+![](Slides/../topic_3_img/apple_news.png)
 
 <!--
 focus:
@@ -423,7 +369,7 @@ Allocation: is the assignment of the cost of an asset as an expense over its use
 - Depreciation: tangible asset
 - Amortization: intangible asset
 
-Allocation is not a valuation process. It is a way to match the cost of an asset with the revenues it generates:exclamation:
+Allocation is not a valuation process. It is a way to match the cost of an asset with the revenues it generates!!
 
 ---
 
@@ -439,6 +385,7 @@ Allocation is not a valuation process. It is a way to match the cost of an asset
 Example  
 
 The purchase of a new machine has the following characteristics:
+
 - Purchase price: $800,000
 - Estimated residual value: $50,000
 - Expected useful life: 5 years
@@ -471,13 +418,14 @@ How does the solution change if the company uses the units of production method?
 ---
 
 ### Impact on the financial statements
-In sum, investing will have three impacts on the financial statements:
+
+In sum, investing in fixed tangible assets will have three impacts on the financial statements:
 
 1) Balance sheet: + long-term assets and funding (+ debt or - cash).
 2) Income statement: + depreciation expense.
    - Capitalization leads to higher and stable net income in the short term.
    - Lumpy investments are smoothed out over time to match the cost of the asset with the revenues it generates.
-3) Operating Cash flows: When asset costs are capitalized, they are reported as _investing cash outflows_. (In contrast, if they were expensed, they are reported as _operating cash outflows_).
+3) Operating Cash flows: When asset costs are capitalized, they are reported as _investing_ cash outflows. (In contrast, if they were expensed, they are reported as _operating_ cash outflows).
 
 ---
 
@@ -632,7 +580,8 @@ Example Colgate 2022 (Note 5)
 ## 6. Asset revaluations under IFRS
 
 Under IFRS, companies can write up their assets to fair value
-  - This departs from a long-held tradition of LCM
+
+ - This departs from a long-held tradition of LCM
 
 Scenarios:
 
