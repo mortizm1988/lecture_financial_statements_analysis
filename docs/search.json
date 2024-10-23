@@ -171,8 +171,8 @@
     "objectID": "topic_3_investing.html#asset-revaluations-under-ifrs",
     "href": "topic_3_investing.html#asset-revaluations-under-ifrs",
     "title": "Analysis of Investing Decisions",
-    "section": "6. Asset revaluations under IFRS",
-    "text": "6. Asset revaluations under IFRS\nUnder IFRS, companies can write up their assets to fair value\n\nThis departs from a long-held tradition of LCM\n\nScenarios:\n\nA. reversal of prior impairment as long as the write-up does not exceed the depreciated historical cost of the asset. IFRS IAS 36\n\nE.g., markets could reverse earlier declines in the value of the asset\nthis increases gains in the Income Statement and the net value of the asset and retained earnings in the Balance Sheet"
+    "section": "7. Asset revaluations under IFRS",
+    "text": "7. Asset revaluations under IFRS\nUnder IFRS, companies can write up their assets to fair value\n\nThis departs from a long-held tradition of LCM\n\nScenarios:\n\nA. reversal of prior impairment as long as the write-up does not exceed the depreciated historical cost of the asset. IFRS IAS 36\n\nE.g., markets could reverse earlier declines in the value of the asset\nthis increases gains in the Income Statement and the net value of the asset and retained earnings in the Balance Sheet"
   },
   {
     "objectID": "topic_5_cashflows.html#cash-flow-statement",
@@ -201,5 +201,19 @@
     "title": "Analysis of Financing Decisions",
     "section": "4. Other Off-balance-sheet financing",
     "text": "4. Other Off-balance-sheet financing\nIt refers to the non-recognition of financing activities in the financial statements.\n\nOperating leases were the most common example before IFRS 16\nOther cases: special purpose entities, joint ventures, limited partnerships, etc."
+  },
+  {
+    "objectID": "topic_3_investing.html#intangible-assets",
+    "href": "topic_3_investing.html#intangible-assets",
+    "title": "Analysis of Investing Decisions",
+    "section": "5. Intangible assets",
+    "text": "5. Intangible assets\nDefinition: Intangible assets are long-term assets that have no physical substance but are valued based on the rights or privileges granted to the company using them. This value, however, is not easy to determine: too much uncertainty\n\nPatents\nCopyright\nTrademarks\nExploration rights\nLicenses and franchises\nGoodwill"
+  },
+  {
+    "objectID": "topic_3_investing.html#corporate-aquisition",
+    "href": "topic_3_investing.html#corporate-aquisition",
+    "title": "Analysis of Investing Decisions",
+    "section": "6. Corporate Aquisition",
+    "text": "6. Corporate Aquisition\nWhy Do Companies Acquire Others?\n\nSynergies: Combining companies can reduce costs and increase efficiency (e.g., shared resources, economies of scale).\nAccess to New Markets: Acquiring companies in new geographic regions or industries to expand market share.\nAcquiring New Technology or Expertise: Buying companies with proprietary technology or talent to enhance competitiveness.\nTax Benefits: Acquisitions can create opportunities for tax savings through the use of tax losses or favorable tax jurisdictions.\nIncrease Market Share: Gaining a larger share of the market to enhance competitive advantage."
   }
 ]

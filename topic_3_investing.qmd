@@ -18,7 +18,8 @@ Topics
 3. Inventory methods and inflation
 4. Long-term assets and capitalization
 5. Intangible assets and goodwill
-6. Asset revaluations under IFRS
+6. Corporate acquisition
+7. Asset revaluations under IFRS
 
 ## 1. Cash and cash equivalents
 
@@ -409,10 +410,10 @@ How does the solution change if the company uses the units of production method?
 - carrying amount after 2 years: 800,000-112,500-172,500= $515,000
 
 <!--
----
 ### Depletion
 - Depletion is the allocation of the cost of natural resources based on the unit exploitation of natural resources like coal, oil, gas, etc.
 - Thus, depletion depends on the production level
+
 ---> 
 
 ---
@@ -495,7 +496,7 @@ Therefore, no impairment loss is recognized under US GAAP
   
 ---
 
-## 5. Intangible assets and goodwill
+## 5. Intangible assets 
 
 Definition: Intangible assets are long-term assets that have no physical substance but are valued based on the rights or privileges granted to the company using them. This value, however, is not easy to determine: too much uncertainty
 
@@ -508,9 +509,7 @@ Definition: Intangible assets are long-term assets that have no physical substan
 
 ---
 
-### 5.1 Accounting for intangible assets
-
-Incorporation/Generation of intangible assets:
+Accounting of  intangible assets:
 
 - Purchased intangible assets are recorded at historical cost
 - Internally generated intangible assets are expensed as incurred
@@ -535,7 +534,7 @@ b) Indefinite useful life: no amortization
 
 ---
 
-Example
+**Example**
 
 This year our company registered a Trademark with a cost $1,000,000 and it has an indefinite useful life. 
 
@@ -551,33 +550,86 @@ Therefore, in scenario B the carrying value of the Trademark is 800,000.
 
 ---
 
-### 5.2 Goodwill
-
-Definition: Goodwill is the excess of the purchase price over the fair value of the net assets acquired in a business combination. [IFRS IFRS 3](https://www.ifrs.org/issued-standards/list-of-standards/ifrs-3-business-combinations/)
-
-- Goodwill is an intangible asset with an indefinite useful life
-- Goodwill is not amortized but tested for impairment at least annually
-  
-Example: your company purchases at $7 million a company with assets fair value of $6 million. The excess of $1 million is recorded as goodwill.
-
- Why to pay more?
-
-- Assets such as reputation, know-how, customer relationships, etc. are not recorded in the balance sheet
-- Synergies: the value of the combined company is higher than the sum of the parts
-
-
----
-
-<!--
-Explain that we dont do Apple because this company does not report intangible
--->
-
 Example Colgate 2022 (Note 5)
 
 ![](Slides/../topic_3_img/colgate_intangible.png)
 
+## 6. Corporate Aquisition
 
-## 6. Asset revaluations under IFRS
+### Why Do Companies Acquire Others?
+
+- **Synergies**: Combining companies can reduce costs and increase efficiency (e.g., shared resources, economies of scale).
+- **Access to New Markets**: Acquiring companies in new geographic regions or industries to expand market share.
+- **Acquiring New Technology or Expertise**: Buying companies with proprietary technology or talent to enhance competitiveness.
+- **Tax Benefits**: Acquisitions can create opportunities for tax savings through the use of tax losses or favorable tax jurisdictions.
+- **Increase Market Share**: Gaining a larger share of the market to enhance competitive advantage.
+
+---
+
+### 6.1 Accounting for Acquisitions 
+
+ IFRS 3 requires the **acquisition method** for all **business combinations**.
+
+  - **Step 1**: Identify the acquiring company.
+  - **Step 2**: Measure the **consideration transferred** (the total purchase price, including cash, shares, or other forms of payment).
+  - **Step 3**: Identify and measure **acquired assets** and **liabilities** at their fair value.
+  - **Step 4**: Recognize any **goodwill** or gain from a bargain purchase (price - net asset acquired).
+
+- **Consideration**: Could be cash, equity shares, or a combination of both. This must be measured at fair value on the acquisition date.
+
+-  costs related to the acquisition, such as legal fees, are expensed as incurred, and not included in the purchase price. 
+
+---
+
+IFRS 10: Consolidated Financial Statements
+
+- After an acquisition, the acquiring company must **consolidate** the financial statements of the acquired company.
+  - **Control** is established when the acquiring company has power over the acquired entity and the ability to influence its returns.
+  - Consolidation involves **combining** the assets, liabilities, revenue, and expenses of the acquired company into the financial statements of the acquirer.
+  - Adjustments are made for **non-controlling interests** if the acquirer doesn't own 100% of the acquired company.
+
+Example:
+- If Company X acquires 80% of Company Y, it consolidates 100% of Y's assets and liabilities but adjusts for the 20% **non-controlling interest**.
+
+---
+
+### 6.2 Goodwill
+
+- **Goodwill** is the amount by which the purchase price exceeds the **fair value** of the acquired company’s identifiable net assets.
+  - It represents **intangible assets** such as brand reputation, customer relationships, or patents that are not separately identifiable.
+  - **IFRS 3** requires goodwill to be recognized as an asset on the balance sheet.
+  - **Impairment testing**: Goodwill is tested annually for impairment under **IAS 36**. If impaired, it reduces profit.
+
+---
+
+**Example**
+
+- Purchase price: $1,000,000
+- Identifiable net assets of Company Y:
+  - Cash: $50,000
+  - Property: $500,000
+  - Equipment: $200,000
+  - Liabilities: ($100,000)
+  - **Net assets**: $650,000
+- Goodwill calculation: Purchase price - net assets = $1,000,000 - $650,000 = $350,000 of goodwill.
+
+---
+
+**How Does This Appear in the Financial Statements?**
+
+a) Company X's Balance Sheet:
+  - The **assets** of Company Y (cash, property, etc.) on its consolidated balance sheet.
+    - The **goodwill** of $350,000 as an asset.
+  - The **liabilities** of Company Y.
+b) Company X's Income Statement:
+  - Acquisition-related expenses (e.g., legal fees) are reported.
+  - Goodwill impairment tests may reduce profits.
+c) Company X's Cash Flow Statement:
+  - cash used in acquisition costs is reported as investing cash outflows.
+
+---
+
+## 7. Asset revaluations under IFRS
 
 Under IFRS, companies can write up their assets to fair value
 
