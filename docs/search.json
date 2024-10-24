@@ -81,7 +81,7 @@
     "href": "topic_2_financing.html#commitments-and-contingent-liabilities",
     "title": "Analysis of Financing Decisions",
     "section": "3. Commitments and contingent liabilities",
-    "text": "3. Commitments and contingent liabilities\nContingent liabilities\nA contingent liabilityis a potential obligation that depends on the occurrence of a future uncertain event (e.g., legal disputes or warranties).\nConditions for recognizing a contingent loss in the balance sheet:\n\nProbable Occurrence: The future event that would trigger the loss is more likely than not to occur.\nReasonable Estimation: The amount of the loss can be reasonably estimated.\n\nIn other cases the disclosure without recognition may be required."
+    "text": "3. Commitments and contingent liabilities\nContingent liabilities\nA contingent liability is a potential obligation that depends on the occurrence of a future uncertain event (e.g., legal disputes or warranties).\n\nProbable Occurrence: The future event that would trigger the loss is more likely than not to occur (i.e., greater than 50% likelihood).\nReasonable Estimation: The amount of the loss can be reasonably estimated.\n\nReporting:\n\nIf the event is probable and the amount can be reliably estimated, the liability is recognized as a provision in the balance sheet.\nIf the event is possible but not probable, or the amount cannot be reasonably estimated, disclosure without recognition may be required."
   },
   {
     "objectID": "topic_2_financing.html#off-balance-sheet-financing",
@@ -200,7 +200,7 @@
     "href": "topic_2_financing.html#other-off-balance-sheet-financing",
     "title": "Analysis of Financing Decisions",
     "section": "4. Other Off-balance-sheet financing",
-    "text": "4. Other Off-balance-sheet financing\nIt refers to the non-recognition of financing activities in the financial statements.\n\nOperating leases were the most common example before IFRS 16\nOther cases: special purpose entities, joint ventures, limited partnerships, etc."
+    "text": "4. Other Off-balance-sheet financing\nIt refers to the non-recognition of financing activities in the financial statements.\n\nOperating leases were the most common example before IFRS 16.\nOther cases: special purpose entities, joint ventures, limited partnerships, etc."
   },
   {
     "objectID": "topic_3_investing.html#intangible-assets",

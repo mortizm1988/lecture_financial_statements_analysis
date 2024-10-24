@@ -255,14 +255,16 @@ So, if we suspect that a company is using operating leases to keep liabilities o
 
 ### Contingent liabilities
 
-A contingent liabilityis a potential obligation that depends on the occurrence of a future uncertain event (e.g., legal disputes or warranties).
+A contingent liability is a potential obligation that depends on the occurrence of a future uncertain event (e.g., legal disputes or warranties).
 
-Conditions for recognizing a contingent loss in the balance sheet:
 
-1) Probable Occurrence: The future event that would trigger the loss is more likely than not to occur. 
+1) Probable Occurrence: The future event that would trigger the loss is more likely than not to occur (i.e., greater than 50% likelihood).
 2) Reasonable Estimation: The amount of the loss can be reasonably estimated. 
-   
-In other cases the disclosure without recognition may be required.
+
+**Reporting:**
+
+1) If the event is probable and the amount can be reliably estimated, the liability is recognized as a provision in the balance sheet.
+2) If the event is possible but not probable, or the amount cannot be reasonably estimated, disclosure without recognition may be required.
 
 <!--
 In U.S. GAAP, "probable" is often interpreted as a likelihood of more than 50%.
@@ -278,9 +280,9 @@ Under IFRS, the terminology is slightly different but the essence is similar:
 
 A company is being sued for damages amounting to $5 million.
 
-The company believes it is likely (but not certain) that it will lose the lawsuit.
+The company believes it is probable (chances >50%) that will lose the lawsuit.
 
-- It estimates the damages at $2 million (based on available evidence or legal counsel's advice).
+It estimates the damages at $2 million (based on available evidence or legal counsel's advice).
  
 Under IFRS, the company will recognize a provision (i.e., a liability) of $2 million on the balance sheet and an expense in the income statement.
 
@@ -288,7 +290,7 @@ Under IFRS, the company will recognize a provision (i.e., a liability) of $2 mil
 
 What are the managerial incentives to disclose this provision? 
 
- Why can be detrimental for shareholders to disclose  of this provision?
+Why can be detrimental for shareholders to disclose  of this provision?
 
 :::
 
@@ -304,8 +306,10 @@ A commitment is  a firm agreement or contractual obligation to undertake a futur
 
 Frequent commitments: 
 
-- Purchase equipment before the reception
-- Licensing agreements before the licensing period
+- Purchase equipment (before the reception)
+- Licensing agreements (before the licensing period)
+
+**Reporting:**
 
 They are generally **off-balance-sheet** items and disclosed in the notes, explaining potential future obligations.
 
@@ -328,29 +332,28 @@ Mercedes: "Note 23 Provisions for other risks", Notes 30  and 31.
 
 It refers to the non-recognition of financing activities in the financial statements.
 
-- Operating leases were the most common example before IFRS 16
+- Operating leases were the most common example before IFRS 16.
 - Other cases: special purpose entities, joint ventures, limited partnerships, etc.
 
 ---
 
 ### 4.1 Joint Ventures
 
-A joint venture is a business entity created by two or more parties that pool resources shared ownership.
-Shared ownership, risks, and return.
+A joint venture is a business entity created by two or more parties that pool resources and shared ownership.
 
 Objectives:
 
-- Resource Sharing
-- Market Entry and Expansion
-- Risk Mitigation
-- Access to New Technologies
--**financing structuring**
+- Resource sharing
+- Market entry and expansion
+- Risk mitigation
+- Access to new technologies
+- **Financing structuring**
 
 ---
 
 Typical financing strategy:
 
-JVs are also used strategically for financial structuring, especially to avoid recognizing liabilities on the parent company's balance sheet. In this context:
+JVs are use to avoid recognizing liabilities on the parent company's balance sheet. 
 
 - Non-consolidation: When the parent company holds less than 50% of the JV (or lacks control per IFRS 10), the JV’s assets and liabilities are not consolidated into the parent company’s financial statements. This keeps debt associated with the JV off the balance sheet of the parent company.
 
@@ -369,7 +372,7 @@ The typical structure of an SPE:
 1. The company, called the _sponsor_, forms a separate entity and capitalizes it with equity investment, some of which must be from independent third parties.
    -   the sponsor do not control the SPE to avoid consolidation.
 2. The SPE issues debt and uses the proceeds to purchase earnings assets from or for the sponsoring company.
-3. the sponsoring company receives the cash from the transaction and removes the earnings assets from its balance sheet.
+3. The sponsoring company receives the cash from the transaction and removes the earnings assets from its balance sheet.
 
 ---
 
@@ -394,16 +397,17 @@ Reporting of Joint Ventures and SPEs:
 
 Equity refers to the owners' (shareholders') financing of a company.
 
-Commonly viewed as reflecting the claims of owners against the assets of the company.
+Commonly viewed as reflecting the **claims of owners against the assets** of the company.
 
-Typically, holders of equity securities are subordinate to creditors in the event of liquidation.
+Typically, holders of equity securities are **subordinate** to creditors in the event of liquidation.
 
 ---
 
 ### 5.1 Components of capital stock
 
-1. Contributed/Share Capital:
+1. Contributed/Share Capital: The amount of money raised by a company through the issuance of shares. 
 
+   -  It represents the equity investment made by shareholders in exchange for ownership rights in the company.
    -  One part is assigned to the par or stated value of capital shares (Common and/or Preferred Stock).
    - The remainder is reported as Additional Paid-In Capital (APIC).
    
@@ -414,9 +418,7 @@ Example:
 
 ---
 
-2. Treasury stock (buybacks)
-
-    -  The amount of capital stock repurchased by the company and kept in their own treasury. 
+2. Treasury stock (buybacks): The amount of capital stock repurchased by the company and kept in their own treasury. 
     
     - Why? as an attempt to increase the share price or limiting dilution.
     
