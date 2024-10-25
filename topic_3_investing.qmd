@@ -59,14 +59,14 @@ Caution: companies might have more cash than the amount reported in the balance 
   
 ---
 
-Example Apple  [10 min]
+Example Apple and Mercedes  [10 min]
 
 1) Search: Balance sheet: cash and cash equivalents
-2) Search: Note 4 - Financial Instruments -> "Cash, Cash Equivalents,..."
+2) Apple: Note 4 - Financial Instruments -> "Cash, Cash Equivalents,..."
+3) Mercedes: Note 32 (look for cash & cash equivalents)
 
-- How much cash does Apple have?
-- How is it invested?
-- How much is restricted? What is the reason/nature of restrictions?
+- How is cash an cash equivalents distributed/invested=
+- How much cash is restricted? What is the reason/nature of restrictions?
 
 <!--
 ![](Slides/../topic_3_img/apple_cash.png)
@@ -173,11 +173,11 @@ The consolidation rules regarding SPEs (Special Purpose Entities) are complex an
 
 ---
 
-Example Apple and Mercedez  [5 min]
+Example Apple and Mercedes  [5 min]
 
 1) Search: Balance sheet: "accounts receivable, net" or "trade receivables"
 2) Apple: Note 4 - Financial Instruments -> "Accounts Receivable"
-3) Mercedez: Note 19 - Trade Receivables; Note 33 --> "Receivables from financial services"
+3) Mercedes: Note 19 - Trade Receivables; Note 33 --> "Receivables from financial services"
 
 - How much are the net receivables?
 - What type of receivables are reported?
