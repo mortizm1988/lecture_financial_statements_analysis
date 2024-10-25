@@ -62,7 +62,7 @@ Caution: companies might have more cash than the amount reported in the balance 
 Example Apple  [10 min]
 
 1) Search: Balance sheet: cash and cash equivalents
-2) Search: Note 3 - Financial Instruments
+2) Search: Note 4 - Financial Instruments -> "Cash, Cash Equivalents,..."
 
 - How much cash does Apple have?
 - How is it invested?
@@ -130,9 +130,8 @@ The company expects to collect the money in 90 days but estimates that 5% of the
 1) What is the impact on the financial statements of the sale and collection risk for this year?
 
 2) Scenarios: 
-
-  a) Customers end up not paying back 20% of the credit sales. 
-  b) Customers end up paying 100% of the credit sales. 
+    a) Customers end up not paying back 20% of the credit sales. 
+    b) Customers end up paying 100% of the credit sales. 
 
 Notice the capacity of receivables to distort the earnings across periods. Too optimistic vs pessimistic estimates.
 
@@ -174,22 +173,23 @@ The consolidation rules regarding SPEs (Special Purpose Entities) are complex an
 
 ---
 
-Example Apple  [5 min]
+Example Apple and Mercedez  [5 min]
 
-1) Search: Balance sheet: accounts receivable, net
-2) Search: Note 3 - Financial Instruments
+1) Search: Balance sheet: "accounts receivable, net" or "trade receivables"
+2) Apple: Note 4 - Financial Instruments -> "Accounts Receivable"
+3) Mercedez: Note 19 - Trade Receivables; Note 33 --> "Receivables from financial services"
 
-- How much are the receivables?
+- How much are the net receivables?
 - What type of receivables are reported?
-- How much is the allowance for doubtful accounts?
+- How much is the "allowance for doubtful accounts"/"loss allowances" or bad debt expense?
   
 ## 3. Inventory methods and inflation
 
 <!--
 !--
 the focus here
-1) accounting inventory methods have a clear impact on profitabity
-2)  People tend to think that operating expenses increased when production increases. However, this is not the case. The costs are hidden in the inventory.
+1) Accounting inventory methods have a clear impact on profitabity
+2) People tend to think that operating expenses increased when production increases. However, this is not the case. The costs are hidden in the inventory.
 -->
 
 
@@ -243,7 +243,7 @@ Case 2: Last-in, first-out (LIFO).
 
 In the balance sheet at the end of the period, the inventory is reported at $38.000 ($56.000-$18.000).
 
-Important: LIFO is not allowed in IFRS! Why? Mainly because it delays or reduces the payment of taxes. 
+Important: LIFO is not allowed in IFRS!
 
 ---
 
@@ -307,7 +307,7 @@ Write-ups are not allowed under US GAAP and IFRS.
 
 ---
 
-The main components of the cost of inventories are:
+The main components of the cost of inventories ("production costs") are:
 
 - Direct materials: materials that are an integral part of the finished product and whose costs can be traced to the finished product.
 - Direct Labor: labor costs that can be traced to the finished product.
@@ -320,7 +320,7 @@ The distribution of these costs brings some information about what management is
 
 As the production level increases, more overhead cost is allocated to all units produced.  
 
-Instead of expensing these costs as period expenses, they are included in the cost of inventories and remain on the balance sheet until the inventory is sold:exclamation:
+Instead of expensing these costs as period expenses, they are included in the cost of inventories and remain on the balance sheet until the inventory is sold.
 
 **Takeaway: Profitability is overstated when production increases because part of the cost of inventories is not expensed in the period in which it is incurred.**
 
@@ -333,10 +333,11 @@ develop this takeaway intuitively:
 
 ---
 
-Example Apple  [5 min]
+Example Apple and Mercedes  [5 min]
 
  1) check the balance sheet: inventory
- 2) Search "Note 1: Summary of Significant Accounting Policies" and go to inventory
+ 2) Apple: "Note 1: Summary of Significant Accounting Policies" and go to inventory
+ 3) Mercedes: "Note 1"--> inventories; "Note 18. Inventories"
 
 - How much is the inventory? What method is used?
 
@@ -357,18 +358,10 @@ focus:
 
 Capitalization: the cost of an asset is recorded as an asset rather than an expense.
 
-- Hard assets, such as PPE: assets recorded at cost (purchase price + all costs necessary to get the asset ready for use)
-- Soft assets, such as R&D, advertising, and wages. Here, the capitalization is more complicated.
-    -  They are investments that will likely generate future benefits, but
-    -  No clear useful life, nor clear future benefits
-    -  Therefore, these costs are immediately expensed and are not recorded as an asset in the Balance Sheet
+- Hard assets, such as PPE: assets recorded at cost (purchase price + all costs necessary to get the asset ready for use) and allocated ("expensed") over their useful life.
 
----
-
-Allocation: is the assignment of the cost of an asset as an expense over its useful life
-
+Cost allocation: is the assignment of the cost of an asset as an expense over its useful life.
 - Depreciation: tangible asset
-- Amortization: intangible asset
 
 Allocation is not a valuation process. It is a way to match the cost of an asset with the revenues it generates!!
 
@@ -420,7 +413,7 @@ How does the solution change if the company uses the units of production method?
 
 ### Impact on the financial statements
 
-In sum, investing in fixed tangible assets will have three impacts on the financial statements:
+Investing in fixed tangible assets has three impacts on the financial statements:
 
 1) Balance sheet: + long-term assets and funding (+ debt or - cash).
 2) Income statement: + depreciation expense.
@@ -430,21 +423,24 @@ In sum, investing in fixed tangible assets will have three impacts on the financ
 
 ---
 
-Example Apple  [5 min]
+Example Apple and Mercedez  [5 min]
 
  1) Check the balance sheet: Property, plant and equipment, Net
- 2) Search "Note 1: Summary of Significant Accounting Policies" and go to "Property, Plant and Equipment"
- 3) Search "Note 4 – Consolidated Financial Statement Details" and go to "Property, Plant and Equipment, Net"
+ 2) Apple: "Note 1: Summary of Significant Accounting Policies" and go to "Property, Plant and Equipment";"Note 5 – Property, Plant and Equipment".
+ 3) Mercedes: "Note 1"--> "Property, Plant and Equipment"; "Note 11. Property, Plant and Equipment"
 
 - How much PPE? How it is distributed among assets?
 - What method is used to depreciate PPE? Expected useful life?
 - How much have already being depreciated? Average residual life?
+- is there any sign of urgent renovation of PPE?
+
+$$\text{Average residual life}=\frac{\text{Net PPE}}{\text{Depreciation expense}}$$
 
 ----
 
 ### 4.2 Impairments
 
-Impairment: is the write-down of an asset to its fair value when its carrying value exceeds its fair value. [IFRS IAS 36](https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/).
+Impairment: is the write-down of an asset to its fair value when its carrying value ("Net PPE") exceeds its fair value. [IFRS IAS 36](https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/).
 
 - Recoverable amount. The higher of:
   - Fair value less cost to sell
@@ -509,12 +505,12 @@ Definition: Intangible assets are long-term assets that have no physical substan
 
 ---
 
-Accounting of  intangible assets:
+Accounting of intangible assets:
 
-- Purchased intangible assets are recorded at historical cost
+- Purchased intangible assets are recorded at historical cost.
 - Internally generated intangible assets are expensed as incurred
-  - R&D cost (at least in the US and R in most of Europe)
-  - Why? Accounting conservatism: too much uncertainty about the future benefits of these assets
+  - R&D cost (at least in the US and just "R" in most of Europe)
+  - Why? Accounting conservatism: too much uncertainty about the future benefits of these assets.
 - Exceptions: Software development costs are capitalized, also some identifiable intangible assets such as patents, trademarks, etc.
   - The capitalized costs of these cases may include legal fees, design and testing costs, registration fees, and other direct expenditures
 
@@ -572,24 +568,34 @@ Example Colgate 2022 (Note 5)
 
   - **Step 1**: Identify the acquiring company.
   - **Step 2**: Measure the **consideration transferred** (the total purchase price, including cash, shares, or other forms of payment).
-  - **Step 3**: Identify and measure **acquired assets** and **liabilities** at their fair value.
+  - **Step 3**: Identify and measure **acquired assets and liabilities** at their fair value.
   - **Step 4**: Recognize any **goodwill** or gain from a bargain purchase (price - net asset acquired).
 
 - **Consideration**: Could be cash, equity shares, or a combination of both. This must be measured at fair value on the acquisition date.
 
--  costs related to the acquisition, such as legal fees, are expensed as incurred, and not included in the purchase price. 
+-  The costs related to the acquisition, such as legal fees, are expensed as incurred, and not included in the purchase price. 
 
 ---
 
-IFRS 10: Consolidated Financial Statements
+**Consolidation requirement**: after acquiring another company, the acquiring company must consolidate the financial statements of the acquired company to present a unified view of the group.
 
-- After an acquisition, the acquiring company must **consolidate** the financial statements of the acquired company.
-  - **Control** is established when the acquiring company has power over the acquired entity and the ability to influence its returns.
-  - Consolidation involves **combining** the assets, liabilities, revenue, and expenses of the acquired company into the financial statements of the acquirer.
-  - Adjustments are made for **non-controlling interests** if the acquirer doesn't own 100% of the acquired company.
+- Establishing Control: Consolidation is required when the acquiring company has control over the acquired entity. Control is defined as:
+  -  Having power over the acquired company.
+  -  Having exposure to variable returns from the acquired company.
+  -  Having the ability to use its power to affect those returns.
 
-Example:
-- If Company X acquires 80% of Company Y, it consolidates 100% of Y's assets and liabilities but adjusts for the 20% **non-controlling interest**.
+- Consolidation Process: Involves combining 100% of the acquired company's assets, liabilities, revenue, and expenses with those of the acquirer, regardless of ownership percentage.
+
+- Non-Controlling Interests (NCI): If the acquirer owns less than 100% of the acquired company, IFRS requires an adjustment for the NCI. This portion represents the equity interest that is not attributable to the parent company.
+
+---
+
+**Example**
+
+If Company "Parent Ltd" acquires 80% of "Child Ltd", it will:
+
+  - Consolidate 100% of Company "Child Ltd" assets and liabilities on the balance sheet, and 100% of its revenue and expenses on the income statement.
+  - Report the remaining 20% as non-controlling interest in the equity section, representing the portion of equity owned by other shareholders if "Child Ltd".
 
 ---
 
@@ -605,7 +611,7 @@ Example:
 **Example**
 
 - Purchase price: $1,000,000
-- Identifiable net assets of Company Y:
+- Identifiable net assets of Company "Child Ltd":
   - Cash: $50,000
   - Property: $500,000
   - Equipment: $200,000
@@ -615,16 +621,16 @@ Example:
 
 ---
 
-**How Does This Appear in the Financial Statements?**
+**How does "Child Ltd" acquisition appear in the Financial Statements of "Parent Ltd"?**
 
-a) Company X's Balance Sheet:
-  - The **assets** of Company Y (cash, property, etc.) on its consolidated balance sheet.
+a) Balance Sheet:
+  - The assets and liabilities of Child Ltd (cash, property, loans)  on its consolidated balance sheet.
     - The **goodwill** of $350,000 as an asset.
-  - The **liabilities** of Company Y.
-b) Company X's Income Statement:
+    - Adjustments for "related-parties transactions".
+b) Income Statement:
   - Acquisition-related expenses (e.g., legal fees) are reported.
   - Goodwill impairment tests may reduce profits.
-c) Company X's Cash Flow Statement:
+c) Cash Flow Statement:
   - cash used in acquisition costs is reported as investing cash outflows.
 
 ---
