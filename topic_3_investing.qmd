@@ -195,17 +195,19 @@ the focus here
 
 Basic definition:
 
-- Inventory: goods held for sale in the ordinary course of business or goods that will be used in the production of goods to be sold.
-  
-The valuation of inventories has two impacts on financial statements:  
+Inventory: goods held for sale in the ordinary course of business or goods that will be used in the production of goods to be sold.
 
-1. Current assets: inventory (historical acquisition cost).
+Let focus on Merchandising companies (retailers) now (later we will see Manufacturing companies).  
+
+Inventory decisions have two impacts on financial statements:  
+
+1. At origination: Current assets (historical acquisition cost) and cash/payables.
 2. Then, as the inventory is sold, these costs are removed from the balance sheet and flow to the income statement as _Cost Of Good Sold_ (COGS).
 
 ---
 
 ### 3.1 Inventory methods
-Assume that the following table reflects the inventory records of a company:
+Assume that the following table reflects the inventory records of a merchandise company:
  
 |Date|Units|Unit Cost|Total Cost|
 |---|---|---|---|
@@ -440,7 +442,7 @@ $$\text{Average residual life}=\frac{\text{Net PPE}}{\text{Depreciation expense}
 
 ### 4.2 Impairments
 
-Impairment: is the write-down of an asset to its fair value when its carrying value ("Net PPE") exceeds its fair value. [IFRS IAS 36](https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/).
+Impairment: is the write-down of an long-term asset to its fair value when its carrying value ("Net PPE") exceeds its recoverable amount. [IFRS IAS 36](https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/).
 
 - Recoverable amount. The higher of:
   - Fair value less cost to sell
@@ -623,14 +625,16 @@ If Company "Parent Ltd" acquires 80% of "Child Ltd", it will:
 
 **How does "Child Ltd" acquisition appear in the Financial Statements of "Parent Ltd"?**
 
-a) Balance Sheet:
+- Balance Sheet:
   - The assets and liabilities of Child Ltd (cash, property, loans)  on its consolidated balance sheet.
     - The **goodwill** of $350,000 as an asset.
     - Adjustments for "related-parties transactions".
-b) Income Statement:
+
+- Income Statement:
   - Acquisition-related expenses (e.g., legal fees) are reported.
   - Goodwill impairment tests may reduce profits.
-c) Cash Flow Statement:
+
+- Cash Flow Statement:
   - cash used in acquisition costs is reported as investing cash outflows.
 
 ---
