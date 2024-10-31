@@ -179,9 +179,10 @@ Example Apple and Mercedes  [5 min]
 2) Apple: Note 4 - Financial Instruments -> "Accounts Receivable"
 3) Mercedes: Note 19 - Trade Receivables; Note 33 --> "Receivables from financial services"
 
-- How much are the net receivables?
 - What type of receivables are reported?
-- How much is the "allowance for doubtful accounts"/"loss allowances" or bad debt expense?
+- How much are the net receivables? and relative to sales? 
+- How is the distribution of net receivables among gross and allowance for doubtful accounts?
+- Signs of increasing collection risk?
   
 ## 3. Inventory methods and inflation
 
@@ -341,7 +342,9 @@ Example Apple and Mercedes  [5 min]
  2) Apple: "Note 1: Summary of Significant Accounting Policies" and go to inventory
  3) Mercedes: "Note 1"--> inventories; "Note 18. Inventories"
 
-- How much is the inventory? What method is used?
+- How much is the inventory? 
+- What inventory method is used?
+- is the inventory composition suggestive of future changes in the demand?
 
 
 ## 4. Long-term assets and capitalization
@@ -356,16 +359,16 @@ focus:
 
 ---
 
-### 4.1 Capitalization and Allocation 
+### 4.1 Capitalization and Cost allocation 
 
 Capitalization: the cost of an asset is recorded as an asset rather than an expense.
 
 - Hard assets, such as PPE: assets recorded at cost (purchase price + all costs necessary to get the asset ready for use) and allocated ("expensed") over their useful life.
 
-Cost allocation: is the assignment of the cost of an asset as an expense over its useful life.
-- Depreciation: tangible asset
+Cost allocation=Depreciation: is the assignment of the cost of an asset as an expense over its useful life.
 
-Allocation is not a valuation process. It is a way to match the cost of an asset with the revenues it generates!!
+
+Depreciation is not a valuation process. It is a way to match the cost of an asset with the revenues it generates!!
 
 ---
 
@@ -442,7 +445,7 @@ $$\text{Average residual life}=\frac{\text{Net PPE}}{\text{Depreciation expense}
 
 ### 4.2 Impairments
 
-Impairment: is the write-down of an long-term asset to its fair value when its carrying value ("Net PPE") exceeds its recoverable amount. [IFRS IAS 36](https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/).
+Impairment: is the write-down of an long-term asset when its carrying value ("Net PPE") exceeds its recoverable amount. [IFRS IAS 36](https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/).
 
 - Recoverable amount. The higher of:
   - Fair value less cost to sell
