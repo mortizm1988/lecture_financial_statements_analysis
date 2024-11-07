@@ -354,8 +354,10 @@ Example Apple and Mercedes  [5 min]
 <!--
 focus:
 - what is the impact of investing in long-term assets?
-- what happen when the assets valuation changes?
+- expanding or renovating PPE is a sign of future growth?
+- what are the incentives behind write-downs?
 --->
+
 
 ---
 
@@ -363,10 +365,9 @@ focus:
 
 Capitalization: the cost of an asset is recorded as an asset rather than an expense.
 
-- Hard assets, such as PPE: assets recorded at cost (purchase price + all costs necessary to get the asset ready for use) and allocated ("expensed") over their useful life.
+- Hard assets, such as PPE: assets recorded at acquisition cost (purchase price + all costs necessary to get the asset ready for use) and allocated ("expensed") over their useful life.
 
-Cost allocation=Depreciation: is the assignment of the cost of an asset as an expense over its useful life.
-
+Cost allocation = Depreciation: assigning the cost of an asset as an expense over its useful life.
 
 Depreciation is not a valuation process. It is a way to match the cost of an asset with the revenues it generates!!
 
@@ -374,10 +375,13 @@ Depreciation is not a valuation process. It is a way to match the cost of an ass
 
 ### Depreciation methods
 
--  Useful life: physical deterioration, technological obsolescence, legal life
--  Salvage value: expected value of the asset at the end of its useful life
--  Allocation method: straight-line, accelerated, or units of production
--  Managers decide which method to use at the time of acquisition
+Allocation method: straight-line, accelerated, or units of production:
+
+  - Acquisition cost: purchase price + transportaton + installation + adaptation + testing
+  - Useful life: physical deterioration, technological obsolescence, legal life
+  - Salvage value: expected value of the asset at the end of its useful life
+
+At the time of acquisition managers decide which method to use and the respective parameters
   
 ---
 
@@ -385,7 +389,7 @@ Example
 
 The purchase of a new machine has the following characteristics:
 
-- Purchase price: $800,000
+- Acquisition costs: $800,000
 - Estimated residual value: $50,000
 - Expected useful life: 5 years
 - total production capacity: 100,000 units (15,000 units in year 1 and 23,000 units in year 2)
@@ -418,7 +422,6 @@ How does the solution change if the company uses the units of production method?
 
 ### Impact on the financial statements
 
-Investing in fixed tangible assets has three impacts on the financial statements:
 
 1) Balance sheet: + long-term assets and funding (+ debt or - cash).
 2) Income statement: + depreciation expense.
@@ -426,6 +429,12 @@ Investing in fixed tangible assets has three impacts on the financial statements
    - Lumpy investments are smoothed out over time to match the cost of the asset with the revenues it generates.
 3) Operating Cash flows: When asset costs are capitalized, they are reported as _investing_ cash outflows. (In contrast, if they were expensed, they are reported as _operating_ cash outflows).
 
+::: callout-note
+The impacts are not the same if the company is expanding or renovating its PPE.
+
+  - liquidity and performance metrics.
+  - how can we infer if the company needs to renovate its PPE?
+:::
 ---
 
 Example Apple and Mercedez  [5 min]
@@ -434,7 +443,7 @@ Example Apple and Mercedez  [5 min]
  2) Apple: "Note 1: Summary of Significant Accounting Policies" and go to "Property, Plant and Equipment";"Note 5 – Property, Plant and Equipment".
  3) Mercedes: "Note 1"--> "Property, Plant and Equipment"; "Note 11. Property, Plant and Equipment"
 
-- How much PPE? How it is distributed among assets?
+- How much is in PPE? How it is distributed among assets?
 - What method is used to depreciate PPE? Expected useful life?
 - How much have already being depreciated? Average residual life?
 - is there any sign of urgent renovation of PPE?
@@ -455,7 +464,7 @@ Impairment: is the write-down of an long-term asset when its carrying value ("Ne
 ---
 
 Example (Under IFRS)
-Barceloneta Inc. reports under IFRS, and its manager has collected the following information about a set of assets tested for impairment:
+The manager of Barceloneta Inc has collected the following information about a set of assets tested for impairment:
 
 - Carrying value: 35 million euros
 - Fair value: 28 million euros
@@ -481,6 +490,13 @@ Impacts on financial statements:
 2) 2 million euros is recognized as a loss in the income statement.
     - "Other Income Expenses" in "Operating profit."
 
+::: callout-note
+Discuss the incentives behind write-downs decisions:
+- who knows the FV and Value-in-use?
+- timing and ammounts
+
+:::
+
 ---
 
 Example (Under US GAAP)
@@ -499,7 +515,7 @@ Therefore, no impairment loss is recognized under US GAAP
 
 ## 5. Intangible assets 
 
-Definition: Intangible assets are long-term assets that have no physical substance but are valued based on the rights or privileges granted to the company using them. This value, however, is not easy to determine: too much uncertainty
+Definition: Intangible assets are long-term assets that have no physical substance but are valued based on the rights or privileges granted to the company using them. This value, however, is not easy to determine: too much uncertainty.
 
 - Patents
 - Copyright
@@ -513,11 +529,11 @@ Definition: Intangible assets are long-term assets that have no physical substan
 Accounting of intangible assets:
 
 - Purchased intangible assets are recorded at historical cost.
-- Internally generated intangible assets are expensed as incurred
+- Internally generated intangible assets are expensed as incurred.
   - R&D cost (at least in the US and just "R" in most of Europe)
   - Why? Accounting conservatism: too much uncertainty about the future benefits of these assets.
 - Exceptions: Software development costs are capitalized, also some identifiable intangible assets such as patents, trademarks, etc.
-  - The capitalized costs of these cases may include legal fees, design and testing costs, registration fees, and other direct expenditures
+  - The capitalized costs of these cases may include legal fees, design and testing costs, registration fees, and other direct expenditures.
 
 
 ---
@@ -525,27 +541,27 @@ Accounting of intangible assets:
 Carrying value of intangible assets:
 
 a) Finite useful life: amortization
-
-    - Amortization: the allocation of the cost of an intangible asset over its useful life
+    - Examples: Patents (with a legal protection period), copyrights, and software licenses.
+    - Amortization: the allocation of the cost of an intangible asset over its useful life.
 
 b) Indefinite useful life: no amortization 
-    
-    - Impairment test at least annually
-    - min{Carrying value, PV of expected future cash flows}
+    - Examples: Trademarks, brands, goodwill.    
+    - Impairment test at least annually.
+    - min{Carrying value, PV of expected future cash flows / FV}
 
 ---
 
 **Example**
 
-This year our company registered a Trademark with a cost $1,000,000 and it has an indefinite useful life. 
+A company reported at the begining of the year a Trademark with a carrying value of $1,000,000 and it has an indefinite useful life. 
 
 What is the carrying value of the Trademark in the balance sheet at the end of the year?
 
 
 Scenario|Carrying Value|Fair value|Impairment Loss|
 |---|---|---|---|
-|A|100,000,000|1,200,000|-|
-|B|100,000,000|800,000|200,000|
+|A|1,000,000|1,200,000|-|
+|B|1,000,000|800,000|200,000|
 
 Therefore, in scenario B the carrying value of the Trademark is 800,000.
 
