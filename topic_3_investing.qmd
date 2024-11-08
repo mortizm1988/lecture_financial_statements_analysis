@@ -600,13 +600,13 @@ Therefore, in scenario B the carrying value of the Trademark is 800,000.
 **Example**
 
 -   Purchase price paid by "Parent Ltd" : \$1,000,000
--   Identifiable net assets of Company "Child Ltd":
+-   Fair value of Identifiable net assets of Company "Child Ltd":
     -   Cash: \$50,000
     -   Property: \$500,000
     -   Equipment: \$200,000
     -   Liabilities: (\$100,000)
     -   **Net assets**: \$650,000
--   Goodwill calculation: Purchase price - net assets = \$1,000,000 - \$650,000 = \$350,000 of goodwill.
+-   Goodwill calculation: Purchase price - FV of net assets = \$1,000,000 - \$650,000 = \$350,000 of goodwill.
 
 ------------------------------------------------------------------------
 
@@ -647,6 +647,20 @@ If Company "Parent Ltd" acquires 80% of "Child Ltd", it will:
 -   Consolidate 100% of Company "Child Ltd" assets and liabilities on the balance sheet, and 100% of its revenue and expenses on the income statement.
     -   intra-group transactions/obligations must been excluded before consolidation.
 -   Report the remaining 20% as non-controlling interest in the equity section, representing the portion of equity owned by other shareholders if "Child Ltd".
+
+------------------------------------------------------------------------
+
+Example Intangibles and acquisitions
+
+-   Mercedez: Note 10
+
+Questions:
+
+-   What intangible assets the company hold?
+
+-   Any sharp change in their carrying amounts? further explanations from the managers?
+
+-   where the amortization expenses are reported
 
 ------------------------------------------------------------------------
 
