@@ -13,22 +13,22 @@ date: "September 2024"
 
 Topics
 
-1. Cash and cash equivalents
-2. Receivables and collection risk
-3. Inventory methods and inflation
-4. Long-term assets and capitalization
-5. Intangible assets and goodwill
-6. Corporate acquisition
-7. Asset revaluations under IFRS
+1.  Cash and cash equivalents
+2.  Receivables and collection risk
+3.  Inventory methods and inflation
+4.  Long-term assets and capitalization
+5.  Intangible assets and goodwill
+6.  Corporate acquisition
+7.  Asset revaluations under IFRS
 
 ## 1. Cash and cash equivalents
 
 Basic definitions:
 
-- Cash: currency available and money in the bank.
-- Cash equivalents: short-term, highly liquid investments that are readily convertible to known amounts of cash and subject to an insignificant risk of changes in value.
+-   Cash: currency available and money in the bank.
+-   Cash equivalents: short-term, highly liquid investments that are readily convertible to known amounts of cash and subject to an insignificant risk of changes in value.
 
----
+------------------------------------------------------------------------
 
 ### 1.1 Analyzing Cash and Cash Equivalents
 
@@ -36,38 +36,39 @@ The focus is determining whether the company has enough cash to meet its obligat
 
 An efficient cash management balances multiple uses of cash:
 
-  - Meet current obligations
-  - Take advantage of investment opportunities
-  - Pay dividends
-  - Hedge adverse shocks (risk management)
+-   Meet current obligations
+-   Take advantage of investment opportunities
+-   Pay dividends
+-   Hedge adverse shocks (risk management)
 
----
+------------------------------------------------------------------------
 
 How to identify lazy cash management?
 
-- High cash balances relative to peers
-- More cash equivalents than cash without further explanation
-- Cash does not fluctuate symmetrically (it is never spent)
+-   High cash balances relative to peers
+-   More cash equivalents than cash without further explanation
+-   Cash does not fluctuate symmetrically (it is never spent)
 
----
+------------------------------------------------------------------------
 
 ### 1.2 Restricted cash
 
 Caution: companies might have more cash than the amount reported in the balance sheet: **Restricted cash** (cash that is not available for general use).
 
-- Covenant restrictions: Sometimes cash is restricted because it is used as collateral for debt (e.g., Ebay needed to hold $126 million in cash as collateral for debt, out of $400 million in cash).
-  
----
+-   Covenant restrictions: Sometimes cash is restricted because it is used as collateral for debt (e.g., Ebay needed to hold \$126 million in cash as collateral for debt, out of \$400 million in cash).
 
-Example Apple and Mercedes  [10 min]
+------------------------------------------------------------------------
 
-1) Search: Balance sheet: cash and cash equivalents
-2) Apple: Note 4 - Financial Instruments -> "Cash, Cash Equivalents,..."
-3) Mercedes: Note 32 (look for cash & cash equivalents)
+Example Apple and Mercedes \[10 min\]
 
-- How is cash an cash equivalents distributed/invested=
-- How much cash is restricted? What is the reason/nature of restrictions?
+1)  Search: Balance sheet: cash and cash equivalents
+2)  Apple: Note 4 - Financial Instruments -\> "Cash, Cash Equivalents,..."
+3)  Mercedes: Note 32 (look for cash & cash equivalents)
 
+-   How is cash an cash equivalents distributed/invested=
+-   How much cash is restricted? What is the reason/nature of restrictions?
+
+```{=html}
 <!--
 ![](Slides/../topic_3_img/apple_cash.png)
 
@@ -81,86 +82,89 @@ Discuss also the distribution of 52K in current marketable securities.
 
 just a really small amount of cash is restricted
 -->
-
-
+```
 
 ## 2. Receivables and collection risk
 
+```{=html}
 <!--
 focus here:
 - the risk on growing sales based on a rise of credit sales
 - 2009 housing bubble and the risk of credit sales
 - very difficult to assess the risk of credit sales
 --->
+```
 
 Basic definitions:
 
-- Accounts receivable: amounts owed by customers for goods or services sold on credit
+-   Accounts receivable: amounts owed by customers for goods or services sold on credit
 
-- Note receivable: a formal written promise to receive a specific amount of money at a future date
+-   Note receivable: a formal written promise to receive a specific amount of money at a future date
 
-- Others: interest receivable, taxes receivable, receivables from affiliated companies
+-   Others: interest receivable, taxes receivable, receivables from affiliated companies
 
----
+------------------------------------------------------------------------
 
 ### 2.1 Valuation of receivables
 
-The valuation of receivables has two impacts on financial statements:  
+The valuation of receivables has two impacts on financial statements:
 
-1) Current assets: net receivables 
-2) Operating expenses: bad debt expense
+1)  Current assets: net receivables
+2)  Operating expenses: bad debt expense
 
 Companies do not collect 100% of their receivables.
 
-- Thus, Receivables are recorded at their _Net Realizable Value_ (NRV), which is the amount of cash the firm expects to collect
-  - NRV: total receivables - allowance for uncollectable accounts
-    - Uncollectable accounts are estimated and reported as a deduction of receivables
-    - The expected loss is reported as _Bad Debt Expense_ (operating expense)
-  
---- 
+-   Thus, Receivables are recorded at their *Net Realizable Value* (NRV), which is the amount of cash the firm expects to collect
+    -   NRV: total receivables - allowance for uncollectable accounts
+        -   Uncollectable accounts are estimated and reported as a deduction of receivables
+        -   The expected loss is reported as *Bad Debt Expense* (operating expense)
+
+------------------------------------------------------------------------
 
 ::: callout-note
 Exercise in MS Excel.
 :::
 
-Nov 1: "Silvana eTravel" provides services worth $1,000 on credit to customers.
+Nov 1: "Silvana eTravel" provides services worth \$1,000 on credit to customers.
 
-The company expects to collect the money in 90 days but estimates that 5% of the credit sales will be uncollectible. 
+The company expects to collect the money in 90 days but estimates that 5% of the credit sales will be uncollectible.
 
-1) What is the impact on the financial statements of the sale and collection risk for this year?
+1)  What is the impact on the financial statements of the sale and collection risk for this year?
 
-2) Scenarios: 
-    a) Customers end up not paying back 20% of the credit sales. 
-    b) Customers end up paying 100% of the credit sales. 
+2)  Scenarios:
+
+    a)  Customers end up not paying back 20% of the credit sales.
+    b)  Customers end up paying 100% of the credit sales.
 
 Notice the capacity of receivables to distort the earnings across periods. Too optimistic vs pessimistic estimates.
 
+```{=html}
 <!--
 this scenario could happen at least in two ways:
 1) manager overestimated the fraction of credit sales that will be paid back
 2) the economy is in a recession and customers are not able to pay back
 -->
+```
 
-
-
----
+------------------------------------------------------------------------
 
 ### 2.2 Analyzing receivables
 
-- Is there any error or arbitrariness in estimating the allowance for uncollectable accounts?
-- Managers' incentives to overstate or understate the allowance for uncollectable accounts
-- Bad news: information to assess collection risk for receivables is not included in the financial statements. Thus, we need to look for other sources of information:
-  - Peer's receivables as a percentage of sales
-  - Customer concentration risk
-  - Average collection period
+-   Is there any error or arbitrariness in estimating the allowance for uncollectable accounts?
+-   Managers' incentives to overstate or understate the allowance for uncollectable accounts
+-   Bad news: information to assess collection risk for receivables is not included in the financial statements. Thus, we need to look for other sources of information:
+    -   Peer's receivables as a percentage of sales
+    -   Customer concentration risk
+    -   Average collection period
 
----
+------------------------------------------------------------------------
 
 ### 2.3 Securitization or Factoring of receivables
 
-- Receivables can be sold to a third party (bank, financial institution, etc.) in exchange for cash
-- The third party usually pays less than the face value of the receivables and finances the purchase by issuing debt to the capital markets.
+-   Receivables can be sold to a third party (bank, financial institution, etc.) in exchange for cash
+-   The third party usually pays less than the face value of the receivables and finances the purchase by issuing debt to the capital markets.
 
+```{=html}
 <!--
 ---
 ### Consolidation rules
@@ -177,102 +181,107 @@ Example Apple and Mercedes  [5 min]
 
 1) Search: Balance sheet: "accounts receivable, net" or "trade receivables"
 2) Apple: Note 4 - Financial Instruments -> "Accounts Receivable"
-3) Mercedes: Note 19 - Trade Receivables; Note 33 --> "Receivables from financial services"
+3) Mercedes: Note 19 - Trade Receivables; Note 33 -->
+```
 
-- What type of receivables are reported?
-- How much are the net receivables? and relative to sales? 
-- How is the distribution of net receivables among gross and allowance for doubtful accounts?
-- Signs of increasing collection risk?
-  
+"Receivables from financial services"
+
+-   What type of receivables are reported?
+-   How much are the net receivables? and relative to sales?
+-   How is the distribution of net receivables among gross and allowance for doubtful accounts?
+-   Signs of increasing collection risk?
+
 ## 3. Inventory methods and inflation
 
+```{=html}
 <!--
 !--
 the focus here
 1) Accounting inventory methods have a clear impact on profitabity
 2) People tend to think that operating expenses increased when production increases. However, this is not the case. The costs are hidden in the inventory.
 -->
-
+```
 
 Basic definition:
 
 Inventory: goods held for sale in the ordinary course of business or goods that will be used in the production of goods to be sold.
 
-Let focus on Merchandising companies (retailers) now (later we will see Manufacturing companies).  
+Let focus on Merchandising companies (retailers) now (later we will see Manufacturing companies).
 
-Inventory decisions have two impacts on financial statements:  
+Inventory decisions have two impacts on financial statements:
 
-1. At origination: Current assets (historical acquisition cost) and cash/payables.
-2. Then, as the inventory is sold, these costs are removed from the balance sheet and flow to the income statement as _Cost Of Good Sold_ (COGS).
+1.  At origination: Current assets (historical acquisition cost) and cash/payables.
+2.  Then, as the inventory is sold, these costs are removed from the balance sheet and flow to the income statement as *Cost Of Good Sold* (COGS).
 
----
+------------------------------------------------------------------------
 
 ### 3.1 Inventory methods
+
 Assume that the following table reflects the inventory records of a merchandise company:
- 
-|Date|Units|Unit Cost|Total Cost|
-|---|---|---|---|
-|Jan 1|40|$500|$20,000|
-|Purchase during year|60|$600|$36,000|
-|Total inventory|100||$56,000|
 
-Now assume that 30 units are sold at $800 each. What is the gross profit under each method?
+| Date                 | Units | Unit Cost | Total Cost |
+|----------------------|-------|-----------|------------|
+| Jan 1                | 40    | \$500     | \$20,000   |
+| Purchase during year | 60    | \$600     | \$36,000   |
+| Total inventory      | 100   |           | \$56,000   |
 
----
+Now assume that 30 units are sold at \$800 each. What is the gross profit under each method?
+
+------------------------------------------------------------------------
 
 Case 1: First-in, first-out (FIFO).
 
-- The first units purchased are the first units sold.
+-   The first units purchased are the first units sold.
 
-|Method| FIFO|
-|---|---|
-|Sales| $24.000|
-|COGS (30 @ 500)| $15.000|
-|Gross Profit| $9.000|
+| Method           | FIFO     |
+|------------------|----------|
+| Sales            | \$24.000 |
+| COGS (30 \@ 500) | \$15.000 |
+| Gross Profit     | \$9.000  |
 
-In the balance sheet at the end of the period, the inventory is reported at $41.000 ($56.000-$15.000).
+In the balance sheet at the end of the period, the inventory is reported at \$41.000 (\$56.000-\$15.000).
 
---- 
+------------------------------------------------------------------------
 
 Case 2: Last-in, first-out (LIFO).
 
-- The last units purchased are the first units sold.
-  
-|Method| LIFO|
-|---|---|
-|Sales| $24.000|
-|COGS (30 @ 600)| $18.000|
-|Gross Profit| $6.000|
+-   The last units purchased are the first units sold.
 
-In the balance sheet at the end of the period, the inventory is reported at $38.000 ($56.000-$18.000).
+| Method           | LIFO     |
+|------------------|----------|
+| Sales            | \$24.000 |
+| COGS (30 \@ 600) | \$18.000 |
+| Gross Profit     | \$6.000  |
+
+In the balance sheet at the end of the period, the inventory is reported at \$38.000 (\$56.000-\$18.000).
 
 Important: LIFO is not allowed in IFRS!
 
----
+------------------------------------------------------------------------
 
 Case 3: Average cost
 
-- The weighted average cost of all units is used to determine COGS.
+-   The weighted average cost of all units is used to determine COGS.
 
-|Method| Average|
-|---|---|
-|Sales| $24.000|
-|COGS (30 @ 560)| $16.800|
-|Gross Profit| $7.200|
+| Method           | Average  |
+|------------------|----------|
+| Sales            | \$24.000 |
+| COGS (30 \@ 560) | \$16.800 |
+| Gross Profit     | \$7.200  |
 
-In the balance sheet at the end of the period, the inventory is reported at $39.200 (70 units @ $560)
+In the balance sheet at the end of the period, the inventory is reported at \$39.200 (70 units \@ \$560)
 
----
+------------------------------------------------------------------------
 
 The impact of inflation on financial statements via inventory methods:
 
-- Profitability: FIFO results in higher gross profit than LIFO when input prices are rising.
-- Balance sheet: FIFO results in higher inventory than LIFO when input prices are rising
-- Cash flows: liquidity squeeze under FIFO when input prices are rising.
-  - More profit implies more (cash) tax payments.
-  - Inventory needs to be replaced at a replacement cost higher than the original costs. This can be a severe problem in high inflation environments such as Argentina in the 80s and 90s or the US in the 70s.
+-   Profitability: FIFO results in higher gross profit than LIFO when input prices are rising.
+-   Balance sheet: FIFO results in higher inventory than LIFO when input prices are rising
+-   Cash flows: liquidity squeeze under FIFO when input prices are rising.
+    -   More profit implies more (cash) tax payments.
+    -   Inventory needs to be replaced at a replacement cost higher than the original costs. This can be a severe problem in high inflation environments such as Argentina in the 80s and 90s or the US in the 70s.
 
----
+------------------------------------------------------------------------
 
 ### 3.2 Lower of cost or market (LCM)
 
@@ -280,434 +289,417 @@ So far we have focused only on historical cost.
 
 However, the generally accepted principle of inventory valuation requires that inventory be reported at the lower value between the cost and the market value.
 
-The LCM rule is applied when the market value of inventory is lower than its cost. 
+The LCM rule is applied when the market value of inventory is lower than its cost.
 
 Reasons:
 
-- obsolete inventory
-- damaged inventory
-- price changes
+-   obsolete inventory
+-   damaged inventory
+-   price changes
 
----
+------------------------------------------------------------------------
 
 Procedure:
 
-1. Determine the market value of the inventory.
-2. Compare the market value with the cost in the Balance Sheet.
-3. Write down the inventory to the lower of cost or market value.
-4. This write-down is charged against revenues in the period the loss occurs.
+1.  Determine the market value of the inventory.
+2.  Compare the market value with the cost in the Balance Sheet.
+3.  Write down the inventory to the lower of cost or market value.
+4.  This write-down is charged against revenues in the period the loss occurs.
 
 Write-ups are not allowed under US GAAP and IFRS.
 
----
+------------------------------------------------------------------------
 
 ### 3.3 Inventory costing for Manufacturing companies
 
-- Manufacturing companies have three types of inventories:
-  - Raw materials: materials that will be used in the production process.
-  - Work-in-process: goods that are in the process of being manufactured
-  - Finished goods: goods that are ready for sale.
+-   Manufacturing companies have three types of inventories:
+    -   Raw materials: materials that will be used in the production process.
+    -   Work-in-process: goods that are in the process of being manufactured
+    -   Finished goods: goods that are ready for sale.
 
----
+------------------------------------------------------------------------
 
 The main components of the cost of inventories ("production costs") are:
 
-- Direct materials: materials that are an integral part of the finished product and whose costs can be traced to the finished product.
-- Direct Labor: labor costs that can be traced to the finished product.
-- Overhead: indirect costs that cannot be traced to the finished product.
-  - depreciation of manufacturing equipment, supervisory wages, utilities, etc.
+-   Direct materials: materials that are an integral part of the finished product and whose costs can be traced to the finished product.
+-   Direct Labor: labor costs that can be traced to the finished product.
+-   Overhead: indirect costs that cannot be traced to the finished product.
+    -   depreciation of manufacturing equipment, supervisory wages, utilities, etc.
 
 The distribution of these costs brings some information about what management is forecasting about the future demand for the product.
 
----
+------------------------------------------------------------------------
 
-As the production level increases, more overhead cost is allocated to all units produced.  
+As the production level increases, more overhead cost is allocated to all units produced.
 
 Instead of expensing these costs as period expenses, they are included in the cost of inventories and remain on the balance sheet until the inventory is sold.
 
 **Takeaway: Profitability is overstated when production increases because part of the cost of inventories is not expensed in the period in which it is incurred.**
 
+```{=html}
 <!--
 develop this takeaway intuitively: 
 - what happen with the production costs when production increases?
 - where is the increased cost being hidden?
 - what happens with the income statement?
 -->
+```
 
----
+------------------------------------------------------------------------
 
-Example Apple and Mercedes  [5 min]
+Example Apple and Mercedes \[5 min\]
 
- 1) check the balance sheet: inventory
- 2) Apple: "Note 1: Summary of Significant Accounting Policies" and go to inventory
- 3) Mercedes: "Note 1"--> inventories; "Note 18. Inventories"
+1)  check the balance sheet: inventory
+2)  Apple: "Note 1: Summary of Significant Accounting Policies" and go to inventory
+3)  Mercedes: "Note 1"--\> inventories; "Note 18. Inventories"
 
-- How much is the inventory? 
-- What inventory method is used?
-- is the inventory composition suggestive of future changes in the demand?
-
+-   How much is the inventory?
+-   What inventory method is used?
+-   is the inventory composition suggestive of future changes in the demand?
 
 ## 4. Long-term assets and capitalization
 
 ![](Slides/../topic_3_img/apple_news.png)
 
+```{=html}
 <!--
 focus:
 - what is the impact of investing in long-term assets?
 - expanding or renovating PPE is a sign of future growth?
 - what are the incentives behind write-downs?
 --->
+```
 
+------------------------------------------------------------------------
 
----
-
-### 4.1 Capitalization and Cost allocation 
+### 4.1 Capitalization and Cost allocation
 
 Capitalization: the cost of an asset is recorded as an asset rather than an expense.
 
-- Hard assets, such as PPE: assets recorded at acquisition cost (purchase price + all costs necessary to get the asset ready for use) and allocated ("expensed") over their useful life.
+-   Hard assets, such as PPE: assets recorded at acquisition cost (purchase price + all costs necessary to get the asset ready for use) and allocated ("expensed") over their useful life.
 
 Cost allocation = Depreciation: assigning the cost of an asset as an expense over its useful life.
 
 Depreciation is not a valuation process. It is a way to match the cost of an asset with the revenues it generates!!
 
----
+------------------------------------------------------------------------
 
 ### Depreciation methods
 
-Allocation method: straight-line, accelerated, or units of production:
+Allocation methods: straight-line, accelerated, or units of production:
 
-  - Acquisition cost: purchase price + transportaton + installation + adaptation + testing
-  - Useful life: physical deterioration, technological obsolescence, legal life
-  - Salvage value: expected value of the asset at the end of its useful life
+-   Acquisition cost: purchase price + transportaton + installation + adaptation + testing
+-   Useful life: physical deterioration, technological obsolescence, legal life
+-   Salvage value: expected value of the asset at the end of its useful life
 
 At the time of acquisition managers decide which method to use and the respective parameters
-  
----
 
-Example  
+------------------------------------------------------------------------
+
+Example
 
 The purchase of a new machine has the following characteristics:
 
-- Acquisition costs: $800,000
-- Estimated residual value: $50,000
-- Expected useful life: 5 years
-- total production capacity: 100,000 units (15,000 units in year 1 and 23,000 units in year 2)
+-   Acquisition costs: \$800,000
+-   Estimated residual value: \$50,000
+-   Expected useful life: 5 years
+-   total production capacity: 100,000 units (15,000 units in year 1 and 23,000 units in year 2)
 
-What is the carrying amount of the machine after two years if the company uses the straight-line method?  
+What is the carrying amount of the machine after two years if the company uses the **straight-line method**?\
 How much depreciation expense is recorded in the income statement in year 2?
 
----
+------------------------------------------------------------------------
 
 Solution:
 
-- Annual depreciation= (800,000-50,000)/5= $150,000  
-- Carrying amount after two years= 800,000-2*150,000= $500,000
+-   Annual depreciation= (800,000-50,000)/5= \$150,000\
+-   Carrying amount after two years= 800,000-2\*150,000= \$500,000
 
-How does the solution change if the company uses the units of production method?
+How does the solution change if the company uses the **units of production** method?
 
-- Depreciation per unit: 7.5 euros per unit.
-- Depreciation in year 1: 7.5*15,000= $112,500
-- Depreciation in year 2: 7.5*23,000= $172,500
-- carrying amount after 2 years: 800,000-112,500-172,500= $515,000
+-   Depreciation per unit: 7.5 euros per unit.
+-   Depreciation in year 1: 7.5\*15,000= \$112,500
+-   Depreciation in year 2: 7.5\*23,000= \$172,500
+-   carrying amount after 2 years: 800,000-112,500-172,500= \$515,000
 
+::: {.callout-note appearance="simple"}
+Different depreciation methods lead to different profiles of depreciation expenses, impacting the distribution of the expenses across time.
+:::
+
+```{=html}
 <!--
 ### Depletion
 - Depletion is the allocation of the cost of natural resources based on the unit exploitation of natural resources like coal, oil, gas, etc.
 - Thus, depletion depends on the production level
 
----> 
+--->
+```
 
----
+------------------------------------------------------------------------
 
-### Impact on the financial statements
+### Impact on the financial statements of new ("expanding") investments
 
-
-1) Balance sheet: + long-term assets and funding (+ debt or - cash).
-2) Income statement: + depreciation expense.
-   - Capitalization leads to higher and stable net income in the short term.
-   - Lumpy investments are smoothed out over time to match the cost of the asset with the revenues it generates.
-3) Operating Cash flows: When asset costs are capitalized, they are reported as _investing_ cash outflows. (In contrast, if they were expensed, they are reported as _operating_ cash outflows).
+1)  Balance sheet: + long-term assets and funding (+ debt or - cash).
+2)  Income statement: + depreciation expense (temporality matters!).
+    -   Capitalization leads to higher and stable net income in the short term.
+    -   Lumpy investments are smoothed out over time to match the cost of the asset with the revenues it generates.
+3)  Operating Cash flows: When asset costs are capitalized, they are reported as *investing* cash outflows. (In contrast, if they were expensed, they are reported as *operating* cash outflows).
 
 ::: callout-note
-The impacts are not the same if the company is expanding or renovating its PPE.
+These impacts are not the same if the company is expanding or renovating its PPE.
 
-  - liquidity and performance metrics.
-  - how can we infer if the company needs to renovate its PPE?
+-   liquidity and performance metrics.
+-   how can we infer if the company needs to renovate its PPE?
 :::
----
 
-Example Apple and Mercedez  [5 min]
+------------------------------------------------------------------------
 
- 1) Check the balance sheet: Property, plant and equipment, Net
- 2) Apple: "Note 1: Summary of Significant Accounting Policies" and go to "Property, Plant and Equipment";"Note 5 – Property, Plant and Equipment".
- 3) Mercedes: "Note 1"--> "Property, Plant and Equipment"; "Note 11. Property, Plant and Equipment"
+Example Apple and Mercedez \[5 min\]
 
-- How much is in PPE? How it is distributed among assets?
-- What method is used to depreciate PPE? Expected useful life?
-- How much have already being depreciated? Average residual life?
-- is there any sign of urgent renovation of PPE?
+1)  Check the balance sheet: Property, plant and equipment, Net
+2)  Apple: "Note 1: Summary of Significant Accounting Policies" and go to "Property, Plant and Equipment";"Note 5 – Property, Plant and Equipment".
+3)  Mercedes: "Note 1"--\> "Property, Plant and Equipment"; "Note 11. Property, Plant and Equipment"
+
+-   How much is in PPE? How it is distributed among assets?
+-   What method is used to depreciate PPE? Expected useful life?
+-   How much have already being depreciated? Average residual life?
+-   is there any sign of urgent renovation of PPE?
 
 $$\text{Average residual life}=\frac{\text{Net PPE}}{\text{Depreciation expense}}$$
 
-----
+------------------------------------------------------------------------
 
 ### 4.2 Impairments
 
 Impairment: is the write-down of an long-term asset when its carrying value ("Net PPE") exceeds its recoverable amount. [IFRS IAS 36](https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/).
 
-- Recoverable amount. The higher of:
-  - Fair value less cost to sell
-  - Value-in-use.
-- Carrying value: cost of the asset less accumulated depreciation.
+-   Recoverable amount. The higher of:
+    -   Fair value less cost to sell
+    -   Value-in-use.
+-   Carrying value: cost of the asset less accumulated depreciation.
 
----
+------------------------------------------------------------------------
 
-Example (Under IFRS)
-The manager of Barceloneta Inc has collected the following information about a set of assets tested for impairment:
+Example (Under IFRS) The manager of Barceloneta Inc has collected the following information about a set of assets tested for impairment:
 
-- Carrying value: 35 million euros
-- Fair value: 28 million euros
-- Selling costs: 1.5 million euros
-- PV of expected future cash flows (disc.): 33 million euros
-- Total value of expected future cash flows (no disc.) 35.5 million euros
+-   Carrying value: 35 million euros
+-   Fair value: 28 million euros
+-   Selling costs: 1.5 million euros
+-   PV of expected future cash flows (disc.): 33 million euros
+-   Total value of expected future cash flows (no disc.) 35.5 million euros
 
 What is the amount of the impairment loss?
 
----
+------------------------------------------------------------------------
 
 Solution:
 
-- Carrying value? 35 million euros.
-- Recoverable amount?
-  - FV - selling costs = 28 - 1.5 = 26.5 million euros.
-  - Value-in-use = 33 million euros.
-- 2 million euros (35 - 33) is the impairment loss.
- 
-Impacts on financial statements:  
+-   Carrying value? 35 million euros.
+-   Recoverable amount?
+    -   FV - selling costs = 28 - 1.5 = 26.5 million euros.
+    -   Value-in-use = 33 million euros.
+-   2 million euros (35 - 33) is the impairment loss.
 
-1) The carrying value of the asset is reduced to 33 million euros (- 2 million assets).
-2) 2 million euros is recognized as a loss in the income statement.
-    - "Other Income Expenses" in "Operating profit."
+Impacts on financial statements:
+
+1)  The carrying value of the asset is reduced to 33 million euros (- 2 million assets).
+2)  2 million euros is recognized as a loss in the income statement.
+    -   "Other Income Expenses" in "Operating profit."
 
 ::: callout-note
-Discuss the incentives behind write-downs decisions:
-- who knows the FV and Value-in-use?
-- timing and ammounts
-
+Discuss the incentives behind write-downs decisions: - who knows the FV and Value-in-use? - timing and amount.
 :::
 
----
+------------------------------------------------------------------------
 
 Example (Under US GAAP)
 
-Solution:
-US GAAP is a bit more tricky. The impairment loss is recognized if the carrying value exceeds the undiscounted expected future cash flows.
+Solution: US GAAP is a bit more tricky. The impairment loss is recognized if the carrying value exceeds the undiscounted expected future cash flows.
 
 If that is the case, the impairment loss is the difference between the asset's carrying value and the fair value.
 
-- carrying value: 35 million euros
-- undiscounted cash flows: 35.5 million euros
+-   carrying value: 35 million euros
+-   undiscounted cash flows: 35.5 million euros
 
 Therefore, no impairment loss is recognized under US GAAP
-  
----
 
-## 5. Intangible assets 
+------------------------------------------------------------------------
+
+## 5. Intangible assets
 
 Definition: Intangible assets are long-term assets that have no physical substance but are valued based on the rights or privileges granted to the company using them. This value, however, is not easy to determine: too much uncertainty.
 
-- Patents
-- Copyright
-- Trademarks
-- Exploration rights
-- Licenses and franchises
-- Goodwill
+-   Patents
+-   Copyright
+-   Trademarks
+-   Exploration rights
+-   Licenses and franchises
+-   Goodwill
 
----
+------------------------------------------------------------------------
 
 Accounting of intangible assets:
 
-- Purchased intangible assets are recorded at historical cost.
-- Internally generated intangible assets are expensed as incurred.
-  - R&D cost (at least in the US and just "R" in most of Europe)
-  - Why? Accounting conservatism: too much uncertainty about the future benefits of these assets.
-- Exceptions: Software development costs are capitalized, also some identifiable intangible assets such as patents, trademarks, etc.
-  - The capitalized costs of these cases may include legal fees, design and testing costs, registration fees, and other direct expenditures.
+-   Purchased intangible assets are recorded at historical cost.
+-   Internally generated intangible assets are expensed as incurred.
+    -   R&D cost (at least in the US and just "R" in most of Europe)
+    -   Why? Accounting conservatism: too much uncertainty about the future benefits of these assets.
+-   Exceptions: Software development costs are capitalized, also some identifiable intangible assets such as patents, trademarks, etc.
+    -   The capitalized costs of these cases may include legal fees, design and testing costs, registration fees, and other direct expenditures.
 
-
----
+------------------------------------------------------------------------
 
 Carrying value of intangible assets:
 
-a) Finite useful life: amortization
-    - Examples: Patents (with a legal protection period), copyrights, and software licenses.
-    - Amortization: the allocation of the cost of an intangible asset over its useful life.
+a)  Finite useful life: amortization
+    -   Examples: Patents (with a legal protection period), copyrights, and software licenses.
+    -   Amortization: the allocation of the cost of an intangible asset over its useful life.
+b)  Indefinite useful life: no amortization
+    -   Examples: Trademarks, brands, goodwill.\
+    -   Impairment test at least annually.
+    -   min{Carrying value, PV of expected future cash flows / FV}
 
-b) Indefinite useful life: no amortization 
-    - Examples: Trademarks, brands, goodwill.    
-    - Impairment test at least annually.
-    - min{Carrying value, PV of expected future cash flows / FV}
-
----
+------------------------------------------------------------------------
 
 **Example**
 
-A company reported at the begining of the year a Trademark with a carrying value of $1,000,000 and it has an indefinite useful life. 
+A company reported at the beginning of the year a Trademark with a carrying value of \$1,000,000 and it has an indefinite useful life.
 
 What is the carrying value of the Trademark in the balance sheet at the end of the year?
 
-
-Scenario|Carrying Value|Fair value|Impairment Loss|
-|---|---|---|---|
-|A|1,000,000|1,200,000|-|
-|B|1,000,000|800,000|200,000|
+| Scenario | Carrying Value | Fair value | Impairment Loss |
+|----------|----------------|------------|-----------------|
+| A        | 1,000,000      | 1,200,000  | \-              |
+| B        | 1,000,000      | 800,000    | 200,000         |
 
 Therefore, in scenario B the carrying value of the Trademark is 800,000.
 
----
-
-Example Colgate 2022 (Note 5)
-
-![](Slides/../topic_3_img/colgate_intangible.png)
+------------------------------------------------------------------------
 
 ## 6. Corporate Aquisition
 
 ### Why Do Companies Acquire Others?
 
-- **Synergies**: Combining companies can reduce costs and increase efficiency (e.g., shared resources, economies of scale).
-- **Access to New Markets**: Acquiring companies in new geographic regions or industries to expand market share.
-- **Acquiring New Technology or Expertise**: Buying companies with proprietary technology or talent to enhance competitiveness.
-- **Tax Benefits**: Acquisitions can create opportunities for tax savings through the use of tax losses or favorable tax jurisdictions.
-- **Increase Market Share**: Gaining a larger share of the market to enhance competitive advantage.
+-   **Synergies**: Combining companies can reduce costs and increase efficiency (e.g., shared resources, economies of scale).
+-   **Access to New Markets**: Acquiring companies in new geographic regions or industries to expand market share.
+-   **Acquiring New Technology or Expertise**: Buying companies with proprietary technology or talent to enhance competitiveness.
+-   **Tax Benefits**: Acquisitions can create opportunities for tax savings through the use of tax losses or favorable tax jurisdictions.
+-   **Increase Market Share**: Gaining a larger share of the market to enhance competitive advantage.
 
----
+------------------------------------------------------------------------
 
-### 6.1 Accounting for Acquisitions 
+### 6.1 Acquisition and Goodwill value
 
- IFRS 3 requires the **acquisition method** for all **business combinations**.
+-   **Goodwill** is the amount by which the purchase price exceeds the **fair value** of the acquired company’s identifiable net assets.
+    -   It represents **intangible assets** such as brand reputation, customer relationships, or patents that are not separately identifiable.
+    -   **IFRS 3** requires goodwill to be recognized as an asset on the balance sheet.
+    -   **Impairment testing**: Goodwill is tested annually for impairment under **IAS 36**. If impaired, it reduces profit.
 
-  - **Step 1**: Identify the acquiring company.
-  - **Step 2**: Measure the **consideration transferred** (the total purchase price, including cash, shares, or other forms of payment).
-  - **Step 3**: Identify and measure **acquired assets and liabilities** at their fair value.
-  - **Step 4**: Recognize any **goodwill** or gain from a bargain purchase (price - net asset acquired).
+------------------------------------------------------------------------
 
-- **Consideration**: Could be cash, equity shares, or a combination of both. This must be measured at fair value on the acquisition date.
+**Example**
 
--  The costs related to the acquisition, such as legal fees, are expensed as incurred, and not included in the purchase price. 
+-   Purchase price paid by "Parent Ltd" : \$1,000,000
+-   Identifiable net assets of Company "Child Ltd":
+    -   Cash: \$50,000
+    -   Property: \$500,000
+    -   Equipment: \$200,000
+    -   Liabilities: (\$100,000)
+    -   **Net assets**: \$650,000
+-   Goodwill calculation: Purchase price - net assets = \$1,000,000 - \$650,000 = \$350,000 of goodwill.
 
----
+------------------------------------------------------------------------
+
+**How does "Child Ltd" acquisition appear in the Financial Statements of "Parent Ltd"?**
+
+-   Balance Sheet:
+    -   The assets and liabilities of Child Ltd (cash, property, loans) on its consolidated balance sheet.
+        -   The **goodwill** of \$350,000 as an asset.
+        -   Adjustments for "related-parties transactions".
+-   Income Statement:
+    -   Acquisition-related expenses (e.g., legal fees) are reported.
+    -   Goodwill impairment tests may reduce profits.
+-   Cash Flow Statement:
+    -   cash used in acquisition costs is reported as investing cash outflows.
+
+------------------------------------------------------------------------
+
+### 6.2 Consolidation
 
 **Consolidation requirement**: after acquiring another company, the acquiring company must consolidate the financial statements of the acquired company to present a unified view of the group.
 
-- Establishing Control: Consolidation is required when the acquiring company has control over the acquired entity. Control is defined as:
-  -  Having power over the acquired company.
-  -  Having exposure to variable returns from the acquired company.
-  -  Having the ability to use its power to affect those returns.
+-   Establishing Control: Consolidation is required when the acquiring company has control over the acquired entity. Control is defined as:
 
-- Consolidation Process: Involves combining 100% of the acquired company's assets, liabilities, revenue, and expenses with those of the acquirer, regardless of ownership percentage.
+    -   Having power over the acquired company.
+    -   Having exposure to variable returns from the acquired company.
+    -   Having the ability to use its power to affect those returns.
 
-- Non-Controlling Interests (NCI): If the acquirer owns less than 100% of the acquired company, IFRS requires an adjustment for the NCI. This portion represents the equity interest that is not attributable to the parent company.
+-   **Consolidation Process**: Involves combining **100%** of the acquired company's assets, liabilities, revenue, and expenses with those of the acquirer, regardless of ownership percentage.
 
----
+-   Non-Controlling Interests (NCI): If the acquirer owns less than 100% of the acquired company, IFRS requires an adjustment for the NCI. This portion represents the equity interest that is not attributable to the parent company.
+
+------------------------------------------------------------------------
 
 **Example**
 
 If Company "Parent Ltd" acquires 80% of "Child Ltd", it will:
 
-  - Consolidate 100% of Company "Child Ltd" assets and liabilities on the balance sheet, and 100% of its revenue and expenses on the income statement.
-  - Report the remaining 20% as non-controlling interest in the equity section, representing the portion of equity owned by other shareholders if "Child Ltd".
+-   Consolidate 100% of Company "Child Ltd" assets and liabilities on the balance sheet, and 100% of its revenue and expenses on the income statement.
+    -   intra-group transactions/obligations must been excluded before consolidation.
+-   Report the remaining 20% as non-controlling interest in the equity section, representing the portion of equity owned by other shareholders if "Child Ltd".
 
----
-
-### 6.2 Goodwill
-
-- **Goodwill** is the amount by which the purchase price exceeds the **fair value** of the acquired company’s identifiable net assets.
-  - It represents **intangible assets** such as brand reputation, customer relationships, or patents that are not separately identifiable.
-  - **IFRS 3** requires goodwill to be recognized as an asset on the balance sheet.
-  - **Impairment testing**: Goodwill is tested annually for impairment under **IAS 36**. If impaired, it reduces profit.
-
----
-
-**Example**
-
-- Purchase price: $1,000,000
-- Identifiable net assets of Company "Child Ltd":
-  - Cash: $50,000
-  - Property: $500,000
-  - Equipment: $200,000
-  - Liabilities: ($100,000)
-  - **Net assets**: $650,000
-- Goodwill calculation: Purchase price - net assets = $1,000,000 - $650,000 = $350,000 of goodwill.
-
----
-
-**How does "Child Ltd" acquisition appear in the Financial Statements of "Parent Ltd"?**
-
-- Balance Sheet:
-  - The assets and liabilities of Child Ltd (cash, property, loans)  on its consolidated balance sheet.
-    - The **goodwill** of $350,000 as an asset.
-    - Adjustments for "related-parties transactions".
-
-- Income Statement:
-  - Acquisition-related expenses (e.g., legal fees) are reported.
-  - Goodwill impairment tests may reduce profits.
-
-- Cash Flow Statement:
-  - cash used in acquisition costs is reported as investing cash outflows.
-
----
+------------------------------------------------------------------------
 
 ## 7. Asset revaluations under IFRS
 
 Under IFRS, companies can write up their assets to fair value
 
- - This departs from a long-held tradition of LCM
+-   This departs from a long-held tradition of LCM
 
 Scenarios:
 
-- A. reversal of prior impairment as long as the write-up does not exceed the depreciated historical cost of the asset. [IFRS IAS 36](https://www.grantthornton.global/en/insights/articles/IFRS-ias-36/ifrs-Reversing-impairment-losses/)
-      
-    - E.g., markets could reverse earlier declines in the value of the asset
-    
-    - this increases gains in the Income Statement and the net value of the asset and retained earnings in the Balance Sheet
+-   A. reversal of prior impairment as long as the write-up does not exceed the depreciated historical cost of the asset. [IFRS IAS 36](https://www.grantthornton.global/en/insights/articles/IFRS-ias-36/ifrs-Reversing-impairment-losses/)
 
---- 
+    -   E.g., markets could reverse earlier declines in the value of the asset
+
+    -   this increases gains in the Income Statement and the net value of the asset and retained earnings in the Balance Sheet
+
+------------------------------------------------------------------------
 
 Scenarios:
- 
- - B. creation of revaluation surplus [IFRS IAS 16](https://www.ifrs.org/issued-standards/list-of-standards/ias-16-property-plant-and-equipment/)
-    
-    - in this case, the company decides to estimate the fair value for all the assets in a class periodically and write up/down to reflect the current fair value
-    - if the fair value is above historical cost, the difference is recorded as a revaluation surplus in the equity section of the Balance Sheet (and not in the income statement)
-    - depreciation: only the historical cost, not the revaluation surplus
-    - the method stops when the fair value is equal to the historical cost
 
----
+-   B. creation of revaluation surplus [IFRS IAS 16](https://www.ifrs.org/issued-standards/list-of-standards/ias-16-property-plant-and-equipment/)
+
+    -   in this case, the company decides to estimate the fair value for all the assets in a class periodically and write up/down to reflect the current fair value
+    -   if the fair value is above historical cost, the difference is recorded as a revaluation surplus in the equity section of the Balance Sheet (and not in the income statement)
+    -   depreciation: only the historical cost, not the revaluation surplus
+    -   the method stops when the fair value is equal to the historical cost
+
+------------------------------------------------------------------------
 
 Example revaluation method (1):
 
 Millan Manufacturing is located in Spain and reports under IFRS. The company uses a revaluation model to account for its land and buildings.
 
-- January 1, 2020: Millan purchased a plot of land for €3,000,000. 
-- December 31, 2020: the fair value of the land is €3,500,000.
-- December 31, 2021: the fair value of the land is €2,800,000.
+-   January 1, 2020: Millan purchased a plot of land for €3,000,000.
+-   December 31, 2020: the fair value of the land is €3,500,000.
+-   December 31, 2021: the fair value of the land is €2,800,000.
 
 Evaluate how the revaluation model impacts the financial statements of Millan Manufacturing in 2020 and 2021.
 
----
+------------------------------------------------------------------------
 
 Example revaluation method (2):
 
 Millan Manufacturing is located in Spain and reports under IFRS. The company uses a revaluation model to account for its land and buildings.
 
-- January 1, 2020: Millan purchased a plot of land for €3,000,000. 
-- December 31, 2020: the fair value of the land is €2,600,000.
-- December 31, 2021: the fair value of the land is €3,300,000.
+-   January 1, 2020: Millan purchased a plot of land for €3,000,000.
+-   December 31, 2020: the fair value of the land is €2,600,000.
+-   December 31, 2021: the fair value of the land is €3,300,000.
 
 Evaluate how the revaluation model impacts the financial statements of Millan Manufacturing in 2020 and 2021.
 
----
+------------------------------------------------------------------------
 
 **Questions?**
 
@@ -717,10 +709,9 @@ Check my website for an updated version of this presentation:
 
 **Based on:**
 
-- Subramanyam, K. R. (2014). Financial statement analysis. McGraw-Hill Education. Chapter 4.
-- Steven M. Bragg (2022). IFRS Guidebook. Accounting Tools. Chapters 13-16.
-- IAS 2 Inventories.
-- IAS 16 Property, Plant and Equipment.
-- IAS 36 Impairment of Assets.
-- IAS 38 Intangible Assets.
-
+-   Subramanyam, K. R. (2014). Financial statement analysis. McGraw-Hill Education. Chapter 4.
+-   Steven M. Bragg (2022). IFRS Guidebook. Accounting Tools. Chapters 13-16.
+-   IAS 2 Inventories.
+-   IAS 16 Property, Plant and Equipment.
+-   IAS 36 Impairment of Assets.
+-   IAS 38 Intangible Assets.
