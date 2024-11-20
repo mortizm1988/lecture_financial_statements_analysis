@@ -4,28 +4,28 @@
     "href": "topic_6_forecasting.html#why-do-we-need-to-forecast-financial-statements",
     "title": "Forecasting",
     "section": "1. Why do we need to forecast financial statements?",
-    "text": "1. Why do we need to forecast financial statements?\nProspective analysis is the process of forecasting the future performance of a company.\nManagers use prospective analysis to:\n\nEvaluate the impact of strategies, financing, and investment decisions on the company’s future performance.\nBy doing so, they can foresee how investors and creditors will react to these decisions."
+    "text": "1. Why do we need to forecast financial statements?\nProspective analysis is the process of forecasting the future performance of a company.\nManagers use prospective analysis to:\n\nEvaluate the impact of strategic, financing, and investing decisions on the company’s future performance.\nBy doing so, they can foresee how investors and creditors will react to these decisions."
   },
   {
     "objectID": "topic_6_forecasting.html#step-1-projected-income-statement",
     "href": "topic_6_forecasting.html#step-1-projected-income-statement",
     "title": "Forecasting",
     "section": "2. Step 1 Projected Income Statement",
-    "text": "2. Step 1 Projected Income Statement\nThe projected income statement is the starting point of the prospective analysis.\nStep 1.1 we need an estimation of the company’s expected sales growth rate:\n\nEasy approach: use the historical trend in sales growth rate.\nMore sophisticated approaches:\n\nexpected level of macroeconomic activity: using econometrics to link sales growth to GDP growth. If the economy is in a cyclical upturn, sales growth is expected to be higher than the historical average.\nProduct market competition: if the company is in a highly competitive industry, the company has no price-setting power, and sales growth can quickly decline.\nMultiproduct/multiservice companies."
+    "text": "2. Step 1 Projected Income Statement\nThe projected income statement is the starting point of the prospective analysis.\nStep 1.1 we need an estimation of the company’s expected sales growth rate:\n\nEasy and naive approach: use the historical trend in sales growth rate.\nMore sophisticated approaches:\n\nexpected level of macroeconomic activity: using econometrics to link sales growth to GDP growth. If the economy is in a cyclical upturn, sales growth is expected to be higher than the historical average.\nestimation based on a business segment basis: products or regions.\n\nallows for a more accurate forecast."
   },
   {
     "objectID": "topic_6_forecasting.html#step-2-projected-balance-sheet",
     "href": "topic_6_forecasting.html#step-2-projected-balance-sheet",
     "title": "Forecasting",
     "section": "3. Step 2 Projected Balance Sheet",
-    "text": "3. Step 2 Projected Balance Sheet\nStep 2.1, estimate the company’s expected accounts receivable:\n\\[\\text{Accounts receivable turnover rate}=\\frac{\\text{Sales}}{\\text{Accounts receivable balance}} \\]\nThe forecast: \\[\\text{Forcasted accounts receivable} =\\frac{\\text{Forecasted Sales}}{\\text{Accounts receivable turnover rate}} \\]"
+    "text": "3. Step 2 Projected Balance Sheet\nStep 2.1, estimate the company’s expected accounts receivable:\n\\[\\text{Accounts receivable turnover rate}=\\frac{\\text{Sales}}{\\text{Accounts receivable balance}} \\]\nThis is, likely, a ratio that is characteristic of the company’s industry. Potential problems: bad debt expenses, credit policies, and so on.\nThe forecast: \\[\\text{Forcasted accounts receivable} =\\frac{\\text{Forecasted Sales}}{\\text{Accounts receivable turnover rate}} \\]"
   },
   {
     "objectID": "topic_6_forecasting.html#sensitivity-analysis",
     "href": "topic_6_forecasting.html#sensitivity-analysis",
     "title": "Forecasting",
     "section": "4. Sensitivity Analysis",
-    "text": "4. Sensitivity Analysis\n\nWe are assuming that many dimensions of the financialsstatements will change.\nOur approach is a good starting point:\n\nto test the sheet and formula: there should not be drastic changes in the company’s financial structure\nto foresee how the company’s financial structure will look if no significant changes happen in the future\n\nvalid for mature companies,\nless for young or highly disruptive/distressed companies."
+    "text": "4. Sensitivity Analysis\n\nWe are assuming that many dimensions of the financials statements will change.\nOur approach is a good starting point:\n\nto test the sheet and formula: there should not be drastic changes in the company’s financial structure\nto foresee how the company’s financial structure will look if no significant changes happen in the future\n\nvalid for mature companies,\nless for young or highly disruptive/distressed companies."
   },
   {
     "objectID": "topic_4_operating.html#income-measurement",

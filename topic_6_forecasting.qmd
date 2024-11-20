@@ -24,7 +24,7 @@ Prospective analysis is the process of forecasting the future performance of a c
 
 Managers use prospective analysis to:
 
--   Evaluate the impact of strategies, financing, and investment decisions on the company's future performance.
+-   Evaluate the impact of strategic, financing, and investing decisions on the company's future performance.
 -   By doing so, they can foresee how investors and creditors will react to these decisions.
 
 ------------------------------------------------------------------------
@@ -37,10 +37,10 @@ Investors and creditors forecast financial statements because it allows them to:
 The forecast starts when the historical financial statements have been appropriately adjusted:
 
 -   Eliminating transitory items in the income statement.
--   Capitalizing (expending) items that have been expended (capitalized) by management.
--   Capitalizing operating leases.
--   Other forms of off-balance sheet financing.
--   And so on ...
+-   Adjusting the balance sheet to reflect the company's current financial structure.
+    - adjustments from footnotes and updates from news.   
+
+Limited objective: no every single line item in the financial statements is forecasted. Aggregation.
 
 ## 2. Step 1 Projected Income Statement
 
@@ -48,17 +48,20 @@ The projected income statement is the starting point of the prospective analysis
 
 Step 1.1 we need an estimation of the company's expected sales growth rate:
 
--   Easy approach: use the historical trend in sales growth rate.
+-   Easy and naive approach: use the historical trend in sales growth rate.
 -   More sophisticated approaches:
     -   expected level of macroeconomic activity: using econometrics to link sales growth to GDP growth. If the economy is in a cyclical upturn, sales growth is expected to be higher than the historical average.
-    -   Product market competition: if the company is in a highly competitive industry, the company has no price-setting power, and sales growth can quickly decline.
-    -   Multiproduct/multiservice companies.
+    -   estimation based on a business segment basis: products or regions.
+        - allows for a more accurate forecast.
 
 ------------------------------------------------------------------------
 
 Step 1.2, we need to estimate the company's expected gross profit margin:
 
--   Easy and most common approach: use the historical trend in gross profit margin
+-   Easy and most common approach: use the historical trend in gross profit margin.
+    - reasonable if the company's cost structure is stable. 
+    - new manufactoring technologies? changs in product mix?
+    - inflationary pressures in raw materials? can the company pass these costs to customers?
 -   As a subproduct, we can calculate the company's expected *cost of sales* (COGS) as a *sales* - *gross profit* (step 1.3)
 
 Let's jump to the example in MS Excel.
@@ -81,7 +84,7 @@ Step 1.4, we need to estimate the company's expected *selling, general, and admi
 
 Problem: how to estimate the variable and fixed portions of SG&A?
 
--   Managers: easy, cost accounting and budgeting (later on this course)
+-   Managers: easy, cost accounting and budgeting.
 -   Investors and creditors: Impossible.
     -   Therefore, they use historical trends in SG&A as a percentage of sales (so, consider that all SG&A is variable).
 
@@ -94,7 +97,7 @@ Step 1.5, we need to estimate the company's expected *depreciation and amortizat
 -   we know that this fixed cost is a function of the company's gross PP&E at the beginning of the period.
     -   so, it is reasonable to predict future D&A is a fraction of gross PP&E.
 -   the underlying assumption is that the company will keep the same PP&E structure.
--   however, if companies have announced investments that still need to be incorporated, it is easy to get a decent estimate of the expected D&A using the depreciation information from footnotes.
+-   If there have been new investments on depreciable assets, then these new depreciation expenses need to be incorporated.
 
 Let's jump to the example in MS Excel.
 
@@ -104,7 +107,7 @@ Step 1.6, we need to estimate the company's expected *interest expenses*:
 
 -   This is also a fixed cost, so the prediction is relatively easy if we assume no changes in debt structure.
 -   We know that this fixed cost is a function of the company's debt at the beginning of the period.
--   Of course, if the company announces new debt, we can incorporate this information into the forecast relatively easily.
+-   If there is new debt, debt restricturing, or debt payments, we have to incorporate this information into the forecast.
 
 Step 1.7 we can calculate the company's expected *Income before tax* as a *sales* - *COGS* - *SG&A* - *D&A* - *interest expenses*
 
@@ -114,7 +117,8 @@ Step 1.8, we need to estimate the company's expected *tax_expenses*:
 
 -   we know that this cost is a function of the company's income before tax.
 -   If we know the country's tax system well, we can estimate the company's expected TDA and TDL, and then calculate the company's expected tax expenses.
--   However, in practice, most analysts just use the effective tax rate (ETR) as a percentage of income before tax. $$ \text{Effective Tax Rate (ETR)} =\frac{\text{tax expenses}} {\text{income before tax}} $$
+-   However, in practice, most analysts just use the effective tax rate (ETR) as a percentage of income before tax. 
+$$ \text{Effective Tax Rate (ETR)} =\frac{\text{tax expenses}} {\text{income before tax}} $$
 
 ------------------------------------------------------------------------
 
@@ -135,13 +139,20 @@ Step 2.1, estimate the company's expected *accounts receivable*:
 
 $$\text{Accounts receivable turnover rate}=\frac{\text{Sales}}{\text{Accounts receivable balance}} $$
 
+This is, likely, a ratio that is characteristic of the company's industry. 
+Potential problems: bad debt expenses, credit policies, and so on.
+
 The forecast: $$\text{Forcasted accounts receivable} =\frac{\text{Forecasted Sales}}{\text{Accounts receivable turnover rate}} $$
 
 ------------------------------------------------------------------------
 
-Step 2.2, estimate the company's expected *inventories*: $$\text{Inventory turnover  rate}=\frac{\text{COGS}}{\text{Ending inventory}} $$
+Step 2.2, estimate the company's expected *inventories*: 
 
-The forecast: $$\text{Forcasted ending inventory} =\frac{\text{Forecasted COGS}}{\text{Inventory turnover  rate}} $$
+$$\text{Inventory turnover  rate}=\frac{\text{COGS}}{\text{Ending inventory}} $$
+
+The forecast: 
+
+$$\text{Forcasted ending inventory} =\frac{\text{Forecasted COGS}}{\text{Inventory turnover  rate}} $$
 
 ------------------------------------------------------------------------
 
@@ -149,6 +160,7 @@ We can add more sophistication to the forecast when the firm discloses more info
 
 -   inventory turnover rates by product line or category are especially important for diversified companies.
 -   launching new products or stores: estimate the inventory should be added to the forecast.
+- Notice that inflation adjustment are already incorporated in the COGS.
 
 ------------------------------------------------------------------------
 
@@ -158,7 +170,7 @@ Step 2.4, estimate the company's expected *PPE*:
 
 -   Historical capital expenditures are obtained from the statement of cash flows.
 
--   It is very common to subsequently adjust forecasted PPE to examine the financial implications of higher (lower) levels of capital expenditures (sensitivity analyses).
+-   News on new investments in PP&E should be incorporated into the forecast.
 
 ------------------------------------------------------------------------
 
@@ -172,7 +184,9 @@ Step 2.6, estimate the company's expected *net PP&E*:
 
 Now we move to the liabilities and equity side of the balance sheet.
 
-Step 2.8, estimate the company's expected *accounts payable*: $$\text{Accounts payable turnover rate}=\frac{\text{COGS}}{\text{Accounts payable balance}} $$
+Step 2.8, estimate the company's expected *accounts payable*: 
+
+$$\text{Accounts payable turnover rate}=\frac{\text{COGS}}{\text{Accounts payable balance}} $$
 
 The forecast: $$\text{Forcasted accounts payable} =\frac{\text{Forecasted COGS}}{\text{Accounts payable turnover rate}} $$
 
@@ -198,7 +212,8 @@ Step 2.13, estimate expected *other long-term liabilities*:
 
 ------------------------------------------------------------------------
 
-Step 2.16, estimate expected *retained earnings*: $$\text{Forecasted retained earnings}=\text{Prior year’s retained earnings}+\text{Projected net income}-\text{Proyected dividends}$$
+Step 2.16, estimate expected *retained earnings*:
+ $$\text{F. retained earnings}=\text{Prior year’s retained earnings}+\text{F. net income}-\text{F. dividends}$$
 
 Step 2.17, estimated expected *cash*:
 
@@ -209,7 +224,7 @@ Step 2.17, estimated expected *cash*:
 
 ## 4. Sensitivity Analysis
 
--   We are assuming that many dimensions of the financialsstatements will change.
+-   We are assuming that many dimensions of the financials statements will change.
 -   Our approach is a good starting point:
     1.  to test the sheet and formula: there should not be drastic changes in the company's financial structure
     2.  to foresee how the company's financial structure will look if no significant changes happen in the future
@@ -230,7 +245,12 @@ Let's jump to the example in MS Excel.
 
 ### 4.2 Multivariate optimization
 
-How much must the company adjust its assumptions to meet the net income (or EPS) target? - sales growth rate - gross profit margin - SG&A, D&A - debt structure, and so on
+How much must the company adjust its assumptions to meet the net income (or EPS) target? 
+
+- sales growth rate 
+- gross profit margin 
+- SG&A, D&A 
+- debt structure, and so on ...
 
 Find the solution: MS Excel: File\>Options\>Add-in\> Solver.
 
