@@ -235,7 +235,9 @@ Step 2.17, estimated expected *cash*:
 
 ### 4.1 Univariate optimization
 
-How much does the company need to increase sales to meet EPS target? - is it feasible? If not, what else can be done?q
+How much does the company need to increase sales to meet EPS target? 
+
+- is it feasible? If not, what else can be done?
 
 Find the solution: MS Excel: Data\>What-if-Analysis\>Goal Seeker.
 
