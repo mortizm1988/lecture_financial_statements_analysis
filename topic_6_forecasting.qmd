@@ -31,14 +31,14 @@ Managers use prospective analysis to:
 
 Investors and creditors forecast financial statements because it allows them to:
 
--   Estimate the future cash flows of the company.
--   Estimate the future value of the company.
+-   Solvency: Estimate the future cash flows of the company.
+-   Profitability: Estimate the future value of the company.
 
 The forecast starts when the historical financial statements have been appropriately adjusted:
 
 -   Eliminating transitory items in the income statement.
 -   Adjusting the balance sheet to reflect the company's current financial structure.
-    - adjustments from footnotes and updates from news.   
+    - adjustments from footnotes and other updates based on recent news.   
 
 Limited objective: no every single line item in the financial statements is forecasted. Aggregation.
 
@@ -60,9 +60,10 @@ Step 1.2, we need to estimate the company's expected gross profit margin:
 
 -   Easy and most common approach: use the historical trend in gross profit margin.
     - reasonable if the company's cost structure is stable. 
-    - new manufactoring technologies? changs in product mix?
+    - new manufactoring technologies? change in product mix?
     - inflationary pressures in raw materials? can the company pass these costs to customers?
--   As a subproduct, we can calculate the company's expected *cost of sales* (COGS) as a *sales* - *gross profit* (step 1.3)
+
+As a subproduct, we can calculate the company's expected *cost of sales* (COGS) as a *sales* - *gross profit* (step 1.3)
 
 Let's jump to the example in MS Excel.
 
@@ -85,7 +86,7 @@ Step 1.4, we need to estimate the company's expected *selling, general, and admi
 Problem: how to estimate the variable and fixed portions of SG&A?
 
 -   Managers: easy, cost accounting and budgeting.
--   Investors and creditors: Impossible.
+-   Investors and creditors: impossible.
     -   Therefore, they use historical trends in SG&A as a percentage of sales (so, consider that all SG&A is variable).
 
 Let's jump to the example in MS Excel.
@@ -94,10 +95,10 @@ Let's jump to the example in MS Excel.
 
 Step 1.5, we need to estimate the company's expected *depreciation and amortization* (D&A):
 
--   we know that this fixed cost is a function of the company's gross PP&E at the beginning of the period.
+-   we know that this fixed cost is a function of the company's **gross PP&E** at the beginning of the period.
     -   so, it is reasonable to predict future D&A is a fraction of gross PP&E.
 -   the underlying assumption is that the company will keep the same PP&E structure.
--   If there have been new investments on depreciable assets, then these new depreciation expenses need to be incorporated.
+-   **If there have been new investments on depreciable assets, then these new depreciation expenses need to be incorporated**
 
 Let's jump to the example in MS Excel.
 
@@ -122,7 +123,7 @@ $$ \text{Effective Tax Rate (ETR)} =\frac{\text{tax expenses}} {\text{income bef
 
 ------------------------------------------------------------------------
 
-Step 1.9, we focus on extraordinary items and discontinued operations:
+Step 1.9, we focus on special items and discontinued operations:
 
 -   By their very nature, these items are not expected to occur in the future
 -   So, it is not sensitive to use past values as forecasted values
@@ -137,10 +138,12 @@ Step 1.10, we can calculate the company's expected *net income* as a *income bef
 
 Step 2.1, estimate the company's expected *accounts receivable*:
 
-$$\text{Accounts receivable turnover rate}=\frac{\text{Sales}}{\text{Accounts receivable balance}} $$
+$$\text{Accounts receivable turnover rate}=\frac{\text{Net (credit) Sales}}{\text{Accounts receivable balance}} $$
 
-This is, likely, a ratio that is characteristic of the company's industry. 
-Potential problems: bad debt expenses, credit policies, and so on.
+If credit sales information is not available, the norm is to use total net sales or revenues.
+If the rate is 12, it means that the company collects its accounts receivable 12 times a year.
+This rate is likely a industry characteristics rather than a firm' decisiom. 
+Potential problems: manipulation of allowances of bad debt expenses or changes in credit policies.
 
 The forecast: $$\text{Forcasted accounts receivable} =\frac{\text{Forecasted Sales}}{\text{Accounts receivable turnover rate}} $$
 
@@ -150,6 +153,8 @@ Step 2.2, estimate the company's expected *inventories*:
 
 $$\text{Inventory turnover  rate}=\frac{\text{COGS}}{\text{Ending inventory}} $$
 
+If the rate is 2, it means that the company sells (and restock), on average, its inventory twice a year.
+
 The forecast: 
 
 $$\text{Forcasted ending inventory} =\frac{\text{Forecasted COGS}}{\text{Inventory turnover  rate}} $$
@@ -158,7 +163,7 @@ $$\text{Forcasted ending inventory} =\frac{\text{Forecasted COGS}}{\text{Invento
 
 We can add more sophistication to the forecast when the firm discloses more information:
 
--   inventory turnover rates by product line or category are especially important for diversified companies.
+-   inventory turnover rates by product line or category are especially important for undiversified companies.
 -   launching new products or stores: estimate the inventory should be added to the forecast.
 - Notice that inflation adjustment are already incorporated in the COGS.
 
@@ -206,9 +211,11 @@ Step 2.11, estimate expected *tax payable*:
 -   What fraction of the tax expenses will be paid next year?
 -   We can estimate this fraction by looking at the historical trend in tax payable as a percentage of tax expenses.
 
-Step 2.13, estimate expected *other long-term liabilities*:
+Step 2.13, estimate expected *Long-term debt*:
 
 -   if there is no reason to expect changes in the company's debt structure, we can assume that other long-term liabilities will be the same as the prior year's balance minus the expected current portion of long-term debt (step 2.9).
+
+- if there are news on refinancing or new debt, we should incorporate this information into the forecast.
 
 ------------------------------------------------------------------------
 

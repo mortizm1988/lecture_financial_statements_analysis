@@ -18,7 +18,7 @@
     "href": "topic_6_forecasting.html#step-2-projected-balance-sheet",
     "title": "Forecasting",
     "section": "3. Step 2 Projected Balance Sheet",
-    "text": "3. Step 2 Projected Balance Sheet\nStep 2.1, estimate the company’s expected accounts receivable:\n\\[\\text{Accounts receivable turnover rate}=\\frac{\\text{Sales}}{\\text{Accounts receivable balance}} \\]\nThis is, likely, a ratio that is characteristic of the company’s industry. Potential problems: bad debt expenses, credit policies, and so on.\nThe forecast: \\[\\text{Forcasted accounts receivable} =\\frac{\\text{Forecasted Sales}}{\\text{Accounts receivable turnover rate}} \\]"
+    "text": "3. Step 2 Projected Balance Sheet\nStep 2.1, estimate the company’s expected accounts receivable:\n\\[\\text{Accounts receivable turnover rate}=\\frac{\\text{Net (credit) Sales}}{\\text{Accounts receivable balance}} \\]\nIf credit sales information is not available, the norm is to use total net sales or revenues. If the rate is 12, it means that the company collects its accounts receivable 12 times a year. This rate is likely a industry characteristics rather than a firm’ decisiom. Potential problems: manipulation of allowances of bad debt expenses or changes in credit policies.\nThe forecast: \\[\\text{Forcasted accounts receivable} =\\frac{\\text{Forecasted Sales}}{\\text{Accounts receivable turnover rate}} \\]"
   },
   {
     "objectID": "topic_6_forecasting.html#sensitivity-analysis",

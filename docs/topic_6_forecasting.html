@@ -1179,15 +1179,15 @@ Marcelo Ortiz
 
 <p>Investors and creditors forecast financial statements because it allows them to:</p>
 <ul>
-<li>Estimate the future cash flows of the company.</li>
-<li>Estimate the future value of the company.</li>
+<li>Solvency: Estimate the future cash flows of the company.</li>
+<li>Profitability: Estimate the future value of the company.</li>
 </ul>
 <p>The forecast starts when the historical financial statements have been appropriately adjusted:</p>
 <ul>
 <li>Eliminating transitory items in the income statement.</li>
 <li>Adjusting the balance sheet to reflect the company’s current financial structure.
 <ul>
-<li>adjustments from footnotes and updates from news.</li>
+<li>adjustments from footnotes and other updates based on recent news.</li>
 </ul></li>
 </ul>
 <p>Limited objective: no every single line item in the financial statements is forecasted. Aggregation.</p>
@@ -1215,11 +1215,11 @@ Marcelo Ortiz
 <li>Easy and most common approach: use the historical trend in gross profit margin.
 <ul>
 <li>reasonable if the company’s cost structure is stable.</li>
-<li>new manufactoring technologies? changs in product mix?</li>
+<li>new manufactoring technologies? change in product mix?</li>
 <li>inflationary pressures in raw materials? can the company pass these costs to customers?</li>
 </ul></li>
-<li>As a subproduct, we can calculate the company’s expected <em>cost of sales</em> (COGS) as a <em>sales</em> - <em>gross profit</em> (step 1.3)</li>
 </ul>
+<p>As a subproduct, we can calculate the company’s expected <em>cost of sales</em> (COGS) as a <em>sales</em> - <em>gross profit</em> (step 1.3)</p>
 <p>Let’s jump to the example in MS Excel.</p>
 </section>
 <section class="slide level2">
@@ -1246,7 +1246,7 @@ Marcelo Ortiz
 <p>Problem: how to estimate the variable and fixed portions of SG&amp;A?</p>
 <ul>
 <li>Managers: easy, cost accounting and budgeting.</li>
-<li>Investors and creditors: Impossible.
+<li>Investors and creditors: impossible.
 <ul>
 <li>Therefore, they use historical trends in SG&amp;A as a percentage of sales (so, consider that all SG&amp;A is variable).</li>
 </ul></li>
@@ -1257,12 +1257,12 @@ Marcelo Ortiz
 
 <p>Step 1.5, we need to estimate the company’s expected <em>depreciation and amortization</em> (D&amp;A):</p>
 <ul>
-<li>we know that this fixed cost is a function of the company’s gross PP&amp;E at the beginning of the period.
+<li>we know that this fixed cost is a function of the company’s <strong>gross PP&amp;E</strong> at the beginning of the period.
 <ul>
 <li>so, it is reasonable to predict future D&amp;A is a fraction of gross PP&amp;E.</li>
 </ul></li>
 <li>the underlying assumption is that the company will keep the same PP&amp;E structure.</li>
-<li>If there have been new investments on depreciable assets, then these new depreciation expenses need to be incorporated.</li>
+<li><strong>If there have been new investments on depreciable assets, then these new depreciation expenses need to be incorporated</strong></li>
 </ul>
 <p>Let’s jump to the example in MS Excel.</p>
 </section>
@@ -1287,7 +1287,7 @@ Marcelo Ortiz
 </section>
 <section class="slide level2">
 
-<p>Step 1.9, we focus on extraordinary items and discontinued operations:</p>
+<p>Step 1.9, we focus on special items and discontinued operations:</p>
 <ul>
 <li>By their very nature, these items are not expected to occur in the future</li>
 <li>So, it is not sensitive to use past values as forecasted values</li>
@@ -1304,14 +1304,15 @@ Marcelo Ortiz
 <section id="step-2-projected-balance-sheet" class="slide level2">
 <h2>3. Step 2 Projected Balance Sheet</h2>
 <p>Step 2.1, estimate the company’s expected <em>accounts receivable</em>:</p>
-<p><span class="math display">\[\text{Accounts receivable turnover rate}=\frac{\text{Sales}}{\text{Accounts receivable balance}} \]</span></p>
-<p>This is, likely, a ratio that is characteristic of the company’s industry. Potential problems: bad debt expenses, credit policies, and so on.</p>
+<p><span class="math display">\[\text{Accounts receivable turnover rate}=\frac{\text{Net (credit) Sales}}{\text{Accounts receivable balance}} \]</span></p>
+<p>If credit sales information is not available, the norm is to use total net sales or revenues. If the rate is 12, it means that the company collects its accounts receivable 12 times a year. This rate is likely a industry characteristics rather than a firm’ decisiom. Potential problems: manipulation of allowances of bad debt expenses or changes in credit policies.</p>
 <p>The forecast: <span class="math display">\[\text{Forcasted accounts receivable} =\frac{\text{Forecasted Sales}}{\text{Accounts receivable turnover rate}} \]</span></p>
 </section>
 <section class="slide level2">
 
 <p>Step 2.2, estimate the company’s expected <em>inventories</em>:</p>
 <p><span class="math display">\[\text{Inventory turnover  rate}=\frac{\text{COGS}}{\text{Ending inventory}} \]</span></p>
+<p>If the rate is 2, it means that the company sells (and restock), on average, its inventory twice a year.</p>
 <p>The forecast:</p>
 <p><span class="math display">\[\text{Forcasted ending inventory} =\frac{\text{Forecasted COGS}}{\text{Inventory turnover  rate}} \]</span></p>
 </section>
@@ -1319,7 +1320,7 @@ Marcelo Ortiz
 
 <p>We can add more sophistication to the forecast when the firm discloses more information:</p>
 <ul>
-<li>inventory turnover rates by product line or category are especially important for diversified companies.</li>
+<li>inventory turnover rates by product line or category are especially important for undiversified companies.</li>
 <li>launching new products or stores: estimate the inventory should be added to the forecast.</li>
 <li>Notice that inflation adjustment are already incorporated in the COGS.</li>
 </ul>
@@ -1362,9 +1363,10 @@ Marcelo Ortiz
 <li>What fraction of the tax expenses will be paid next year?</li>
 <li>We can estimate this fraction by looking at the historical trend in tax payable as a percentage of tax expenses.</li>
 </ul>
-<p>Step 2.13, estimate expected <em>other long-term liabilities</em>:</p>
+<p>Step 2.13, estimate expected <em>Long-term debt</em>:</p>
 <ul>
-<li>if there is no reason to expect changes in the company’s debt structure, we can assume that other long-term liabilities will be the same as the prior year’s balance minus the expected current portion of long-term debt (step 2.9).</li>
+<li><p>if there is no reason to expect changes in the company’s debt structure, we can assume that other long-term liabilities will be the same as the prior year’s balance minus the expected current portion of long-term debt (step 2.9).</p></li>
+<li><p>if there are news on refinancing or new debt, we should incorporate this information into the forecast.</p></li>
 </ul>
 </section>
 <section class="slide level2">
