@@ -1,0 +1,166 @@
+---
+title: "Financial Accounting for Managers: Final Project"
+author: Marcelo Ortiz M.
+date: November 2024
+format:
+  pdf:
+    toc: true
+    number-sections: false
+---
+
+# General instructions
+
+In groups of 3 or 4 students, pursue a financial analysis of a publicly-listed company from @tbl-companies. This analysis must be based on the latest annual reports available, and complemented with additional information when needed.
+
+| Industry                              | Company                 |
+|---------------------------------------|-------------------------|
+| Semiconductor Materials and Equipment | ASML Holding N.V.       |
+|                                       | Applied Materials, Inc. |
+|                                       | Intel Corporation.      |
+|                                       | Terydyne, Inc.          |
+| Automobile Manufacturer               | Ford Motor Company      |
+|                                       | Honda Motor Company     |
+|                                       | Volkswagen AG.          |
+|                                       | Stellantis N.V.         |
+
+: List of Companies {#tbl-companies}
+
+Recommended additional sources of information: [European Semiconductor Industry Association](https://www.eusemiconductors.eu/esia), and [European Automobile Manufacturers Association](https://www.acea.auto/).
+
+## Working plan
+
+| Date                                                 | Topic                                          |
+|--------------------------------------|----------------------------------|
+| Friday November 22nd (x2)                                      | Sections 1 and 2           |
+| Thursday 28rd              | Sections 3   |
+| Friday 29th (x1)  | Section 4 |
+| Thursday December 5th (x2)        | Sections 5 and 6          |
+
+## Expected output
+
+The final report should be submitted in PDF format with at most 15 pages (excluding cover page, tables, references, and appendices). An MS Excel file with the supporting calculations must also be submitted with the PDF file. Both files must be submitted to the corresponding link in ECampus.
+
+Below you will find the list of items to analyze in the project. As you can see, it follows the structure of our analysis of Apple's  and Mercedes' report during class. In case a company does not report information on a specific item, the project should be explicit about it (e.g., "there is no available information about the company use of leases," "The company does not report discontinued operations," etc). This is important to show diligence and completeness in your analysis. Therefore, the group should not worry about not finding information about a specific item. Instead, the group should focus on the available items and provide a complete analysis of them.
+
+Include screenshots of the last Financial Statements and the most relevant Notes as Appendices and not in the middle of the report. Refer to them during the report or insert summary tables when needed.
+
+# Section 1: Company description and recent news
+
+This section should describe the following aspects of the company: 
+
+- Name of the company 
+- Manufacturer, service provider, or retailer 
+- Country of origin and where it operates today
+- Financial Reporting Standard (IFRS, US GAAP, etc.)
+- Industry and business segments 
+- Main competitors and market shares 
+- Main suppliers and clients 
+- Brief summary of recent news (since the last annual report was published) 
+  - Industry: new regulations, new competitors, new products, new technologies, changes in demand. 
+  - Company: changes in debt structure or credit rating, shares buybacks or splits, new investments, clients defaults, assets impairments, new litigation or accidents, changes in management, changes in accounting policies, etc.
+
+This list is not exhaustive, and you can include news that you consider relevant for the analysis of the company. The article news should be from reliable sources and properly referenced (APA or HARVARD style).
+
+Format: This section *should not* be a list of summaries of article news. It should be a coherent text that describes the company and its recent development. The text should be written so a person unfamiliar with the company can understand. It also should lay the foundations for the analysis of the following sections (i.e., if the company changes its debt structure, your explanation here must be consistent with the study of financing activities).
+
+# Section 2: Analysis of the financing situation
+
+## Financing and Operating Liabilities
+
+-   How is the debt distributed (maturity, type of instruments)?
+-   Does the company have a credit rating? If so, which one?
+-   What are the interest rates in these debt contracts? If refinancing will be needed soon, how are the market rates now?
+-   News about the company's debt structure: new debt, refinancing, etc.
+
+## Contingent liabilities and commitments
+
+-   What types of contingent liabilities and commitments does the company have?
+-   How relevant in terms of magnitude are they relative to current liabilities?
+-   News about new litigations?
+
+## Equity
+
+-   What type of shares the company has issued? How many?
+-   Does the company have treasury shares? If so, how many?
+-   Does the company pay dividends?
+-   News about the company's equity structure: new shares issued, buybacks, etc.
+
+# Section 3: Analysis of investing situation
+
+## Short-term assets
+
+-   How the cash and cash equivalent is distributed across assets?
+-   Does the company have restricted cash? If so, how much? What is the purpose of the restriction?
+-   What type of receivables does the company have? How much is the allowance for doubtful accounts? How does the company estimate the allowance?
+-   Does receivables (and the allowance) move according to sales growth? If not, why?
+-   What inventory accounting method does the company use? What type of inventories does the company handle? How do the different types of inventories move with sales growth (and expected sales growth)? Are inventory levels consistent with future demand fluctuations according to the management's discussion?
+
+## Long-term assets
+
+-   What accounting method and assumptions does the company use for its fixed assets? How long is the average remaining useful life of the assets? Compare with similar firms and discuss if the firm would need to invest in renovating its fixed assets.
+-   Has the company impaired any assets? If so, what was the reason? How much was the impairment? How did the impairment affect the financial statements? 
+-   News on new investments in fixed assets or acquisitions?
+
+# Section 4: Analysis of operating performance 
+## Sales/Revenues/Profits
+
+-   How much were the net sales (and net sales growth ) of the company?
+-   Which product/service/segment represented the largest share of sales?
+-   Which grew the most?
+-   which one was more profitable?
+-   How diversified are the companys's sales and profits?
+-   How are the operating expenses distributed? Which one was growing the most? Any clear explanation?
+-   How stable are the gross and operating margins? Sources of fluctuations?
+-   Compare the previous point with the key competitors.
+-   News about new competitors, technologies, or regulations that might affect the company's profits.
+
+## Non-recurring items
+
+-   Did the company have any non-recurring items? If so, what was the reason? How much was the impact on the financial statements?
+-   Is there any suggestion that the non-recurring item has been used for earnings management and misleading valuation? Discuss. 
+
+## EPS
+
+-   How much was the EPS? How much was the EPS growth?
+-   Did the last EPS beat or miss the market expectations?
+-   What is the market expecting for the next year's EPS?
+
+# Section 5: Forecast
+
+## Objective
+
+The objective of this section is to forecast the financial statements of the company for the next year. The forecast should be based on the analysis of the previous sections and consistent with the company's strategy and the recent news. This section should start articulating the primary user/purpose of the forecast. For example, if the report is intended for an investor, the purpose of the analysis is to evaluate the company's performance and prospects. If the report is designed for a creditor, the purpose of the study is to evaluate the company's ability to pay its debt or covenant breaches.
+
+## Adjustments and assumptions
+
+This section should list all the adjustments that the group considers necessary to make the forecast. The adjustments should be based on the analysis of the previous sections. It is important to separate adjustments that are known from the last report or past events (e.g., news on new investments or debt refinancing) from those that are assumptions (e.g., sales growth, new products, etc.). Notice that known adjustments should have been already discussed in the previous sections, so here you should just list them and reference to them accordingly.
+
+For simplicity, I recommend to list the adjustments and assumptions in the following way, for each section.
+
+::: {.callout-tip title="Example"}
+
+Financing activities:
+
+-   Adjustments:
+    - From the last report
+      - During the year debt financing was reduced by $X million. The interest rate of this debt was Z%. See Liability table XX in section XY.
+      - ...
+    - From news 
+      - In novemeber 2024 the company issued $Y million in new debt with an interest rate of W%. See section XY.
+-   Assumptions
+    - The company will need to refinance $Z million in debt in 2025. The interest rate is expected to be V%.
+    - ...
+
+:::
+
+## Forecast
+
+Explain the core metrics that will be used to evaluate the forecast (EPS, RoA, Liquidity ratios, etc.). Compare the forecast with the market expectations and discuss the differences.
+
+Evaluate how sensible the forecast is to the most critical assumptions, and, if applicable, evaluate different scenarios.
+
+# Section 6: Conclusions
+
+This section should summarize the main findings of the analysis and forecast. It should provide recommendations for the company's management or investors based on the report.
+
+The section should conclude with the main limitations of the report (e.g., lack of information during the analysis) and risks that the reader should consider when implementing the report's recommendation (e.g., the forecast is very sensible to the assumptions, important market or geopolitical risks).

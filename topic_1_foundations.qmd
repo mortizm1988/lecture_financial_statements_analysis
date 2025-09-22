@@ -114,22 +114,21 @@ Let's apply the accounting equation and matching principle to the following tran
 
 **Transaction 1: Starting the business.**
 
-Silvana invested \$30,000 of her own money to start the business. 
+Silvana invested \$30,000 of her own money to start the business.
 
- She deposits \$30,000 in a "Silvana eTravel SA" bank account.
+She deposits \$30,000 in a "Silvana eTravel SA" bank account.
 
 ------------------------------------------------------------------------
 
 **Transaction 2: Buying an office.**
 
-Silvana purchases an office, paying \$20,000 in cash. ​ 
+Silvana purchases an office, paying \$20,000 in cash. ​
 
 Monthly Depreciation: \$200​
 
-
 **Transaction 3: Buying an office supplies.**
 
-Silvana buys office supplies, agreeing to pay \$500 within 30 days.​ 
+Silvana buys office supplies, agreeing to pay \$500 within 30 days.​
 
 The supplies will last until the end of the month.
 
@@ -137,20 +136,19 @@ The supplies will last until the end of the month.
 
 **Transaction 4: Earnings of Service Revenue**
 
-Silvana eTravel earns service revenue by providing travel services for clients. ​ 
+Silvana eTravel earns service revenue by providing travel services for clients. ​
 
 She earns \$5,500 in revenues and collects this amount in cash.​
 
 The labor cost of providing the service was \$600 and will be paid the first day of the next month.
 
-
 **Transaction 5: Revenue on account**
 
 Silvana eTravel performs services for clients who do not pay immediately. ​
 
-Silvana receives clients’ promises to pay \$3,000 within one month in return for her travel services. 
+Silvana receives clients’ promises to pay \$3,000 within one month in return for her travel services.
 
- The labor cost of the service was \$200 and will be paid the first day of the next month.
+The labor cost of the service was \$200 and will be paid the first day of the next month.
 
 ------------------------------------------------------------------------
 
@@ -171,12 +169,12 @@ Silvana borrows \$5.000 using a Long term bank credit (3 years). The first month
 
 **Assets**
 
-| **Current Assets**                | **Non-current Assets**                         |
-|-----------------------------------|------------------------------------------------|
-| 1\. Cash and cash equivalents     | 1\. Financial assets |
-| 2\. Trade and other receivables   | 2\. Property, plant, and equipment             |
-| 3\. Inventories                   | 3\. Intangible assets                          |
-| 4\. Prepayments                   | 4\. Investment property                        |
+| **Current Assets**              | **Non-current Assets**             |
+|---------------------------------|------------------------------------|
+| 1\. Cash and cash equivalents   | 1\. Financial assets               |
+| 2\. Trade and other receivables | 2\. Property, plant, and equipment |
+| 3\. Inventories                 | 3\. Intangible assets              |
+| 4\. Prepayments                 | 4\. Investment property            |
 
 ```{=html}
 <!--
@@ -195,13 +193,13 @@ Transactions will regularly affect the same type of assets, thus it is practical
 
 **Liabilities**
 
-| **Current Liabilities**                  | **Non-current Liabilities**               |
-|------------------------------------------|-------------------------------------------|
-| 1\. Trade and other payables             | 1\. Long-term borrowings                  |
-| 2\. Accrued liabilities                  | 2\. Deferred tax liabilities              |
-| 3\. Deferred revenue                     | 3\. Provisions for employee benefits      |
-| 4\. Current portion of long-term borrowings | 4\. Other non-current liabilities       |
-| 5\. Current tax liabilities              | 5\. Provisions and contingent liabilities |
+| **Current Liabilities**                     | **Non-current Liabilities**               |
+|------------------------------------|------------------------------------|
+| 1\. Trade and other payables                | 1\. Long-term borrowings                  |
+| 2\. Accrued liabilities                     | 2\. Deferred tax liabilities              |
+| 3\. Deferred revenue                        | 3\. Provisions for employee benefits      |
+| 4\. Current portion of long-term borrowings | 4\. Other non-current liabilities         |
+| 5\. Current tax liabilities                 | 5\. Provisions and contingent liabilities |
 
 ```{=html}
 <!--
@@ -215,20 +213,17 @@ deferred tax liabilities: taxes owed based on the difference between accounting 
 provisions for employee benefits: long-term obligations for pension or other benefits
 provisions and contingent liabilities: uncertain liabilities like legal obligations or environmental restoration costs
 -->
-
 ```
 
 ------------------------------------------------------------------------
 
 **Equity**
 
- **Share capital**              | **Other**                                  |
-|--------------------------------|--------------------------------------------|
-| 1\. Ordinary shares            | 1\. Retained earnings                      |
-| 2\. Preference shares          | 2\. Treasury shares                        |
-| 3\. Share premium              |            |
-
-
+| **Share capital**     | **Other**             |
+|-----------------------|-----------------------|
+| 1\. Ordinary shares   | 1\. Retained earnings |
+| 2\. Preference shares | 2\. Treasury shares   |
+| 3\. Share premium     |                       |
 
 ```{=html}
 <!--
@@ -241,8 +236,8 @@ Retained Earnings: Cumulative net income retained in the business after the dist
 Treasury Shares: Shares that a company has repurchased from shareholders and are held in the company's treasury.
 Other Components of Equity: This includes items like unrealized gains and losses from revaluations, foreign currency translation differences, and fair value changes of financial instruments not included in net income.
 -->
-
 ```
+
 ## 3. Financial Statements
 
 ### 3.1 Aggregations
@@ -260,22 +255,31 @@ Consistency across time and transactions is key!
 
 ### 3.2 Valuation basis
 
-1.  **Historical Cost** 
+1.  **Historical Cost**
 2.  **Amortized cost**
-3. **Net Realizable Value**
-4. **Present Value of future payments**
-3.  **Fair Value**
+3.  **Net Realizable Value**
+4.  **Present Value of future payments**
+5.  **Fair Value**
 
 ::: callout-note
 Check out the Formula Sheet for the most common valuation methods [here](https://github.com/mortizm1988/lecture_financial_statements_analysis/blob/main/SheetCheat/Formula_Sheet.pdf)
 :::
 
 ::: callout-tip
-The same asset can be valued using different methods.
-What are the managerial incentives for using one method or another?
-What are the incentives for changing the valuation method?
+The same asset can be valued using different methods. What are the managerial incentives for using one method or another? What are the incentives for changing the valuation method?
 :::
 
+------------------------------------------------------------------------
+
+Recent example of opportunistic switch of valuation methods:
+
+**"NRG Energy uses 'accounting trick' to make earnings look less volatile"**
+
+"As described by Weil, NRG ([NRG](https://seekingalpha.com/symbol/NRG?feed_item_type=news&fr=1&utm_medium=referral&utm_source=msn.com "NRG Energy, Inc.")) showed \$992M of net derivative assets at year-end 2024, including \$770M on contracts with frozen value."
+
+"The issue with this approach? For one thing, it potentially lets companies freeze unrealized gains that they believe are likely to turn into losses later,"
+
+[More about the case.](https://www.msn.com/en-us/money/markets/nrg-energy-uses-accounting-trick-to-make-earnings-look-less-volatile-wsj/ar-AA1Gx5ci)
 
 ------------------------------------------------------------------------
 
@@ -285,15 +289,14 @@ After recording all transactions consistently according to established accountin
 
 Who uses financial statements, and why do they need them?
 
----
+------------------------------------------------------------------------
 
-- Investors: To assess potential returns and risks, determine if the company is growing sustainably, and make informed decisions about buying, holding, or selling equity.
-- Creditors: To evaluate the company’s ability to meet both short-term and long-term debt obligations, helping them make lending or credit extension decisions.
-- Employees: to evaluate job security and performance compensation.
-- Customers: To assess whether the company is a reliable long-term supplier, especially for critical goods or services.
-- Suppliers: To determine if extending credit is safe.
-- Governments and Regulators: To ensure compliance with tax laws and  monitor economic policies.
-
+-   Investors: To assess potential returns and risks, determine if the company is growing sustainably, and make informed decisions about buying, holding, or selling equity.
+-   Creditors: To evaluate the company’s ability to meet both short-term and long-term debt obligations, helping them make lending or credit extension decisions.
+-   Employees: to evaluate job security and performance compensation.
+-   Customers: To assess whether the company is a reliable long-term supplier, especially for critical goods or services.
+-   Suppliers: To determine if extending credit is safe.
+-   Governments and Regulators: To ensure compliance with tax laws and monitor economic policies.
 
 ------------------------------------------------------------------------
 
@@ -301,10 +304,9 @@ Who uses financial statements, and why do they need them?
 
 The **balance sheet** shows the financial standing of the company on a *specific date*, presenting a clear picture of its resources, obligations, and net worth.
 
-
-- **Liquidity Position**: The split between current and non-current assets and liabilities shows the company's ability to meet short-term obligations.
-- **Capital Allocation**: The types of assets owned and the composition of liabilities vs. equity reveal how effectively resources are being utilized and how risky the financing structure is.
-- **Owner’s Equity**: Provides insight into the accumulated profits, contributed capital, and overall value attributable to shareholders.
+-   **Liquidity Position**: The split between current and non-current assets and liabilities shows the company's ability to meet short-term obligations.
+-   **Capital Allocation**: The types of assets owned and the composition of liabilities vs. equity reveal how effectively resources are being utilized and how risky the financing structure is.
+-   **Owner’s Equity**: Provides insight into the accumulated profits, contributed capital, and overall value attributable to shareholders.
 
 ::: callout-note
 Look at the Formula Sheet for the most common ratios and the real case provided.
@@ -313,7 +315,6 @@ Look at the Formula Sheet for the most common ratios and the real case provided.
 ------------------------------------------------------------------------
 
 ::: callout-warning
-
 **Limitations**
 
 -   it does not reflect the value of the intangible assets such as human capital, or reputation.​
@@ -321,19 +322,17 @@ Look at the Formula Sheet for the most common ratios and the real case provided.
 -   it incorporate various measurement bases: fair value, historical cost, amortized cost, etc.
 :::
 
-
 ------------------------------------------------------------------------
 
 ### 3.4 Statement of Comprehensive Income
 
 Companies are required to present comprehensive income, which includes both profit or loss and other comprehensive income (OCI).
 
-The **Income Statement** shows the company's financial performance, detailing revenues, expenses, and profit or loss for the period. 
+The **Income Statement** shows the company's financial performance, detailing revenues, expenses, and profit or loss for the period.
 
-- However, **some gains and losses do not go directly to profit or loss** but instead are recognized in **Other Comprehensive Income** (OCI). 
+-   However, **some gains and losses do not go directly to profit or loss** but instead are recognized in **Other Comprehensive Income** (OCI).
 
-In practice, companies may choose to present this information either as a **single statement** combining both profit or loss and OCI or as **two separate statements**—one for the profit or loss and another for comprehensive income. 
-
+In practice, companies may choose to present this information either as a **single statement** combining both profit or loss and OCI or as **two separate statements**—one for the profit or loss and another for comprehensive income.
 
 ------------------------------------------------------------------------
 
@@ -343,31 +342,30 @@ The matching principle means that cash inflows and outflows differ from revenues
 
 **Components:**
 
-1. **Operating activities**: Cash from core business operations.
-2. **Investing activities**: Cash from buying/selling long-term assets.
-3. **Financing activities**: Cash from issuing/repaying debt or equity, and paying dividends.
+1.  **Operating activities**: Cash from core business operations.
+2.  **Investing activities**: Cash from buying/selling long-term assets.
+3.  **Financing activities**: Cash from issuing/repaying debt or equity, and paying dividends.
 
 ------------------------------------------------------------------------
 
-### 3.6 Statement of Changes in Equity 
+### 3.6 Statement of Changes in Equity
 
 Shows changes in *Equity* over a specific period, focusing on the main components: *Common Stock* and *Retained Earnings*.
 
 **Components:**
 
-1. **Beginning balance** of equity accounts
-2. **Share Capital**: + capital increase; - capital decrease
-3. **Retained Earnings**: + net income; - net loss; - dividends
-4. **Ending balance** of equity accounts
-
+1.  **Beginning balance** of equity accounts
+2.  **Share Capital**: + capital increase; - capital decrease
+3.  **Retained Earnings**: + net income; - net loss; - dividends
+4.  **Ending balance** of equity accounts
 
 ------------------------------------------------------------------------
 
 Why could other stakeholders be interested in this statement?
 
-- Creditors check if the company is reinvesting enough. Each dollar paid as a dividend is a dollar that cannot be paid later on to credits.​ 
+-   Creditors check if the company is reinvesting enough. Each dollar paid as a dividend is a dollar that cannot be paid later on to credits.​
 
-- External investors also see if the company is increasing its capital base. It indicates that current shareholders see growth opportunities that need to be financed.​
+-   External investors also see if the company is increasing its capital base. It indicates that current shareholders see growth opportunities that need to be financed.​
 
 ------------------------------------------------------------------------
 
@@ -461,6 +459,7 @@ After analyzing the previous steps, we can analyze the company's financial state
    - Different shocks​, efficiencies, innovation, or  new products
 --->
 ```
+
 ------------------------------------------------------------------------
 
 ### 4.3 Areas of Financial Statement Analysis:
@@ -489,8 +488,6 @@ After analyzing the previous steps, we can analyze the company's financial state
 
 ------------------------------------------------------------------------
 
-
-
 **Common rules**
 
 -   Balance sheet items: Ratios are calculated using average values.​
@@ -501,11 +498,11 @@ Check the Formula Sheet for the most common ratios.
 
 ::: callout-note
 Exercice in MS Excel.
-::: 
+:::
 
 ------------------------------------------------------------------------
 
-A very naive approach is to analyze the statement "as they are reported"  without adjusting them.
+A very naive approach is to analyze the statement "as they are reported" without adjusting them.
 
 However, in this course, we will dig deep and learn how to measure them correctly:
 
@@ -518,8 +515,6 @@ However, in this course, we will dig deep and learn how to measure them correctl
 Check my website for an updated version of this presentation:
 
 [https://www.marceloortizm.com/](https://www.marceloortizm.com)
-
-
 
 ```{=html}
 <!--

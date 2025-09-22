@@ -151,7 +151,7 @@ Finance Lease (formerly "Capital Lease"): A lease in which all risks and rewards
 Operating Lease: Prior to 2019, these leases were treated differently, as they didn’t meet the criteria for capital leases.
 
 - Recognition under old standards: Only rental expenses were recognized, with no impact on the balance sheet.
-- IFRS 16 update: Operating leases are now also recognized on the balance sheet as right-of-use assets and lease liabilities, eliminating off-balance-sheet treatment for most leases.
+- IFRS 16 update: Operating leases are now also recognized on the balance sheet as right-of-use assets and lease liabilities, eliminating off-balance-sheet treatment for most leases for the **companies that adopted IFRS 16**.
 
 :::{.notes}
 Structuring Contracts to Keep Leases Off the Balance Sheet:
