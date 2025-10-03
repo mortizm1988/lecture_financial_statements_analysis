@@ -8,7 +8,7 @@ title-slide-attributes:
   data-background-opacity: "0.7"
 author: "Marcelo Ortiz"
 affiliation: "Universitat Pompeu Fabra"
-date: "September 2024"
+date: "September 2025"
 ---
 
 Topics
@@ -23,7 +23,7 @@ Topics
 
 ## 1. The relevance of accounting
 
-The objective of this course: understand how economic events **impact** and and are **reflected** in the financial statements.
+The objective of this course: understand how managerial decisions and economic events **impact** financial statements.
 
 ::: r-stack
 ![](topic_1_img/news_3.png){.fragment}
