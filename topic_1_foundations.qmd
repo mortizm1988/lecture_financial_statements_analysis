@@ -258,6 +258,7 @@ Some rules help us to define these amounts​.
 
 -   **IFRS**: International Financial Reporting Standards
 -   **US GAAP**: Generally Accepted Accounting Principles
+-  **Local GAAP**
 
 Consistency across time and transactions is key!
 
@@ -281,7 +282,7 @@ The same asset can be valued using different methods. What are the managerial in
 
 ------------------------------------------------------------------------
 
-Recent example of opportunistic switch of valuation methods:
+Recent example of opportunistic use of valuation methods:
 
 **"NRG Energy uses 'accounting trick' to make earnings look less volatile"**
 
