@@ -48,6 +48,18 @@ What information is important to capture, process, aggregate, and report?
 5.  Returning goods to suppliers
 6.  Paying employees
 
+```{=html}
+<!--
+Economic events: are those that affect resources or obligations of the entity.
+An economic event can be **recognized** as an accounting event when it:
+1) Directly relates to the entity,
+2) Can be expressed in monetary terms,
+3) Is probable and reliably measurable.
+4) Meets the definition of an element (asset, liability, etc.), and
+
+-->
+```
+
 ------------------------------------------------------------------------
 
 ### 2.2 Accounting Equation
