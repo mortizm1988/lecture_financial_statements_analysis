@@ -8,7 +8,7 @@ title-slide-attributes:
   data-background-opacity: "0.7"
 author: "Marcelo Ortiz"
 affiliation: "Universitat Pompeu Fabra"
-date: "September 2024"
+date: "September 2025"
 ---
 
 Topics
@@ -23,7 +23,7 @@ Topics
 
 ## 1. The relevance of accounting
 
-The objective of this course: understand how economic events **impact** and and are **reflected** in the financial statements.
+The objective of this course: understand how managerial decisions and economic events **impact** financial statements.
 
 ::: r-stack
 ![](topic_1_img/news_3.png){.fragment}
@@ -47,6 +47,18 @@ What information is important to capture, process, aggregate, and report?
 4.  Selling goods or services
 5.  Returning goods to suppliers
 6.  Paying employees
+
+```{=html}
+<!--
+Economic events: are those that affect resources or obligations of the entity.
+An economic event can be **recognized** as an accounting event when it:
+1) Directly relates to the entity,
+2) Can be expressed in monetary terms,
+3) Is probable and reliably measurable.
+4) Meets the definition of an element (asset, liability, etc.), and
+
+-->
+```
 
 ------------------------------------------------------------------------
 
@@ -79,6 +91,10 @@ Key Discussion Points:
     - Past Transactions: Emphasize that liabilities arise from past actions or events, such as purchases on credit or loans taken.
     - Classification: Differentiate between current liabilities (due within one year) and non-current liabilities (due after one year) to help understand the business’s financial structure.
     - Examples and Applications: Use practical examples like accounts payable, wages payable (current liabilities), and long-term bonds or mortgages (non-current liabilities).
+
+  
+Equity is the firms obligation with its owners. It represents the residual interest in the assets of the entity after deducting liabilities. Equity includes items such as common stock, retained earnings, and additional paid-in capital.
+
 -->
 ```
 
@@ -102,6 +118,12 @@ It is the second pillar in accounting. It is the process of recording revenue in
 1.  Recognizing revenue when earned, regardless of when payment is received.
 2.  Expenses should be matched with revenues they helped to generate in the same period, even if payment occurs later.
 
+```{=html}
+<!--
+examples to discuss: condis, airline, gift cards, subscriptions
+-->
+```
+
 ::: callout-note
 In 2018, the FASB (ASC 606) and IFRS (IFRS 15) converged into a standard for revenue recognition. The standard is based on the principle that revenue is recognized when the risk and rewards of the goods or services are transferred to the customer.
 :::
@@ -110,7 +132,7 @@ In 2018, the FASB (ASC 606) and IFRS (IFRS 15) converged into a standard for rev
 
 ### Example Silvana eTravel SA
 
-Let's apply the accounting equation and matching principle to the following transactions:
+Let's apply the accounting equation and matching principle to the transactions of the first month of a small company, Silvana eTravel SA.:
 
 **Transaction 1: Starting the business.**
 
@@ -248,6 +270,7 @@ Some rules help us to define these amounts​.
 
 -   **IFRS**: International Financial Reporting Standards
 -   **US GAAP**: Generally Accepted Accounting Principles
+-  **Local GAAP**
 
 Consistency across time and transactions is key!
 
@@ -271,7 +294,7 @@ The same asset can be valued using different methods. What are the managerial in
 
 ------------------------------------------------------------------------
 
-Recent example of opportunistic switch of valuation methods:
+Recent example of opportunistic use of valuation methods:
 
 **"NRG Energy uses 'accounting trick' to make earnings look less volatile"**
 
