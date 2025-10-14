@@ -62,7 +62,7 @@ What is the impact on the financial statments of the following decisions? Consid
 a. Paying off the original loan in the 5th year.
 b. Refinancing the previous loan but with a 10% interest rate (principal is not paid, debt restructure)
 
-Compare b and c regarding their impact on liquidity (current and cash ratio), solvency (debt to assets), profitability (net profit ratio) during the transition from year 4 to year 5. 
+Compare a and b regarding their impact on liquidity (current and cash ratio), solvency (debt to assets), profitability (net profit ratio) during the transition from year 4 to year 5. 
 
 ---
 
@@ -117,7 +117,7 @@ From the Balance Sheet, check the total amount on financial liabilities.
 More advance: From the footnotes, collect the following information: type of instruments, maturities, interest rates, ranking/seniority, redemption, and covenants.
 
 - Apple: Check Note "Debt".
-- Mercedes: Check "Combined Management Report>Refinancing", and Note "Financing liabilities".
+- Mercedes: Check "Combined Management Report>Refinancing", and Notes "Management of financial risks" (liquidity runoff), "Financing liabilities".
 
 To Discuss:
 
@@ -231,26 +231,12 @@ The lessor’s accounting remains largely unchanged
 
 Apple: Note - Leases.
 
-Mercedes: Note - Equipment in operating leases
+Mercedes: Notes - "Lease" "Equipment in operating leases"
 
 
 1) Identify the type of assets being leased.
 2) Identify where the lease asset and the lease liability are reported.
 4) Identify the lease maturity schedule.
-
----
-
-### Impact of Operating Leases on Financial Statements
-
-1. Understate liabilities by keeping lease obligations out of the balance sheet. Impact solvency ratios.
-1. Understate assets, inflating return on investment and assets turnover ratios.
-2. Delay the recognition of expenses, inflating net income and EPS.
-
-Now it should be clear why operating leases were so popular: it positively affects key ratios that are used by investors and creditors to assess the financial health of the company.
-
-<!-- 
-So, if we suspect that a company is using operating leases to keep liabilities out of the balance sheet, we should try to quantify the impact of the operating leases on the financial statements.
--->
 
 ---
 
