@@ -1,10 +1,10 @@
-# Financial Statements Analysis
+# Financial Accounting For Managers
 
 ## Course Description
 
-This course covers the key concepts of financial statement analysis. Each topic explores different corporate policies, such as financing and investing. We will begin by discussing typical accounting events and their impact on financial statements. Then, we will learn how to interpret financial statements from the perspective of an external user.
+This course covers the key concepts of financial statement analysis from a managerial perspective. Each topic explores different corporate policies, such as financing and investing decisions. 
 
-The course is designed for students interested in various business areas, including consulting, investment banking, general management, and entrepreneurship. It is not a bookkeeping course, but rather focuses on how corporate decisions are reflected in financial statements and how to analyze them.
+The course is designed for students interested in various business areas, including general management, consulting, investment banking, and entrepreneurship. It is not a bookkeeping course, but rather focuses on how corporate decisions are reflected in financial statements and how to analyze them.
 
 
 | Topic                                     | Key Concepts                                                                                                                                              |
