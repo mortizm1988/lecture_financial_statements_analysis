@@ -29,7 +29,7 @@ Our analysis starts distinguishing between two types of liabilities:
 
 1. Financing liabilities: all forms of credit financing, such as bank loans, bonds, and leases.
 
-2. Operating liabilities: obligations that arise from normal business operations, such as accounts payable, accrued expenses, and taxes payable.
+2. Operating liabilities: obligations that arise from normal business operations, such as accounts payable, leases, accrued expenses, and taxes payable.
 
 Of course, by traditional reporting purposes, liabilities are also classified as current or noncurrent, based on whether the obligation is expected to be satisfied within one year or the operating cycle, whichever is longer.
 
@@ -308,9 +308,9 @@ They are generally **off-balance-sheet** items and disclosed in the notes, expla
 
 Search: Balance sheet "Commitments and Contingencies."
 
-Apple: "Note 12 " and "Item 3: legal proceedings".
+Apple: Note - "Commitments ..." " and "Item 3: legal proceedings".
 
-Mercedes: "Note 23 Provisions for other risks", Notes 30  and 31. 
+Mercedes: Notes - "Provisions for other risks", " Legal Proceedings", "Contingent Liabilities" 
 
 1) What type of commitments the company has? (Apple: UPO!!)
 2) What is the most important type of contingent liabilities?  
@@ -377,8 +377,7 @@ Why SPEs are so popular?
 Reporting of Joint Ventures and SPEs:
 
 - Very limited information in the annual reports:
-  - Check Apple: "Exhibit 21.1"
-  - Mercedes: "Note 13"
+  - Check Apple and Mercedes Benz
 
 - In practice, it is more common to rely on specialized business databases like [Orbis](https://www.bvdinfo.com/en-gb/) or [Capital IQ](https://www.spglobal.com/marketintelligence/en/solutions/sp-capital-iq-pro). 
 
