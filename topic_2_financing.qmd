@@ -344,7 +344,7 @@ Typical financing strategy:
 
 JVs are use to avoid recognizing liabilities on the parent company's balance sheet. 
 
-- Non-consolidation: When the parent company holds less than 50% of the JV (or lacks control per IFRS 10), the JV’s assets and liabilities are not consolidated into the parent company’s financial statements. This keeps debt associated with the JV off the balance sheet of the parent company.
+- Non-consolidation: When the parent company holds less than 50% of the JV' shares with voting rights (or lacks control per IFRS 10), the JV’s assets and liabilities are not consolidated into the parent company’s financial statements. This keeps debt associated with the JV off the balance sheet of the parent company.
 
 - Leaseback arrangements: A common tactic is for the JV to purchase assets financed by its own debt and lease/rent them back to the parent company. The parent gets to use the assets while keeping the debt off its balance sheet.
 
@@ -359,9 +359,9 @@ A special purpose entity (SPE) is a legal entity created to fulfill narrow, spec
 The typical structure of an SPE:
 
 1. The company, called the _sponsor_, forms a separate entity and capitalizes it with equity investment, some of which must be from independent third parties.
-   -   the sponsor do not control the SPE to avoid consolidation.
-2. The SPE issues debt and uses the proceeds to purchase earnings assets from or for the sponsoring company.
-3. The sponsoring company receives the cash from the transaction and removes the earnings assets from its balance sheet.
+   -   again, the sponsor does not control the SPE to avoid consolidation.
+2. The SPE issues debt and uses the proceeds to purchase earnings assets from or for the sponsoring company (i.e., receivables)
+3. The sponsoring company receives the cash from the transaction and removes the earnings assets from its balance sheet, without recognizing a liability.
 
 ---
 
@@ -410,7 +410,7 @@ Example:
     
     - Why? as an attempt to increase the share price or limiting dilution.
     
-    -  It reduces both contributed assets and total equity (_contra-equity account_).
+    -  It reduces both contributed capital and total equity (_contra-equity account_).
     -  Recorded at cost value.
 
 ---
@@ -505,7 +505,7 @@ Common variations in the capital stock:
 
 Less common reasons to keep in mind:
 
--  Stock options with compensation and bonus plans calling for the issuance of capital stock over some time at fixed prices (i.e., employee stock ownership plan)
+-  Stock options in executive compensation and bonus plans calling for the issuance of capital stock over some time at fixed prices (i.e., employee stock ownership plan)
 -  Commitments to issue capital stock in the future (i.e., stock warrants, or merger agreements) 
   
 
