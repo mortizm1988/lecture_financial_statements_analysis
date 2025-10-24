@@ -62,10 +62,10 @@ Caution: companies might have more cash than the amount reported in the balance 
 Example Apple and Mercedes \[10 min\]
 
 1)  Search: Balance sheet: cash and cash equivalents
-2)  Apple: Note 4 - Financial Instruments -\> "Cash, Cash Equivalents,..."
+2)  Apple: Note  - Financial Instruments -\> "Cash, Cash Equivalents,..."
 3)  Mercedes: Note 32 (look for cash & cash equivalents)
 
--   How is cash an cash equivalents distributed/invested=
+-   How is cash an cash equivalents distributed/invested?
 -   How much cash is restricted? What is the reason/nature of restrictions?
 
 ```{=html}
@@ -125,7 +125,7 @@ Companies do not collect 100% of their receivables.
 Exercise in MS Excel.
 :::
 
-Nov 1: "Silvana eTravel" provides services worth \$1,000 on credit to customers.
+Nov 1: "Silvana eTravel" provides services worth \$1,000 on credit to clients.
 
 The company expects to collect the money in 90 days but estimates that 5% of the credit sales will be uncollectible.
 
@@ -133,8 +133,8 @@ The company expects to collect the money in 90 days but estimates that 5% of the
 
 2)  Scenarios:
 
-    a)  Customers end up not paying back 20% of the credit sales.
-    b)  Customers end up paying 100% of the credit sales.
+    a)  clients end up not paying back 20% of the credit sales.
+    b)  clients end up paying 100% of the credit sales.
 
 Notice the capacity of receivables to distort the earnings across periods. Too optimistic vs pessimistic estimates.
 
@@ -150,7 +150,6 @@ this scenario could happen at least in two ways:
 
 ### 2.2 Analyzing receivables
 
--   Is there any error or arbitrariness in estimating the allowance for uncollectable accounts?
 -   Managers' incentives to overstate or understate the allowance for uncollectable accounts
 -   Bad news: information to assess collection risk for receivables is not included in the financial statements. Thus, we need to look for other sources of information:
     -   Peer's receivables as a percentage of sales
@@ -174,15 +173,16 @@ The consolidation rules regarding SPEs (Special Purpose Entities) are complex an
 
 [FIN 46R](https://fasb.org/Page/ShowPdf?path=fin+46R.pdf&title=FIN+46%28R%29+%28AS+ISSUED%29&acceptedDisclaimer=true&Submit=)
 -->
+```
 
 ---
 
 Example Apple and Mercedes  [5 min]
 
 1) Search: Balance sheet: "accounts receivable, net" or "trade receivables"
-2) Apple: Note 4 - Financial Instruments -> "Accounts Receivable"
-3) Mercedes: Note 19 - Trade Receivables; Note 33 -->
-```
+2) Apple: Note  - Financial Instruments -> "Accounts Receivable"
+3) Mercedes: Notes "Trade Receivables" and "Financial instruments"
+
 
 "Receivables from financial services"
 
@@ -195,7 +195,6 @@ Example Apple and Mercedes  [5 min]
 
 ```{=html}
 <!--
-!--
 the focus here
 1) Accounting inventory methods have a clear impact on profitabity
 2) People tend to think that operating expenses increased when production increases. However, this is not the case. The costs are hidden in the inventory.
@@ -211,7 +210,7 @@ Let focus on Merchandising companies (retailers) now (later we will see Manufact
 Inventory decisions have two impacts on financial statements:
 
 1.  At origination: Current assets (historical acquisition cost) and cash/payables.
-2.  Then, as the inventory is sold, these costs are removed from the balance sheet and flow to the income statement as *Cost Of Good Sold* (COGS).
+2.  Then, as the inventory is sold, these values are removed from the balance sheet and flow to the income statement as *Cost Of Good Sold* (COGS).
 
 ------------------------------------------------------------------------
 
@@ -279,7 +278,7 @@ The impact of inflation on financial statements via inventory methods:
 -   Balance sheet: FIFO results in higher inventory than LIFO when input prices are rising
 -   Cash flows: liquidity squeeze under FIFO when input prices are rising.
     -   More profit implies more (cash) tax payments.
-    -   Inventory needs to be replaced at a replacement cost higher than the original costs. This can be a severe problem in high inflation environments such as Argentina in the 80s and 90s or the US in the 70s.
+    -   Inventory needs to be replaced at a market cost higher than the original costs. This can be a severe problem in high inflation environments such as Argentina in the 80s and 90s or the US in the 70s.
 
 ------------------------------------------------------------------------
 
@@ -350,8 +349,8 @@ develop this takeaway intuitively:
 Example Apple and Mercedes \[5 min\]
 
 1)  check the balance sheet: inventory
-2)  Apple: "Note 1: Summary of Significant Accounting Policies" and go to inventory
-3)  Mercedes: "Note 1"--\> inventories; "Note 18. Inventories"
+2)  Apple: Note: "Summary of Significant Accounting Policies" and go to inventory
+3)  Mercedes: "Note 1" and search for inventory method"; then look for the note dedicated to inventories.
 
 -   How much is the inventory?
 -   What inventory method is used?
@@ -423,7 +422,7 @@ How does the solution change if the company uses the **units of production** met
 -   carrying amount after 2 years: 800,000-112,500-172,500= \$515,000
 
 ::: {.callout-note appearance="simple"}
-Different depreciation methods lead to different profiles of depreciation expenses, impacting the distribution of the expenses across time.
+Different depreciation methods lead to different profiles of depreciation expenses, impacting the distribution of the net profits across time.
 :::
 
 ```{=html}
@@ -457,8 +456,8 @@ These impacts are not the same if the company is expanding or renovating its PPE
 Example Apple and Mercedez \[5 min\]
 
 1)  Check the balance sheet: Property, plant and equipment, Net
-2)  Apple: "Note 1: Summary of Significant Accounting Policies" and go to "Property, Plant and Equipment";"Note 5 – Property, Plant and Equipment".
-3)  Mercedes: "Note 1"--\> "Property, Plant and Equipment"; "Note 11. Property, Plant and Equipment"
+2)  Apple: "Note 1: Summary of Significant Accounting Policies" and go to "Property, Plant and Equipment";"Note – Property, Plant and Equipment".
+3)  Mercedes: "Note 1"--\> "Property, Plant and Equipment"; "Note - Property, Plant and Equipment"
 
 -   How much is in PPE? How it is distributed among assets?
 -   What method is used to depreciate PPE? Expected useful life?
@@ -506,8 +505,14 @@ Impacts on financial statements:
 2)  2 million euros is recognized as a loss in the income statement.
     -   "Other Income Expenses" in "Operating profit."
 
+------------------------------------------------------------------------
+
 ::: callout-note
-Discuss the incentives behind write-downs decisions: - who knows the FV and Value-in-use? - timing and amount.
+Discuss the incentives behind write-downs decisions: 
+
+- who knows the FV and Value-in-use? 
+- timing and amount.
+
 :::
 
 ------------------------------------------------------------------------
@@ -652,15 +657,13 @@ If Company "Parent Ltd" acquires 80% of "Child Ltd", it will:
 
 Example Intangibles and acquisitions
 
--   Mercedez: Note 10
+-   Mercedez: Note "Intangible assets"
 
 Questions:
 
 -   What intangible assets the company hold?
-
 -   Any sharp change in their carrying amounts? further explanations from the managers?
-
--   where the amortization expenses are reported
+-   where the amortization expenses are reported?
 
 ------------------------------------------------------------------------
 
