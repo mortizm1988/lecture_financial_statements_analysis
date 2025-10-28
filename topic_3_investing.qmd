@@ -191,6 +191,12 @@ Example Apple and Mercedes  [5 min]
 -   How is the distribution of net receivables among gross and allowance for doubtful accounts?
 -   Signs of increasing collection risk?
 
+```{=html}
+<!--
+Next year: add IFRS 9 and Analysis of stage 1, 2, and 3 in loss allowance
+-->
+```
+
 ## 3. Inventory methods and inflation
 
 ```{=html}
@@ -352,9 +358,10 @@ Example Apple and Mercedes \[5 min\]
 2)  Apple: Note: "Summary of Significant Accounting Policies" and go to inventory
 3)  Mercedes: "Note 1" and search for inventory method"; then look for the note dedicated to inventories.
 
--   How much is the inventory?
 -   What inventory method is used?
--   is the inventory composition suggestive of future changes in the demand?
+-   How much inventory is there, and how is it distributed?
+-   Were there any significant write‑downs during the year? If so, is there an explanation?
+-   Does the inventory composition suggest future changes in demand?
 
 ## 4. Long-term assets and capitalization
 
