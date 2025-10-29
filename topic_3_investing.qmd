@@ -63,7 +63,7 @@ Example Apple and Mercedes \[10 min\]
 
 1)  Search: Balance sheet: cash and cash equivalents
 2)  Apple: Note  - Financial Instruments -\> "Cash, Cash Equivalents,..."
-3)  Mercedes: Note 32 (look for cash & cash equivalents)
+3)  Mercedes Benz: Note 32 (look for cash & cash equivalents)
 
 -   How is cash an cash equivalents distributed/invested?
 -   How much cash is restricted? What is the reason/nature of restrictions?
@@ -181,7 +181,7 @@ Example Apple and Mercedes  [5 min]
 
 1) Search: Balance sheet: "accounts receivable, net" or "trade receivables"
 2) Apple: Note  - Financial Instruments -> "Accounts Receivable"
-3) Mercedes: Notes "Trade Receivables" and "Financial instruments"
+3) Mercedes Benz: Notes "Trade Receivables" and "Financial instruments"
 
 
 "Receivables from financial services"
@@ -356,7 +356,7 @@ Example Apple and Mercedes \[5 min\]
 
 1)  check the balance sheet: inventory
 2)  Apple: Note: "Summary of Significant Accounting Policies" and go to inventory
-3)  Mercedes: "Note 1" and search for inventory method"; then look for the note dedicated to inventories.
+3)  Mercedes Benz: "Note 1" and search for inventory method"; then look for the note dedicated to inventories.
 
 -   What inventory method is used?
 -   How much inventory is there, and how is it distributed?
@@ -460,11 +460,11 @@ These impacts are not the same if the company is expanding or renovating its PPE
 
 ------------------------------------------------------------------------
 
-Example Apple and Mercedez \[5 min\]
+Example Apple and Mercedes \[5 min\]
 
 1)  Check the balance sheet: Property, plant and equipment, Net
 2)  Apple: "Note 1: Summary of Significant Accounting Policies" and go to "Property, Plant and Equipment";"Note – Property, Plant and Equipment".
-3)  Mercedes: "Note 1"--\> "Property, Plant and Equipment"; "Note - Property, Plant and Equipment"
+3)  Mercedes Benz: "Note 1"--\> "Property, Plant and Equipment"; "Note - Property, Plant and Equipment"
 
 -   How much is in PPE? How it is distributed among assets?
 -   What method is used to depreciate PPE? Expected useful life?
@@ -584,7 +584,7 @@ What is the carrying value of the Trademark in the balance sheet at the end of t
 | A        | 1,000,000      | 1,200,000  | \-              |
 | B        | 1,000,000      | 800,000    | 200,000         |
 
-Therefore, in scenario B the carrying value of the Trademark is 800,000.
+Therefore, in scenario B the carrying value of the Trademark is updated to 800,000.
 
 ------------------------------------------------------------------------
 
@@ -664,7 +664,7 @@ If Company "Parent Ltd" acquires 80% of "Child Ltd", it will:
 
 Example Intangibles and acquisitions
 
--   Mercedez: Note "Intangible assets"
+-   Mercedes Benz: Note "Intangible assets"
 
 Questions:
 
