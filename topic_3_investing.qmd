@@ -296,7 +296,7 @@ However, the generally accepted principle of inventory valuation requires that i
 
 The LCM rule is applied when the market value of inventory is lower than its cost.
 
-Reasons:
+Accounting events:
 
 -   obsolete inventory
 -   damaged inventory
@@ -344,7 +344,7 @@ Instead of expensing these costs as period expenses, they are included in the co
 ```{=html}
 <!--
 develop this takeaway intuitively: 
-- what happen with the production costs when production increases?
+- what happen with the production costs when production increases?ˇ
 - where is the increased cost being hidden?
 - what happens with the income statement?
 -->
@@ -380,7 +380,7 @@ focus:
 
 ### 4.1 Capitalization and Cost allocation
 
-Capitalization: the cost of an asset is recorded as an asset rather than an expense.
+Capitalization: the cost of an asset is recorded as an asset rather than as an expense.
 
 -   Hard assets, such as PPE: assets recorded at acquisition cost (purchase price + all costs necessary to get the asset ready for use) and allocated ("expensed") over their useful life.
 
