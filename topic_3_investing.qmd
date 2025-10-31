@@ -411,7 +411,7 @@ The purchase of a new machine has the following characteristics:
 -   Expected useful life: 5 years
 -   total production capacity: 100,000 units (15,000 units in year 1 and 23,000 units in year 2)
 
-What is the carrying amount of the machine after two years if the company uses the **straight-line method**?\
+What is the carrying amount in the Balance Sheet of the machine after two years if the company uses the **straight-line method**?\
 How much depreciation expense is recorded in the income statement in year 2?
 
 ------------------------------------------------------------------------
@@ -477,7 +477,7 @@ $$\text{Average residual life}=\frac{\text{Net PPE}}{\text{Depreciation expense}
 
 ### 4.2 Impairments
 
-Impairment: is the write-down of an long-term asset when its carrying value ("Net PPE") exceeds its recoverable amount. [IFRS IAS 36](https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/).
+Impairment: is the write-down of an long-term asset when its carrying value ("Net PPE") exceeds its recoverable amount ([IFRS IAS 36](https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/)).
 
 -   Recoverable amount. The higher of:
     -   Fair value less cost to sell
@@ -552,12 +552,12 @@ Definition: Intangible assets are long-term assets that have no physical substan
 
 Accounting of intangible assets:
 
--   Purchased intangible assets are recorded at historical cost.
--   Internally generated intangible assets are expensed as incurred.
+-   **Purchased intangible assets** are recorded at historical cost.
+-   **Internally generated intangible assets** are expensed as incurred.
     -   R&D cost (at least in the US and just "R" in most of Europe)
     -   Why? Accounting conservatism: too much uncertainty about the future benefits of these assets.
--   Exceptions: Software development costs are capitalized, also some identifiable intangible assets such as patents, trademarks, etc.
-    -   The capitalized costs of these cases may include legal fees, design and testing costs, registration fees, and other direct expenditures.
+        -   Exceptions: Software development costs are capitalized, also some identifiable intangible assets such as patents, trademarks, etc.
+            -   The capitalized costs of these cases may include legal fees, design and testing costs, registration fees, and other direct expenditures.
 
 ------------------------------------------------------------------------
 
@@ -568,8 +568,7 @@ a)  Finite useful life: amortization
     -   Amortization: the allocation of the cost of an intangible asset over its useful life.
 b)  Indefinite useful life: no amortization
     -   Examples: Trademarks, brands, goodwill.\
-    -   Impairment test at least annually.
-    -   min{Carrying value, PV of expected future cash flows / FV}
+    -   Impairment test at least annually (IAS 36, as discussed before).
 
 ------------------------------------------------------------------------
 
@@ -588,6 +587,19 @@ Therefore, in scenario B the carrying value of the Trademark is updated to 800,0
 
 ------------------------------------------------------------------------
 
+Example Intangibles 
+
+-   Mercedes Benz: Note "Intangible assets"
+
+Questions:
+
+-   What intangible assets the company hold?
+-   Any sharp change in their carrying amounts? further explanations from the managers?
+-   Where the amortization expenses are reported?
+
+
+------------------------------------------------------------------------
+
 ## 6. Corporate Aquisition
 
 ### Why Do Companies Acquire Others?
@@ -603,8 +615,8 @@ Therefore, in scenario B the carrying value of the Trademark is updated to 800,0
 ### 6.1 Acquisition and Goodwill value
 
 -   **Goodwill** is the amount by which the purchase price exceeds the **fair value** of the acquired company’s identifiable net assets.
-    -   It represents **intangible assets** such as brand reputation, customer relationships, or patents that are not separately identifiable.
-    -   **IFRS 3** requires goodwill to be recognized as an asset on the balance sheet.
+    -   It represents off-balance-sheet **intangible assets** such as brand reputation, customer relationships, social capital that are not separately identifiable.
+    -   **IFRS 3** requires goodwill to be recognized as an asset on the balance sheet of the acquiring company.
     -   **Impairment testing**: Goodwill is tested annually for impairment under **IAS 36**. If impaired, it reduces profit.
 
 ------------------------------------------------------------------------
@@ -612,7 +624,7 @@ Therefore, in scenario B the carrying value of the Trademark is updated to 800,0
 **Example**
 
 -   Purchase price paid by "Parent Ltd" : \$1,000,000
--   Fair value of Identifiable net assets of Company "Child Ltd":
+-   Fair value of Identifiable Net Assets of Company "Child Ltd":
     -   Cash: \$50,000
     -   Property: \$500,000
     -   Equipment: \$200,000
@@ -632,13 +644,13 @@ Therefore, in scenario B the carrying value of the Trademark is updated to 800,0
     -   Acquisition-related expenses (e.g., legal fees) are reported.
     -   Goodwill impairment tests may reduce profits.
 -   Cash Flow Statement:
-    -   cash used in acquisition costs is reported as investing cash outflows.
+    -   Cash used in acquisition costs is reported as investing cash outflows.
 
 ------------------------------------------------------------------------
 
 ### 6.2 Consolidation
 
-**Consolidation requirement**: after acquiring another company, the acquiring company must consolidate the financial statements of the acquired company to present a unified view of the group.
+**Consolidation requirement**: the acquiring company must consolidate the financial statements of the acquired company to present a unified view of the group.
 
 -   Establishing Control: Consolidation is required when the acquiring company has control over the acquired entity. Control is defined as:
 
@@ -647,7 +659,6 @@ Therefore, in scenario B the carrying value of the Trademark is updated to 800,0
     -   Having the ability to use its power to affect those returns.
 
 -   **Consolidation Process**: Involves combining **100%** of the acquired company's assets, liabilities, revenue, and expenses with those of the acquirer, regardless of ownership percentage.
-
 -   Non-Controlling Interests (NCI): If the acquirer owns less than 100% of the acquired company, IFRS requires an adjustment for the NCI. This portion represents the equity interest that is not attributable to the parent company.
 
 ------------------------------------------------------------------------
@@ -658,19 +669,19 @@ If Company "Parent Ltd" acquires 80% of "Child Ltd", it will:
 
 -   Consolidate 100% of Company "Child Ltd" assets and liabilities on the balance sheet, and 100% of its revenue and expenses on the income statement.
     -   intra-group transactions/obligations must been excluded before consolidation.
--   Report the remaining 20% as non-controlling interest in the equity section, representing the portion of equity owned by other shareholders if "Child Ltd".
+-   Report the remaining 20% as non-controlling interest in the equity section, representing the portion of equity owned by other shareholders in "Child Ltd".
 
 ------------------------------------------------------------------------
 
-Example Intangibles and acquisitions
+Example Consolidation
 
--   Mercedes Benz: Note "Intangible assets"
+-   Mercedes Benz: Note "Information on investments"
 
 Questions:
 
--   What intangible assets the company hold?
--   Any sharp change in their carrying amounts? further explanations from the managers?
--   where the amortization expenses are reported?
+- How is the group structured?
+- Where the subsidiaries and joint ventures are located?
+- What information is disclosed for each of them?
 
 ------------------------------------------------------------------------
 
