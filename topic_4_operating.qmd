@@ -101,15 +101,16 @@ Cost of sales and other operating expenses:
 
 ------------------------------------------------------------------------
 
-Example Apple \[20 min\]
+Example  \[20 min\]
 
 1)  Apple: Consolidated Statements of Operations, and Notes 2, 13.
 
-2)  Mercedez: Consolidated Statement of Income, and Notes 4, 5, 34.
+2)  Mercedez: Consolidated Statement of Income, and Notes 5, 6, 34.
 
 -   How much were the net sales? Which product/service/segment represented the largest share of sales? Which grew the most?
 -   Operating Expenses/ Functional costs: how were they distributed? Which one was growing the most? Any clear explanation?
--   Product/Service/segment: which one was more profitable? are profits stable?
+-   Product/Service/segment: which one was more profitable? 
+-   To what extent are operating profits stable?
 
 ------------------------------------------------------------------------
 
@@ -134,7 +135,7 @@ Components of comprehensive income:
 
 1.  Net income
 2.  Other comprehensive income:
-    1.  Unrealized gains or losses that result from changes in the fair value available-for-sale investment securities.
+    1.  Unrealized gains or losses that result from changes in the fair value of available-for-sale securities.
     2.  Unrealized gains or losses arising from the effective portion of cash flow hedges (derivatives);
     3.  Foreign currency translation gains and losses.
     4.  Changes in the funded status of post-retirement benefits not included in net income.
@@ -142,7 +143,7 @@ Components of comprehensive income:
 
 ```{=html}
 <!--
-Statement of Changes in equity is linked to the statement of comprehensive income
+Statement of Changes in Equity is linked to the statement of comprehensive income
 1) issued shared capital
 2) dividend payment
 3) net income
@@ -154,7 +155,7 @@ Statement of Changes in equity is linked to the statement of comprehensive incom
 
 ### 1.3 Analysis of accounting income:
 
-So, what is the correct way to capture recurrent income❓
+So, what is the correct way to capture recurrent income?
 
 A huge debate about what lines should be included (excluded) when measuring income:
 
@@ -201,7 +202,7 @@ Analysis of discontinued operations:
 -   Discontinued operations are not expected to recur, so they are irrelevant for determining the permanent income,
 -   The adjustment is straightforward.
     -   For the current and past two years because companies must restate their income statements, reporting the income of discontinued operations separately.
-    -   Amounts for assets and liabilities are typically provided in footnote disclosures.
+    -   Amounts for assets and liabilities are typically provided in footnotes.
 
 ------------------------------------------------------------------------
 
@@ -211,7 +212,7 @@ Managers may change accounting methods or estimates for a variety of reasons, in
 
 -   Adopt new accounting standards.
 -   To better reflect changes in business conditions.
--   To manage earnings.
+-   To manipulate earnings.
 
 Of course, accounting regulations discourage managers from applying unjustified changes in accounting methods or estimates.
 
@@ -219,13 +220,13 @@ Of course, accounting regulations discourage managers from applying unjustified 
 
 Types of accounting changes
 
-1.  Change in accounting principle
+1.  Change in accounting principles
 
 e.g., change from Average to FIFO in inventory method, or from straight-line to accelerated depreciation.
 
-Importantly, the application of the changed principle should be **reported retrospectively**.
+Importantly, the application of the new principle should be **reported retrospectively**.
 
-This means that all current and prior period information in the income statement and balance sheet will reflect the effects of the new principle.
+This means that all current and prior periods information in the income statement and balance sheet will reflect the effects of the new principle.
 
 ------------------------------------------------------------------------
 
@@ -247,7 +248,7 @@ The change should be reflected in the financial statements **prospectively** (so
 
 Analysis of accounting changes:
 
-In both cases (accounting principle and estimate), the analyst must consider that the accounting changes yield no cash flow consequences, either present or future.
+In both cases (accounting principle and estimate), the analyst must consider that the accounting changes do'nt yield  cash-flow consequences, either present or future.
 
 But this does not mean that the changes are irrelevant or mere cosmetics: sometimes, they are used to manage earnings or can reflect a new economic reality.
 
@@ -297,7 +298,7 @@ Special items are a cumbersome topic among analyst.
 
 -   First, the economic implications of special items, such as restructuring charges, are complex.
 
--   Second, many special items are discretionary and, hence, serve earnings management aims.
+-   Second, many special items are discretionary and, hence, can be used to manipulate earnings.
 
 ------------------------------------------------------------------------
 
@@ -384,9 +385,9 @@ So, even though R&D costs are (intangible) capital investments by nature, they a
 
 IFRS [(IAS 38)](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2021/issued/part-a/ias-38-intangible-assets.pdf) allows capitalization of R&D costs in the later stages ("*development*") if certain conditions are met:
 
--   the technical feasibility of completing the intangible asset so that it will be available for use or sale
--   the intention to complete the intangible asset and use or sell it
--   the ability to use or sell the intangible asset
+-   the technical feasibility of completing the intangible asset so that it will be available for use or sale.
+-   the intention to complete the intangible asset and use or sell it.
+-   the ability to use or sell the intangible asset.
 
 ------------------------------------------------------------------------
 
@@ -526,9 +527,9 @@ This topic can take a whole course, so we will just focus on two core points. An
 
 ------------------------------------------------------------------------
 
-Example Apple and Grifols 2022
+Example Apple and Mercedez Benz
 
-Check Note 5.
+Check Note on "income tax".
 
 ------------------------------------------------------------------------
 
@@ -714,9 +715,9 @@ $$ \text{Diluted EPS} = \frac{3,000,000 - 50,000 +[(5,000,000 \times 6\%)(1 - 0.
 
 ------------------------------------------------------------------------
 
-Example Apple 2020
+Example Apple and Mercedes-Benz
 
-1)  Search "EPS" in the Consolidated Statements of Operations.
+1)  Search "EPS" in their Income Statement.
 2)  Compare with the forecasts of the analyst in [Yahoo Finance](https://finance.yahoo.com/quote/AAPL/analysis?p=AAPL).
 3)  Are analyst forecasting an increase in EPS?
 4)  What is the effect of the stock buyback program "Capital Return Program" in the EPS?
