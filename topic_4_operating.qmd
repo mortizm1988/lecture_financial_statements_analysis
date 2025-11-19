@@ -202,7 +202,7 @@ Analysis of discontinued operations:
 -   Discontinued operations are not expected to recur, so they are irrelevant for determining the permanent income,
 -   The adjustment is straightforward.
     -   For the current and past two years because companies must restate their income statements, reporting the income of discontinued operations separately.
-    -   Amounts for assets and liabilities are typically provided in footnotes.
+    -   Details on these assets and liabilities held for disposal are typically provided as footnotes.
 
 ------------------------------------------------------------------------
 
@@ -226,13 +226,13 @@ e.g., change from Average to FIFO in inventory method, or from straight-line to 
 
 Importantly, the application of the new principle should be **reported retrospectively**.
 
-This means that all current and prior periods information in the income statement and balance sheet will reflect the effects of the new principle.
+This means that current and prior periods information in the income statement and balance sheet should reflect the new principle.
 
 ------------------------------------------------------------------------
 
 2.  Change in accounting estimate
 
-e.g., change in the estimated useful life of a depreciable asset, uncollectible receivable, warranty obligations, etc.
+e.g., change in the estimated useful life of a depreciable asset, loss allowances, warranty obligations, etc.
 
 If managers update their beliefs about the future, they should update their estimates: economic crisis and allowance of doubtful accounts.
 
@@ -248,9 +248,9 @@ The change should be reflected in the financial statements **prospectively** (so
 
 Analysis of accounting changes:
 
-In both cases (accounting principle and estimate), the analyst must consider that the accounting changes do'nt yield  cash-flow consequences, either present or future.
+In both cases (accounting principle and estimate), the analyst must consider that the accounting changes don't yield  cash-flow consequences, either present or future.
 
-But this does not mean that the changes are irrelevant or mere cosmetics: sometimes, they are used to manage earnings or can reflect a new economic reality.
+But this does not mean that the changes are irrelevant or mere cosmetics: they can reflect a new economic reality (or an attempt to improve reported earnings).
 
 Furthermore, the changes can affect the comparability of financial statements across periods, even within the same company.
 
@@ -262,7 +262,7 @@ Extraordinary items are events and transactions that are **both unusual in natur
 - Unusual in nature: high degree of abnormality and unrelated to the ordinary and typical activities of the company.
 - Infrequent occurrence: not reasonably expected to recur in the foreseeable future.
  
-Before 2015, Extraordinary items were reported in the Income Statement. Now this information can be found in the footnotes and MDA ([ASU 2015-01](https://fasb.org/page/document?pdf=ASU+2015-01.pdf&title=UPDATE%20NO.%202015-01%E2%80%94INCOME%20STATEMENT%E2%80%94EXTRAORDINARY%20AND%20UNUSUAL%20ITEMS%20(SUBTOPIC%20225-20):%20SIMPLIFYING%20INCOME%20STATEMENT%20PRESENTATION%20BY%20ELIMINATING%20THE%20CONCEPT%20OF%20EXTRAORDINARY%20ITEMS)).
+
 
 ---
 ### Analysis of extraordinary items:
@@ -274,27 +274,34 @@ Before 2015, Extraordinary items were reported in the Income Statement. Now this
 
 ------------------------------------------------------------------------
 
-### 2.3 Special items (US GAAP)
+### 2.3 Extraordinary and Unusual Items
 
-Transactions and events that are **unusual or infrequent.**
+Now called **"Unusual or Infrequently Occurring Items**
 
 a)  Restructuring charges.
 
-b)  write-offs (goodwill, inventory, and PP&E).
+b)  Major Casualties: Rare natural disasters (write-offs).
 
-c)  gains or losses from the sale of assets or investments.
+c)  Expropriation or new regulation (e.g., sudden ban on a product line)
 
-d)  legal settlements.
+d)  Major legal settlements.
 
 ------------------------------------------------------------------------
 
 By large, they are the most common and important class of nonrecurring items.
 
--   1980s: just 1% of companies reported special items.
--   today: nearly 50% of the US companies report special items.
+-   1980s: just 1% of companies reported special or extraordinary items.
+-   by 2015: nearly 50% of the US companies report them.
 -   2% of total revenues.
 
-Special items are a cumbersome topic among analyst.
+------------------------------------------------------------------------
+
+Before 2015, extraordinary items were reported at the bottom of the Income Statement. 
+
+Now, if the event is material, it should be reported as a separate line item on the Income Statement (normally as operating expenses), or disclose it in the notes to the financial statements ([ASU 2015-01](https://fasb.org/page/document?pdf=ASU+2015-01.pdf&title=UPDATE%20NO.%202015-01%E2%80%94INCOME%20STATEMENT%E2%80%94EXTRAORDINARY%20AND%20UNUSUAL%20ITEMS%20(SUBTOPIC%20225-20):%20SIMPLIFYING%20INCOME%20STATEMENT%20PRESENTATION%20BY%20ELIMINATING%20THE%20CONCEPT%20OF%20EXTRAORDINARY%20ITEMS) and [IAS 1](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2022/issued/part-a/ias-1-presentation-of-financial-statements.pdf?bypass=on)).
+
+
+These items are a cumbersome topic among analyst.
 
 -   First, the economic implications of special items, such as restructuring charges, are complex.
 
@@ -302,7 +309,7 @@ Special items are a cumbersome topic among analyst.
 
 ------------------------------------------------------------------------
 
-Example: earnings management with special items.
+Example: earnings management with extraordinary items.
 
 Consider a firm with a cost of capital of 10%.
 
@@ -371,6 +378,13 @@ R&D expenses are the cost of the resources used to explore, discover, and develo
 
 R&D activities exclude routine or periodic alterations in ongoing operations, market research, and testing activities.
 
+
+R&D costs include:
+
+-   Materials, equipment, and facilities acquired or constructed for a specific R&D project,
+-   Materials consumed in R&D activities; and depreciation of equipment or facilities, and amortization of intangible assets used in R&D activities.
+-   Salaries (and other related labor costs) of personnel engaged in R&D activities.
+
 ------------------------------------------------------------------------
 
 Accounting for R&D costs:
@@ -391,29 +405,11 @@ IFRS [(IAS 38)](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards
 
 ------------------------------------------------------------------------
 
-R&D costs include:
-
--   Materials, equipment, and facilities acquired or constructed for a specific R&D project,
--   Purchased intangibles having no alternative future uses.
--   Materials consumed in R&D activities; and depreciation of equipment or facilities, and amortization of intangible assets used in R&D activities.
--   Salaries (and other related labor costs) of personnel engaged in R&D activities.
-
-------------------------------------------------------------------------
-
-Analysis of R&D costs:
-
-Given the accounting rules of expensing R&D costs, the analyst must consider the lack of matching between costs and benefits.
-
--   Companies heavily investing in R&D in a desire for future benefits, face a decline in income and build intangible assets out of the balance sheet.
--   But at the same time, the stock market may reward them with higher stock prices because of the expected future benefits.
-
-------------------------------------------------------------------------
-
 So, what can we look for in the financial statements to identify the R&D activities of a company besides the periodic R&D expenses?
 
 Voluntary disclosure of:
 
--   Types of research performed and their forecast,
+-   Types of research projects their current status and plan ahead.
 -   How close a project is from the technical feasibility and commercial viability.
 -   Success/failure experience with R&D activities to date.
 
@@ -456,13 +452,16 @@ b)  permanent differences: differences that are not expected to reverse in the f
 
 How to account for temporary differences?
 
-Using deferred tax adjustments: these adjustments recognize in the accounting books the future tax obligations or savings that are not yet considered in the *pretax income* reported under GAAP.
+Two key concepts: DTA and DLT
 
-Deferred tax adjustments create important elements in the balance sheet:
+A) Tax Expense = What Shareholders see (based on GAAP/IFRS rules).
 
--   Deferred Tax Liability (DTL): It arises when tax expense on the income statement is less than the tax payable on the tax return. It represents the recognition of future tax obligations.
+B) Tax Payable = What the Tax Authority sees (based on Tax Code rules).
 
--   Deferred Tax Asset (DTA): It arises when tax expense on the income statement is more than tax payable on the tax return. It represents future tax savings.
+
+If the company recognizes at year t a Tax Expense of $100, but only pays the the tax authority $80 (Tax Payable), it will owe the remaining $20 for later. That is a Deferred Tax Liability (DTL): recognition of a new obligation.
+
+If the company recognizes at year t a Tax Expense of $80, but the tax law mandates to pay $100 the same year, then the company have "prepaid" $20. That is Deferret Tax Asset (DTA).
 
 ------------------------------------------------------------------------
 
@@ -484,14 +483,17 @@ Given a tax rate of 30%, let's calculate the deferred tax liability arising from
 | 4    |        \$2,000 |   \$500 |  (\$1,500) | \$450 DTA |          \$450 DTL |
 | 5    |        \$2,000 |   \$500 |  (\$1,500) | \$450 DTA |                \$0 |
 
-Each year, the *Tax Expense* = *Tax Payable* + *DTL*( or - *DTA*).
+Each year, the *Net income*= *Pretax Income* - *Tax Expense*, and 
+*Tax Expense* = *Tax Payable* + *DTL*( or - *DTA*).
 
-*Net income*= *Pretax Income* - *Tax Expense*.
+
+
+In Year 1: less accounting depreciation means more accounting profits and more "calculated" tax expense. But as the tax law induces faster depreciation, taxable income in tax files is tiny (let's say zero), meaning almost no tax payable. The difference between tax expenses and the actual check to the Tax Authority is recognized as an obligation/liability, because it will revert later on.
 
 ```{=html}
 <!--
 Core message:
-(1) year 1: the company already knows that in future years THE income will be larger because the tax depreciation will be lower than accounting depreciation, so they will have to pay more taxes. The company recognizes this future obligation into the account DTL.
+(1) year 1: the company already knows that in future years the income will be larger because the tax depreciation will be lower than accounting depreciation, so they will have to pay more taxes. The company recognizes this future obligation into the account DTL.
 (2) the temporary differences are reversed in the future, because both accounting methods result in the same amount of depreciation expense over the life of the asset.
 -->
 ```
@@ -507,7 +509,7 @@ All that a DLT or DTA suggests is that the actual tax payments will be proportio
 E.g., the DTL in the previous example is not a liability because the company does not have a contractual obligation with anyone. Still, it is a liability in the sense the company will have to pay more taxes in the future relative to the GAAP income.
 
 -   In this sense, DTA and DTL do provide information about future cash flows to the extent that the temporary differences are reversed
--   But they do not always reverse:exclamation: company growths, tax reforms, accounting reforms, inflation, future losses, etc.
+-   But they do not always reverse!  company growths, tax reforms, accounting reforms, inflation, future losses, etc.
 
 ------------------------------------------------------------------------
 
