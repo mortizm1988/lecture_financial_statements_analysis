@@ -125,7 +125,7 @@ examples to discuss: condis, airline, gift cards, subscriptions
 ```
 
 ::: callout-note
-In 2018, the FASB (ASC 606) and IFRS (IFRS 15) converged into a standard for revenue recognition. The standard is based on the principle that revenue is recognized when the risk and rewards of the goods or services are transferred to the customer.
+In 2018, the FASB (ASC 606) and IFRS (IFRS 15) converged into a standard for revenue recognition. The standard is based on the principle that revenue is recognized when performance obligations are satisfied and  goods or services are transferred to the customer. 
 :::
 
 ------------------------------------------------------------------------
@@ -298,9 +298,8 @@ Recent example of opportunistic use of valuation methods:
 
 **"NRG Energy uses 'accounting trick' to make earnings look less volatile"**
 
-"As described by Weil, NRG ([NRG](https://seekingalpha.com/symbol/NRG?feed_item_type=news&fr=1&utm_medium=referral&utm_source=msn.com "NRG Energy, Inc.")) showed \$992M of net derivative assets at year-end 2024, including \$770M on contracts with frozen value."
-
-"The issue with this approach? For one thing, it potentially lets companies freeze unrealized gains that they believe are likely to turn into losses later,"
+> As described by Weil, NRG showed  992M USD of net derivative assets at year-end 2024, including  770M USD on contracts with frozen value.
+> The issue with this approach? For one thing, it potentially lets companies freeze unrealized gains that they believe are likely to turn into losses later.
 
 [More about the case.](https://www.msn.com/en-us/money/markets/nrg-energy-uses-accounting-trick-to-make-earnings-look-less-volatile-wsj/ar-AA1Gx5ci)
 
@@ -308,7 +307,9 @@ Recent example of opportunistic use of valuation methods:
 
 **Financial Statements: Why?**
 
-After recording all transactions consistently according to established accounting rules, the next crucial step is to aggregate this data into a **form that is useful for decision-making**. This aggregation results in the creation of **financial statements**, which serve as a primary tool for conveying a company’s financial health and performance to various stakeholders.
+After recording all transactions consistently according to established accounting rules, the next crucial step is to aggregate this data into a **form that is useful for decision-making**. 
+
+This aggregation results in the creation of **financial statements**, which serve as a primary tool for conveying a company’s financial health and performance to various stakeholders.
 
 Who uses financial statements, and why do they need them?
 
@@ -361,7 +362,7 @@ In practice, companies may choose to present this information either as a **sing
 
 ### 3.5 Cash Flow Statement
 
-The matching principle means that cash inflows and outflows differ from revenues and expenses. The Cash Flow Statement shows actual cash movement.
+The matching principle means that cash inflows and outflows differ from revenues and expenses. The Cash Flow Statement shows actual cash movements.
 
 **Components:**
 

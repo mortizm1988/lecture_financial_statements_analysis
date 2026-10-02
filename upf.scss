@@ -6,9 +6,18 @@ $link-color: #0509f7;
 
 /*-- scss:rules --*/
 
+.reveal div.callout.callout-style-simple div.callout-title p,
+.reveal div.callout.callout-style-default div.callout-title p {
+    color: #666666;
+}
+
 .reveal .slide blockquote {
-    border-left: 3px solid $text-muted;
-    padding-left: 0.5em;
+    border-left: 4px solid #c8102e;
+    background-color: #f3f3f3;
+    padding: 0.45em 0.7em;
+    color: #333333;
+    font-family: Georgia, "Times New Roman", serif;
+    font-style: italic;
 }
 
 /* For changing the font size and color globally */
