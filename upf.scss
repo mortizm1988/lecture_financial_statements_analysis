@@ -1,61 +1,147 @@
 /*-- scss:defaults --*/
+/*
+  SETTINGS FOR THE WHOLE PRESENTATION
 
-$body-bg: #FFFFFF;
-$body-color: #fff;
-$link-color: #0509f7;
+  These variables set the default colors and typography for every slide.
+  Colors use hexadecimal codes such as #ffffff (white) and #c8102e (UPF red).
+  More theme variables and examples:
+  https://quarto.org/docs/presentations/revealjs/themes
+*/
+
+/* Background, ordinary text, links, and slide headings. */
+$body-bg: #ffffff;
+$body-color: #202124;
+$link-color: #c8102e;
+$presentation-heading-color: #c8102e;
+
+/*
+  Main font and text size.
+  The browser tries Noto Sans first, then Arial, then any available sans-serif font.
+  Increase or decrease 30px to resize most text throughout the presentation.
+  Heading weight 700 means bold; common alternatives are 400 (regular) and 600.
+*/
+$font-family-sans-serif: "Noto Sans", Arial, sans-serif;
+$presentation-font-size-root: 30px;
+$presentation-heading-font-weight: 700;
+$presentation-heading-line-height: 1.15;
 
 /*-- scss:rules --*/
+/*
+  STANDARD SLIDES
 
-.reveal div.callout.callout-style-simple div.callout-title p,
-.reveal div.callout.callout-style-default div.callout-title p {
-    color: #666666;
+  These rules align slide content to the left and add a red line below the
+  heading of every ordinary slide. The title slide is handled separately below.
+  Change "left" to "center" for centered text. Change 3px to alter the line
+  thickness, or remove border-bottom if no line is wanted.
+*/
+.reveal .slides {
+    text-align: left;
 }
 
-.reveal .slide blockquote {
-    border-left: 4px solid #c8102e;
-    background-color: #f3f3f3;
-    padding: 0.45em 0.7em;
-    color: #333333;
-    font-family: Georgia, "Times New Roman", serif;
-    font-style: italic;
+.reveal .slide:not(.title-slide) h2 {
+    border-bottom: 3px solid #c8102e;
+    padding-bottom: .25em;
 }
 
-/* For changing the font size and color globally */
-.reveal section {
-    font-size: 30px;
-    /* Adjust size as needed */
-    color: #333333;
-    /* Replace with your desired color */
-}
+/*
+  NAVIGATION CONTROLS
 
-/* Specific heading styles */
-.reveal h1 {
-    font-size: 38px;
+  These two rules only control the color and thickness of Reveal's navigation
+  arrows and progress bar. Whether they appear is set with "controls" and
+  "progress" under "format: revealjs:" at the top of each .qmd file.
+*/
+.reveal .controls {
     color: #c8102e;
 }
 
-.reveal h2 {
-    font-size: 34px;
-    background-color: #c8102e;
-    /* Set background to red */
-    color: white;
-    /* Set text color to white */
-    padding: 10px;
-    /* Add some padding to make the background visible */
-    border-radius: 5px;
-    /* Optional: adds rounded corners */
+.reveal .progress {
+    height: 3px;
+    color: #c8102e;
 }
 
-.reveal h3 {
-    font-size: 30px;
-    background-color: #d33f55;
-    color: white;
-    padding: 5px;
-    /* Add some padding to make the background visible */
-    border-radius: 5px;
-    /* Optional: adds rounded corners */
+/*
+  TITLE SLIDE
+
+  This block applies to a slide declared as:
+      ## Slide title {.title-slide}
+
+  Padding is written in clockwise order: top, right, bottom, left.
+  The h2 settings control only the main title. "font-size: 2.55em" means
+  2.55 times the normal slide text size. "max-width" controls where it wraps.
+*/
+.reveal .slides .title-slide {
+    padding: 130px 100px 90px;
+    text-align: left;
+
+    h2 {
+        color: #202124;
+        font-size: 2.55em;
+        line-height: 1.05;
+        margin: 0 0 .42em;
+        max-width: 760px;
+    }
 }
 
+/*
+  TITLE-SLIDE DETAILS
+
+  These classes correspond to optional blocks in a .qmd title slide:
+      ::: {.title-rule}   a short red decorative line
+      ::: {.title-meta}   author, term, or other main details
+      ::: {.title-note}   a small note positioned near the bottom-left corner
+
+  "px" values are fixed sizes. "em" values scale with the surrounding text.
+*/
+.title-rule {
+    background: #c8102e;
+    height: 7px;
+    margin: 0 0 40px;
+    width: 92px;
+}
+
+.title-meta {
+    color: #202124;
+    font-size: .95em;
+    line-height: 1.65;
+}
+
+.title-note {
+    bottom: 48px;
+    color: #6b7280;
+    font-size: .58em;
+    left: 100px;
+    position: absolute;
+}
+
+/*
+  CUSTOM TWO-COLUMN LAYOUT
+
+  Use this class in a .qmd file with two inner column blocks:
+      ::: {.two-columns}
+      ::: {.column}
+      Left content
+      :::
+      ::: {.column}
+      Right content
+      :::
+      :::
+
+  "gap" is the space between columns. Change "1fr 1fr" to "2fr 1fr" for a
+  two-thirds/one-third split. Native Quarto columns are another option; see:
+  https://quarto.org/docs/presentations/revealjs/
+
+  Slide size, margins, transitions, numbering, and other presentation behavior
+  belong under "format: revealjs:" in each .qmd file rather than in this SCSS.
+  Full option reference:
+  https://quarto.org/docs/reference/formats/presentations/revealjs
+*/
+.two-columns {
+    display: grid;
+    gap: 70px;
+    grid-template-columns: 1fr 1fr;
+}
+
+/* slide numbers  */
 .reveal .slide-number {
     display: block;
     /* Ensure the element is displayed */

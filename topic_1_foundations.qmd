@@ -1,17 +1,41 @@
 ---
-title: "Accounting Foundations"
-title-slide-attributes:
-  data-background-image: logo_upf_bsm.png
-  data-background-size: 30%
-  data-background-repeat: no-repeat
-  data-background-position: top 10px left 10px
-  data-background-opacity: "0.7"
-author: "Marcelo Ortiz"
-affiliation: "Universitat Pompeu Fabra"
-date: "September 2025"
+pagetitle: "Accounting Foundations"
+format:
+  revealjs:
+    theme: [default, upf.scss]
+    width: 1280
+    height: 720
+    margin: 0.02
+    center: false
+    controls: true
+    progress: true
+    slide-number: false
+    transition: fade
+    auto-stretch: false
+    embed-resources: true
+    html-math-method: mathjax
+    slide-level: 2
+    navigation-mode: linear
+    keyboard: true
+    history: true
+from: markdown-smart
 ---
 
-Topics
+## Managerial Accounting {#title .intro-slide .title-slide}
+
+::: title-rule
+:::
+
+::: title-meta
+Marcelo Ortiz M.\
+Fall
+:::
+
+::: title-note
+UPF · Barcelona School of Management 
+:::
+
+## Accounting Foundations
 
 1)  The relevance of accounting
 2)  Basic concepts
@@ -402,7 +426,7 @@ Some examples
 3.  Profits of the year will be reflected in the Balance Sheet, Income Statement, and Statement of Changes in Equity.​
 
 ::: callout-note
-How does the transactions of Silva eTravel SA affected the financial statements?
+How does the transactions of Silva eTravel SA affect its financial statements?
 :::
 
 ------------------------------------------------------------------------

@@ -1,17 +1,41 @@
 ---
-title: "Forecasting"
-title-slide-attributes:
-  data-background-image: logo_upf_bsm.png
-  data-background-size: 30%
-  data-background-repeat: no-repeat
-  data-background-position: top 10px left 10px
-  data-background-opacity: "0.5"
-author: "Marcelo Ortiz"
-affiliation: "Universitat Pompeu Fabra"
-date: "September 2024"
+pagetitle: "Forecasting"
+format:
+  revealjs:
+    theme: [default, upf.scss]
+    width: 1280
+    height: 720
+    margin: 0.02
+    center: false
+    controls: true
+    progress: true
+    slide-number: false
+    transition: fade
+    auto-stretch: false
+    embed-resources: true
+    html-math-method: mathjax
+    slide-level: 2
+    navigation-mode: linear
+    keyboard: true
+    history: true
+from: markdown-smart
 ---
 
-Contents
+## Managerial Accounting {#title .intro-slide .title-slide}
+
+::: title-rule
+:::
+
+::: title-meta
+Marcelo Ortiz M.\
+Fall
+:::
+
+::: title-note
+UPF · Barcelona School of Management 
+:::
+
+## Forecasting
 
 1.  Why do we need to forecast financial statements?
 2.  Step 1 Projected Income Statement
