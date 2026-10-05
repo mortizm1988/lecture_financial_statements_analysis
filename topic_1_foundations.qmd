@@ -21,7 +21,7 @@ format:
 from: markdown-smart
 ---
 
-## Managerial Accounting {#title .intro-slide .title-slide}
+## Managerial Accounting: Foundations {#title .intro-slide .title-slide}
 
 ::: title-rule
 :::
