@@ -292,9 +292,8 @@ Each accounting event requires determining an amount affecting the respective ac
 
 Some rules help us to define these amounts​.
 
--   **IFRS**: International Financial Reporting Standards
--   **US GAAP**: Generally Accepted Accounting Principles
--  **Local GAAP**
+-  **IFRS**: International Financial Reporting Standards
+-  **US GAAP**: Generally Accepted Accounting Principles
 
 Consistency across time and transactions is key!
 
@@ -329,15 +328,50 @@ Recent example of opportunistic use of valuation methods:
 
 ------------------------------------------------------------------------
 
-**Financial Statements: Why?**
+**Annual Reports: why?**
 
 After recording all transactions consistently according to established accounting rules, the next crucial step is to aggregate this data into a **form that is useful for decision-making**. 
 
 This aggregation results in the creation of **financial statements**, which serve as a primary tool for conveying a company’s financial health and performance to various stakeholders.
 
-Who uses financial statements, and why do they need them?
+---
+
+| Main component | Typical contents |
+|---|---|
+| **1. Annual financial statements** | Balance sheet; income statement; cash-flow statement and statement of changes in equity where applicable; notes/accounting policies |
+| **2. Management report** | Business development and performance; strategy/outlook; principal risks and uncertainties |
+| **3. Corporate governance statement** | Governance code and compliance; board structure and committees; internal control and risk-management systems; shareholder rights |
+| **4. Sustainability reporting** | Environmental, social and governance information; material sustainability risks, targets and metrics |
+| **5. Auditor's report** | Statutory auditor's opinion on the financial statements|
+
 
 ------------------------------------------------------------------------
+
+Use the AI model of your choice to prompt:
+
+```text
+You are an accounting analyst examining the most recent annual report of Inditex.
+
+Identify the main components of the annual report (e.g., financial statements, management report, corporate governance, sustainability reporting, auditor’s report).
+
+For each component, assess:
+
+1. **What information does it provide?**
+2. **Is disclosure mandatory or voluntary?**
+3. **How much managerial discretion exists over what is reported?** Classify discretion as Low / Medium / High and explain briefly.
+4. **Could managers use this discretion to emphasize favorable information or obscure unfavorable information?** Give one example.
+
+Present your analysis in a table:
+
+**Section | Main information | Mandatory/Voluntary | Managerial discretion | Potential for obfuscation**
+
+Finally, identify which part of the annual report you would trust most and least if you were an investor, and explain why.
+```
+
+
+----
+
+Users:
 
 -   Investors: To assess potential returns and risks, determine if the company is growing sustainably, and make informed decisions about buying, holding, or selling equity.
 -   Creditors: To evaluate the company’s ability to meet both short-term and long-term debt obligations, helping them make lending or credit extension decisions.
@@ -350,7 +384,7 @@ Who uses financial statements, and why do they need them?
 
 ### 3.3 Statement of Financial Position
 
-The **balance sheet** shows the financial standing of the company on a *specific date*, presenting a clear picture of its resources, obligations, and net worth.
+The **Balance Sheet** shows the financial standing of the company on a *specific date*, presenting a clear picture of its resources and obligations.
 
 -   **Liquidity Position**: The split between current and non-current assets and liabilities shows the company's ability to meet short-term obligations.
 -   **Capital Allocation**: The types of assets owned and the composition of liabilities vs. equity reveal how effectively resources are being utilized and how risky the financing structure is.
@@ -376,7 +410,7 @@ Look at the Formula Sheet for the most common ratios and the real case provided.
 
 Companies are required to present comprehensive income, which includes both profit or loss and other comprehensive income (OCI).
 
-The **Income Statement** shows the company's financial performance, detailing revenues, expenses, and profit or loss for the period.
+The **Income Statement** shows the company's financial performance, detailing revenues, expenses, and profit or loss for the *period*.
 
 -   However, **some gains and losses do not go directly to profit or loss** but instead are recognized in **Other Comprehensive Income** (OCI).
 

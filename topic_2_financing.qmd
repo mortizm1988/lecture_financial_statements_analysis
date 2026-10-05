@@ -21,7 +21,7 @@ format:
 from: markdown-smart
 ---
 
-## Managerial Accounting {#title .intro-slide .title-slide}
+## Managerial Accounting: Financing Decision {#title .intro-slide .title-slide}
 
 ::: title-rule
 :::
@@ -42,8 +42,6 @@ UPF · Barcelona School of Management
 3. Contingent liabilities and commitments
 4. Off-balance-sheet financing
 5. Equity financing
-
-
 
 ## 1. Financing liabilities
 
@@ -134,20 +132,20 @@ Therefore, it is not surprising that the credit rate is a major determinant of
 
 **Let's look at the financial obligations of Apple and Mercedes [10 min]**
 
-Links for the annual reports of [Apple](https://investor.apple.com/investor-relations/sec-filings/) and [Mercedes](https://group.mercedes-benz.com/investors/reports-news/annual-reports/2023/).
+Links for the annual reports of [Apple](https://investor.apple.com/investor-relations/sec-filings/) and [Mercedes](https://group.mercedes-benz.com/investors/reports-news/annual-reports/2025/).
 
-From the Balance Sheet, check the total amount on financial liabilities.
+1. From the Balance Sheet, check the total amount on financial liabilities.
 
-More advance: From the footnotes, collect the following information: type of instruments, maturities, interest rates, ranking/seniority, redemption, and covenants.
-
-- Apple: Check Note "Debt".
-- Mercedes: Check "Combined Management Report>Refinancing", and Notes "Management of financial risks" (liquidity runoff), "Financing liabilities".
+2.  From the Notes, collect the following information: type of instruments, maturities, interest rates, ranking/seniority, redemption, and covenants.
+      - Apple: Check Note "Debt".
+      - Mercedes: Check "Combined Management Report>Refinancing", and Notes "Management of financial risks" (liquidity runoff), "Financing liabilities".
 
 To Discuss:
 
 - How is the debt distributed across maturities and amounts?
 - What are the interest rates in these debt contracts? [How is the market now?](https://markets.businessinsider.com/bonds) 
 - Is any big maturity coming up soon? News from rolling over?
+- **Highly Recommended**: after finding the information and concluding, prompt an AI model the same questions.
 
 
 ## 2. Leases
