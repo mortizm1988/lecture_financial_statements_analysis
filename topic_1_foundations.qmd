@@ -9,7 +9,8 @@ format:
     center: false
     controls: true
     progress: true
-    slide-number: false
+    slide-number: c/t
+    show-slide-number: all
     transition: fade
     auto-stretch: false
     embed-resources: true
@@ -21,7 +22,7 @@ format:
 from: markdown-smart
 ---
 
-## Managerial Accounting {#title .intro-slide .title-slide}
+## Financial Accounting for Managers: Foundations {#title .intro-slide .title-slide}
 
 ::: title-rule
 :::
@@ -78,8 +79,8 @@ Economic events: are those that affect resources or obligations of the entity.
 An economic event can be **recognized** as an accounting event when it:
 1) Directly relates to the entity,
 2) Can be expressed in monetary terms,
-3) Is probable and reliably measurable.
-4) Meets the definition of an element (asset, liability, etc.), and
+3) Recognition provides relevant information
+4) Benefit exceeds the costs: Information’s usefulness must justify the cost of producing, auditing, and using it.
 
 -->
 ```
@@ -105,7 +106,7 @@ Key Discussion Points:
     - Control and Ownership: Emphasize that an asset must be under the control of the company, meaning it has the right to use or restrict others' use.
     - Future Economic Benefits: The asset must provide measurable benefits in the future, such as generating revenue or reducing costs.
     - Classification: Distinguish between current and non-current assets to help students understand liquidity and operational cycles.
-    - Examples and Applications: Use examples like cash, accounts receivable, inventory (current assets) vs. machinery, real estate, and goodwill (non-current assets).
+    - Examples and Applications: clients products still in my inventory; a fully depreciated machine not in used.
 
 Liabilities are financial obligations or debts that a business owes to outside parties, arising from past transactions or events, which will require the transfer of assets or services in the future. Liabilities can be short-term, such as accounts payable and accrued expenses, or long-term, like loans and bonds payable.
 
@@ -114,7 +115,7 @@ Key Discussion Points:
     - Obligation to Pay: Highlight that liabilities represent obligations that result in the outflow of economic resources, usually in the form of cash or services.
     - Past Transactions: Emphasize that liabilities arise from past actions or events, such as purchases on credit or loans taken.
     - Classification: Differentiate between current liabilities (due within one year) and non-current liabilities (due after one year) to help understand the business’s financial structure.
-    - Examples and Applications: Use practical examples like accounts payable, wages payable (current liabilities), and long-term bonds or mortgages (non-current liabilities).
+    - Examples and Applications: Selling  gift-cards, wages payable (current liabilities), and long-term bonds or mortgages (non-current liabilities).
 
   
 Equity is the firms obligation with its owners. It represents the residual interest in the assets of the entity after deducting liabilities. Equity includes items such as common stock, retained earnings, and additional paid-in capital.
@@ -331,7 +332,7 @@ Recent example of opportunistic use of valuation methods:
 
 **Financial Statements: Why?**
 
-After recording all transactions consistently according to established accounting rules, the next crucial step is to aggregate this data into a **form that is useful for decision-making**. 
+After recording all transactions consistently according to established accounting rules, the next step is to aggregate this data into a **form that is useful for decision-making**. 
 
 This aggregation results in the creation of **financial statements**, which serve as a primary tool for conveying a company’s financial health and performance to various stakeholders.
 
@@ -374,11 +375,12 @@ Look at the Formula Sheet for the most common ratios and the real case provided.
 
 ### 3.4 Statement of Comprehensive Income
 
-Companies are required to present comprehensive income, which includes both profit or loss and other comprehensive income (OCI).
+Companies are required to present the statement of comprehensive income, which includes both "profit/loss" and other comprehensive income (OCI).
 
 The **Income Statement** shows the company's financial performance, detailing revenues, expenses, and profit or loss for the period.
 
--   However, **some gains and losses do not go directly to profit or loss** but instead are recognized in **Other Comprehensive Income** (OCI).
+However, **some gains and losses do not go directly to profit or loss** but instead are recognized in **Other Comprehensive Income** (OCI).
+- e.g., revaluation gain on "property, plant, and equipment".
 
 In practice, companies may choose to present this information either as a **single statement** combining both profit or loss and OCI or as **two separate statements**—one for the profit or loss and another for comprehensive income.
 
@@ -465,7 +467,7 @@ Let's study a general framework for financial statement analysis (FSA).
 -   How is the company growing? Type of assets, funding.​
 -   Do the company needs to change our liquidity/solvency policy?​
 -   Are the managers using our assets efficiently?​
--   What is driving our profits/losses?​
+-   What is driving profits/losses?​
 
 ------------------------------------------------------------------------
 
@@ -558,7 +560,7 @@ However, in this course, we will dig deep and learn how to measure them correctl
 -   Topic 3: Adjustments to represent real investing activity
 -   Topic 4: Adjustments to represent real operating activity
 
-## Questions
+### Questions
 
 Check my website for an updated version of this presentation:
 
