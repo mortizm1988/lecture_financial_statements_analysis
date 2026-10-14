@@ -22,6 +22,9 @@ format:
 from: markdown-smart
 ---
 
+
+
+
 ## Financial Accounting for Managers: Foundations {#title .intro-slide .title-slide}
 
 ::: title-rule
