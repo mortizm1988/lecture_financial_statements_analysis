@@ -22,9 +22,6 @@ format:
 from: markdown-smart
 ---
 
-
-
-
 ## Financial Accounting for Managers: Foundations {#title .intro-slide .title-slide}
 
 ::: title-rule
@@ -105,11 +102,10 @@ $$Assets=Liability+Equity$$
 Assets are economic resources owned or controlled by a business that are expected to generate future economic benefits. These resources can be tangible, such as property, plant, and equipment, or intangible, such as patents and trademarks. Assets are classified as current if they are expected to be converted into cash or used up within one year, or non-current if they provide benefits over a longer period."
 
 Key Discussion Points:
-
-    - Control and Ownership: Emphasize that an asset must be under the control of the company, meaning it has the right to use or restrict others' use.
-    - Future Economic Benefits: The asset must provide measurable benefits in the future, such as generating revenue or reducing costs.
-    - Classification: Distinguish between current and non-current assets to help students understand liquidity and operational cycles.
-    - Examples and Applications: clients products still in my inventory; a fully depreciated machine not in used.
+- Control and Ownership: Emphasize that an asset must be under the control of the company, meaning it has the right to use or restrict others' use.
+- Future Economic Benefits: The asset must provide measurable benefits in the future, such as generating revenue or reducing costs.
+- Classification: Distinguish between current and non-current assets to help students understand liquidity and operational cycles.
+- Examples and Applications: clients products still in my inventory; a fully depreciated machine not in used.
 
 Liabilities are financial obligations or debts that a business owes to outside parties, arising from past transactions or events, which will require the transfer of assets or services in the future. Liabilities can be short-term, such as accounts payable and accrued expenses, or long-term, like loans and bonds payable.
 
@@ -412,14 +408,15 @@ Look at the Formula Sheet for the most common ratios and the real case provided.
 
 ### 3.4 Statement of Comprehensive Income
 
-Companies are required to present the statement of comprehensive income, which includes both "profit/loss" and other comprehensive income (OCI).
+Companies are required to present the statement of comprehensive income, which includes both Income Statement and Other Comprehensive Income (OCI).
 
-The **Income Statement** shows the company's financial performance, detailing revenues, expenses, and profit or loss for the *period*.
+The **Income Statement** shows the company's financial performance, detailing revenues, expenses, and **profit or loss for the reporting period**.
 
-However, **some gains and losses do not go directly to profit or loss** but instead are recognized in **Other Comprehensive Income** (OCI).
+However, **some gains and losses do not go directly to profit or loss** but instead are recognized in the OCI report.
+
 - e.g., revaluation gain on "property, plant, and equipment".
 
-In practice, companies may choose to present this information either as a **single statement** combining both profit or loss and OCI or as **two separate statements**—one for the profit or loss and another for comprehensive income.
+In practice, companies may choose to present this information either as a **single statement** combining both profit or loss and OCI or as **two separate statements**.
 
 ------------------------------------------------------------------------
 
@@ -465,12 +462,12 @@ Some examples
 3.  Profits of the year will be reflected in the Balance Sheet, Income Statement, and Statement of Changes in Equity.​
 
 ::: callout-note
-How does the transactions of Silva eTravel SA affect its financial statements?
+How does the accounting events of Silva eTravel SA affect its financial statements?
 :::
 
 ------------------------------------------------------------------------
 
-### 3.8 Notes to the Financial Statements
+### 3.8 Notes
 
 They reveal important information about the company's financial position and performance that would be difficult to discern from the financial statements.
 
@@ -485,7 +482,7 @@ Elements:
 
 ------------------------------------------------------------------------
 
-### 3.9 Management's Discussion and Analysis (MD&A)
+### 3.9 Management Reports or "Management's Discussion and Analysis" (MD&A)
 
 It is a section of the annual report that provides management's interpretation of the company's recent performance.​
 
@@ -502,7 +499,7 @@ It is mainly forward-looking information.​
 Let's study a general framework for financial statement analysis (FSA).
 
 -   How is the company growing? Type of assets, funding.​
--   Do the company needs to change our liquidity/solvency policy?​
+-   Does the company need to change its liquidity/solvency policy?​
 -   Are the managers using our assets efficiently?​
 -   What is driving profits/losses?​
 
