@@ -9,7 +9,8 @@ format:
     center: false
     controls: true
     progress: true
-    slide-number: false
+    slide-number: true
+    show-slide-number: all
     transition: fade
     auto-stretch: false
     embed-resources: true
