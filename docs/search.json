@@ -81,7 +81,7 @@
     "href": "topic_2_financing.html#commitments-and-contingent-liabilities",
     "title": "",
     "section": "3. Commitments and contingent liabilities",
-    "text": "3. Commitments and contingent liabilities\nContingent liabilities\nA contingent liability is a potential obligation that depends on the occurrence of a future uncertain event (e.g., legal disputes or warranties).\n\nProbable Occurrence: The future event that would trigger the loss is more likely than not to occur (i.e., greater than 50% likelihood).\nReasonable Estimation: The amount of the loss can be reasonably estimated.\n\nReporting:\n\nIf the event is probable and the amount can be reliably estimated, the liability is recognized as a provision in the balance sheet.\nIf the event is possible but not probable, or the amount cannot be reasonably estimated, disclosure without recognition may be required."
+    "text": "3. Commitments and contingent liabilities\nContingent liabilities\nA contingent liability is either a possible obligation that depends on an uncertain future event or a present obligation that does not qualify for recognition (e.g., a company is under investigation for an alleged environmental violation).\nA Provision is recognized only when:\n\nPresent Obligation: The obligation results from a past event.\nProbable Outflow: It is probable that the company will have to pay.\nReliable Estimation: The amount can be reasonably estimated.\n\nReporting:\n\nIf all three conditions are met, the liability is recognized as a Provision in the balance sheet.\nIf the obligation is possible, or a present obligation does not meet the recognition criteria, disclosure without recognition may be required --&gt; Contingent Liability."
   },
   {
     "objectID": "topic_2_financing.html#off-balance-sheet-financing",
@@ -306,5 +306,12 @@
     "title": "",
     "section": "Forecasting",
     "text": "Forecasting\n\nWhy do we need to forecast financial statements?\nStep 1 Projected Income Statement\nStep 2 Projected Balance Sheet\nSensitivity Analysis"
+  },
+  {
+    "objectID": "topic_2_financing.html#a-provision-is-a-liability-but-not-all-liabilities-are-provisions.-for-example-wages-earned-and-invoices-for-goods-received-are-normally-accrued-liabilities-or-payables.",
+    "href": "topic_2_financing.html#a-provision-is-a-liability-but-not-all-liabilities-are-provisions.-for-example-wages-earned-and-invoices-for-goods-received-are-normally-accrued-liabilities-or-payables.",
+    "title": "",
+    "section": "A provision is a liability, but not all liabilities are provisions. For example, wages earned and invoices for goods received are normally accrued liabilities or payables.",
+    "text": "A provision is a liability, but not all liabilities are provisions. For example, wages earned and invoices for goods received are normally accrued liabilities or payables.\nExample Apple and Mercedes [15 min]\nSearch: Balance sheet \"Commitments and Contingencies.\"\nApple: Note - \"Commitments ...\" \" and \"Item 3: legal proceedings\".\nMercedes: Notes - \"Provisions for other risks\", \" Legal Proceedings\", \"Contingent Liabilities\"\n\nWhat type of commitments the company has? (Apple: UPO!!)\nWhat is the most important type of contingent liabilities?\n2.1) What do they report about legal contingencies (litigation)? cases? amounts? provisions?"
   }
 ]

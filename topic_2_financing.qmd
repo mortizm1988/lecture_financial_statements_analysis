@@ -170,14 +170,17 @@ Now we move into operating liabilities ground.
 
 ### Capital vs. Operating Leases:
 
-Finance Lease (formerly "Capital Lease"): A lease in which all risks and rewards of ownership are substantially transferred to the lessee.
+A. Finance Lease (formerly "Capital Lease"): the arrangement is economically close to buying the asset with financing. 
 
- - Recognition: Lessee records a right-of-use asset and a lease liability on the balance sheet, representing the leased asset and corresponding obligation to make lease payments.
+- It usually covers most of the asset’s useful life or value.
+- the lessee effectively bears the risks and benefits of ownership.
+- often with a likely ownership transfer or attractive purchase option.
 
-Operating Lease: Prior to 2019, these leases were treated differently, as they didn’t meet the criteria for capital leases.
+*Recognition*: Lessee records a right-of-use **asset** and a lease **liability** on the balance sheet, representing the leased asset and corresponding obligation to make lease payments.
 
-- Recognition under old standards: Only rental expenses were recognized, with no impact on the balance sheet.
-- IFRS 16 update: Operating leases are now also recognized on the balance sheet as right-of-use assets and lease liabilities, eliminating off-balance-sheet treatment for most leases for the **companies that adopted IFRS 16**.
+b. Operating Lease: arrangements that do not meet the criteria for capital leases.
+
+*Recognition:* Only rental expenses are recognized, with **no impact on the balance sheet**. However, IFRS 16 (2019): Operating leases have the same accounting treatment than Capital Leases. Local Accounting Standards keep the old standard for SMEs.
 
 :::{.notes}
 Structuring Contracts to Keep Leases Off the Balance Sheet:
@@ -220,6 +223,7 @@ Remember that the PV of an annuity is given by $P_0=\frac{1-1/(1+i)^n}{i}$. In t
 - Leased asset value = $\$2.505\times 3.9927=10.000$
 
 Second, compute the interest expense and depreciation expense for each year.
+
 - notice that the interest expense is computed on the lease liability, which is updated yearly after the payment of the MLP.
 
 ---
@@ -246,7 +250,7 @@ However, lesses that already adopted IFRS 16 (2019) must capitalize most of the 
 - leases that were previously classified as operating leases must be brought on the balance sheet.
 - expense recognition: depreciation of the ROU asset ("Operating expense") and interest expense ("Financial expenses") on the lease liability.
 
-The lessor’s accounting remains largely unchanged
+The lessor’s accounting remains largely unchanged.
 
 ---
 
@@ -267,16 +271,18 @@ Mercedes: Notes - "Lease" "Equipment in operating leases"
 
 ### Contingent liabilities
 
-A contingent liability is a potential obligation that depends on the occurrence of a future uncertain event (e.g., legal disputes or warranties).
+A contingent liability is either a possible obligation that depends on an uncertain future event or a present obligation that does not qualify for recognition (e.g., a company is under investigation for an alleged environmental violation).
 
+**A Provision is recognized only when:**
 
-1) Probable Occurrence: The future event that would trigger the loss is more likely than not to occur (i.e., greater than 50% likelihood).
-2) Reasonable Estimation: The amount of the loss can be reasonably estimated. 
+1) Present Obligation: The obligation results from a past event.
+2) Probable Outflow: It is probable that the company will have to pay.
+3) Reliable Estimation: The amount can be reasonably estimated.
 
 **Reporting:**
 
-1) If the event is probable and the amount can be reliably estimated, the liability is recognized as a provision in the balance sheet.
-2) If the event is possible but not probable, or the amount cannot be reasonably estimated, disclosure without recognition may be required.
+1) If all three conditions are met, the liability is recognized as a *Provision* in the balance sheet.
+2) If the obligation is possible, or a present obligation does not meet the recognition criteria, disclosure without recognition may be required --> *Contingent Liability*.
 
 <!--
 In U.S. GAAP, "probable" is often interpreted as a likelihood of more than 50%.
@@ -292,11 +298,11 @@ Under IFRS, the terminology is slightly different but the essence is similar:
 
 A company is being sued for damages amounting to $5 million.
 
-The company believes it is probable (chances >50%) that will lose the lawsuit.
+The company believes it is probable that it will lose the lawsuit.
 
 It estimates the damages at $2 million (based on available evidence or legal counsel's advice).
  
-Under IFRS, the company will recognize a provision (i.e., a liability) of $2 million on the balance sheet and an expense in the income statement.
+Under IFRS, the company will recognize a *Provision* (e.g., a liability) of $2 million on the balance sheet and an *Expense* in the income statement.
 
 :::  callout-note
 
@@ -314,17 +320,28 @@ discuss: litigation and telling the plantiff how much money you are expecting to
 
 ### Commitments
 
-A commitment is  a firm agreement or contractual obligation to undertake a future action
+A commitment is a non-cancelable promise to spend cash or take action in the future.
 
-Frequent commitments: 
+At the reporting date, the company has not yet received the asset or service. Therefore, it usually has no recognized liability.
 
-- Purchase equipment (before the reception)
-- Licensing agreements (before the licensing period)
+Key question: Has the company already received the asset or provided a method of payment?
 
-**Reporting:**
+- No: commitment (off-balance-sheet item)
+- Yes: recognize an asset, expense, or payable as appropriate.
 
-They are generally **off-balance-sheet** items and disclosed in the notes, explaining potential future obligations.
+Examples:
 
+- Signing a Contract to purchase a machine that has not yet been delivered.
+- Signing a Non-cancelable agreement to purchase minimum quantities from a supplier next year.
+- Signing Licensing agreement for a future access period that has not yet begun.
+
+---
+
+| Item | Present obligation? | In balance sheet? | Typical treatment |
+|---|---:|---:|---|
+| Provision | Yes | Yes | Recognition: Estimated liability and expense |
+| Contingent liability | Possible or not recognition-qualified | No | Note disclosure, unless remote |
+| Commitment | Not fully yet | No | Often note disclosure only |
 ---
 
 **Example Apple and Mercedes [15 min]**
@@ -336,8 +353,10 @@ Apple: Note - "Commitments ..." " and "Item 3: legal proceedings".
 Mercedes: Notes - "Provisions for other risks", " Legal Proceedings", "Contingent Liabilities" 
 
 1) What type of commitments the company has? (Apple: UPO!!)
-2) What is the most important type of contingent liabilities?  
-   2.1) What do they report about legal contingencies (litigation)? cases? amounts? provisions?
+2) What type of contingent liability the company has?
+   - What do they report about legal contingencies (litigation)? cases? amounts? provisions?
+
+Once you have the information, prompt an AI model to summarize the information and complement it with your findings.
 
 
 ## 4. Other Off-balance-sheet financing
@@ -420,7 +439,7 @@ Typically, holders of equity securities are **subordinate** to creditors in the 
 
    -  It represents the equity investment made by shareholders in exchange for ownership rights in the company.
    -  One part is assigned to the par or stated value of capital shares (Common and/or Preferred Stock).
-   - The remainder is reported as Additional Paid-In Capital (APIC).
+   - The remainder is reported as *Additional Paid-In Capital* (APIC) or *Share Premium*.
    
 Example: 
    
