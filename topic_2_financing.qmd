@@ -437,8 +437,8 @@ Typically, holders of equity securities are **subordinate** to creditors in the 
 
 1. Contributed/Share Capital: The amount of money raised by a company through the issuance of shares. 
 
-   -  It represents the equity investment made by shareholders in exchange for ownership rights in the company.
-   -  One part is assigned to the par or stated value of capital shares (Common and/or Preferred Stock).
+   - It represents the equity investment made by shareholders in exchange for ownership rights in the company.
+   - One part is assigned to the par or stated value of capital shares (*Common* and/or *Preferred Stock*).
    - The remainder is reported as *Additional Paid-In Capital* (APIC) or *Share Premium*.
    
 Example: 
@@ -451,7 +451,6 @@ Example:
 2. Treasury stock (buybacks): The amount of capital stock repurchased by the company and kept in their own treasury. 
     
     - Why? as an attempt to increase the share price or limiting dilution.
-    
     -  It reduces both contributed capital and total equity (_contra-equity account_).
     -  Recorded at cost value.
 
@@ -460,7 +459,8 @@ Example:
 3. Retained earnings: accumulated earnings of the company that have not been distributed to shareholders as dividends.
    - Covenants can create restrictions on the use of retained earnings (check Bond indentures and Loan agreements).
 4. Other comprehensive income (OCI): unrealized gain and losses not recognized in the income statement.
-5. Noncontrolling interest (NCI) or minority interest: equity interest in a subsidiary not attributable to the parent company.
+   - Examples: foreign currency translation adjustments, unrealized gains/losses on available-for-sale securities, and certain pension plan adjustments.
+5. Noncontrolling interest (NCI) or Minority interest: the portion of a consolidated subsidiary’s equity that is owned by shareholders other than the parent company.
 
 ---
 
@@ -496,7 +496,7 @@ What is the impact on the financial statments of the following financing decisio
    - dividend distribution preferences (usually fixed)
    - liquidation priority
    - convertibility into common stock
-   - non or limited voting rights
+   - non or limited voting rights: electing directors, approving major corporate actions,
 2. Common stock
    - voting rights
    - bear the residual risk and rewards of the company
@@ -537,7 +537,7 @@ external financing: 1 million
 
 ---
 
-Pay special attention to  **capital stock dilution**
+Pay special attention to  **capital stock dilution**.
 
 Common variations in the capital stock:
 
@@ -547,8 +547,8 @@ Common variations in the capital stock:
 
 Less common reasons to keep in mind:
 
--  Stock options in executive compensation and bonus plans calling for the issuance of capital stock over some time at fixed prices (i.e., employee stock ownership plan)
--  Commitments to issue capital stock in the future (i.e., stock warrants, or merger agreements) 
+-  Stock options in executive compensation and bonus plans calling for the issuance of capital stock over some time at fixed prices (i.e., employee stock ownership plan).
+-  Commitments to issue capital stock in the future (i.e., stock warrants, or merger agreements).
   
 
 ---
