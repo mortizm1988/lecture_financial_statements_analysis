@@ -144,7 +144,7 @@
     "href": "topic_3_investing.html#receivables-and-collection-risk",
     "title": "",
     "section": "2. Receivables and collection risk",
-    "text": "2. Receivables and collection risk\n\nBasic definitions:\n\nAccounts receivable: amounts owed by customers for goods or services sold on credit\nNote receivable: a formal written promise to receive a specific amount of money at a future date\nOthers: interest receivable, taxes receivable, receivables from affiliated companies"
+    "text": "2. Receivables and collection risk\n\nBasic definitions:\n\nAccounts receivable: amounts owed by customers for goods or services sold on credit.\nNote receivable: a formal written promise to receive a specific amount of money at a future date.\nOthers: interest receivable, taxes receivable, receivables from affiliated companies."
   },
   {
     "objectID": "topic_3_investing.html#inventory-methods-and-inflation",
@@ -313,5 +313,12 @@
     "title": "",
     "section": "A provision is a liability, but not all liabilities are provisions. For example, wages earned and invoices for goods received are normally accrued liabilities or payables.",
     "text": "A provision is a liability, but not all liabilities are provisions. For example, wages earned and invoices for goods received are normally accrued liabilities or payables.\nExample Apple and Mercedes [15 min]\nSearch: Balance sheet \"Commitments and Contingencies.\"\nApple: Note - \"Commitments ...\" \" and \"Item 3: legal proceedings\".\nMercedes: Notes - \"Provisions for other risks\", \" Legal Proceedings\", \"Contingent Liabilities\"\n\nWhat type of commitments the company has? (Apple: UPO!!)\nWhat is the most important type of contingent liabilities?\n2.1) What do they report about legal contingencies (litigation)? cases? amounts? provisions?"
+  },
+  {
+    "objectID": "topic_3_investing.html#inventory-methods",
+    "href": "topic_3_investing.html#inventory-methods",
+    "title": "",
+    "section": "3. Inventory methods",
+    "text": "3. Inventory methods\n\nBasic definition:\nInventory: goods held for sale in the ordinary course of business or goods that will be used in the production of goods to be sold.\nLet focus on Merchandising companies (retailers) now (later we will see Manufacturing companies).\nInventory decisions have two impacts on financial statements:\n\nAt origination: Current assets (historical acquisition cost) and cash/payables.\nThen, as the inventory is sold, these values are removed from the balance sheet and flow to the income statement as Cost Of Good Sold (COGS)."
   }
 ]

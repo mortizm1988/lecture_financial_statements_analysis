@@ -77,17 +77,22 @@ How to identify lazy cash management?
 
 ### 1.2 Restricted cash
 
-Caution: companies might have more cash than the amount reported in the balance sheet: **Restricted cash** (cash that is not available for general use).
+Caution: companies might have more cash than the amount reported in "cash and cash equivalent": **Restricted cash** (cash that is not available for general use).
 
--   Covenant restrictions: Sometimes cash is restricted because it is used as collateral for debt (e.g., Ebay needed to hold \$126 million in cash as collateral for debt, out of \$400 million in cash).
+-  Covenant restrictions: Sometimes cash is restricted because it is used as collateral for debt (e.g., Ebay needed to hold \$126 million in cash as collateral for debt, out of \$400 million in cash).
+- Reported as a separate current asset, if the restriction ends within one year.
+- Reported as  non-current asset, if restricted for longer than one year.
+- Included in cash and cash equivalents only when restriction is insignificant or specific accounting rules permit it.
 
 ------------------------------------------------------------------------
 
 Example Apple and Mercedes \[10 min\]
 
 1)  Search: Balance sheet: cash and cash equivalents
-2)  Apple: Note  - Financial Instruments -\> "Cash, Cash Equivalents,..."
-3)  Mercedes Benz: Note 32 (look for cash & cash equivalents)
+2)  Apple: Note - Financial Instruments -\> "Cash, Cash Equivalents,..."
+3)  Mercedes Benz: Notes 
+    - Financial Instruments: look for cash & cash equivalents in the table.
+    - Note "consolidated statement of cash flows": restricted funds.
 
 -   How is cash an cash equivalents distributed/invested?
 -   How much cash is restricted? What is the reason/nature of restrictions?
@@ -121,11 +126,9 @@ focus here:
 
 Basic definitions:
 
--   Accounts receivable: amounts owed by customers for goods or services sold on credit
-
--   Note receivable: a formal written promise to receive a specific amount of money at a future date
-
--   Others: interest receivable, taxes receivable, receivables from affiliated companies
+-   Accounts receivable: amounts owed by customers for goods or services sold on credit.
+-   Note receivable: a formal written promise to receive a specific amount of money at a future date.
+-   Others: interest receivable, taxes receivable, receivables from affiliated companies.
 
 ------------------------------------------------------------------------
 
@@ -133,15 +136,15 @@ Basic definitions:
 
 The valuation of receivables has two impacts on financial statements:
 
-1)  Current assets: net receivables
-2)  Operating expenses: bad debt expense
+1)  Current assets: net receivables.
+2)  Operating expenses: bad debt expense.
 
 Companies do not collect 100% of their receivables.
 
--   Thus, Receivables are recorded at their *Net Realizable Value* (NRV), which is the amount of cash the firm expects to collect
-    -   NRV: total receivables - allowance for uncollectable accounts
-        -   Uncollectable accounts are estimated and reported as a deduction of receivables
-        -   The expected loss is reported as *Bad Debt Expense* (operating expense)
+-   Thus, Receivables are recorded at their *Net Realizable Value* (NRV), which is the amount of cash the firm expects to collect.
+    -   NRV: total receivables - allowance for uncollectable accounts.
+        -   Uncollectable accounts are estimated and reported as a deduction of receivables.
+        -   The expected loss is reported as *Bad Debt Expense* (operating expense).
 
 ------------------------------------------------------------------------
 
@@ -149,14 +152,12 @@ Companies do not collect 100% of their receivables.
 Exercise in MS Excel.
 :::
 
-Nov 1: "Silvana eTravel" provides services worth \$1,000 on credit to clients.
+November 1: "Silvana eTravel" provides services worth \$1,000 on credit to clients.
 
 The company expects to collect the money in 90 days but estimates that 5% of the credit sales will be uncollectible.
 
 1)  What is the impact on the financial statements of the sale and collection risk for this year?
-
 2)  Scenarios:
-
     a)  clients end up not paying back 20% of the credit sales.
     b)  clients end up paying 100% of the credit sales.
 
@@ -174,17 +175,17 @@ this scenario could happen at least in two ways:
 
 ### 2.2 Analyzing receivables
 
--   Managers' incentives to overstate or understate the allowance for uncollectable accounts
+-   Managers' incentives to overstate or understate the allowance for uncollectable accounts.
 -   Bad news: information to assess collection risk for receivables is not included in the financial statements. Thus, we need to look for other sources of information:
-    -   Peer's receivables as a percentage of sales
-    -   Customer concentration risk
-    -   Average collection period
+    -   Peer's receivables as a percentage of sales.
+    -   Customer concentration risk.
+    -   Average collection period.
 
 ------------------------------------------------------------------------
 
 ### 2.3 Securitization or Factoring of receivables
 
--   Receivables can be sold to a third party (bank, financial institution, etc.) in exchange for cash
+-   Receivables can be sold to a third party (bank, financial institution, etc.) in exchange for cash.
 -   The third party usually pays less than the face value of the receivables and finances the purchase by issuing debt to the capital markets.
 
 ```{=html}
@@ -201,17 +202,17 @@ The consolidation rules regarding SPEs (Special Purpose Entities) are complex an
 
 ---
 
-Example Apple and Mercedes  [5 min]
+Example Apple and Mercedes  [10 min]
 
 1) Search: Balance sheet: "accounts receivable, net" or "trade receivables"
 2) Apple: Note  - Financial Instruments -> "Accounts Receivable"
-3) Mercedes Benz: Notes "Trade Receivables" and "Financial instruments"
+3) Mercedes Benz: Notes "Trade Receivables"
 
 
 "Receivables from financial services"
 
 -   What type of receivables are reported?
--   How much are the net receivables? and relative to sales?
+-   How much are the net receivables?  relative to sales?
 -   How is the distribution of net receivables among gross and allowance for doubtful accounts?
 -   Signs of increasing collection risk?
 
@@ -221,7 +222,7 @@ Next year: add IFRS 9 and Analysis of stage 1, 2, and 3 in loss allowance
 -->
 ```
 
-## 3. Inventory methods and inflation
+## 3. Inventory methods
 
 ```{=html}
 <!--
@@ -351,11 +352,11 @@ Write-ups are not allowed under US GAAP and IFRS.
 The main components of the cost of inventories ("production costs") are:
 
 -   Direct materials: materials that are an integral part of the finished product and whose costs can be traced to the finished product.
--   Direct Labor: labor costs that can be traced to the finished product.
+-   Direct labor: labor costs that can be traced to the finished product.
 -   Overhead: indirect costs that cannot be traced to the finished product.
     -   depreciation of manufacturing equipment, supervisory wages, utilities, etc.
 
-The distribution of these costs brings some information about what management is forecasting about the future demand for the product.
+The distribution of these costs brings some information about what management' forecast of product demand.
 
 ------------------------------------------------------------------------
 
@@ -379,8 +380,8 @@ develop this takeaway intuitively:
 Example Apple and Mercedes \[5 min\]
 
 1)  check the balance sheet: inventory
-2)  Apple: Note: "Summary of Significant Accounting Policies" and go to inventory
-3)  Mercedes Benz: "Note 1" and search for inventory method"; then look for the note dedicated to inventories.
+2)  Apple: Note 1 and go to inventory
+3)  Mercedes Benz: Note 1 and search for "inventory method"; then look for the note dedicated to inventories.
 
 -   What inventory method is used?
 -   How much inventory is there, and how is it distributed?
@@ -473,7 +474,7 @@ Different depreciation methods lead to different profiles of depreciation expens
 2)  Income statement: + depreciation expense (temporality matters!).
     -   Capitalization leads to higher and stable net income in the short term.
     -   Lumpy investments are smoothed out over time to match the cost of the asset with the revenues it generates.
-3)  Operating Cash flows: When asset costs are capitalized, they are reported as *investing* cash outflows. (In contrast, if they were expensed, they are reported as *operating* cash outflows).
+3)  Operating Cash flows: When asset costs are capitalized, they are reported as *investing* cash outflows. (In contrast, if they were expensed (e.g., R\&D), they are reported as *operating* cash outflows).
 
 ::: callout-note
 These impacts are not the same if the company is expanding or renovating its PPE.
