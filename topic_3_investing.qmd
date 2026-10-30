@@ -213,7 +213,8 @@ Example Apple and Mercedes  [10 min]
 
 -   What type of receivables are reported?
 -   How much are the net receivables?  relative to sales?
--   How is the distribution of net receivables among gross and allowance for doubtful accounts?
+-   How is the distribution of net receivables among **gross** and **allowance for doubtful accounts**?
+-   How concentrated are the receivables? (e.g., large customers, countries, etc.)
 -   Signs of increasing collection risk?
 
 ```{=html}
@@ -325,14 +326,13 @@ Accounting events:
 
 -   obsolete inventory
 -   damaged inventory
--   price changes
 
 ------------------------------------------------------------------------
 
 Procedure:
 
 1.  Determine the market value of the inventory.
-2.  Compare the market value with the cost in the Balance Sheet.
+2.  Compare the market value with the inventory value in the Balance Sheet (historical costs).
 3.  Write down the inventory to the lower of cost or market value.
 4.  This write-down is charged against revenues in the period the loss occurs.
 
@@ -386,7 +386,7 @@ Example Apple and Mercedes \[5 min\]
 -   What inventory method is used?
 -   How much inventory is there, and how is it distributed?
 -   Were there any significant write‑downs during the year? If so, is there an explanation?
--   Does the inventory composition suggest future changes in demand?
+-   is the inventory composition consistent with manager's reported market analysis and forecasts? 
 
 ## 4. Long-term assets and capitalization
 
@@ -491,7 +491,7 @@ Example Apple and Mercedes \[5 min\]
 2)  Apple: "Note 1: Summary of Significant Accounting Policies" and go to "Property, Plant and Equipment";"Note – Property, Plant and Equipment".
 3)  Mercedes Benz: "Note 1"--\> "Property, Plant and Equipment"; "Note - Property, Plant and Equipment"
 
--   How much is in PPE? How it is distributed among assets?
+-   How much is in PPE? How it is distributed?
 -   What method is used to depreciate PPE? Expected useful life?
 -   How much have already being depreciated? Average residual life?
 -   is there any sign of urgent renovation of PPE?
