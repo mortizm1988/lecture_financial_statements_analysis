@@ -59,7 +59,7 @@ Two main concepts behind income measurement:
 
 -   Accounting income purports to measure neither economic income nor recurring income.
 -   Also called reported income or book income.
--   Accounting income has measurement errors (managerial incentives).
+-   Accounting income has measurement errors (and managerial incentives).
 
 ------------------------------------------------------------------------
 
@@ -70,9 +70,9 @@ Two main concepts behind income measurement:
 2.  Transitory income: each euro of this income is equal to one euro of company value.
 
     -   If the company receives \$10 from a lawsuit, then company value is \$1.000+\$10= \$1,010.
-    -   Important: assuming that company value is \$110/0.1 = \$1,100 is a big mistake because the \$10 is a one-time event, cannot be part of the perpetuity of future cash flows.
+    -   Important: assuming that company value is \$110/0.1 = \$1,100 is a big mistake because the \$10 is a one-time event.
 
-3.  Assume that market price is \$1.020: who will be interested to buy? to sell?
+3.  Assume that market price is \$1.020: who will be interested to buy or to sell?
 
 ```{=html}
 <!--
@@ -236,7 +236,7 @@ Managers may change accounting methods or estimates for a variety of reasons, in
 
 -   Adopt new accounting standards.
 -   To better reflect changes in business conditions.
--   To manipulate earnings.
+-   To influence earnings.
 
 Of course, accounting regulations discourage managers from applying unjustified changes in accounting methods or estimates.
 
@@ -303,11 +303,8 @@ Extraordinary items are events and transactions that are **both unusual in natur
 Now called **"Unusual or Infrequently Occurring Items**
 
 a)  Restructuring charges.
-
 b)  Major Casualties: Rare natural disasters (write-offs).
-
 c)  Expropriation or new regulation (e.g., sudden ban on a product line)
-
 d)  Major legal settlements.
 
 ------------------------------------------------------------------------
@@ -322,13 +319,12 @@ By large, they are the most common and important class of nonrecurring items.
 
 Before 2015, extraordinary items were reported at the bottom of the Income Statement. 
 
-Now, if the event is material, it should be reported as a separate line item on the Income Statement (normally as operating expenses), or disclose it in the notes to the financial statements ([ASU 2015-01](https://fasb.org/page/document?pdf=ASU+2015-01.pdf&title=UPDATE%20NO.%202015-01%E2%80%94INCOME%20STATEMENT%E2%80%94EXTRAORDINARY%20AND%20UNUSUAL%20ITEMS%20(SUBTOPIC%20225-20):%20SIMPLIFYING%20INCOME%20STATEMENT%20PRESENTATION%20BY%20ELIMINATING%20THE%20CONCEPT%20OF%20EXTRAORDINARY%20ITEMS) and [IAS 1](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2022/issued/part-a/ias-1-presentation-of-financial-statements.pdf?bypass=on)).
+Now, if the event is material, it should be reported as a separate line item on the Income Statement (normally as operating expenses), or disclosed in the notes of the financial statements ([ASU 2015-01](https://fasb.org/page/document?pdf=ASU+2015-01.pdf&title=UPDATE%20NO.%202015-01%E2%80%94INCOME%20STATEMENT%E2%80%94EXTRAORDINARY%20AND%20UNUSUAL%20ITEMS%20(SUBTOPIC%20225-20):%20SIMPLIFYING%20INCOME%20STATEMENT%20PRESENTATION%20BY%20ELIMINATING%20THE%20CONCEPT%20OF%20EXTRAORDINARY%20ITEMS) and [IAS 1](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2022/issued/part-a/ias-1-presentation-of-financial-statements.pdf?bypass=on)).
 
 
 These items are a cumbersome topic among analyst.
 
 -   First, the economic implications of special items, such as restructuring charges, are complex.
-
 -   Second, many special items are discretionary and, hence, can be used to manipulate earnings.
 
 ------------------------------------------------------------------------
@@ -352,7 +348,6 @@ Consider a firm with a cost of capital of 10%.
 In this reporting pattern: permanent income is \$3 and a transitory "special item" of -\$4 in just one year.
 
 -   A naive analyst would consider the -\$4 as a transitory shock and value the stock at \$26 (=\$3/0.1 - \$4).
-
 -   An even less prepared analyst would remove the special item from the income statement and value the stock at \$30 (=\$3/0.1).
 
 ------------------------------------------------------------------------
@@ -615,7 +610,7 @@ Example:
 | 1st Dec |      -200,000 |         2,050,000 |        1/12 |                170,833 |
 | Total   |               |                   |        12 m |              2,141,667 |
 
-Apple 2020. Check in the MD&A section (Item 7) the "Fiscal 2020 Highlights" and "Capital Return Program." about check repurchases during the year.
+Apple 2020. Check in the MD&A section (Item 7) the "Fiscal 2025 Highlights" and "Capital Return Program." about check repurchases during the year.
 
 ```{=html}
 <!--
