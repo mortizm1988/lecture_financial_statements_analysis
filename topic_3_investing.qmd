@@ -487,9 +487,10 @@ These impacts are not the same if the company is expanding or renovating its PPE
 
 Example Apple and Mercedes \[5 min\]
 
-1)  Check the balance sheet: Property, plant and equipment, Net
-2)  Apple: "Note 1: Summary of Significant Accounting Policies" and go to "Property, Plant and Equipment";"Note – Property, Plant and Equipment".
-3)  Mercedes Benz: "Note 1"--\> "Property, Plant and Equipment"; "Note - Property, Plant and Equipment"
+1)  Check the balance sheet: Property, plant and equipment, Net.
+2)  Check the cash flow statement: depreciation and amortizacion.
+2)  Apple: Notes "1: Summary of Significant Accounting Policies" and go to "Property, Plant and Equipment"; "Property, Plant and Equipment".
+3)  Mercedes Benz: Notes "1: Material accounting policie" and go to "Property, Plant and Equipment"; "Note - Property, Plant and Equipment"
 
 -   How much is in PPE? How it is distributed?
 -   What method is used to depreciate PPE? Expected useful life?
@@ -507,7 +508,7 @@ Impairment: is the write-down of an long-term asset when its carrying value ("Ne
 -   Recoverable amount. The higher of:
     -   Fair value less cost to sell
     -   Value-in-use.
--   Carrying value: cost of the asset less accumulated depreciation.
+-   Carrying value in the Balance Sheet: cost of the asset less accumulated depreciation.
 
 ------------------------------------------------------------------------
 
@@ -535,7 +536,7 @@ Impacts on financial statements:
 
 1)  The carrying value of the asset is reduced to 33 million euros (- 2 million assets).
 2)  2 million euros is recognized as a loss in the income statement.
-    -   "Other Income Expenses" in "Operating profit."
+    -   "Other Income Expenses" in "Operating profits."
 
 ------------------------------------------------------------------------
 
@@ -601,7 +602,7 @@ b)  Indefinite useful life: no amortization
 
 A company reported at the beginning of the year a Trademark with a carrying value of \$1,000,000 and it has an indefinite useful life.
 
-What is the carrying value of the Trademark in the balance sheet at the end of the year?
+What should be the carrying value of the Trademark in the balance sheet at the end of the year?
 
 | Scenario | Carrying Value | Fair value | Impairment Loss |
 |----------|----------------|------------|-----------------|
@@ -614,13 +615,15 @@ Therefore, in scenario B the carrying value of the Trademark is updated to 800,0
 
 Example Intangibles 
 
--   Mercedes Benz: Note "Intangible assets"
+- In both companies, look for R&D expenses in their income statements and for the carrying value of intangible assets in their balance sheets.
+-   Mercedes Benz: Balance Sheet, Note "Intangible assets".
+-   Apple: is there any information on the value of intangible assets? Apparently, just in note 5.
 
 Questions:
 
 -   What intangible assets the company hold?
 -   Any sharp change in their carrying amounts? further explanations from the managers?
--   Where the amortization expenses are reported?
+
 
 
 ------------------------------------------------------------------------
