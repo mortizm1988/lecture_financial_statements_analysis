@@ -213,15 +213,12 @@ Discontinued operations are separately reported on the income statement and the 
 
 Accounting for discontinued operations:
 
--   The standard is set in US GAAP (ASC 225) and [IFRS 5](https://www.ifrs.org/issued-standards/list-of-standards/ifrs-5-non-current-assets-held-for-sale-and-discontinued-operations/).
+- The standard is set in US GAAP (ASC 225) and IFRS 5.
+- Req: the operations and cash flows of the divested business component must be distinguished from those of the (continuing) operations.
 
--   Req: the operations and cash-flows of the divested business component must be distinguished from those of the (continuing) operations.
-
-1.  **Restating past 2 years** income statements excluding the discontinued operations.
-
-2.  In the **current year** income statement the discontinued operations are reported separately, net of tax, below income from continuing operations.
-
-3.  In the **current year** Balance sheet: assets (liab.) that relate to discontinued operations are segregated and shown separately as *assets (liab.) held for disposal*.
+1. Restate the past 2 years' income statements excluding the discontinued operations.
+2. In the current-year income statement, discontinued operations are reported separately, net of tax, below income from continuing operations.
+3. In the current-year balance sheet, assets (liab.) related to discontinued operations are segregated and shown separately as assets (liab.) held for disposal.
 
 ------------------------------------------------------------------------
 
@@ -229,7 +226,7 @@ Analysis of discontinued operations:
 
 -   Discontinued operations are not expected to recur, so they are irrelevant for determining the permanent income,
 -   The adjustment is straightforward.
-    -   For the current and past two years because companies must restate their income statements, reporting the income of discontinued operations separately.
+    -   For the current and past two years because companies must restate their income statements, reporting the income from discontinued operations separately.
     -   Details on these assets and liabilities held for disposal are typically provided as footnotes.
 
 ------------------------------------------------------------------------
@@ -250,11 +247,11 @@ Types of accounting changes
 
 1.  Change in accounting principles
 
-e.g., change from Average to FIFO in inventory method, or from straight-line to accelerated depreciation.
+e.g., change from Average to FIFO in the inventory method, or from straight-line to accelerated depreciation.
 
 Importantly, the application of the new principle should be **reported retrospectively**.
 
-This means that current and prior periods information in the income statement and balance sheet should reflect the new principle.
+This means current and prior-period information in the income statement and balance sheet should reflect the new principle.
 
 ------------------------------------------------------------------------
 
@@ -280,7 +277,7 @@ In both cases (accounting principle and estimate), the analyst must consider tha
 
 But this does not mean that the changes are irrelevant or mere cosmetics: they can reflect a new economic reality (or an attempt to improve reported earnings).
 
-Furthermore, the changes can affect the comparability of financial statements across periods, even within the same company.
+Furthermore, the changes can affect comparability across periods, even within the same company.
 
 ```{=html}
 <!--
@@ -313,23 +310,20 @@ d)  Major legal settlements.
 
 ------------------------------------------------------------------------
 
-By large, they are the most common and important class of nonrecurring items.
+Unusual or infrequently occurring items are the most commonly reported category of nonrecurring earnings components. 
 
--   1980s: just 1% of companies reported special or extraordinary items.
--   by 2015: nearly 50% of the US companies report them.
--   2% of total revenues.
+Their reporting has increased substantially over time, reaching approximately 70% of US public companies in 2021. These items are important for assessing earnings persistence and forecasting future profitability.
 
 ------------------------------------------------------------------------
 
-Before 2015, extraordinary items were reported at the bottom of the Income Statement. 
+Before 2015, under US GAAP, extraordinary items were reported separately, net of tax, below income from continuing operations.
 
-Now, if the event is material, it should be reported as a separate line item on the Income Statement (normally as operating expenses), or disclosed in the notes of the financial statements ([ASU 2015-01](https://fasb.org/page/document?pdf=ASU+2015-01.pdf&title=UPDATE%20NO.%202015-01%E2%80%94INCOME%20STATEMENT%E2%80%94EXTRAORDINARY%20AND%20UNUSUAL%20ITEMS%20(SUBTOPIC%20225-20):%20SIMPLIFYING%20INCOME%20STATEMENT%20PRESENTATION%20BY%20ELIMINATING%20THE%20CONCEPT%20OF%20EXTRAORDINARY%20ITEMS) and [IAS 1](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2022/issued/part-a/ias-1-presentation-of-financial-statements.pdf?bypass=on)).
+Following **ASU 2015-01**, unusual or infrequently occurring items are included in income from continuing operations and separately presented in the income statement or disclosed in the notes, as appropriate.
 
+**These items present two challenges for financial analysts:**
 
-These items are a cumbersome topic among analyst.
-
--   First, the economic implications of special items, such as restructuring charges, are complex.
--   Second, many special items are discretionary and, hence, can be used to manipulate earnings.
+1. **Economic interpretation:** Determining whether special items are genuinely nonrecurring and should be excluded when estimating sustainable earnings.
+2. **Earnings management:** Managerial discretion over the recognition, measurement, and classification of special items can be used to manage reported earnings or inflate core operating performance.
 
 ------------------------------------------------------------------------
 
