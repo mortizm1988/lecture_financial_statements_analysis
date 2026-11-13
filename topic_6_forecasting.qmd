@@ -28,7 +28,6 @@ from: markdown-smart
 
 ::: title-meta
 Marcelo Ortiz M.\
-Fall
 :::
 
 ::: title-note
@@ -130,8 +129,8 @@ Let's jump to the example in MS Excel.
 
 Step 1.6, we need to estimate the company's expected *interest expenses*:
 
--   This is also a fixed cost, so the prediction is relatively easy if we assume no changes in debt structure.
--   We know that this fixed cost is a function of the company's debt at the beginning of the period.
+-   This is also a recurring cost, so the prediction is relatively easy if we assume no changes in debt structure.
+-   We know that this cost is a function of the company's debt at the beginning of the period.
 -   If there is new debt, debt restricturing, or debt payments, we have to incorporate this information into the forecast.
 
 Step 1.7 we can calculate the company's expected *Income before tax* as a *sales* - *COGS* - *SG&A* - *D&A* - *interest expenses*
@@ -156,7 +155,7 @@ Step 1.9, we focus on special items and discontinued operations:
 
 ------------------------------------------------------------------------
 
-Step 1.10, we can calculate the company's expected *net income* as a *income before tax* - *tax expenses* - *extraordinary items* - *discontinued operations*
+Step 1.10, we can calculate the company's expected *net income* as a *income before tax* - *tax expenses* 
 
 ## 3. Step 2 Projected Balance Sheet
 
