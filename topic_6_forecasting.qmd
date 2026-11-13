@@ -118,7 +118,7 @@ Let's jump to the example in MS Excel.
 
 Step 1.5, we need to estimate the company's expected *depreciation and amortization* (D&A):
 
--   we know that this fixed cost is a function of the company's **gross PP&E** at the beginning of the period.
+-   we know that this is a recurrent cost, it is a function of the company's **gross PP&E** at the beginning of the period.
     -   so, it is reasonable to predict future D&A is a fraction of gross PP&E.
 -   the underlying assumption is that the company will keep the same PP&E structure.
 -   **If there have been new investments on depreciable assets, then these new depreciation expenses need to be incorporated**
@@ -137,7 +137,7 @@ Step 1.7 we can calculate the company's expected *Income before tax* as a *sales
 
 ------------------------------------------------------------------------
 
-Step 1.8, we need to estimate the company's expected *tax_expenses*:
+Step 1.8, we need to estimate the company's expected *tax expenses*:
 
 -   we know that this cost is a function of the company's income before tax.
 -   If we know the country's tax system well, we can estimate the company's expected TDA and TDL, and then calculate the company's expected tax expenses.
@@ -164,8 +164,11 @@ Step 2.1, estimate the company's expected *accounts receivable*:
 $$\text{Accounts receivable turnover rate}=\frac{\text{Net (credit) Sales}}{\text{Accounts receivable balance}} $$
 
 If credit sales information is not available, the norm is to use total net sales or revenues.
+
 If the rate is 12, it means that the company collects its accounts receivable 12 times a year.
-This rate is likely a industry characteristics rather than a firm' decisiom. 
+
+This rate is likely a industry characteristics rather than a firm' decision. 
+
 Potential problems: manipulation of allowances of bad debt expenses or changes in credit policies.
 
 The forecast: $$\text{Forcasted accounts receivable} =\frac{\text{Forecasted Sales}}{\text{Accounts receivable turnover rate}} $$
