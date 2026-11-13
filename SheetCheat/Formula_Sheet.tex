@@ -13,7 +13,7 @@
 \fancyfoot[R]{Marcelo Ortiz. UPF-BSM}
 \title{Accountings: Definitions and  Formulas}
 \author{Marcelo Ortiz M.}
-\date{This version: 08 Oct 2024}
+\date{This version: 08 Oct 2026}
 \begin{document}
 \makeatletter  
 \begin{center}
@@ -31,7 +31,7 @@
 		\text{Ext. Accounting Equation:} \quad & \text{Assets}_{t} = \text{Liabilities}_{t} + \text{Revenue}_{t}- \text{Expenses}_t+Eq_{t-1} \\
 		\text{Gross Profit:} \quad & \text{Gross Profit} = \text{Revenue} - \text{Cost of Goods Sold} \\
 		\text{Operating Profit:} \quad & \text{Op. Profit} = \text{Gross Profit} - \text{Op. Expenses} \\
-		\text{Profit Before Tax:} \quad & \text{PBT} = \text{Operating Profit} - \text{Tax Expense} \\
+		\text{Profit Before Tax:} \quad & \text{Operating Profit} - \text{Interest Expense} \\
 		\text{Net Profit:} \quad & \text{Net Profit} = \text{PBT} - \text{Tax Expense}
 	\end{align*}
 	\end{tcolorbox}
@@ -84,11 +84,11 @@
 	\begin{align*}
 		\text{Current Ratio:} \quad & \frac{\text{Current Assets}}{\text{Current Liabilities}} \\
 		\text{Quick Ratio:} \quad & \frac{\text{Cash} + \text{Marketable Securities} + \text{Receivables}}{\text{Current Liabilities}} \\
-		\text{Cash Ratio:} \quad & \frac{\text{Cash and cash equivalent}}{\text{Total Assets}}  \\
+		\text{Cash Ratio:} \quad & \frac{\text{Cash and cash equivalent}}{\text{Current Liabilities}}  \\
 		\text{Collection Period (1):} \quad & \frac{\text{Accounts Receivable}}{\text{Average Daily Sales}} \\
 		\text{Days Payable (2):} \quad & \frac{\text{Accounts Payable}}{\text{Average Daily Cost of Goods Sold}} \\
 		\text{Day Stocks (3):} \quad & \frac{\text{Average Inventory}}{\text{Average Daily Cost of Goods Sold}} \\
-		\text{Cash cycle:} \quad & \text{(1) + (2) + (3) } \\
+		\text{Cash cycle:} \quad & \text{(1) - (2) + (3) } \\
 		\text{Working Capital:} \quad & \text{Current Assets} - \text{Current Liabilities} \\
 	\end{align*}
 	\end{tcolorbox}
@@ -168,8 +168,8 @@
 		\text{Time Value of Money (PV):} & \quad PV = \frac{\text{Payment}}{(1 + r)^n} \\
 		\text{Compound Interest:} &  \quad \text{Payment} = P \left(1 + \frac{r}{n}\right)^{nt} \\
 		\text{Simple Interest:} & \quad \text{Payment} = P  (1 + rt) \\
-		\text{Annuity:} \quad &  PV=\frac{1-1/(1+r)^n}{i} \\
-		\text{Perpetuity:} \quad & PV=\frac{1}{r} \\
+		\text{Annuity of periodic payment C:} \quad &  PV=C\times\frac{1-(1+r)^{-n}}{r} \\
+		\text{Perpetuity  of periodic payment C:} \quad & PV=C\times\frac{1}{r} \\
 	\end{align*}
 \end{tcolorbox}
 \end{document}
