@@ -1,7 +1,7 @@
 ---
 title: "Financial Accounting for Managers: Final Project"
 author: Marcelo Ortiz M.
-date: November 2024
+date: November 2'26
 format:
   pdf:
     toc: true
@@ -31,16 +31,16 @@ Recommended additional sources of information: [European Semiconductor Industry 
 
 | Date                                                 | Topic                                          |
 |--------------------------------------|----------------------------------|
-| Friday November 22nd (x2)                                      | Sections 1 and 2           |
-| Thursday 28rd              | Sections 3   |
-| Friday 29th (x1)  | Section 4 |
-| Thursday December 5th (x2)        | Sections 5 and 6          |
+| Thursday  26                                      | Section 1            |
+| Friday 27 (x2)              | Sections 2 and 3   |
+| Thursday 3   | Section 4 |
+| Friday 4 (x2)        | Sections 5 and 6          |
 
 ## Expected output
 
 The final report should be submitted in PDF format with at most 15 pages (excluding cover page, tables, references, and appendices). An MS Excel file with the supporting calculations must also be submitted with the PDF file. Both files must be submitted to the corresponding link in ECampus.
 
-Below you will find the list of items to analyze in the project. As you can see, it follows the structure of our analysis of Apple's  and Mercedes' report during class. In case a company does not report information on a specific item, the project should be explicit about it (e.g., "there is no available information about the company use of leases," "The company does not report discontinued operations," etc). This is important to show diligence and completeness in your analysis. Therefore, the group should not worry about not finding information about a specific item. Instead, the group should focus on the available items and provide a complete analysis of them.
+Below you will find the list of items to analyze in the project. As you can see, it follows the structure of our analysis of Apple's  and Mercedes' financial reports. In case a company does not report information on a specific item, the project should be explicit about it (e.g., "there is no available information about the company use of leases," "The company does not report discontinued operations,", etc). This is important to show diligence and completeness in the analysis. Therefore, the group should not worry about not finding information about a specific item. Instead, the group should focus on the available items and provide a complete analysis of them.
 
 Include screenshots of the last Financial Statements and the most relevant Notes as Appendices and not in the middle of the report. Refer to them during the report or insert summary tables when needed.
 
