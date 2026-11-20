@@ -11,21 +11,21 @@
     "href": "topic_6_forecasting.html#step-1-projected-income-statement",
     "title": "",
     "section": "2. Step 1 Projected Income Statement",
-    "text": "2. Step 1 Projected Income Statement\nThe projected income statement is the starting point of the prospective analysis.\nStep 1.1 we need an estimation of the company's expected sales growth rate:\n\nEasy and naive approach: use the historical trend in sales growth rate.\nMore sophisticated approaches:\n\nexpected level of macroeconomic activity: using econometrics to link sales growth to GDP growth. If the economy is in a cyclical upturn, sales growth is expected to be higher than the historical average.\nestimation based on a business segment basis: products or regions.\n\nallows for a more accurate forecast."
+    "text": "2. Step 1 Projected Income Statement\nThe projected income statement is the starting point of the prospective analysis.\nStep 1.1: We need to make an estimation of the company's expected sales growth rate:\n\nEasy and naive approach: use the historical trend in sales growth rate per product line or geographical segment.\nMore sophisticated approaches:\n\nExpected level of macroeconomic activity: using econometrics to link sales growth to GDP growth. If the economy is in a cyclical upturn, sales growth is expected to be higher than the historical average.\nEstimation based on a business segment basis: products or regions."
   },
   {
     "objectID": "topic_6_forecasting.html#step-2-projected-balance-sheet",
     "href": "topic_6_forecasting.html#step-2-projected-balance-sheet",
     "title": "",
-    "section": "3. Step 2 Projected Balance Sheet",
-    "text": "3. Step 2 Projected Balance Sheet\nStep 2.1, estimate the company's expected accounts receivable:\n\\[\\text{Accounts receivable turnover rate}=\\frac{\\text{Net (credit) Sales}}{\\text{Accounts receivable balance}} \\]\nIf credit sales information is not available, the norm is to use total net sales or revenues.\nIf the rate is 12, it means that the company collects its accounts receivable 12 times a year.\nThis rate is likely a industry characteristics rather than a firm' decision.\nPotential problems: manipulation of allowances of bad debt expenses or changes in credit policies.\nThe forecast: \\[\\text{Forcasted accounts receivable} =\\frac{\\text{Forecasted Sales}}{\\text{Accounts receivable turnover rate}} \\]"
+    "section": "3. Step 2: Projected Balance Sheet",
+    "text": "3. Step 2: Projected Balance Sheet\nStep 2.1: estimate the company's expected Accounts receivable:\n\\[\\text{Accounts receivable turnover rate}=\\frac{\\text{Net (credit) Sales}}{\\text{Accounts receivable balance}} \\]\nIf credit sales information is not available, the norm is to use total net sales or revenues.\nIf the rate is 12, it means that the company collects its accounts receivable 12 times a year.\nThis rate is likely an industry characteristic rather than a firm's decision.\nPotential problems: manipulation of allowances of bad debt expenses or changes in credit policies.\nThe forecast: \\[\\text{Forcasted accounts receivable} =\\frac{\\text{Forecasted Sales}}{\\text{Accounts receivable turnover rate}} \\]"
   },
   {
     "objectID": "topic_6_forecasting.html#sensitivity-analysis",
     "href": "topic_6_forecasting.html#sensitivity-analysis",
     "title": "",
     "section": "4. Sensitivity Analysis",
-    "text": "4. Sensitivity Analysis\n\nWe are assuming that many dimensions of the financials statements will change.\nOur approach is a good starting point:\n\nto test the sheet and formula: there should not be drastic changes in the company's financial structure\nto foresee how the company's financial structure will look if no significant changes happen in the future\n\nvalid for mature companies,\nless for young or highly disruptive/distressed companies."
+    "text": "4. Sensitivity Analysis\n\nWe are assuming that many dimensions of the financial statements will change.\nOur approach is a good starting point:\n\nto test the sheet and formula: there should not be drastic changes in the company's financial structure\nto foresee how the company's financial structure will look if no significant changes happen in the future\n\nvalid for mature companies,\nless for young or highly disruptive/distressed companies."
   },
   {
     "objectID": "topic_4_operating.html#income-measurement",
@@ -305,7 +305,7 @@
     "href": "topic_6_forecasting.html#forecasting",
     "title": "",
     "section": "Forecasting",
-    "text": "Forecasting\n\nWhy do we need to forecast financial statements?\nStep 1 Projected Income Statement\nStep 2 Projected Balance Sheet\nSensitivity Analysis"
+    "text": "Forecasting\n\nWhy do we need to forecast financial statements?\nStep 1: Projected Income Statement\nStep 2: Projected Balance Sheet\nSensitivity Analysis"
   },
   {
     "objectID": "topic_2_financing.html#a-provision-is-a-liability-but-not-all-liabilities-are-provisions.-for-example-wages-earned-and-invoices-for-goods-received-are-normally-accrued-liabilities-or-payables.",

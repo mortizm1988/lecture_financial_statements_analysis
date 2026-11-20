@@ -37,8 +37,8 @@ UPF · Barcelona School of Management
 ## Forecasting
 
 1.  Why do we need to forecast financial statements?
-2.  Step 1 Projected Income Statement
-3.  Step 2 Projected Balance Sheet
+2.  Step 1: Projected Income Statement
+3.  Step 2: Projected Balance Sheet
 4.  Sensitivity Analysis
 
 ## 1. Why do we need to forecast financial statements?
@@ -61,40 +61,44 @@ The forecast starts when the historical financial statements have been appropria
 
 -   Eliminating transitory items in the income statement.
 -   Adjusting the balance sheet to reflect the company's current financial structure.
-    - adjustments from footnotes and other updates based on recent news.   
+    - Adjustments from footnotes and other updates based on recent news.   
 
-Limited objective: no every single line item in the financial statements is forecasted. Aggregation.
+Not every single line item in the financial statements is forecasted. Aggregation.
+
+Here: a simple but intuitive approach to forecast the financial statements of a company.
+
+
 
 ## 2. Step 1 Projected Income Statement
 
 The projected income statement is the starting point of the prospective analysis.
 
-Step 1.1 we need an estimation of the company's expected sales growth rate:
+Step 1.1: We need to make an estimation of the company's expected sales growth rate:
 
--   Easy and naive approach: use the historical trend in sales growth rate.
+-   Easy and naive approach: use the historical trend in sales growth rate per product line or geographical segment.
 -   More sophisticated approaches:
-    -   expected level of macroeconomic activity: using econometrics to link sales growth to GDP growth. If the economy is in a cyclical upturn, sales growth is expected to be higher than the historical average.
-    -   estimation based on a business segment basis: products or regions.
-        - allows for a more accurate forecast.
+    - Expected level of macroeconomic activity: using econometrics to link sales growth to GDP growth. If the economy is in a cyclical upturn, sales growth is expected to be higher than the historical average.
+    - Estimation based on a business segment basis: products or regions.
+
 
 ------------------------------------------------------------------------
 
-Step 1.2, we need to estimate the company's expected gross profit margin:
+Step 1.2: We estimate the company's expected gross profit margin:
 
 -   Easy and most common approach: use the historical trend in gross profit margin.
     - reasonable if the company's cost structure is stable. 
-    - new manufactoring technologies? change in product mix?
+    - new manufacturing technologies? Change in product mix?
     - inflationary pressures in raw materials? can the company pass these costs to customers?
 
-As a subproduct, we can calculate the company's expected *cost of sales* (COGS) as a *sales* - *gross profit* (step 1.3)
+As a sub-product, we can calculate the company's expected *cost of sales* (COGS) as *sales* - *gross profit* (step 1.3)
 
 Let's jump to the example in MS Excel.
 
 ------------------------------------------------------------------------
 
-Step 1.4, we need to estimate the company's expected *selling, general, and administrative expenses* (SG&A):
+Step 1.4, we estimate the company's expected *Selling, General, and Administrative expenses* (SG&A):
 
--   it is reasonable to argue that a relevant portion of SG&A varies with the company's sales.
+- It is reasonable to argue that a relevant portion of SG&A varies with the company's sales.
     -   Advertising and marketing expenses.
     -   Sales commissions.
     -   Salaries of salespeople.
@@ -109,37 +113,37 @@ Step 1.4, we need to estimate the company's expected *selling, general, and admi
 Problem: how to estimate the variable and fixed portions of SG&A?
 
 -   Managers: easy, cost accounting and budgeting.
--   Investors and creditors: impossible.
-    -   Therefore, they use historical trends in SG&A as a percentage of sales (so, consider that all SG&A is variable).
+-   Investors and creditors: educated guess
+    -   Our approach here: use historical trends in SG&A as a percentage of sales (so, consider that all SG&A is variable).
 
 Let's jump to the example in MS Excel.
 
 ------------------------------------------------------------------------
 
-Step 1.5, we need to estimate the company's expected *depreciation and amortization* (D&A):
+Step 1.5: We estimate the company's expected *Depreciation and Amortization* (D&A):
 
--   we know that this is a recurrent cost, it is a function of the company's **gross PP&E** at the beginning of the period.
-    -   so, it is reasonable to predict future D&A is a fraction of gross PP&E.
--   the underlying assumption is that the company will keep the same PP&E structure.
--   **If there have been new investments on depreciable assets, then these new depreciation expenses need to be incorporated**
+- We know that this is a recurrent cost; it is a function of the company's **Gross PP&E** at the beginning of the period.
+    - So, it is reasonable to predict that future D&A is a fraction of gross PP&E.
+- The underlying assumption is that the company will keep the same PP&E structure.
+-   **If there have been new investments in depreciable assets, then these new depreciation expenses need to be incorporated**
 
 Let's jump to the example in MS Excel.
 
 ------------------------------------------------------------------------
 
-Step 1.6, we need to estimate the company's expected *interest expenses*:
+Step 1.6: We estimate the company's expected *Interest expenses*:
 
 -   This is also a recurring cost, so the prediction is relatively easy if we assume no changes in debt structure.
 -   We know that this cost is a function of the company's debt at the beginning of the period.
--   If there is new debt, debt restricturing, or debt payments, we have to incorporate this information into the forecast.
+-   If there is new debt, debt restructuring, or debt payments, we have to incorporate this information into the forecast.
 
-Step 1.7 we can calculate the company's expected *Income before tax* as a *sales* - *COGS* - *SG&A* - *D&A* - *interest expenses*
+Step 1.7: we calculate the company's expected *Income before tax* as a *sales* - *COGS* - *SG&A* - *D&A* - *Interest expenses*
 
 ------------------------------------------------------------------------
 
-Step 1.8, we need to estimate the company's expected *tax expenses*:
+Step 1.8, we estimate the company's expected *tax expenses*:
 
--   we know that this cost is a function of the company's income before tax.
+- We know that this cost is a function of the company's income before tax.
 -   If we know the country's tax system well, we can estimate the company's expected TDA and TDL, and then calculate the company's expected tax expenses.
 -   However, in practice, most analysts just use the effective tax rate (ETR) as a percentage of income before tax. 
 $$ \text{Effective Tax Rate (ETR)} =\frac{\text{tax expenses}} {\text{income before tax}} $$
@@ -148,18 +152,18 @@ $$ \text{Effective Tax Rate (ETR)} =\frac{\text{tax expenses}} {\text{income bef
 
 Step 1.9, we focus on special items and discontinued operations:
 
--   By their very nature, these items are not expected to occur in the future
--   So, it is not sensitive to use past values as forecasted values
--   Therefore, we assume that these items will be zero in the future
-    -   There are, of course, exceptions to this rule, but we will not discuss them here
+-   By their very nature, these items are not expected to occur in the future.
+-   So, it is not sensible to assume that they will repeat.
+-   Therefore, we assume that these items will be zero in the future.
+	- except if they are related to an ongoing process, such as company restructuring.
 
 ------------------------------------------------------------------------
 
-Step 1.10, we can calculate the company's expected *net income* as a *income before tax* - *tax expenses* 
+Step 1.10, we can calculate the company's expected *net income* as a *Income before tax* - *Tax expenses* 
 
-## 3. Step 2 Projected Balance Sheet
+## 3. Step 2: Projected Balance Sheet
 
-Step 2.1, estimate the company's expected *accounts receivable*:
+Step 2.1: estimate the company's expected *Accounts receivable*:
 
 $$\text{Accounts receivable turnover rate}=\frac{\text{Net (credit) Sales}}{\text{Accounts receivable balance}} $$
 
@@ -167,7 +171,7 @@ If credit sales information is not available, the norm is to use total net sales
 
 If the rate is 12, it means that the company collects its accounts receivable 12 times a year.
 
-This rate is likely a industry characteristics rather than a firm' decision. 
+This rate is likely an industry characteristic rather than a firm's decision. 
 
 Potential problems: manipulation of allowances of bad debt expenses or changes in credit policies.
 
@@ -175,11 +179,11 @@ The forecast: $$\text{Forcasted accounts receivable} =\frac{\text{Forecasted Sal
 
 ------------------------------------------------------------------------
 
-Step 2.2, estimate the company's expected *inventories*: 
+Step 2.2: estimate the company's expected *inventories*: 
 
 $$\text{Inventory turnover  rate}=\frac{\text{COGS}}{\text{Ending inventory}} $$
 
-If the rate is 2, it means that the company sells (and restock), on average, its inventory twice a year.
+If the rate is 2, it means that the company sells (and restocks), on average, its inventory twice a year.
 
 The forecast: 
 
@@ -190,8 +194,8 @@ $$\text{Forcasted ending inventory} =\frac{\text{Forecasted COGS}}{\text{Invento
 We can add more sophistication to the forecast when the firm discloses more information:
 
 -   inventory turnover rates by product line or category are especially important for undiversified companies.
--   launching new products or stores: estimate the inventory should be added to the forecast.
-- Notice that inflation adjustment are already incorporated in the COGS.
+-   launching new products or stores: estimate the inventory that should be added to the forecast.
+- Notice that inflation adjustments are already incorporated in the COGS.
 
 ------------------------------------------------------------------------
 
@@ -199,15 +203,15 @@ Step 2.4, estimate the company's expected *PPE*:
 
 -   *PPE* is estimated as the prior year’s gross PP&E balance + historical capital expenditures as a percentage of sales.
 
--   Historical capital expenditures are obtained from the statement of cash flows.
+-   Historical Capital expenditures are obtained from the Statement of cash flows.
 
 -   News on new investments in PP&E should be incorporated into the forecast.
 
 ------------------------------------------------------------------------
 
-Step 2.5, estimate expected accumulated depreciation:
+Step 2.5: estimate expected accumulated depreciation:
 
-Accumulated depreciation is estimated as the prior year’s accumulated depreciation balance + forecasted depreciation (step 1.5).
+Accumulated depreciation is estimated as the prior year’s accumulated depreciation balance + forecasted depreciation (Step 1.5).
 
 Step 2.6, estimate the company's expected *net PP&E*:
 
@@ -215,7 +219,7 @@ Step 2.6, estimate the company's expected *net PP&E*:
 
 Now we move to the liabilities and equity side of the balance sheet.
 
-Step 2.8, estimate the company's expected *accounts payable*: 
+Step 2.8: estimate the company's expected *Accounts payable*: 
 
 $$\text{Accounts payable turnover rate}=\frac{\text{COGS}}{\text{Accounts payable balance}} $$
 
@@ -228,20 +232,20 @@ Step 2.9, update the *current portion of long-term debt* using the latest financ
 Step 2.10, estimate expected *accrued expenses*:
 
 -   Accrued expenses are usually estimated as a percentage of sales.
--   Very basic intuition: if sales increase, the company will need to pay more salaries and recognize more operating expenses later to match their revenues.
+-   Very basic intuition: if sales increase, the company will need to pay more salaries and recognize more operating expenses later to match its revenues.
 
 ------------------------------------------------------------------------
 
-Step 2.11, estimate expected *tax payable*:
+Step 2.11: Estimate expected *tax payable*:
 
 -   What fraction of the tax expenses will be paid next year?
 -   We can estimate this fraction by looking at the historical trend in tax payable as a percentage of tax expenses.
 
-Step 2.13, estimate expected *Long-term debt*:
+Step 2.13: Estimate expected *Long-term debt*:
 
--   if there is no reason to expect changes in the company's debt structure, we can assume that other long-term liabilities will be the same as the prior year's balance minus the expected current portion of long-term debt (step 2.9).
+- If there is no reason to expect changes in the company's debt structure, we can assume that other long-term liabilities will be the same as the prior year's balance minus the expected current portion of long-term debt (Step 2.9).
 
-- if there are news on refinancing or new debt, we should incorporate this information into the forecast.
+- If there is news on refinancing or new debt, we should incorporate this information into the forecast.
 
 ------------------------------------------------------------------------
 
@@ -250,14 +254,14 @@ Step 2.16, estimate expected *retained earnings*:
 
 Step 2.17, estimated expected *cash*:
 
--   Amount needed to balance total liability and equity with total assets
--   Crucial step: is further financing needed? can the company invest more in PP&E? Can the company pay more dividends?
+-   Amount needed to balance total liabilities and equity with total assets
+-   Crucial step: is further financing needed? Can the company invest more in PP&E? Can the company pay more dividends?
 
 ------------------------------------------------------------------------
 
 ## 4. Sensitivity Analysis
 
--   We are assuming that many dimensions of the financials statements will change.
+-   We are assuming that many dimensions of the financial statements will change.
 -   Our approach is a good starting point:
     1.  to test the sheet and formula: there should not be drastic changes in the company's financial structure
     2.  to foresee how the company's financial structure will look if no significant changes happen in the future
@@ -268,11 +272,11 @@ Step 2.17, estimated expected *cash*:
 
 ### 4.1 Univariate optimization
 
-How much does the company need to increase sales to meet EPS target? 
+How much does the company need to increase sales to meet the EPS target? 
 
-- is it feasible? If not, what else can be done?
+- Is it feasible? If not, what else can be done?
 
-Find the solution: MS Excel: Data\>What-if-Analysis\>Goal Seeker.
+Find the solution: MS Excel: Data \> What-If Analysis \> Goal Seek.
 
 Let's jump to the example in MS Excel.
 
@@ -287,7 +291,7 @@ How much must the company adjust its assumptions to meet the net income (or EPS)
 - SG&A, D&A 
 - debt structure, and so on ...
 
-Find the solution: MS Excel: File\>Options\>Add-in\> Solver.
+Find the solution: MS Excel: File \> Options \> Add-ins \> Solver.
 
 ------------------------------------------------------------------------
 
@@ -295,7 +299,7 @@ Find the solution: MS Excel: File\>Options\>Add-in\> Solver.
 
 Is the net income (or EPS) very sensitive to minor variations in the assumptions?
 
-Find the solution: MS Excel: Data\>What-if-Analysis\>Data Table.
+Find the solution: MS Excel: Data \> What-If Analysis \> Data Table.
 
 ------------------------------------------------------------------------
 
@@ -305,11 +309,11 @@ Now we bunch assumptions together to create specific scenarios and ask:
 
 -   What if the company's assumptions are too optimistic or too pessimistic?
 
--   What if next year the economy is in a recession as in 2008?
+-   What if next year the economy is in a recession, as in 2008?
 
 -   What if we have a pandemic as in 2020? Or if we lose a major client?
 
-We must tailor an MS sheet and assemble assumptions to create each scenario.
+We must tailor an MS Excel sheet and assemble assumptions to create each scenario.
 
 ------------------------------------------------------------------------
 
@@ -322,4 +326,4 @@ Check my website for an updated version of this presentation:
 **Based on:**
 
 -   Subramanyam, K. R. (2014). Financial statement analysis. McGraw-Hill Education. Chapter 9.
--   Fridson, M. S., & Alvarez, F. (2022). Financial statement analysis: a practitioner's guide. John Wiley & Sons. Chapter 12.
+-   Fridson, M. S., & Alvarez, F. (2022). Financial statement analysis: A practitioner's guide. John Wiley & Sons. Chapter 12.
